@@ -112,7 +112,7 @@ translate russian v11_hotel_bar_wolves_78111cba:
 translate russian v11_hotel_bar_wolves_056058be:
 
     # bartender "Anything for you ma'am?"
-    bartender "Что угодно, мэм?"
+    bartender "Что-то будете, мэм?"
 
 # game/v11/scene26.rpy:110
 translate russian v11_hotel_bar_wolves_68f72a30:
@@ -148,7 +148,7 @@ translate russian v11_hotel_bar_wolves_9fb611a7:
 translate russian v11_hotel_bar_wolves_5c6926f0:
 
     # bartender "She's a very pretty lady."
-    bartender "Она очень красивая женщина."
+    bartender "Она очень красивая леди."
 
 # game/v11/scene26.rpy:149
 translate russian v11_hotel_bar_wolves_353bf934:
@@ -172,7 +172,7 @@ translate russian v11_hotel_bar_wolves_e493b464:
 translate russian v11_hotel_bar_wolves_25deb1d7:
 
     # bartender "You know, this hotel gets a lot of tourists and I've seen all types of groups. Pretty rare for students to drink, even rarer for them to drink alone."
-    bartender "Знаете, в этот отель приезжает много туристов, и я видел все типы групп. Довольно редко студенты пьют, еще реже они пьют в одиночку."
+    bartender "Знаете, в этот отель приезжает много туристов, и я видела все типы групп. Довольно редко студенты пьют, еще реже они пьют в одиночку."
 
 # game/v11/scene26.rpy:169
 translate russian v11_hotel_bar_wolves_f1e8dffe:
@@ -190,7 +190,7 @@ translate russian v11_hotel_bar_wolves_6fbbbaca:
 translate russian v11_hotel_bar_wolves_bc7b11b2:
 
     # bartender "Someone hit you up?"
-    bartender "Тебя кто-то ударил?"
+    bartender "Тебя кто-то обидел?"
 
 # game/v11/scene26.rpy:180
 translate russian v11_hotel_bar_wolves_78672582:
@@ -388,7 +388,7 @@ translate russian v11_hotel_bar_apes_1a5ade48:
 translate russian v11_hotel_bar_apes_6b79d32f:
 
     # bartender "Yes, I'm sorry love, but it'll be open come morning."
-    bartender "Да, извините, но утром он будет открыт."
+    bartender "Да, извините, утром он будет открыт."
 
 # game/v11/scene26.rpy:381
 translate russian v11_hotel_bar_apes_3860ccac:
