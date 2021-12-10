@@ -41,31 +41,31 @@ translate russian v11_samantha_packing_df7cf96b:
 translate russian v11_samantha_packing_2d8b8168:
 
     # u "Packing for the Europe trip, we leave Saturday morning."
-    u "Собираем вещи для поездки в Европу, выезжаем в субботу утром."
+    u "Собираю вещи для поездки в Европу, выезжаем в субботу утром."
 
 # game/v11/scene3.rpy:62
 translate russian v11_samantha_packing_79c03dd3:
 
     # sa "Wait what? No one told me about some kind of trip. How long are you going to be gone?"
-    sa "Что? Никто не говорил мне о поездке. Как долго вы собираетесь отсутствовать?"
+    sa "Подожди что? Никто не говорил мне о поездке. Как долго тебя не будет?"
 
 # game/v11/scene3.rpy:67
 translate russian v11_samantha_packing_f7c1ae25:
 
     # u "A while, we're going to three different places."
-    u "Некоторое время, мы собираемся в трех разных местах."
+    u "Некоторое время, мы собираемся побывать в трех местах."
 
 # game/v11/scene3.rpy:72
 translate russian v11_samantha_packing_205b4e6a:
 
     # sa "I assume I'm just gonna be here all by myself then. I'm sure Cameron and the whole monkey gang are going."
-    sa "Полагаю, тогда я останусь здесь одна. Уверена, что Кэмерон и вся обезьянья банда поедут."
+    sa "Я полагаю, что буду здесь совсем одна. Уверена, что Кэмерон и вся обезьянья банда поедут."
 
 # game/v11/scene3.rpy:77
 translate russian v11_samantha_packing_d527fcfb:
 
     # u "Actually, as of now only Ryan and I are going."
-    u "На самом деле, едем только мы с Райаном."
+    u "На самом деле, едем только мы с Райном."
 
 # game/v11/scene3.rpy:82
 translate russian v11_samantha_packing_c3531682:
@@ -95,13 +95,13 @@ translate russian v11_samantha_packing_5579bf34:
 translate russian v11_samantha_packing_e1689dcc:
 
     # sa "No, but I just wasn't expecting you to just leave. Rude."
-    sa "Нет, но я просто не ожидала, что ты просто уйдешь. Это грубо."
+    sa "Нет, но я просто не ожидала, что ты уйдешь. Это грубо."
 
 # game/v11/scene3.rpy:112
 translate russian v11_samantha_packing_2dacd52c:
 
     # u "You can still come if you want, but like I said before, we leave Saturday."
-    u "Ты все еще можешь поехать, если захочешь, но, как я уже говорил, мы уезжаем в субботу."
+    u "Ты всё еще можешь поехать, если захочешь, как я уже говорил, мы уезжаем в субботу."
 
 # game/v11/scene3.rpy:117
 translate russian v11_samantha_packing_c6ec4615:
@@ -125,7 +125,7 @@ translate russian v11_samantha_packing_476eafcb:
 translate russian v11_samantha_packing_0487c7ca:
 
     # u "Oh, there's also a $200 fee. Just give it to me and I'll make sure it gets to where it needs to go."
-    u "Да, еще есть плата в 200 долларов. Просто отдайте его мне, и я позабочусь о том, чтобы он попал туда, куда нужно."
+    u "Да, есть еще плата в 200 долларов. Просто отдайте её мне, и я позабочусь, чтобы денежки попали туда, куда нужно."
 
 # game/v11/scene3.rpy:137
 translate russian v11_samantha_packing_26e72024:
@@ -143,7 +143,7 @@ translate russian v11_samantha_packing_cafe53c2:
 translate russian v11_samantha_packing_ba650973:
 
     # sa "A vacation in Europe and you said the only people from here going are you and Ryan. That means for however long we're there I can be away from my brother."
-    sa "Каникулы в Европе, и ты сказал, что отсюда едете только ты и Райан. Это означает, что как бы долго мы там ни были, я буду вдали от своего брата."
+    sa "Каникулы в Европе, и ты сказал, что отсюда едете только ты и Райн. Это означает, что как бы долго мы там ни были, я буду вдали от своего брата."
 
 # game/v11/scene3.rpy:152
 translate russian v11_samantha_packing_ff0f80ae:
@@ -203,13 +203,13 @@ translate russian v11_samantha_packing_e3bd8405:
 translate russian v11_samantha_packing_fb10ef56:
 
     # sa "Okay then yeah, I know her too. She actually came to one of my impromptu things."
-    sa "Я тоже ее знаю. Она приходила на одну из моих импровизированных вечеринок."
+    sa "Я тоже её знаю. Она приходила на одну из моих импровизированных вечеринок."
 
 # game/v11/scene3.rpy:199
 translate russian v11_samantha_packing_7634547c:
 
     # sa "She tried giving me advice and I got a little bitchy with her cause I thought she was being rude, but in hindsight she probably just wanted to help..."
-    sa "Она пыталась давать мне советы, и я немного обиделась на нее, показалось, что она была груба, но, оглядываясь назад, она, вероятно, просто хотела помочь..."
+    sa "Она пыталась давать мне советы, и я немного обиделась на нее, мне показалось, что она была груба, но, оглядываясь назад, она, вероятно, просто хотела помочь..."
 
 # game/v11/scene3.rpy:204
 translate russian v11_samantha_packing_b3cbcea9:
@@ -245,7 +245,7 @@ translate russian v11_samantha_packing_37f70b3a:
 translate russian v11_samantha_packing_267f939a:
 
     # sa "I'm gonna go get on the list before it's too last minute."
-    sa "Пойду-ка я запишусь в список, чтобы это не случилось в последнюю минуту."
+    sa "Пойду-ка я запишусь в список, пока не поздно."
 
 # game/v11/scene3.rpy:234
 translate russian v11_samantha_packing_d0763037:
@@ -257,7 +257,7 @@ translate russian v11_samantha_packing_d0763037:
 translate russian v11_samantha_packing_46c0a495:
 
     # u "(One more on the list.)"
-    u "(Еще одна в списке.)"
+    u "(Ещё одна в списке.)"
 
 # game/v11/scene3.rpy:257
 translate russian v11_samantha_packing_70bdf712:
@@ -281,7 +281,7 @@ translate russian v11_samantha_packing_445ad3a0:
 translate russian v11_samantha_packing_4d38db99:
 
     # u "I'm sorry, I thought everyone knew. I would've invited you if I knew you didn't know, it's kinda late now. Like I said before, we leave Saturday morning."
-    u "Прости, я думал, все знают. Я бы пригласил тебя, если бы знал, что ты не знаешь, но уже поздновато. Как я уже говорил, мы уезжаем в субботу утром."
+    u "Прости, я думал, все знают. Я бы пригласил тебя, если бы знал, что ты не знаешь, но уже поздно. Как я уже говорил, мы уезжаем в субботу утром."
 
 # game/v11/scene3.rpy:280
 translate russian v11_samantha_packing_11d2efac:
@@ -305,7 +305,7 @@ translate russian v11_samantha_packing_4804bd34:
 translate russian v11_samantha_packing_08d22d69:
 
     # u "My bad, I don't know what you want me to do."
-    u "Моя вина, я не знаю, чего ты от меня хочешь."
+    u "Виноват, я не знаю, чего ты от меня хочешь."
 
 # game/v11/scene3.rpy:300
 translate russian v11_samantha_packing_e012098a:

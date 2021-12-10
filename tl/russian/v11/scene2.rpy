@@ -23,13 +23,13 @@ translate russian v11_nora_chloe_hallway_de4b684b:
 translate russian v11_nora_chloe_hallway_ae8ed2dd:
 
     # u "And yet you don't seem too psyched about it."
-    u "И все же ты, кажется, не слишком взволнована этим."
+    u "И все же ты не выглядишь слишком взволнованной по этому поводу."
 
 # game/v11/scene2.rpy:39
 translate russian v11_nora_chloe_hallway_9f7aba1d:
 
     # no "Well, Chris and I have been having... moments. So that could cause unneeded stress. Then there's Chloe."
-    no "Ну, у нас с Крисом были... отношения. Так что это ненужный стресс. А тут еще Хлоя."
+    no "Ну, у нас с Крисом были... моменты. Это могло вызвать ненужный стресс. А тут ещё Хлоя."
 
 # game/v11/scene2.rpy:44
 translate russian v11_nora_chloe_hallway_55351329:
@@ -47,19 +47,19 @@ translate russian v11_nora_chloe_hallway_dd5dae7c:
 translate russian v11_nora_chloe_hallway_b29dbedb:
 
     # no "It kinda got out of hand and with everything going on it's all just a bit stressful."
-    no "Это вышло из-под контроля, и со всем происходящим это просто немного напрягает."
+    no "Всё вышло из-под контроля, и из-за всего происходящего все это немного напряжно."
 
 # game/v11/scene2.rpy:56
 translate russian v11_nora_chloe_hallway_6b7e0d80:
 
     # u "I'm sure things with you and Chris will be better in Europe... I mean it's Europe after all."
-    u "Я уверена, что в Европе у вас с Крисом все будет лучше... В конце концов, это же Европа."
+    u "Я уверен, что в Европе у тебя с Крисом будет лучше... В конце концов, это же Европа."
 
 # game/v11/scene2.rpy:61
 translate russian v11_nora_chloe_hallway_109022f6:
 
     # no "You would think, but he said he's gonna be glued to his phone the entire time. The most I can hope for is a good conversation on the plane."
-    no "Ага, но он сказал, что все это время будет приклеен к своему телефону. Самое большее, на что я могу надеяться, это на хороший разговор в самолете."
+    no "Ага, но он сказал, что всё это время будет привязан к телефону. Самое большее, на что я могу надеяться, это на разговор в самолете."
 
 # game/v11/scene2.rpy:74
 translate russian v11_nora_chloe_hallway_b165d970:
@@ -71,7 +71,7 @@ translate russian v11_nora_chloe_hallway_b165d970:
 translate russian v11_nora_chloe_hallway_d68658e3:
 
     # no "*Chuckles* It's definitely something."
-    no "* Хихикает* Надеюсь."
+    no "*Хихикает* Надеюсь."
 
 # game/v11/scene2.rpy:85
 translate russian v11_nora_chloe_hallway_d6f28d06:
@@ -113,13 +113,13 @@ translate russian v11_nora_chloe_hallway_e7c50e09:
 translate russian v11_nora_chloe_hallway_41cc61fa:
 
     # u "I really think you should try to work things out with her. I mean... you guys are sorority sisters, you're supposed to stick together..."
-    u "Ты должна попытаться наладить с ней отношения. Я имею в виду... вы же сестры, вы должны держаться вместе..."
+    u "Ты должна попытаться наладить с ней отношения. Я имею в виду... вы же сёстры, вы должны держаться вместе..."
 
 # game/v11/scene2.rpy:132
 translate russian v11_nora_chloe_hallway_39fb3809:
 
     # no "And? That doesn't change that she's fake. I can't get along with fake people. What are you, her publicist?"
-    no "И? Это не меняет того, что она фальшивая. Я не могу ладить с фальшивыми людьми. Ты что, ее публицист?"
+    no "И? Это не меняет того, что она ненастоящая. Я не могу ладить с фальшивыми людьми. Ты кто, её публицист?"
 
 # game/v11/scene2.rpy:137
 translate russian v11_nora_chloe_hallway_9f623797:
@@ -197,7 +197,7 @@ translate russian v11_nora_chloe_hallway_e693042c:
 translate russian v11_nora_chloe_hallway_097e9baf:
 
     # charli "Nora and I have talked a few times, but that's about it as I'm often tied up doing other things..."
-    charli "Мы с Норой несколько раз разговаривали, но на этом все, так как я часто занят другими делами..."
+    charli "Мы с Норой несколько раз разговаривали, но на этом всё, так как я часто занят другими делами..."
 
 # game/v11/scene2.rpy:203
 translate russian v11_nora_chloe_hallway_59e06418:
@@ -239,7 +239,7 @@ translate russian v11_nora_chloe_hallway_b61dc49a:
 translate russian v11_nora_chloe_hallway_2a8c72ea:
 
     # charli "*Chuckles* You said you're closer with some more than others? I can tell you're close with Nora, but who else?"
-    charli "*Хихиканье* Ты сказал, что с некоторыми ты ближе, чем с другими? Я могу сказать, что ты близок с Норой, но с кем еще?"
+    charli "*Хихикает* Ты сказал, что с некоторыми ты ближе, чем с другими? Я могу сказать, что ты близок с Норой, но кто ещё?"
 
 # game/v11/scene2.rpy:234
 translate russian v11_nora_chloe_hallway_5ba335a7:
@@ -263,13 +263,13 @@ translate russian v11_nora_chloe_hallway_a339922b:
 translate russian v11_nora_chloe_hallway_281fc0a8:
 
     # u "In terms of people to avoid, It's always best to avoid Grayson. *Laughs*"
-    u "Что касается людей, которых стоит избегать, то лучше всего избегать Грейсона. *Смеется*"
+    u "Что касается людей, которых стоит избегать, то лучше всего избегать Грейсона. *Смеётся*"
 
 # game/v11/scene2.rpy:245
 translate russian v11_nora_chloe_hallway_2e1925ee:
 
     # u "In terms of people to avoid, It's always best to keep a good distance between yourself and Cameron. *Laughs*"
-    u "Что касается людей, которых следует избегать, то всегда лучше держать хорошую дистанцию между собой и Кэмероном. *Смеется*"
+    u "Что касается людей, которых следует избегать, то всегда лучше держать хорошую дистанцию между собой и Кэмероном. *Смеётся*"
 
 # game/v11/scene2.rpy:250
 translate russian v11_nora_chloe_hallway_4b6e6225:
@@ -281,13 +281,13 @@ translate russian v11_nora_chloe_hallway_4b6e6225:
 translate russian v11_nora_chloe_hallway_d06e7fb9:
 
     # u "I mean, I like to have fun, but I wouldn't consider myself as wild as some of my friends are."
-    u "Мне нравится веселиться, но я бы не считал себя таким диким, как некоторые из моих друзей."
+    u "Мне нравится веселиться, но я не считаю себя диким, как некоторые из моих друзей."
 
 # game/v11/scene2.rpy:264
 translate russian v11_nora_chloe_hallway_fc9f702c:
 
     # u "Haha... I guess you could say I'm here for the full college experience."
-    u "Хаха... Думаю, можно сказать, что я здесь, чтобы получить полный опыт обучения в колледже."
+    u "Хаха... Думаю, можно сказать, что я здесь, чтобы получить полный опыт в колледже."
 
 # game/v11/scene2.rpy:269
 translate russian v11_nora_chloe_hallway_ebe90f5e:
@@ -305,7 +305,7 @@ translate russian v11_nora_chloe_hallway_c1b3d7b3:
 translate russian v11_nora_chloe_hallway_4dcc0870:
 
     # charli "With that attitude there's no way this will be a boring trip! *Laughs*"
-    charli "С таким отношением это ни за что не будет скучной поездкой! *Смеется*"
+    charli "С таким отношением это не будет скучной поездкой! *Смеётся*"
 
 # game/v11/scene2.rpy:286
 translate russian v11_nora_chloe_hallway_ab42054f:
@@ -371,19 +371,19 @@ translate russian v11_nora_chloe_hallway_21a98069:
 translate russian v11_nora_chloe_hallway_a06225e9:
 
     # cl "Why do you keep trying to talk to me?"
-    cl "Почему ты продолжаешь пытаться поговорить со мной?"
+    cl "Почему ты продолжаешь со мной разговаривать?"
 
 # game/v11/scene2.rpy:366
 translate russian v11_nora_chloe_hallway_8f5d4c37:
 
     # u "I'm sorry, you know? Sorry for how things went. I know you're mad at me, but I really want us to move past this and at least be friends."
-    u "Мне очень жаль? Извини за то, как все прошло. Я знаю, ты злишься на меня, но я хочу, чтобы мы оставили это в прошлом и, по крайней мере, были друзьями."
+    u "Мне очень жаль? Извини за то, как всё прошло. Я знаю, ты злишься на меня, но я хочу, чтобы мы оставили это в прошлом и, по крайней мере, были друзьями."
 
 # game/v11/scene2.rpy:371
 translate russian v11_nora_chloe_hallway_a1c74379:
 
     # cl "*Sighs* I'm not even really that mad anymore."
-    cl "*Вздох* Я уже даже не так сильно злюсь."
+    cl "*Вздох* Я уже даже не сильно злюсь."
 
 # game/v11/scene2.rpy:376
 translate russian v11_nora_chloe_hallway_eddec9da:
@@ -401,13 +401,13 @@ translate russian v11_nora_chloe_hallway_5b97337a:
 translate russian v11_nora_chloe_hallway_b6061d29:
 
     # u "You were definitely doing a good job, I thought you were still pissed."
-    u "Ты хорошо справилась, я думал, ты все еще злишься."
+    u "Ты хорошо справилась, я думал, ты всё еще злишься."
 
 # game/v11/scene2.rpy:391
 translate russian v11_nora_chloe_hallway_41e031bf:
 
     # cl "Yeah no, I'm sorry. You know, I have a few minutes before my next class. Wanna go outside and talk for a few minutes?"
-    cl "Да нет, мне очень жаль. Знаешь, у меня есть несколько минут до следующего урока. Хочешь выйти на улицу и поговорить немного?"
+    cl "Да нет, мне очень жаль. Знаешь, у меня есть несколько минут до следующего занятия. Хочешь выйти на улицу и поговорить пару минут?"
 
 # game/v11/scene2.rpy:404
 translate russian v11_nora_chloe_hallway_37fe551f:
@@ -461,7 +461,7 @@ translate russian v11_nora_chloe_hallway_f7bcefcc:
 translate russian v11_nora_chloe_hallway_e1794fd5:
 
     # cl "*Laughs* She didn't even know she was pregnant."
-    cl "*Смеется* Она даже не знала, что беременна."
+    cl "*Смеётся* Она даже не знала, что беременна."
 
 # game/v11/scene2.rpy:451
 translate russian v11_nora_chloe_hallway_7d966cb0:
@@ -473,7 +473,7 @@ translate russian v11_nora_chloe_hallway_7d966cb0:
 translate russian v11_nora_chloe_hallway_6dbb700d:
 
     # cl "Yeah, it was pretty bad at the time. I guess we'll see what people will talk about after Europe..."
-    cl "Да, в то время все было очень плохо. Думаю, мы посмотрим, о чем люди будут говорить после Европы..."
+    cl "Да, в то время всё было очень плохо. Думаю, мы посмотрим, о чем люди будут говорить после Европы..."
 
 # game/v11/scene2.rpy:461
 translate russian v11_nora_chloe_hallway_bc7666e9:
@@ -491,7 +491,7 @@ translate russian v11_nora_chloe_hallway_c24522e3:
 translate russian v11_nora_chloe_hallway_e37346c3:
 
     # u "Hashtag Chloe caught in 4K. *Laughs*"
-    u "Хэштег Хлоя видео в 4K. *Смеется*"
+    u "Хэштег Хлоя видео в 4K. *Смеётся*"
 
 # game/v11/scene2.rpy:476
 translate russian v11_nora_chloe_hallway_7ceb1447:
@@ -515,7 +515,7 @@ translate russian v11_nora_chloe_hallway_6cfa56a5:
 translate russian v11_nora_chloe_hallway_cd253cc4:
 
     # u "My lady. *Laughs*"
-    u "Моя леди. *Смеется*"
+    u "Моя леди. *Смеётся*"
 
 # game/v11/scene2.rpy:496
 translate russian v11_nora_chloe_hallway_698ece09:
@@ -635,13 +635,13 @@ translate russian v11_nora_chloe_hallway_de2f2423:
 translate russian v11_nora_chloe_hallway_6c022094:
 
     # cl "It's a lot of people."
-    cl "Очень много людей."
+    cl "Очень много."
 
 # game/v11/scene2.rpy:616
 translate russian v11_nora_chloe_hallway_3f4e960e:
 
     # u "More than I expected. I hope everyone gets along. But I doubt it."
-    u "Больше, чем я ожидал. Надеюсь, все поладят. Но я сомневаюсь в этом."
+    u "Больше, чем я ожидал. Надеюсь, все поладят. Но я сомневаюсь."
 
 # game/v11/scene2.rpy:621
 translate russian v11_nora_chloe_hallway_84eea86d:
@@ -701,7 +701,7 @@ translate russian v11_nora_chloe_hallway_f7bcefcc_1:
 translate russian v11_nora_chloe_hallway_e1794fd5_1:
 
     # cl "*Laughs* She didn't even know she was pregnant."
-    cl "*Смеется* Она даже не знала, что беременна."
+    cl "*Смеётся* Она даже не знала, что беременна."
 
 # game/v11/scene2.rpy:678
 translate russian v11_nora_chloe_hallway_7d966cb0_1:
@@ -845,7 +845,7 @@ translate russian v11_nora_chloe_hallway_19837ed6_1:
 translate russian v11_nora_chloe_hallway_104440d0_1:
 
     # u "See ya."
-    u "Увдимся"
+    u "Увидимся"
 
 translate russian strings:
 
@@ -871,7 +871,7 @@ translate russian strings:
 
     # game/v11/scene2.rpy:271
     old "Hanging with the girls"
-    new "Тусоваться с девчонками"
+    new "Тусоваться с девочками"
 
     # game/v11/scene2.rpy:271
     old "Sleeping"

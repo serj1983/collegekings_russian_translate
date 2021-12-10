@@ -11,7 +11,7 @@ translate russian v11_wolves_packing_chris_17710b14:
 translate russian v11_wolves_packing_chris_a9bbd552:
 
     # ch "Hey man, saw you come home. You usually aren't here around this time and everyone else is out. What are you up to?"
-    ch "Эй, чувак, я видел, как ты вернулся домой. Обычно в это время тебя здесь нет, а всех остальных нет дома. Что ты задумал?"
+    ch "Эй, чувак, видел, как ты вернулся домой. Ты обычно не здесь в это время и все остальные снаружи. Что ты задумал?"
 
 # game/v11/scene3a.rpy:27
 translate russian v11_wolves_packing_chris_90de0a42:
