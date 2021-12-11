@@ -173,7 +173,7 @@ translate russian v11s4_PhoneContinueJosh1_418d0459:
 translate russian v11s4_PhoneContinueJosh1_d00241fc:
 
     # u "*Whisper* How did that just happen?"
-    u "*шепотом* Как это только что произошло?"
+    u "*Шёпот* Как это только что произошло?"
 
 # game/v11/scene5.rpy:237
 translate russian v11s4_PhoneContinueJosh1_c2a21cd3:
@@ -227,7 +227,7 @@ translate russian v11s4_PhoneContinueJosh1_ca2d1401:
 translate russian v11s4_PhoneContinueJosh1_7fbcedd3:
 
     # u "That's how we're starting the night off? *Chuckles*"
-    u "Так вот как мы начинаем ночь? *Щелкает*"
+    u "Так вот как мы начинаем ночь? *Хихикает*"
 
 # game/v11/scene5.rpy:297
 translate russian v11s4_PhoneContinueJosh1_23541ae2:
@@ -245,7 +245,7 @@ translate russian v11s4_PhoneContinueJosh1_9fef3755:
 translate russian v11s4_PhoneContinueJosh1_78139180:
 
     # foxy "Hey handsome, don't think I've seen you around here."
-    foxy "Привет, красавчик, не думаю, что видел тебя здесь."
+    foxy "Привет, красавчик, не думаю, что видела тебя здесь."
 
 # game/v11/scene5.rpy:322
 translate russian v11s4_PhoneContinueJosh1_e48ae2e9:
@@ -269,25 +269,25 @@ translate russian v11s4_PhoneContinueJosh1_d4cd8ddd:
 translate russian v11s4_PhoneContinueJosh1_d63effcc:
 
     # foxy "Find me when you are."
-    foxy "Найди меня, когда будешь там."
+    foxy "Найди меня, когда будешь готов."
 
 # game/v11/scene5.rpy:342
 translate russian v11s4_PhoneContinueJosh1_bc396f07:
 
     # jo "Definitely won't."
-    jo "Определенно не буду."
+    jo "Определенно нет."
 
 # game/v11/scene5.rpy:347
 translate russian v11s4_PhoneContinueJosh1_1d77b107:
 
     # u "Trying to get drunk for your new girlfriend? *Chuckles*"
-    u "Пытаешься напиться ради своей новой подружки? * Хихикает*"
+    u "Пытаешься напиться ради своей новой подружки? *Хихикает*"
 
 # game/v11/scene5.rpy:352
 translate russian v11s4_PhoneContinueJosh1_98a5dc73:
 
     # jo "Getting drunk to forget that happened. Look man, those girls over there keep looking at us."
-    jo "Напиваюсь, чтобы забыть о том, что произошло. Слушай, чувак, вон те девушки все время смотрят на нас."
+    jo "Напиваюсь, чтобы забыть о том, что произошло. Слушай, чувак, вон те девушки всё время смотрят на нас."
 
 # game/v11/scene5.rpy:357
 translate russian v11s4_PhoneContinueJosh1_aa3d59f9:
@@ -341,7 +341,7 @@ translate russian v11s4_PhoneContinueJosh1_5d9fb9b2:
 translate russian v11s4_PhoneContinueJosh1_011d9d15:
 
     # candy "Oh my god... I came here to drink. Unless one of these guys is gonna buy me a drink, I don't see why we're talking to them."
-    candy "О боже... Я пришла сюда выпить. Если никто из этих парней не собирается купить мне выпивку, зачем мы вообще с ними разговариваем."
+    candy "О боже... Я пришла сюда выпить. Если никто из этих парней не собирается купить мне выпивку, зачем тогда мы вообще с ними разговариваем."
 
 # game/v11/scene5.rpy:407
 translate russian v11s4_PhoneContinueJosh1_1613d66b:
@@ -389,7 +389,7 @@ translate russian v11s4_PhoneContinueJosh1_ff756762:
 translate russian v11s4_PhoneContinueJosh1_97d9ad07:
 
     # u "Something cheap."
-    u "Что-нибудь дешевое."
+    u "Что-нибудь дешёвое."
 
 # game/v11/scene5.rpy:465
 translate russian v11s4_PhoneContinueJosh1_b97feaea:

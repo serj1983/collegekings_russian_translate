@@ -743,7 +743,7 @@ translate russian strings:
 
     # game/v11/scene19.rpy:200
     old "My Europe roommate!"
-    new "Моя соседка из Европы!"
+    new "Мой сосед по комнате в Европе!"
 
     # game/v11/scene19.rpy:201
     old "Look at you two!"

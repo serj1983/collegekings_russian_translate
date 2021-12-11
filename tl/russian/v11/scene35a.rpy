@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v11/scene35a.rpy:14
 translate russian v11_chloe_hotel_room_amber_call_df2b88eb:
@@ -292,7 +293,7 @@ translate russian v11_chloe_hotel_room_amber_call_9cd3bf09:
 translate russian v11_chloe_hotel_room_amber_call_dbc521a0:
 
     # au "Bye, [name]!"
-    au "Пока, [имя]!"
+    au "Пока, [name]!"
 
 # game/v11/scene35a.rpy:326
 translate russian v11_chloe_hotel_room_amber_call_6e8f4e8a:
@@ -322,7 +323,7 @@ translate russian v11_chloe_hotel_room_amber_call_c3d0add9:
 translate russian v11_chloe_hotel_room_amber_call_76788571:
 
     # cl "Wake up, [name]! How do you not feel the light shining right on your face? *Chuckles*"
-    cl "Проснись, [имя]! Как ты можешь не чувствовать, как свет падает прямо тебе на лицо? *Хихикает*"
+    cl "Проснись, [name]! Как ты можешь не чувствовать, как свет падает прямо тебе на лицо? *Хихикает*"
 
 # game/v11/scene35a.rpy:372
 translate russian v11_chloe_hotel_room_amber_call_5d192b6c:

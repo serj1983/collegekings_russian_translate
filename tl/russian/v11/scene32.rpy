@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v11/scene32.rpy:10
 translate russian v11_emily_sidewalk_90a13b04:

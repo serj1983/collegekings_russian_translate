@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v11/scene45.rpy:9
 translate russian v11_lobby_mrlee_aea0e446:

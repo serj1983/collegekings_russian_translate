@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v11/scene41.rpy:10
 translate russian v11_chloe_bathroom_7d5794ce:

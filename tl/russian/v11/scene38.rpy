@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v11/scene38.rpy:39
 translate russian v11_amber_bar_4953dafd:
@@ -70,7 +71,7 @@ translate russian v11_amber_bar_3725a80e:
 translate russian v11_amber_bar_5a3d1182:
 
     # u "*Chuckles* I don't know, I haven't even seen you. I just got done dealing with Imre and Ryan."
-    u "*Усмехается* Я не знаю, я даже не видел тебя. Я только что закончил разбираться с Имре и Райаном."
+    u "*Усмехается* Я не знаю, я даже не видел тебя. Я только что закончил разбираться с Имре и Райном."
 
 # game/v11/scene38.rpy:109
 translate russian v11_amber_bar_762e6296:

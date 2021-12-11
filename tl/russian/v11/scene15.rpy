@@ -53,7 +53,7 @@ translate russian v11_nora_airport_convo_481fd912:
 translate russian v11_nora_airport_convo_034a695d:
 
     # charli "Mhmm... I see. Well... Please try to understand that she's under a lot of pressure right now. One can assume she doesn't want to be surrounded or overwhelmed."
-    charli "Ммм... Понятно. Ну... Пожалуйста, постарайтесь понять, что она сейчас находится под большим давлением. Можно предположить, что она не хочет быть окруженной или перегруженной."
+    charli "Ммм... Понятно. Ну... Пожалуйста, постарайтесь понять, что она сейчас находится под большим давлением. Можно предположить, что она не хочет быть окруженной или подавленной."
 
 # game/v11/scene15.rpy:53
 translate russian v11_nora_airport_convo_0d70c28a:
@@ -77,7 +77,7 @@ translate russian v11_nora_airport_convo_b37c46f5:
 translate russian v11_nora_airport_convo_e20fe213:
 
     # u "No offense, but I doubt you have weeks of drama under control without a clear understanding of everyone's perspective."
-    u "Без обид, но я сомневаюсь, что ты контролируешь неделю драмы, не имея четкого представления о перспективах каждого."
+    u "Без обид, но я сомневаюсь, что у тебя неделя драмы под контролем без четкого понимания перспективы каждого."
 
 # game/v11/scene15.rpy:65
 translate russian v11_nora_airport_convo_5c6b4dfa:
@@ -89,7 +89,7 @@ translate russian v11_nora_airport_convo_5c6b4dfa:
 translate russian v11_nora_airport_convo_e9126ded:
 
     # charli "And to be frank [name], that's the only perspective I'm concerned about right now. I mean think about it. Sure it's reasonable for everything and all sides to be out in the air, but look at her."
-    charli "И если быть откровенным [name], это единственная перспектива, которая меня сейчас волнует. Я имею в виду, подумай об этом. Конечно, это разумно, когда все и со всех сторон на виду, но посмотрите на нее."
+    charli "И если быть откровенным [name], это единственная перспектива, которая меня сейчас волнует. Я имею в виду, подумай об этом. Конечно, это разумно для всего и всех сторон быть в воздухе, но посмотрите на нее"
 
 # game/v11/scene15.rpy:74
 translate russian v11_nora_airport_convo_bb53430b:
@@ -191,13 +191,13 @@ translate russian v11_nora_airport_convo_0f41161c:
 translate russian v11_nora_airport_convo_586648a9:
 
     # u "*Whisper* Fucking asshole!"
-    u "*Шепот* Ёбаный мудак!"
+    u "*Шёпот* Ёбаный мудак!"
 
 # game/v11/scene15.rpy:166
 translate russian v11_nora_airport_convo_92d7d6bc:
 
     # ri "*Whisper* [name]! Why'd you say that to him?"
-    ri "Шепот* [name]! Зачем ты ему это сказал?"
+    ri "Шёпот* [name]! Зачем ты ему это сказал?"
 
 # game/v11/scene15.rpy:171
 translate russian v11_nora_airport_convo_361c8c34:

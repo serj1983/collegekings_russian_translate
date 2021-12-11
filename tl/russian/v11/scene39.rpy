@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v11/scene39.rpy:14
 translate russian v11_mc_amber_gokart_0ef2a9aa:
@@ -40,7 +41,7 @@ translate russian v11_mc_amber_gokart_10c7b932:
 translate russian v11_mc_amber_gokart_e22098ba:
 
     # am "Let's do this - whoever loses has to post a picture of themselves near the Eiffel Tower on Kiwii."
-    am "Давайте сделаем так - тот, кто проиграет, должен опубликовать свою фотографию рядом с Эйфелевой башней на Киви."
+    am "Давайте сделаем так - тот, кто проиграет, должен опубликовать свою фотографию рядом с Эйфелевой башней на Kiwii."
 
 # game/v11/scene39.rpy:49
 translate russian v11_mc_amber_gokart_d4a675ad:
@@ -226,7 +227,7 @@ translate russian v11_mc_amber_gokart_300e204a:
 translate russian v11_mc_amber_gokart_dc616b96:
 
     # am "Now listen, [name]... Don't even try to chicken out when you lose, I know how you are. *Chuckles*"
-    am "Теперь слушай, [имя]... Даже не пытайся струсить, когда проигрываешь, я знаю, какой ты. *Хихикает*"
+    am "Теперь слушай, [name]... Даже не пытайся струсить, когда проигрываешь, я знаю, какой ты. *Хихикает*"
 
 # game/v11/scene39.rpy:224
 translate russian v11_mc_amber_gokart_45c589fa:
@@ -892,7 +893,7 @@ translate russian v11_race_continue3_ba995f59:
 translate russian v11_race_continue3_5b77623e:
 
     # u "Looks like somebody's gonna be an erotic Kiwii model!"
-    u "Похоже, кто-то собирается стать эротической моделью Киви!"
+    u "Похоже, кто-то собирается стать эротической моделью Kiwii!"
 
 # game/v11/scene39.rpy:935
 translate russian v11_race_continue3_740ddc21:
@@ -952,7 +953,7 @@ translate russian v11_race_continue3_51996c5c:
 translate russian v11_race_continue3_d4cb46c9:
 
     # u "Just thinking about what's gonna happen when everyone sees me naked on Kiwii... it's gonna be bad. *Chuckles*"
-    u "Просто думаю о том, что произойдет, когда все увидят меня голым на Киви... это будет плохо. *Хихикает*"
+    u "Просто думаю о том, что произойдет, когда все увидят меня голым на Kiwii... это будет плохо. *Хихикает*"
 
 # game/v11/scene39.rpy:996
 translate russian v11_race_continue3_29dc9124:

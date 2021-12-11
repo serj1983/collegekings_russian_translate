@@ -23,7 +23,7 @@ translate russian v11_lauren_store_94a04674:
 translate russian v11_lauren_store_cfb5dbe1:
 
     # la "It's a Hotter Parry thing... only cool people would get that reference."
-    la "Это фишка Гарри Поттера... только крутые люди поймут её."
+    la "Это фишка Гарри Поттера... только крутые люди поймут её. (Прим.переводчика: в оригинале Хоттер Парри (Hotter Parry))"
 
 # game/v11/scene30.rpy:50
 translate russian v11_lauren_store_6e67e0bf:
@@ -35,7 +35,7 @@ translate russian v11_lauren_store_6e67e0bf:
 translate russian v11_lauren_store_481b6ef3:
 
     # la "Then that means you know about Hotter Parry, right?"
-    la "Тогда это значит, что ты знаешь о Гарри Поттере, верно?"
+    la "Тогда это значит, что ты знаешь о Гарри Поттере, верно? (Прим.переводчика: видимо изза авторских прав сделали шуточное имя)"
 
 # game/v11/scene30.rpy:65
 translate russian v11_lauren_store_3f54e48a:
@@ -516,13 +516,13 @@ translate russian v11_quiz_q2_42f1627e:
 
     # jud "Next question, how many kahoots are in one shtickle?"
     #???
-    jud "Следующий вопрос: сколько кахутов в одной колючке? (Прим.переводчика: Не фанат по вселенной Гарри Поттера, незнаю как точно перевести.)"
+    jud "Следующий вопрос: Сколько хлопот в одной щекотке?"
 
 # game/v11/scene30.rpy:565
 translate russian v11_quiz_q2_64cb6df5:
 
     # u "*Whisper* Too easy, it's 29."
-    u "*Шепот* Слишком просто, это 29."
+    u "*Шёпот* Слишком просто, это 29."
 
 # game/v11/scene30.rpy:570
 translate russian v11_quiz_q2_1636e72c:

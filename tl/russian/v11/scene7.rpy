@@ -83,7 +83,7 @@ translate russian v11_room_aubrey_shopping_48e646ad:
 translate russian v11_room_aubrey_shopping_4f1ad60a:
 
     # au "The only store worth going to, Lew's."
-    au "Единственный магазин, в который стоит зайти, \"у Лью\""
+    au "Единственный магазин, в который стоит зайти, это \"Лью\""
 
 # game/v11/scene7.rpy:117
 translate russian v11_room_aubrey_shopping_d3fa61ef:
@@ -365,7 +365,7 @@ translate russian v11_room_aubrey_shopping_7348967f:
 translate russian v11_room_aubrey_shopping_0e2cff2d:
 
     # am "Sorry, I ugh... I dropped my contact."
-    am "Извини, я ох... Я уронил свой бейджик."
+    am "Извини, я ох... Я уронила свой бейджик."
 
 # game/v11/scene7.rpy:378
 translate russian v11_room_aubrey_shopping_f765c1f7:
@@ -395,13 +395,13 @@ translate russian v11_room_aubrey_shopping_24e85437:
 translate russian v11_room_aubrey_shopping_b257c65d:
 
     # u "At Lew's? *Chuckles* How'd you even get a job at a place like this?"
-    u "В Льюисе? *Хихикает* Как ты вообще устроился на работу в такое место?"
+    u "В Лью? *Хихикает* Как ты вообще устроилась на работу в такое место?"
 
 # game/v11/scene7.rpy:400
 translate russian v11_room_aubrey_shopping_9419b1ed:
 
     # am "I worked hard to get this job just so I didn't have to run into people that I know, plus the pay is good. So, can you guys try to keep this to yourselves?"
-    am "Я усердно работал, чтобы получить эту работу, просто чтобы мне не пришлось сталкиваться с людьми, которых я знаю, плюс хорошая зарплата. Ребята, вы можете сохранить это в тайне?"
+    am "Я усердно работала, чтобы получить эту работу, просто чтобы мне не пришлось сталкиваться с людьми, которых я знаю, плюс хорошая зарплата. Ребята, вы можете сохранить это в тайне?"
 
 # game/v11/scene7.rpy:402
 translate russian v11_room_aubrey_shopping_035ad39d:
@@ -521,13 +521,13 @@ translate russian v11_room_aubrey_shopping_a5e89a4c:
 translate russian v11_room_aubrey_shopping_d947ae30:
 
     # au "Alright, I know I was joking at first, but could you actually help me get this stuff to the house?"
-    au "Ладно, я знаю, что сначала пошутил, но не мог бы ты мне помочь донести эти вещи до дома?"
+    au "Ладно, я сначала пошутила, но не мог бы ты мне помочь донести эти вещи до дома?"
 
 # game/v11/scene7.rpy:524
 translate russian v11_room_aubrey_shopping_e64cdfaa:
 
     # u "*Sighs* If I have to. *Chuckles*"
-    u "*Вздох* Если я должен. *Хихикает*"
+    u "*Вздох* Если должен. *Хихикает*"
 
 # game/v11/scene7.rpy:529
 translate russian v11_room_aubrey_shopping_3be91bae:

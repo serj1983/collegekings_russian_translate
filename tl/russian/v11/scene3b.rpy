@@ -11,13 +11,13 @@ translate russian v11_cafe_with_riley_fcfea652:
 translate russian v11_cafe_with_riley_63d279d9:
 
     # ri "Hey [name], it's Riley. I'm over here at the cafe on Stevenson trying to clear my head about some things, and I thought it'd be nice to just talk to someone about it. Mind coming down?"
-    ri "Привет [name], это Райли. Я здесь, в кафе на Стивенсон, пытаюсь прояснить свою голову о некоторых вещах, и я подумала, что было бы неплохо поговорить с кем-нибудь об этом. Не против спуститься вниз?"
+    ri "Привет [name], это Райли. Я здесь, в кафе на Стивенсон, пытаюсь прояснить некоторые вещи, и я подумала, что было бы неплохо поговорить с кем-нибудь об этом. Не против спуститься вниз?"
 
 # game/v11/scene3b.rpy:23
 translate russian v11_cafe_with_riley_4f086ef9:
 
     # u "No I don't mind at all, I'll be there soon."
-    u "Нет, я совсем не против, я скоро буду там."
+    u "Ссовсем не против, я скоро буду там."
 
 # game/v11/scene3b.rpy:28
 translate russian v11_cafe_with_riley_ac04ba6e:
@@ -41,13 +41,13 @@ translate russian v11_cafe_with_riley_fcfea652_1:
 translate russian v11_cafe_with_riley_63d279d9_1:
 
     # ri "Hey [name], it's Riley. I'm over here at the cafe on Stevenson trying to clear my head about some things, and I thought it'd be nice to just talk to someone about it. Mind coming down?"
-    ri "Привет [name], это Райли. Я здесь, в кафе на Стивенсон, пытаюсь прояснить свою голову о некоторых вещах, и я подумала, что было бы неплохо поговорить с кем-нибудь об этом. Не против спуститься вниз?"
+    ri "Привет [name], это Райли. Я здесь, в кафе на Стивенсон, пытаюсь прояснить некоторые вещи, и я подумала, что было бы неплохо поговорить с кем-нибудь об этом. Не против спуститься вниз?"
 
 # game/v11/scene3b.rpy:49
 translate russian v11_cafe_with_riley_4f086ef9_1:
 
     # u "No I don't mind at all, I'll be there soon."
-    u "Нет, я совсем не против, я скоро буду там."
+    u "Совсем не против, я скоро буду там."
 
 # game/v11/scene3b.rpy:54
 translate russian v11_cafe_with_riley_ac04ba6e_1:
@@ -77,7 +77,7 @@ translate russian v11_cafe_with_riley_a40af0da:
 translate russian v11_cafe_with_riley_485f63b5:
 
     # u "So, how do you wanna do this? A little small talk first or just dive right in?"
-    u "Итак, как ты хочешь это сделать? Сначала немного светской беседы или сразу нырнём?"
+    u "Итак, как ты хочешь это сделать? Сначала немного светской беседы или сразу погружаемся в работу?"
 
 # game/v11/scene3b.rpy:99
 translate russian v11_cafe_with_riley_21e4eccb:
@@ -131,7 +131,7 @@ translate russian v11_cafe_with_riley_79067112:
 translate russian v11_cafe_with_riley_41f33989:
 
     # u "It's mostly stable in first class, but in the regular area where we'll be, it can get kinda bad."
-    u "В первом классе он в основном стабильный, но в обычной зоне, где мы будем находиться, он может стать довольно плохим."
+    u "Он в основном стабилен в первом классе, но в обычной области, где мы будем, это может быть немного плохо."
 
 # game/v11/scene3b.rpy:135
 translate russian v11_cafe_with_riley_bfaa40a4:
@@ -233,13 +233,13 @@ translate russian v11_cafe_with_riley_4b3eb010:
 translate russian v11_cafe_with_riley_17ced004:
 
     # ri "We should call her Maleficent... *Chuckles*"
-    ri "Мы должны назвать ее Малефисентой... *Хихикает*"
+    ri "Мы должны назвать её Малефисентой... *Хихикает*"
 
 # game/v11/scene3b.rpy:209
 translate russian v11_cafe_with_riley_ff499cd4:
 
     # u "What's maleficent?"
-    u "Что такое Малефисента?"
+    u "Что за Малефисента?"
 
 # game/v11/scene3b.rpy:214
 translate russian v11_cafe_with_riley_a449cba2:
@@ -335,13 +335,13 @@ translate russian v11_cafe_with_riley_40660b45:
 translate russian v11_cafe_with_riley_61d92fd9:
 
     # charli "It's my pleasure, really. I was just telling [name] that I needed to find some friends on campus and here you are. *Chuckles*"
-    charli "Мне очень приятно, правда. Я как раз говорил [name], что мне нужно найти друзей в кампусе, и вот ты здесь. *Щелкает*"
+    charli "Мне очень приятно, правда. Я как раз говорил [name], что мне нужно найти друзей в кампусе, и вот ты здесь. *Хихикает*"
 
 # game/v11/scene3b.rpy:303
 translate russian v11_cafe_with_riley_22824727:
 
     # ri "Haha, yes. Here I am. *Chuckles*"
-    ri "Хаха, да. Вот и я. *Хохочет"
+    ri "Хаха, да. Вот и я. *Хихикает"
 
 # game/v11/scene3b.rpy:308
 translate russian v11_cafe_with_riley_b59b263a:
@@ -371,7 +371,7 @@ translate russian v11_cafe_with_riley_477fb607:
 translate russian v11_cafe_with_riley_4cc21c21:
 
     # ri "\"Amazing\"? Definitely not. *Chuckles*"
-    ri "Удивительные? Да ладно тебе. *Хихикает*"
+    ri "\'Удивительные\"? Да ладно тебе. *Хихикает*"
 
 # game/v11/scene3b.rpy:333
 translate russian v11_cafe_with_riley_ce575d5b:
@@ -443,7 +443,7 @@ translate russian v11_cafe_with_riley_b9ae452b:
 translate russian v11_cafe_with_riley_02c4444f:
 
     # ri "Haha, relax! I'm just teasing you... Is someone jealous of the new kid? *Laughs*"
-    ri "Хаха, расслабься! Я просто дразню тебя... Кто-то ревнует к новенькому? *Смеется*"
+    ri "Хаха, расслабься! Я просто дразню тебя... Кто-то ревнует к новенькому? *Смеётся*"
 
 # game/v11/scene3b.rpy:393
 translate russian v11_cafe_with_riley_3639a878:
@@ -467,7 +467,7 @@ translate russian v11_cafe_with_riley_fcf2d6b5:
 translate russian v11_cafe_with_riley_093afd15:
 
     # ri "*Laughs* I'm gonna get on out of here. And now that I think about it, flying is the last thing on my mind, so thank you."
-    ri "*Смеется* Я собираюсь выбраться отсюда. И теперь, когда я думаю об этом, полет - последнее, о чем я думаю, так что спасибо."
+    ri "*Смеётся* Я собираюсь выбраться отсюда. И теперь, когда я думаю об этом, полет - последнее, о чем я думаю, так что спасибо."
 
 # game/v11/scene3b.rpy:413
 translate russian v11_cafe_with_riley_70e8d1c9:

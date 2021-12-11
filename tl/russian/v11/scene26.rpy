@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v11/scene26.rpy:12
 translate russian v11_hotel_bar_wolves_c5b30f7f:

@@ -11,7 +11,7 @@ translate russian v11_chicks_house_100e5139:
 translate russian v11_chicks_house_360684d7:
 
     # au "Here, give me those bags. Go get something from the kitchen."
-    au "Вот, дай мне эти сумки. Иди принеси что-нибудь с кухни."
+    au "Дай мне сумки. Иди налей на кухне."
 
 # game/v11/scene8.rpy:20
 translate russian v11_chicks_house_b8911521:
@@ -35,7 +35,7 @@ translate russian v11_chicks_house_b898a6eb:
 translate russian v11_chicks_house_ad1c06f1:
 
     # li "*Sighs* Chloe and Nora got into it last night. They were throwing shit everywhere and now I'm stuck here cleaning it up."
-    li "*Вздох* Хлоя и Нора вчера вечером устроили скандал. Они разбрасывали вещи повсюду, и теперь я застряла тут, убирая всё это."
+    li "*Вздох* Хлоя и Нора вчера вечером устроили скандал. Они разбрасывали вещи повсюду, а теперь мне убирать всё это."
 
 # game/v11/scene8.rpy:60
 translate russian v11_chicks_house_93b11488:
@@ -221,7 +221,7 @@ translate russian v11_chicks_house_b8fe2c04:
 translate russian v11_chicks_house_ffab5778:
 
     # u "Maybe, but if you think you'd be best then it's only right that you run."
-    u "Может быть, но если ты думаешь, что будешь лучшим, то будет правильно."
+    u "Может быть, но если ты думаешь, что будешь лучше, то будет правильно."
 
 # game/v11/scene8.rpy:217
 translate russian v11_chicks_house_25e7028c:

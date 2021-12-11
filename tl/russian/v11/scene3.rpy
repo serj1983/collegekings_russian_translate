@@ -5,7 +5,7 @@
 translate russian v11_samantha_packing_17710b14:
 
     # u "(I really should get some more clothes.)"
-    u "(Мне нужно купить еще немного одежды)."
+    u "(Мне нужно купить кое-что из одежды)."
 
 # game/v11/scene3.rpy:32
 translate russian v11_samantha_packing_07cd6b38:

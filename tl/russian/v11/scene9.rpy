@@ -29,13 +29,13 @@ translate russian v11_apes_manhunt_d64359fb:
 translate russian v11_apes_manhunt_521b9842:
 
     # gr "Let's go to the woods, boys."
-    gr "Пойдемте в лес, мальчики."
+    gr "Пойдёмте в лес, парни."
 
 # game/v11/scene9.rpy:45
 translate russian v11_apes_manhunt_ab1c6fe4:
 
     # cal "What?"
-    cal "Что?"
+    cal "Зачем?"
 
 # game/v11/scene9.rpy:52
 translate russian v11_apes_manhunt_b239ad65:
@@ -101,7 +101,7 @@ translate russian v11_apes_manhunt_a8030853:
 translate russian v11_apes_manhunt_9c8893ae:
 
     # ca "And you definitely want to be the last person. There's a wonderful surprise for the losers."
-    ca "И вы захотите быть последними. Лузеров ждет замечательный сюрприз"
+    ca "И вы захотите быть последними. Лузеров ждёт сюрприз"
 
 # game/v11/scene9.rpy:124
 translate russian v11_apes_manhunt_6e167c0a:
@@ -119,7 +119,7 @@ translate russian v11_apes_manhunt_99062679:
 translate russian v11_apes_manhunt_0ba3d16b:
 
     # cal "Oh fuck man, I think you broke something."
-    cal "О, черт, кажется, ты что-то сломал."
+    cal "О, чёрт, кажется, ты что-то сломал."
 
 # game/v11/scene9.rpy:156
 translate russian v11_apes_manhunt_4c9d8fa0:
@@ -191,7 +191,7 @@ translate russian v11_apes_manhunt_9634e2db:
 translate russian v11_apes_manhunt_625b55c2:
 
     # u "My guess is as good as yours, I've never been in the fucking forest."
-    u "Мое предположение не хуже твоего, я никогда не был в этом гребаном лесу."
+    u "Моё предположение не хуже твоего, я никогда не был в этом гребаном лесу."
 
 # game/v11/scene9.rpy:260
 translate russian v11_apes_manhunt_205d00e8:
@@ -239,13 +239,13 @@ translate russian v11_apes_manhunt_56eb8dab:
 translate russian v11_apes_manhunt_11ca16b2:
 
     # cal "I came to warn you. Grayson and Cameron are moving together, they heard Ryan and started chasing after him, so you should be safe if you stay right here."
-    cal "Я пришла предупредить тебя. Грейсон и Кэмерон двигаются вместе, они услышали Райана и начали преследовать его, так что вы будете в безопасности, если останетесь здесь."
+    cal "Я пришёл предупредить тебя. Грейсон и Кэмерон двигаются вместе, они услышали Райна и начали преследовать его, так что ты будешь в безопасности, если останетесь здесь."
 
 # game/v11/scene9.rpy:302
 translate russian v11_apes_manhunt_3cfef80b:
 
     # cal "Just wait for Ryan to scream and you'll know it's game over."
-    cal "Подожди, пока Райан закричит, и игра окончена."
+    cal "Подожди, пока Райн закричит, и игра окончена."
 
 # game/v11/scene9.rpy:307
 translate russian v11_apes_manhunt_87096675:
@@ -281,7 +281,7 @@ translate russian v11_apes_manhunt_82316ca7:
 translate russian v11_apes_manhunt_fc956c5e:
 
     # u "*Mocking* Don't ask any questions! Haha, Cameron's such a hardass."
-    u "*Насмешка* Не задавай никаких вопросов! Ха-ха, Кэмерон такой крутой."
+    u "*Насмешка* Не задавай никаких вопросов! Ха-ха, Кэмерон такой упрямый."
 
 # game/v11/scene9.rpy:342
 translate russian v11_apes_manhunt_e955642e:
@@ -317,13 +317,13 @@ translate russian v11_apes_manhunt_46d3fe8f:
 translate russian v11_apes_manhunt_3f64cd23:
 
     # u "Damn, I already know Ryan's gonna pick me."
-    u "Черт, я уже знаю, что Райан выберет меня."
+    u "Черт, я уже знаю, что Райн выберет меня."
 
 # game/v11/scene9.rpy:383
 translate russian v11_apes_manhunt_9f7b24c8:
 
     # gr "How can Ryan pick someone if he got out too?"
-    gr "Как Райан может выбрать кого-то, если он тоже вышел?"
+    gr "Как Райн может выбрать кого-то, если он тоже вышел?"
 
 # game/v11/scene9.rpy:388
 translate russian v11_apes_manhunt_7f1c7de9:
@@ -437,7 +437,7 @@ translate russian v11_apes_manhunt_77840017:
 translate russian v11_apes_manhunt_e98f1093:
 
     # u "I do now."
-    u "Теперь я знаю"
+    u "Теперь знаю"
 
 # game/v11/scene9.rpy:511
 translate russian v11_apes_manhunt_4f3014c3:
@@ -659,13 +659,13 @@ translate russian v11_apes_manhunt_a3f1b2dc:
 translate russian v11_apes_manhunt_43c66084:
 
     # u "Ahh, fuck! What was that for? I had already won. You just got Caleb and I heard you get Ryan."
-    u "Ах, черт! Зачем это было нужно? Я уже выиграл. Ты только что получил Калеба, и я слышал, что ты получил Райана."
+    u "Ах, черт! Зачем это было нужно? Я уже выиграл. Ты только что получил Калеба, и я слышал, что ты получил Райна."
 
 # game/v11/scene9.rpy:782
 translate russian v11_apes_manhunt_e017f6f2:
 
     # ca "I never got Ryan, he escaped."
-    ca "Райан мне так и не попался, он сбежал"
+    ca "Райн мне так и не попался, он сбежал"
 
 # game/v11/scene9.rpy:787
 translate russian v11_apes_manhunt_93b929f3:
@@ -785,13 +785,13 @@ translate russian v11_apes_manhunt_a3f1b2dc_1:
 translate russian v11_apes_manhunt_43c66084_1:
 
     # u "Ahh, fuck! What was that for? I had already won. You just got Caleb and I heard you get Ryan."
-    u "Ах, черт! Зачем это было нужно? Я уже выиграл. Ты только что получил Калеба, и я слышал, что ты получил Райана."
+    u "Ах, черт! Зачем это было нужно? Я уже выиграл. Ты только что получил Калеба, и я слышал, что ты получил Райна."
 
 # game/v11/scene9.rpy:917
 translate russian v11_apes_manhunt_e017f6f2_1:
 
     # ca "I never got Ryan, he escaped."
-    ca "Райана я так и не дождался, он сбежал."
+    ca "Райна я так и не дождался, он сбежал."
 
 # game/v11/scene9.rpy:922
 translate russian v11_apes_manhunt_93b929f3_1:
@@ -959,7 +959,7 @@ translate russian v11_apes_manhunt_12edc192:
 translate russian v11_apes_manhunt_0df7aef5:
 
     # gr "Classic."
-    gr "классика"
+    gr "Классика"
 
 # game/v11/scene9.rpy:1121
 translate russian v11_apes_manhunt_8f7f9103:
@@ -1095,5 +1095,5 @@ translate russian strings:
 
     # game/v11/scene9.rpy:1014
     old "Pet horse"
-    new "Домашняя лошадь"
+    new "Ручная лошадь"
 

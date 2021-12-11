@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v11/scene46a.rpy:9
 translate russian v11_dinner_with_aubrey_6991a8a4:
@@ -88,7 +89,7 @@ translate russian v11_dinner_with_aubrey_f438bc42:
 translate russian v11_dinner_with_aubrey_bd59b83f:
 
     # au "Because Paris is the only reason I came on this trip. *Chuckles* I want to get a really nice outfit from a Lew's in Paris."
-    au "Потому что Париж - единственная причина, по которой я поехала. *Хихикает* Я хочу купить хороший наряд в Лью'с в Париже."
+    au "Потому что Париж - единственная причина, по которой я поехала. *Хихикает* Я хочу купить хороший наряд в Лью в Париже."
 
 # game/v11/scene46a.rpy:76
 translate russian v11_dinner_with_aubrey_c9ace46e:
@@ -148,7 +149,7 @@ translate russian v11_dinner_with_aubrey_f0532abb:
 translate russian v11_dinner_with_aubrey_b3babdb9:
 
     # au "I may just follow in her steps and become a Kiwii model if the whole acting thing doesn't work out. *Chuckles*"
-    au "Я могу просто пойти по ее стопам и стать моделью Киви, если с актерством ничего не выйдет. *Хихикает*"
+    au "Я могу просто пойти по ее стопам и стать моделью Kiwii, если с актерством ничего не выйдет. *Хихикает*"
 
 # game/v11/scene46a.rpy:122
 translate russian v11_dinner_with_aubrey_07c67aac:

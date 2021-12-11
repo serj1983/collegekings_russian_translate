@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v11/scene37a.rpy:13
 translate russian v11_walk_or_ride_5ca2669d:
@@ -704,7 +705,7 @@ translate russian strings:
 
     # game/v11/scene37a.rpy:8
     old "Stay with Imre and Ryan"
-    new "Остатся с Имре и Райаном"
+    new "Остатся с Имре и Райном"
 
     # game/v11/scene37a.rpy:128
     old "Having responsibility"

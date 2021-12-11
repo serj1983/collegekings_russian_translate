@@ -71,7 +71,7 @@ translate russian v11s4_PhoneContinueEmily1_49a9e742:
 translate russian v11s4_PhoneContinueEmily1_bb06c5a0:
 
     # em "I'm tired of seeing you with other girls. Call me jealous or whatever, but I can't be around anymore with you doing all that."
-    em "Я устала видеть тебя с другими девушками. Называй меня ревнивой или как угодно, но я не могу больше находиться рядом, когда ты делаешь всё это."
+    em "Я устала видеть тебя с другими девушками. Называй меня ревнивой или как угодно, но я не могу больше находиться рядом."
 
 # game/v11/scene4.rpy:129
 translate russian v11s4_PhoneContinueEmily1_8e486c86:
@@ -83,7 +83,7 @@ translate russian v11s4_PhoneContinueEmily1_8e486c86:
 translate russian v11s4_PhoneContinueEmily1_72f518ab:
 
     # em "A friend of mine has been giving me a lot of good advice recently... and I think I need to start listening to him."
-    em "В последнее время мой друг дает мне много хороших советов... и я думаю, что мне нужно начать прислушиваться к нему."
+    em "В последнее время мой друг даёт мне много хороших советов... и я думаю, что мне нужно начать прислушиваться к нему."
 
 # game/v11/scene4.rpy:139
 translate russian v11s4_PhoneContinueEmily1_01b9cc4e:
@@ -131,7 +131,7 @@ translate russian v11s4_PhoneContinueEmily1_ad6845f3:
 translate russian v11s4_PhoneContinueEmily1_d124b944:
 
     # em "Or, at least one of us was wanting to be. So I'm sorry. but it just won't work."
-    em "Или, по крайней мере, один из нас хотел им быть. Так что мне очень жаль. но это просто не сработает."
+    em "Или, по крайней мере, один из нас хотел их. Так что мне жаль. но это просто не сработает."
 
 # game/v11/scene4.rpy:179
 translate russian v11s4_PhoneContinueEmily1_191a9439:

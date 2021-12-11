@@ -5,7 +5,7 @@
 translate russian v11_sit_ryan_convo_23fd9d7e:
 
     # ro "Alright, you know your seats. [name], you're sitting next to Ryan."
-    ro "Итак, вы знаете свои места. [name], ты сидишь рядом с Райаном."
+    ro "Итак, вы знаете свои места. [name], ты сидишь рядом с Райном."
 
 # game/v11/scene12.rpy:15
 translate russian v11_sit_ryan_convo_88d2dbb1:

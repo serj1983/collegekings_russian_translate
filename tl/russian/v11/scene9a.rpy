@@ -5,13 +5,13 @@
 translate russian v11_wolves_seb_prank_e80671e3:
 
     # imre "*Laughs* He's a pretty deep sleeper so I'm sure we'll get away with it."
-    imre "*Смеется* Он довольно крепко спит, так что я уверен, что нам это сойдет с рук."
+    imre "*Смеётся* Он довольно крепко спит, так что я уверен, что нам это сойдет с рук."
 
 # game/v11/scene9a.rpy:20
 translate russian v11_wolves_seb_prank_fe4efade:
 
     # guyd "*Laughs* I don't wanna know what happens if we don't."
-    guyd "*Смеется* Не хочу знать, что случится, если мы этого не сделаем."
+    guyd "*Смеётся* Не хочу знать, что случится, если мы этого не сделаем."
 
 # game/v11/scene9a.rpy:25
 translate russian v11_wolves_seb_prank_19a69e74:
@@ -23,7 +23,7 @@ translate russian v11_wolves_seb_prank_19a69e74:
 translate russian v11_wolves_seb_prank_0de2b302:
 
     # imre "Coming up with the best prank ever."
-    imre "Придумаваем самый лучший розыгрыш."
+    imre "Придумываем самый лучший розыгрыш."
 
 # game/v11/scene9a.rpy:35
 translate russian v11_wolves_seb_prank_57c6f2fc:
@@ -89,7 +89,7 @@ translate russian v11_wolves_seb_prank_d1e1e7d3:
 translate russian v11_wolves_seb_prank_e3d6128e:
 
     # imre "Plus, he already sleeps in a sleeping bag because he's too lazy to make his bed. *Chuckles*"
-    imre "К тому же, он уже спит в спальном мешке, потому что ему лень застилать постель. *Chuckles*"
+    imre "К тому же, он уже спит в спальном мешке, потому что ему лень застилать постель. *Хихикает*"
 
 # game/v11/scene9a.rpy:92
 translate russian v11_wolves_seb_prank_9bf5b5c8:
@@ -113,7 +113,7 @@ translate russian v11_wolves_seb_prank_1a2a8522:
 translate russian v11_wolves_seb_prank_4acca308:
 
     # imre "So, you in?"
-    imre "Теперь я понял."
+    imre "Так ты в деле?"
 
 # game/v11/scene9a.rpy:119
 translate russian v11_wolves_seb_prank_ce287119:

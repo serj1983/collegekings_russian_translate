@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v11/scene46.rpy:10
 translate russian v11_dinner_with_lauren_a299b6e4:
@@ -94,7 +95,7 @@ translate russian v11_dinner_with_lauren_d1d652d7:
 translate russian v11_dinner_with_lauren_a6ceff8a:
 
     # u "He took Imre, Ryan and I out the other day and told us a bit about his past. He doesn't have the best childhood but he definitely isn't as much of a cornball as he may seem."
-    u "На днях он пригласил Имре, Райана и меня на прогулку и рассказал нам немного о своем прошлом. У него было не самое лучшее детство, но он определенно не такой кукурузник, как может показаться."
+    u "На днях он пригласил Имре, Райна и меня на прогулку и рассказал нам немного о своем прошлом. У него было не самое лучшее детство, но он определенно не такой кукурузник, как может показаться."
 
 # game/v11/scene46.rpy:86
 translate russian v11_dinner_with_lauren_391dc0eb:

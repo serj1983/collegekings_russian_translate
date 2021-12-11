@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v11/scene35.rpy:23
 translate russian v11_riley_sex_ad613edc:
@@ -559,7 +560,7 @@ translate russian v11_riley_sex_sg_14c51234:
     ri "Что ж, после всего того волнения, через которое ты меня только что заставил пройти, я устала."
 
 # game/v11/scene35.rpy:752
-translate russian v11s35_nsfwSkipLabel1_3f660a10:
+translate russian v11s35_nsfwSkipLabel1_3f660номa10:
 
     # ri "Goodnight, [name]."
     ri "Спокойной ночи, [name]."
@@ -586,7 +587,7 @@ translate russian v11s35_nsfwSkipLabel1_6469254d:
 translate russian v11s35_nsfwSkipLabel1_3b420a39:
 
     # ri "It sounds like Imre and Ryan, they're yelling."
-    ri "Похоже, что Имре и Райан кричат."
+    ri "Похоже, что Имре и Райн кричат."
 
 # game/v11/scene35.rpy:794
 translate russian v11s35_nsfwSkipLabel1_f617ca71:

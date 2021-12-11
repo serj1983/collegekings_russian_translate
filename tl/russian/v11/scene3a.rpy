@@ -5,13 +5,13 @@
 translate russian v11_wolves_packing_chris_17710b14:
 
     # u "(I really should get some more clothes.)"
-    u "(Мне нужно купить еще немного одежды)."
+    u "(Мне нужно купить кое-что из одежды)."
 
 # game/v11/scene3a.rpy:20
 translate russian v11_wolves_packing_chris_a9bbd552:
 
     # ch "Hey man, saw you come home. You usually aren't here around this time and everyone else is out. What are you up to?"
-    ch "Эй, чувак, видел, как ты вернулся домой. Ты обычно не здесь в это время и все остальные снаружи. Что ты задумал?"
+    ch "Эй, чувак, видел, что ты вернулся домой. Ты обычно не здесь в это время, пока остальные снаружи. Что ты задумал?"
 
 # game/v11/scene3a.rpy:27
 translate russian v11_wolves_packing_chris_90de0a42:
@@ -23,19 +23,19 @@ translate russian v11_wolves_packing_chris_90de0a42:
 translate russian v11_wolves_packing_chris_9efedfed:
 
     # ch "Yeah, I packed last week except for bathroom stuff."
-    ch "Да, я собрал вещи на прошлой неделе, кроме для ванной.."
+    ch "Да, я собрал на прошлой неделе, кроме для ванной.."
 
 # game/v11/scene3a.rpy:37
 translate russian v11_wolves_packing_chris_7d3b23e0:
 
     # u "Ahh that was smart, I don't know what I was doing. I thought we still had another week."
-    u "Ах, это было умно, не знаю, что я делал. Я думал, у нас еще есть неделя."
+    u "Ах, это было умно, не знаю, что я всё это время делал. Я думал, есть ещё неделя."
 
 # game/v11/scene3a.rpy:42
 translate russian v11_wolves_packing_chris_53eeae4c:
 
     # ch "*Sigh* You wouldn't be the only one lately that doesn't know what they're doing."
-    ch "*Вздох* В последнее время ты не единственный, кто не знает, что делает."
+    ch "*Вздох* В последнее время ты не единственный, кто не знает, что делает всё время."
 
 # game/v11/scene3a.rpy:47
 translate russian v11_wolves_packing_chris_09332657:
@@ -89,7 +89,7 @@ translate russian v11_wolves_packing_chris_2d670b18:
 translate russian v11_wolves_packing_chris_2df276c5:
 
     # u "Of course, I couldn't see you guys without each other."
-    u "Конечно, я не мог видеть вас друг без друга."
+    u "Конечно, я не мог представить вас друг без друга."
 
 # game/v11/scene3a.rpy:103
 translate russian v11_wolves_packing_chris_7c0050ed:
@@ -107,7 +107,7 @@ translate russian v11_wolves_packing_chris_1d89bf42:
 translate russian v11_wolves_packing_chris_2bd0c892:
 
     # ch "The last time I saw her smile was at homecoming and that was only for a moment. And even that night didn't end well."
-    ch "В последний раз я видел ее улыбку на выпускном вечере, и то лишь на мгновение. И даже та ночь закончилась не очень хорошо."
+    ch "В последний раз я видел её улыбку на выпускном вечере, и то лишь на мгновение. И даже та ночь закончилась не очень хорошо."
 
 # game/v11/scene3a.rpy:115
 translate russian v11_wolves_packing_chris_ee065306:
@@ -125,13 +125,13 @@ translate russian v11_wolves_packing_chris_66f53efe:
 translate russian v11_wolves_packing_chris_77e627aa:
 
     # ch "I've known her forever. I mean, we've been dating since high school. But ever since I became Wolves president it's like I'm being torn two ways."
-    ch "Я знаю ее целую вечность. Мы встречаемся со школы. Но с тех пор, как я стал президентом Волков, меня словно разрывает на две части."
+    ch "Я знаю её целую вечность. Мы встречаемся со школы. Но с тех пор, как я стал президентом Волков, меня словно разрывает на две части."
 
 # game/v11/scene3a.rpy:124
 translate russian v11_wolves_packing_chris_5a11bca8:
 
     # ch "It seems impossible for me to do everything I need to do for the frat and still give Nora the attention she deserves."
-    ch "Мне кажется невозможным делать все, что нужно для братства, и при этом уделять Норе внимание, которого она заслуживает."
+    ch "Мне кажется невозможным делать всё, что нужно для братства, и при этом уделять Норе внимание, которого она заслуживает."
 
 # game/v11/scene3a.rpy:126
 translate russian v11_wolves_packing_chris_ab9dcb8d:
@@ -143,13 +143,13 @@ translate russian v11_wolves_packing_chris_ab9dcb8d:
 translate russian v11_wolves_packing_chris_dee1bc2d:
 
     # u "I get it, sometimes it's hard to know what the right thing to do is... But can you blame her for being upset that you're prioritizing the frat?"
-    u "Я понимаю, иногда трудно понять, как правильно поступить... Но разве ты можешь винить ее за то, что она расстроена тем, что ты отдаешь предпочтение братству?"
+    u "Я понимаю, иногда трудно понять, как правильно поступить... Но разве ты можешь винить её за то, что она расстроена тем, что ты отдаешь предпочтение братству?"
 
 # game/v11/scene3a.rpy:136
 translate russian v11_wolves_packing_chris_880290ad:
 
     # ch "That's just it, I can't. I completely understand her point of view and I wish things were different, but they can't be while I'm president."
-    ch "В том-то и дело, что я не могу. Я полностью понимаю ее точку зрения и хотел бы, чтобы все было по-другому, но это не может быть так, пока я президент."
+    ch "В том-то и дело, что я не могу. Я полностью понимаю её точку зрения и хотел бы, чтобы все было по-другому, но это не может быть так, пока я президент."
 
 # game/v11/scene3a.rpy:145
 translate russian v11_wolves_packing_chris_99dede0f:
@@ -161,7 +161,7 @@ translate russian v11_wolves_packing_chris_99dede0f:
 translate russian v11_wolves_packing_chris_a0ef100e:
 
     # ch "Believe me, I've tried. We just see things differently. There's no getting her to understand, all I can do is hope she hangs in there while my time in the frat lasts."
-    ch "Поверь мне, я пытался. Мы просто смотрим на вещи по-разному. Невозможно заставить ее понять, все, что я могу сделать, это надеяться, что она будет держаться, пока длится мое пребывание в братстве."
+    ch "Поверь мне, я пытался. Мы просто смотрим на вещи по-разному. Невозможно заставить её понять. Всё, что я могу делать, это надеяться, что она будет держаться, пока длится моё пребывание в братстве."
 
 # game/v11/scene3a.rpy:155
 translate russian v11_wolves_packing_chris_b5f0d752:
@@ -179,7 +179,7 @@ translate russian v11_wolves_packing_chris_e090040b:
 translate russian v11_wolves_packing_chris_fa4fd6f6:
 
     # ch "This frat opens so many doors for me. Job opportunities, leadership programs, scholarships... All I need to do is finish what I've started."
-    ch "Это братство открывает для меня так много дверей. Возможности трудоустройства, программы лидерства, стипендии... Все, что мне нужно сделать, это закончить то, что я начал."
+    ch "Это братство открывает для меня так много дверей. Возможности трудоустройства, программы лидерства, стипендии... Всё, что мне нужно сделать, это закончить то, что я начал."
 
 # game/v11/scene3a.rpy:167
 translate russian v11_wolves_packing_chris_c9def445:
@@ -191,7 +191,7 @@ translate russian v11_wolves_packing_chris_c9def445:
 translate russian v11_wolves_packing_chris_5a1df7ab:
 
     # ch "*Sighs* Yes, but she- she doesn't care. She feels I can still do better and that I'm using the frat as an excuse."
-    ch "*Да, но ей... ей все равно. Она считает, что я могу добиться большего, и что я использую братство как оправдание."
+    ch "*Вздох* Да, но ей... ей всё равно. Она считает, что я могу добиться большего, и что я использую братство как оправдание."
 
 # game/v11/scene3a.rpy:177
 translate russian v11_wolves_packing_chris_5c61a192:
@@ -251,13 +251,13 @@ translate russian v11_wolves_packing_chris_89168212:
 translate russian v11_wolves_packing_chris_3029505b:
 
     # ch "Maybe, I mean, I'm still confused. I just need her to understand."
-    ch "Может быть, я имею в виду, что я все еще в замешательстве. Мне просто нужно, чтобы она поняла."
+    ch "Может быть, я имею в виду, что я всё ещё в замешательстве. Мне просто нужно, чтобы она поняла."
 
 # game/v11/scene3a.rpy:220
 translate russian v11_wolves_packing_chris_14155e54:
 
     # ch "Does she not understand how much I love her?"
-    ch "Неужели она не понимает, как сильно я ее люблю?"
+    ch "Неужели она не понимает, как сильно я её люблю?"
 
 # game/v11/scene3a.rpy:225
 translate russian v11_wolves_packing_chris_fb9abbe9:
@@ -281,7 +281,7 @@ translate russian v11_wolves_packing_chris_e5223451:
 translate russian v11_wolves_packing_chris_1148935a:
 
     # ch "I can't... I'm not abandoning her or the frat. Both need me. I just wish the frat needed me a little less. You know, sometimes I wish I wasn't even President."
-    ch "Я не могу... Я не брошу ни ее, ни братство. Я нужен обоим. Я просто хотел бы, чтобы братство нуждалось во мне немного меньше. Знаешь, иногда я даже жалею, что я Президент."
+    ch "Я не могу... Я не брошу ни её, ни братство. Я нужен обоим. Я просто хотел бы, чтобы братство нуждалось во мне немного меньше. Знаешь, иногда я даже жалею, что я Президент."
 
 # game/v11/scene3a.rpy:247
 translate russian v11_wolves_packing_chris_71a4bafc:
@@ -359,7 +359,7 @@ translate russian v11_wolves_packing_chris_f332b482_1:
 translate russian v11_wolves_packing_chris_2b9b3b47_1:
 
     # ch "If I slack off now, everything I've done up until this point would be meaningless."
-    ch "Если я расслаблюсь сейчас, все, что я сделал до этого момента, потеряет смысл."
+    ch "Если я расслаблюсь сейчас, всё, что я сделал до этого момента, потеряет смысл."
 
 # game/v11/scene3a.rpy:305
 translate russian v11_wolves_packing_chris_a7a4cf32_1:
@@ -371,19 +371,19 @@ translate russian v11_wolves_packing_chris_a7a4cf32_1:
 translate russian v11_wolves_packing_chris_89168212_1:
 
     # u "Sounds like your mind's made up."
-    u "Похоже, ты все уже решил."
+    u "Похоже, ты всё уже решил."
 
 # game/v11/scene3a.rpy:315
 translate russian v11_wolves_packing_chris_3029505b_1:
 
     # ch "Maybe, I mean, I'm still confused. I just need her to understand."
-    ch "Может быть, я имею в виду, я все еще в замешательстве. Мне просто нужно, чтобы она поняла."
+    ch "Может быть, я имею в виду, я всё еще в замешательстве. Мне просто нужно, чтобы она поняла."
 
 # game/v11/scene3a.rpy:320
 translate russian v11_wolves_packing_chris_14155e54_1:
 
     # ch "Does she not understand how much I love her?"
-    ch "Неужели она не понимает, как сильно я ее люблю?"
+    ch "Неужели она не понимает, как сильно я её люблю?"
 
 # game/v11/scene3a.rpy:325
 translate russian v11_wolves_packing_chris_fb9abbe9_1:

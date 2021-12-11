@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v11/scene41a.rpy:15
 translate russian v11_riley_amber_smoking_27fa5ae7:

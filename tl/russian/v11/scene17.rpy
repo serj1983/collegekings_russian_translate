@@ -53,7 +53,7 @@ translate russian v11_arrive_hotel_679cced4:
 translate russian v11_arrive_hotel_d65d81e4:
 
     # ro "*Whisper* [name], may I speak to you in private?"
-    ro "*Шепот* [name], могу я поговорить с вами наедине?"
+    ro "*Шепот* [name], могу я поговорить с тобой наедине?"
 
 # game/v11/scene17.rpy:78
 translate russian v11_arrive_hotel_37fe551f:

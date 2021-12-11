@@ -17,13 +17,13 @@ translate russian v11_aubrey_plane_sex_sg_61b6bf48:
 translate russian v11_aubrey_plane_sex_sg_110380f5:
 
     # u "Oh wow, someone's moving fast."
-    u "Ух ты, кто-то быстро двигается."
+    u "Ух ты, кто-то торопится."
 
 # game/v11/scene13.rpy:65
 translate russian v11_aubrey_plane_sex_sg_66ce95c6:
 
     # au "I don't see the reason for small talk. Pants off!"
-    au "Я не вижу причин для светской беседы. Снимай штаны!"
+    au "Не вижу причин для разговоров. Снимай штаны!"
 
 # game/v11/scene13.rpy:104
 translate russian v11_aubrey_plane_sex_sg_2c483de5:
@@ -161,7 +161,7 @@ translate russian v11_aubrey_plane_sex_sg_4adc212c:
 translate russian v11_aubrey_plane_sex_sg_60634a23:
 
     # la "Did you say come in?"
-    la "Ты сказал, заходить?"
+    la "Ты сказала, заходить?"
 
 # game/v11/scene13.rpy:275
 translate russian v11_aubrey_plane_sex_sg_0e8871d8:

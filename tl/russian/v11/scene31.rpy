@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v11/scene31.rpy:20
 translate russian v11_lindsey_park_9c7bce80:
@@ -394,7 +395,7 @@ translate russian v11_lindsey_park_e715cb28:
 translate russian v11_lindsey_park_8b43202f:
 
     # li "Well, yeah. I guess you could bring a friend, though. Maybe Imre or Ryan?"
-    li "Ну, да. Хотя, думаю, ты мог бы привести с собой друга. Может быть, Имре или Райан?"
+    li "Ну, да. Хотя, думаю, ты мог бы привести с собой друга. Может быть, Имре или Райн?"
 
 # game/v11/scene31.rpy:376
 translate russian v11_lindsey_park_42026c9d:
@@ -406,7 +407,7 @@ translate russian v11_lindsey_park_42026c9d:
 translate russian v11_lindsey_park_114513b1:
 
     # u "Ryan could definitely use a good party."
-    u "Райану определенно не помешала бы хорошая вечеринка."
+    u "Райну определенно не помешала бы хорошая вечеринка."
 
 # game/v11/scene31.rpy:387
 translate russian v11_lindsey_park_c8a378b1:

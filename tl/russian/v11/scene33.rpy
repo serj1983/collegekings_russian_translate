@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v11/scene33.rpy:23
 translate russian v11_bar_chloe_and_aubrey_095e79b8:

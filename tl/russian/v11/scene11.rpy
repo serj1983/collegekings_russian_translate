@@ -29,7 +29,7 @@ translate russian v11_Amber_Penelope_0336fa14:
 translate russian v11_Amber_Penelope_5705e7b8:
 
     # am "Listen, the real reason I don't want anyone knowing that I work at Lew's is because it's kind of... embarrassing. It's not really my ideal job, but it pays really well."
-    am "Послушай, на самом деле я не хочу, чтобы кто-то знал, что я работаю в Lew's, потому что это немного... стыдно. Это не совсем моя идеальная работа, но она хорошо оплачивается."
+    am "Послушай, на самом деле я не хочу, чтобы кто-то знал, что я работаю в Лью, потому что это немного... стыдно. Это не совсем моя идеальная работа, но она хорошо оплачивается."
 
 # game/v11/scene11.rpy:44
 translate russian v11_Amber_Penelope_21bac46f:

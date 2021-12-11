@@ -23,7 +23,7 @@ translate russian v11_airport_charli_5e77c0c0:
 translate russian v11_airport_charli_f153aa4f:
 
     # au "..."
-    au ""...
+    au "..."
 
 # game/v11/scene10a.rpy:27
 translate russian v11_airport_charli_8492919e:
@@ -143,7 +143,7 @@ translate russian v11_airport_charli_2018f9e1:
 translate russian v11_airport_charli_c6838b7d:
 
     # au "Keep getting worked up over nothing and your head may just explode. *Chuckles* Just shrug it off. Like Amber did when I teased her."
-    au "Продолжай волноваться по пустякам, и твоя голова взорвётся. *Хихикает* Просто отмахнись от этого. Как Эмбер, когда я ее дразнила."
+    au "Продолжай волноваться по пустякам, и твоя голова взорвётся. *Хихикает* Просто отмахнись от этого. Как Эмбер, когда я её дразнила."
 
 # game/v11/scene10a.rpy:134
 translate russian v11_airport_charli_53573def:
