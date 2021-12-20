@@ -560,7 +560,7 @@ translate russian v11_riley_sex_sg_14c51234:
     ri "Что ж, после всего того волнения, через которое ты меня только что заставил пройти, я устала."
 
 # game/v11/scene35.rpy:752
-translate russian v11s35_nsfwSkipLabel1_3f660номa10:
+translate russian v11s35_nsfwSkipLabel1_3f660a10:
 
     # ri "Goodnight, [name]."
     ri "Спокойной ночи, [name]."
