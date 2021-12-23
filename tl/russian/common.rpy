@@ -16,15 +16,15 @@ translate russian strings:
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new ""
+    new "bar"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new ""
+    new "selected"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new ""
+    new "viewport"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
@@ -36,23 +36,23 @@ translate russian strings:
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new ""
+    new "активировать"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new ""
+    new "деактивировать"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new ""
+    new "увеличить"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new ""
+    new "уменьшить"
 
     # renpy/common/00accessibility.rpy:128
     old "Font Override"
-    new ""
+    new "Font Override"
 
     # renpy/common/00accessibility.rpy:132
     old "Default"
@@ -68,19 +68,19 @@ translate russian strings:
 
     # renpy/common/00accessibility.rpy:146
     old "Text Size Scaling"
-    new ""
+    new "Масштабирование размера текста"
 
     # renpy/common/00accessibility.rpy:152
     old "Reset"
-    new ""
+    new "Сброс"
 
     # renpy/common/00accessibility.rpy:158
     old "Line Spacing Scaling"
-    new ""
+    new "Масштабирование межстрочного интервала"
 
     # renpy/common/00accessibility.rpy:171
     old "Self-Voicing"
-    new ""
+    new "Самоозвучка"
 
     # renpy/common/00accessibility.rpy:175
     old "Off"
@@ -88,243 +88,243 @@ translate russian strings:
 
     # renpy/common/00accessibility.rpy:179
     old "Text-to-speech"
-    new ""
+    new "Преобразование текста в речь"
 
     # renpy/common/00accessibility.rpy:183
     old "Clipboard"
-    new ""
+    new "Буфер обмена"
 
     # renpy/common/00accessibility.rpy:187
     old "Debug"
-    new ""
+    new "Отладка"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing Volume Drop"
-    new ""
+    new "Self-Voicing Volume Drop"
 
     # renpy/common/00accessibility.rpy:202
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new ""
+    new "Опции в этом меню предназначены для улучшения доступности. Они могут работать не со всеми играми, а некоторые комбинации опций могут сделать игру неиграбельной. Это не проблема игры или движка. Для достижения наилучших результатов при изменении шрифтов старайтесь сохранить размер текста таким же, каким он был изначально."
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new ""
+    new "{#weekday}Понедельник"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new ""
+    new "{#weekday}Вторник"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new ""
+    new "{#weekday}Среда"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new ""
+    new "{#weekday}Четверг"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new ""
+    new "{#weekday}Пятница"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new ""
+    new "{#weekday}Суббота"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new ""
+    new "{#weekday}Воскресенье"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new ""
+    new "{#weekday_short}Пон"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new ""
+    new "{#weekday_short}Вто"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new ""
+    new "{#weekday_short}Сре"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new ""
+    new "{#weekday_short}Чет"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new ""
+    new "{#weekday_short}Пят"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new ""
+    new "{#weekday_short}Суб"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new ""
+    new "{#weekday_short}Вос"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new ""
+    new "{#month}Январь"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new ""
+    new "{#month}Февраль"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new ""
+    new "{#month}Март"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new ""
+    new "{#month}Апрель"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new ""
+    new "{#month}Май"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new ""
+    new "{#month}Июнь"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new ""
+    new "{#month}Июль"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new ""
+    new "{#month}Август"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new ""
+    new "{#month}Сентябрь"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new ""
+    new "{#month}Октябрь"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new ""
+    new "{#month}Ноябрь"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new ""
+    new "{#month}Декабрь"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new ""
+    new "{#month_short}Янв"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new ""
+    new "{#month_short}Фев"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new ""
+    new "{#month_short}Мар"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new ""
+    new "{#month_short}Апр"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new ""
+    new "{#month_short}Май"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new ""
+    new "{#month_short}Июн"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new ""
+    new "{#month_short}Июл"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new ""
+    new "{#month_short}Авг"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new ""
+    new "{#month_short}Сен"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new ""
+    new "{#month_short}Окт"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new ""
+    new "{#month_short}Ноя"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new ""
+    new "{#month_short}Дек"
 
     # renpy/common/00action_file.rpy:250
     old "%b %d, %H:%M"
-    new ""
+    new "%b %d, %H:%M"
 
     # renpy/common/00action_file.rpy:363
     old "Save slot %s: [text]"
-    new ""
+    new "Сохранить слот %s: [text]."
 
     # renpy/common/00action_file.rpy:444
     old "Load slot %s: [text]"
-    new ""
+    new "Загрузить слот %s: [text]."
 
     # renpy/common/00action_file.rpy:497
     old "Delete slot [text]"
-    new ""
+    new "Удалить слот [text]"
 
     # renpy/common/00action_file.rpy:576
     old "File page auto"
-    new ""
+    new "Страница файла авто"
 
     # renpy/common/00action_file.rpy:578
     old "File page quick"
-    new ""
+    new "Страница файла быстрое"
 
     # renpy/common/00action_file.rpy:580
     old "File page [text]"
-    new ""
+    new "Страница файла [text]"
 
     # renpy/common/00action_file.rpy:779
     old "Next file page."
-    new ""
+    new "Следующая страница файла."
 
     # renpy/common/00action_file.rpy:851
     old "Previous file page."
-    new ""
+    new "Предыдущая страница файла."
 
     # renpy/common/00action_file.rpy:912
     old "Quick save complete."
-    new ""
+    new "Быстрое сохранение завершено."
 
     # renpy/common/00action_file.rpy:930
     old "Quick save."
-    new ""
+    new "Быстрое сохранение."
 
     # renpy/common/00action_file.rpy:949
     old "Quick load."
-    new ""
+    new "Быстрая загрузка."
 
     # renpy/common/00action_other.rpy:375
     old "Language [text]"
-    new ""
+    new "Язык [text]"
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
-    new ""
+    new "Интерактивный режиссер не включен здесь."
 
     # renpy/common/00director.rpy:1481
     old "⬆"
-    new ""
+    new "⬆"
 
     # renpy/common/00director.rpy:1487
     old "⬇"
-    new ""
+    new "⬇"
 
     # renpy/common/00director.rpy:1551
     old "Done"
-    new ""
+    new "Сделано"
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
@@ -356,55 +356,55 @@ translate russian strings:
 
     # renpy/common/00director.rpy:1631
     old "Change"
-    new ""
+    new "Изменить"
 
     # renpy/common/00director.rpy:1633
     old "Add"
-    new ""
+    new "Добавить"
 
     # renpy/common/00director.rpy:1636
     old "Cancel"
-    new ""
+    new "Отменить"
 
     # renpy/common/00director.rpy:1639
     old "Remove"
-    new ""
+    new "Удалить"
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
-    new ""
+    new "Утверждение:"
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
-    new ""
+    new "Тег:"
 
     # renpy/common/00director.rpy:1711
     old "Attributes:"
-    new ""
+    new "Атрибуты:"
 
     # renpy/common/00director.rpy:1729
     old "Transforms:"
-    new ""
+    new "Преобразования:"
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
-    new ""
+    new "Позади:"
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
-    new ""
+    new "Переход:"
 
     # renpy/common/00director.rpy:1785
     old "Channel:"
-    new ""
+    new "Канал:"
 
     # renpy/common/00director.rpy:1803
     old "Audio Filename:"
-    new ""
+    new "Имя файла аудио:"
 
     # renpy/common/00gui.rpy:384
     old "Are you sure?"
-    new ""
+    new "Ты уверен?"
 
     # renpy/common/00gui.rpy:385
     old "Are you sure you want to delete this save?"
@@ -416,7 +416,7 @@ translate russian strings:
 
     # renpy/common/00gui.rpy:387
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "Загрузка приведет к потере несохраненного прогресса.\nВы уверены, что хотите это сделать?"
 
     # renpy/common/00gui.rpy:388
     old "Are you sure you want to quit?"
@@ -424,111 +424,111 @@ translate russian strings:
 
     # renpy/common/00gui.rpy:389
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "Вы уверены, что хотите вернуться в главное меню?\nПри этом будет потерян несохраненный прогресс."
 
     # renpy/common/00gui.rpy:390
     old "Are you sure you want to end the replay?"
-    new ""
+    new "Вы уверены, что хотите закончить повтор?"
 
     # renpy/common/00gui.rpy:391
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "Вы уверены, что хотите начать пропускать?"
 
     # renpy/common/00gui.rpy:392
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "Вы уверены, что хотите перейти к следующему выбору?"
 
     # renpy/common/00gui.rpy:393
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "Вы уверены, что хотите пропустить невидимый диалог к следующему выбору?"
 
     # renpy/common/00keymap.rpy:306
     old "Failed to save screenshot as %s."
-    new ""
+    new "Не удалось сохранить снимок экрана как %s."
 
     # renpy/common/00keymap.rpy:318
     old "Saved screenshot as %s."
-    new ""
+    new "Сохранение снимка экрана как %s."
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
-    new ""
+    new "Режим пропуска"
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new ""
+    new "Эта программа содержит свободное программное обеспечение под рядом лицензий, включая MIT License и GNU Lesser General Public License. Полный список программ, включая ссылки на полный исходный код, можно найти {a=https://www.renpy.org/l/license}здесь{/a}."
 
     # renpy/common/00preferences.rpy:247
     old "display"
-    new ""
+    new "дисплей"
 
     # renpy/common/00preferences.rpy:259
     old "transitions"
-    new ""
+    new "переходы"
 
     # renpy/common/00preferences.rpy:268
     old "skip transitions"
-    new ""
+    new "пропускать переходы"
 
     # renpy/common/00preferences.rpy:270
     old "video sprites"
-    new ""
+    new "video sprites"
 
     # renpy/common/00preferences.rpy:279
     old "show empty window"
-    new ""
+    new "показать пустое окно"
 
     # renpy/common/00preferences.rpy:288
     old "text speed"
-    new ""
+    new "скорость текста"
 
     # renpy/common/00preferences.rpy:296
     old "joystick"
-    new ""
+    new "джойстик"
 
     # renpy/common/00preferences.rpy:296
     old "joystick..."
-    new ""
+    new "джойстик..."
 
     # renpy/common/00preferences.rpy:303
     old "skip"
-    new ""
+    new "пропускать"
 
     # renpy/common/00preferences.rpy:306
     old "skip unseen [text]"
-    new ""
+    new "пропустить невидимый [text]"
 
     # renpy/common/00preferences.rpy:311
     old "skip unseen text"
-    new ""
+    new "пропустить невидимый текст"
 
     # renpy/common/00preferences.rpy:313
     old "begin skipping"
-    new ""
+    new "начинайте пропускать"
 
     # renpy/common/00preferences.rpy:317
     old "after choices"
-    new ""
+    new "после выбора"
 
     # renpy/common/00preferences.rpy:324
     old "skip after choices"
-    new ""
+    new "пропустить после выбора"
 
     # renpy/common/00preferences.rpy:326
     old "auto-forward time"
-    new ""
+    new "автоперемотка времени"
 
     # renpy/common/00preferences.rpy:340
     old "auto-forward"
-    new ""
+    new "автоперемотка"
 
     # renpy/common/00preferences.rpy:347
     old "Auto forward"
-    new ""
+    new "Автоматическая перемотка "
 
     # renpy/common/00preferences.rpy:350
     old "auto-forward after click"
-    new ""
+    new "автоперемотка после клика"
 
     # renpy/common/00preferences.rpy:359
     old "automatic move"
@@ -896,93 +896,93 @@ translate russian strings:
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
-    new ""
+    new "Пропуск (A)"
 
     # renpy/common/00gamepad.rpy:71
     old "Back (B)"
-    new ""
+    new "Назад (B)"
 
     # renpy/common/_errorhandling.rpym:542
     old "Open"
-    new ""
+    new "Открыть"
 
     # renpy/common/_errorhandling.rpym:544
     old "Opens the traceback.txt file in a text editor."
-    new ""
+    new "Открывает файл traceback.txt в текстовом редакторе."
 
     # renpy/common/_errorhandling.rpym:546
     old "Copy BBCode"
-    new ""
+    new "Копирование BBCode"
 
     # renpy/common/_errorhandling.rpym:548
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Копируем файл traceback.txt в буфер обмена в виде BBcode для форумов типа https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:550
     old "Copy Markdown"
-    new ""
+    new "Копирование Markdown"
 
     # renpy/common/_errorhandling.rpym:552
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Копируем файл traceback.txt в буфер обмена в формате Markdown для Discord."
 
     # renpy/common/_errorhandling.rpym:581
     old "An exception has occurred."
-    new ""
+    new "Возникло исключение."
 
     # renpy/common/_errorhandling.rpym:604
     old "Rollback"
-    new ""
+    new "Откатить"
 
     # renpy/common/_errorhandling.rpym:606
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new ""
+    new "Пытается выполнить откат к предыдущему времени, позволяя вам сохранить или выбрать другой вариант."
 
     # renpy/common/_errorhandling.rpym:609
     old "Ignore"
-    new ""
+    new "Игнорировать"
 
     # renpy/common/_errorhandling.rpym:613
     old "Ignores the exception, allowing you to continue."
-    new ""
+    new "Игнорирует исключение, позволяя продолжить работу."
 
     # renpy/common/_errorhandling.rpym:615
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "Игнорирует исключение, позволяя продолжить работу. Это часто приводит к дополнительным ошибкам."
 
     # renpy/common/_errorhandling.rpym:619
     old "Reload"
-    new ""
+    new "Перезагрузить"
 
     # renpy/common/_errorhandling.rpym:621
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new ""
+    new "Перезагружаем игру с диска, сохраняя и восстанавливая состояние игры, если это возможно."
 
     # renpy/common/_errorhandling.rpym:624
     old "Console"
-    new ""
+    new "Консоль"
 
     # renpy/common/_errorhandling.rpym:626
     old "Opens a console to allow debugging the problem."
-    new ""
+    new "Открывает консоль для отладки проблемы."
 
     # renpy/common/_errorhandling.rpym:639
     old "Quits the game."
-    new ""
+    new "Выйти из игры."
 
     # renpy/common/_errorhandling.rpym:660
     old "Parsing the script failed."
-    new ""
+    new "Парсинг сценария не удался."
 
     # renpy/common/_errorhandling.rpym:686
     old "Opens the errors.txt file in a text editor."
-    new ""
+    new "Открыть файл errors.txt в текстовом редакторе."
 
     # renpy/common/_errorhandling.rpym:690
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Копируем файл errors.txt в буфер обмена в виде BBcode для форумов типа https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:694
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Копирует файл errors.txt в буфер обмена в формате Markdown для Discord."
 
