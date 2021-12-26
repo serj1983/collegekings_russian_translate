@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v12/scene20.rpy:18
 translate russian v12_urban_exploring_2e5ee5b4:
