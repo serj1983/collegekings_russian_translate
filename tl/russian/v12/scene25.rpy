@@ -577,3 +577,13 @@ translate russian v12_jc_continue_f17359e0:
     # u "(Looks like I'm not the only one that isn't asleep. *Chuckles*)"
     u "(Похоже, я не единственный, кто не спит. *Хихикает*)"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v12/scene25.rpy:193
+translate russian v12_jc_chloe_b68d058c:
+
+    # ju "Chloe is the we one got the volleyball at the shopping for, right?"
+    ju "Это Хлоя получила волейбольный мяч в магазине, верно?"
+

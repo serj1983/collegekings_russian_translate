@@ -546,3 +546,18 @@ translate russian strings:
     old "Admit you don't know"
     new "Признайся, что ты не знаешь"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v8/scene8.rpy:146
+translate russian prot_w_au_no_wing_cff7cd1f:
+
+    # aut "It's okay. We're just here to make our voices heard, that's all."
+    aut "Все в порядке. Мы здесь только для того, чтобы наши голоса были услышаны, вот и все."
+
+# game/v8/scene8.rpy:409
+translate russian prot_w_au_2_1490d901:
+
+    # ev "Definitely a compliment."
+    ev "Определенно, это комплимент."

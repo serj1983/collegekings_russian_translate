@@ -1057,3 +1057,66 @@ translate russian strings:
     old "Don't"
     new "Не знаю"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v11/scene40.rpy:472
+translate russian v11_carriage_ride_167fd34a:
+
+    # li "They've been doing this since the beginning of the Chicks, but one year a President didn't give the pledges any nicknames and after a few years of that, the whole thing disappeared."
+    li "Они делали это с самого начала существования Чикс, но в один год президент не дал новичкам никаких прозвищ, и через несколько лет все это исчезло."
+
+# game/v11/scene40.rpy:477
+translate russian v11_carriage_ride_d9ec256f:
+
+    # cl "Well I'm sure there's a good reason the President didn't continue it."
+    cl "Уверена, что у президента была веская причина не продолжать это."
+
+# game/v11/scene40.rpy:482
+translate russian v11_carriage_ride_6ab37286:
+
+    # no "Yeah, it's called being a lazy President."
+    no "Да, это называется быть ленивым президентом."
+
+# game/v11/scene40.rpy:492
+translate russian v11_carriage_ride_36d94347:
+
+    # no "I'm not trying, I am. It's a great idea, and the only reason it went away and never got brought back was because of the poor choices of one President."
+    no "Я не пытаюсь, но. Это отличная идея, и единственная причина, по которой традиция ушла и никогда не возвращалась, - это плохой выбор одного президента."
+
+# game/v11/scene40.rpy:560
+translate russian v11_carriage_ride_e2e4683d:
+
+    # no "As President, you could've at least told her it was great that she tried to improve the sorority, before you completely rejected the idea..."
+    no "Как президент, ты могла хотя бы сказать ей, что это здорово, что она пытается улучшить женское общество, прежде чем полностью отвергнуть эту идею..."
+
+# game/v11/scene40.rpy:600
+translate russian v11_carriage_ride_a23dab90:
+
+    # no "You know the last President only cared about what the Chicks looked like. Will guys think we're hot, will we be good enough for parties, etc."
+    no "Ты знаешь, что последний президент заботился только о том, как выглядят девочки. Будут ли парни считать нас сексуальными, будем ли мы достаточно хороши для вечеринок и т.д."
+
+# game/v11/scene40.rpy:642
+translate russian v11_carriage_ride_8b51fcc8:
+
+    # no "You only cared about the way you as President looked from day one. It was never about the Chicks!"
+    no "С первого дня тебя заботило только то, как ты выглядишь как президент. Это никогда не было связано с Чикс!"
+
+# game/v11/scene40.rpy:667
+translate russian v11_carriage_ride_afa392d2:
+
+    # cl "I have been taking the fall for everything bad the Chicks are being accused of since the day I became President, you really think I'm the one that posted that picture of Sarah to embarrass her?"
+    cl "Я беру на себя вину за все плохое, в чем обвиняют Чикс, с того дня, как я стала президентом, ты правда думаешь, что это я разместила фотографию Сары, чтобы опозорить её?"
+
+# game/v11/scene40.rpy:699
+translate russian v11_carriage_ride_58034ecb:
+
+    # no "It doesn't matter what people think about me, I'm not the President! How you treat your sisters is part of your job. I just want a President that's not just there for the fucking attention!"
+    no "Неважно, что люди думают обо мне, я не президент! То, как ты относишься к своим сёстрам, является частью твоей работы. Я просто хочу президента, который не просто привлекает к себе внимание!"
+
+# game/v11/scene40.rpy:875
+translate russian v11_carriage_ride_fb5a1a09:
+
+    # u "She hasn't announced it yet but Lindsey is going to run for President."
+    u "Она ещё не объявила об этом, но Линдси собирается баллотироваться в президенты."

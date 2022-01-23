@@ -192,3 +192,108 @@ translate russian v13s35_adult_shop_continue_8c5266c8:
     # u "Later, Aubs."
     u ""
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v13/scene35.rpy:122
+translate russian v13s35_no_shop_8685ca40:
+
+    # u "(Guess I'll just post up here...)"
+    u ""
+
+# game/v13/scene35.rpy:137
+translate russian v13s35_no_shop_5e83b0db:
+
+    # u "What's that face for? *Chuckles* Get some good stuff?"
+    u ""
+
+# game/v13/scene35.rpy:142
+translate russian v13s35_no_shop_4a9e7b17:
+
+    # au "Oh, I got some really, really good stuff. *Chuckles*"
+    au ""
+
+# game/v13/scene35.rpy:147
+translate russian v13s35_no_shop_75d48640:
+
+    # u "Oooh, okay... *Laughs* So, is that it?"
+    u ""
+
+# game/v13/scene35.rpy:152
+translate russian v13s35_no_shop_0262f652:
+
+    # au "Yeah, that's it."
+    au ""
+
+# game/v13/scene35.rpy:157
+translate russian v13s35_no_shop_4432323e:
+
+    # u "I don't know why I was expecting so much more. It's so clean and... innocent here."
+    u ""
+
+# game/v13/scene35.rpy:162
+translate russian v13s35_no_shop_70315650:
+
+    # au "Sorry to disappoint. *Chuckles*"
+    au ""
+
+# game/v13/scene35.rpy:167
+translate russian v13s35_no_shop_f6844995:
+
+    # u "Haha, c'mon."
+    u ""
+
+# game/v13/scene35.rpy:190
+translate russian v13s35_no_shop_783310d7:
+
+    # au "Hey Lindsey, where are you headed?"
+    au ""
+
+# game/v13/scene35.rpy:195
+translate russian v13s35_no_shop_87cb7505:
+
+    # li "Chris set up a little get together for a few people, you guys should come!"
+    li ""
+
+# game/v13/scene35.rpy:200
+translate russian v13s35_no_shop_c3206b16:
+
+    # au "I can't, actually. I'm on my way to chill with Chloe for a bit, but you can take [name] off my hands."
+    au ""
+
+# game/v13/scene35.rpy:205
+translate russian v13s35_no_shop_25c9e8c1:
+
+    # li "I'd love to... *Chuckles* You cool with that?"
+    li ""
+
+# game/v13/scene35.rpy:210
+translate russian v13s35_no_shop_37fe551f:
+
+    # u "Sure."
+    u ""
+
+# game/v13/scene35.rpy:215
+translate russian v13s35_no_shop_81d6cb3e:
+
+    # li "Alright, then. See you, babe."
+    li ""
+
+# game/v13/scene35.rpy:220
+translate russian v13s35_no_shop_b507b226:
+
+    # au "Later guys."
+    au ""
+
+# game/v13/scene35.rpy:225
+translate russian v13s35_no_shop_8c5266c8:
+
+    # u "Later, Aubs."
+    u ""
+
+translate russian strings:
+
+    # game/v13/scene35.rpy:94
+    old "Look around"
+    new ""

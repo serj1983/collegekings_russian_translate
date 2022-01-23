@@ -161,3 +161,12 @@ translate russian strings:
     old "Leave her alone"
     new "Оставь ее в покое"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v11/scene14.rpy:109
+translate russian v11_nora_chris_plane_5177b1e4:
+
+    # ro "It's about 3 am local time, so let's make sure we get to the hotel as quickly as possible so we can all get to bed."
+    ro "Сейчас около трех часов ночи по местному времени, так что давайте постараемся добраться до отеля как можно быстрее, чтобы мы могли лечь спать."

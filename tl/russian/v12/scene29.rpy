@@ -961,3 +961,48 @@ translate russian strings:
     old "A little extra effort..."
     new "Немного дополнительных усилий..."
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v12/scene29.rpy:1184
+translate russian v12s29_nsfwSkipLabel1_ba25568d:
+
+    # la "I love you, [name]."
+    la "Я люблю тебя, [name]."
+
+# game/v12/scene29.rpy:1196
+translate russian v12s29_nsfwSkipLabel1_a0206b13:
+
+    # la "Let's not rush this, okay? When all is said and done, I want our first time to be all that I've dreamed of."
+    la "Давай не будем торопиться, хорошо? Когда все будет сказано и сделано, я хочу, чтобы наш первый раз был таким, о каком я мечтала."
+
+# game/v12/scene29.rpy:1201
+translate russian v12s29_nsfwSkipLabel1_59187764:
+
+    # u "When the time comes, it will be."
+    u "Когда придет время, так и будет."
+
+# game/v12/scene29.rpy:1211
+translate russian v12s29_nsfwSkipLabel1_8eec5065:
+
+    # u "Let's get in bed before a gust of wind knocks us off the roof. *Chuckles*"
+    u "Давайте ляжем в постель, пока порыв ветра не сбил нас с крыши. *Хихикает*"
+
+# game/v12/scene29.rpy:1216
+translate russian v12s29_nsfwSkipLabel1_fc820035:
+
+    # la "*Chuckles* Yeah, let's do that."
+    la "*Хихикает* Да, давайте сделаем это."
+
+# game/v12/scene29.rpy:1226
+translate russian v12s29_nsfwSkipLabel1_353b7882:
+
+    # la "Have a good night, [name]."
+    la "Спокойной ночи, [name]."
+
+# game/v12/scene29.rpy:1231
+translate russian v12s29_nsfwSkipLabel1_b6d03d82:
+
+    # u "You too, Lauren."
+    u "Тебе тоже, Лорен."

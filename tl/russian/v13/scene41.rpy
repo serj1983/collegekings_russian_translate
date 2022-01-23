@@ -644,3 +644,12 @@ translate russian strings:
     old "You're beautiful"
     new ""
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v13/scene41.rpy:481
+translate russian v13s41_ed4bdfe4:
+
+    # u "You did the right thing by running for President and I'm gonna stick beside you."
+    u ""

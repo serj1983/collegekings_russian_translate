@@ -1334,3 +1334,48 @@ translate russian strings:
     old "Play it off"
     new "Разыграй"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v11/scene30.rpy:136
+translate russian v11_lauren_store_a9c5062d:
+
+    # la "We're going to Hogwash. *Chuckles*"
+    la "Мы идём в Хогваш. *Хихикает*"
+
+# game/v11/scene30.rpy:1395
+translate russian v11_quiz_bonus_f2b04fb2:
+
+    # la "If it was my choice I'd spend all day with you exploring Hogwash, but I promised Riley I'd help her out with something, so I have to run."
+    la "Если бы это был мой выбор, я бы провела весь день с тобой, исследуя Хогваш, но я обещала Райли помочь ей кое с чем, так что мне нужно бежать."
+
+# game/v11/scene30.rpy:1426
+translate russian v11_quiz_bonus_4ffcc1bb:
+
+    # u "(She said she loved me.)"
+    u "(Она сказала, что любит меня.)"
+
+# game/v11/scene30.rpy:1430
+translate russian v11_quiz_bonus_bca64d41:
+
+    # u "(Probably our pictures.)"
+    u "(Вероятно, наши фотографии.)"
+
+# game/v11/scene30.rpy:1448
+translate russian v11s30_PhoneContinuelauren2_e67b0b5f:
+
+    # u "(Wow, that was really nice.)"
+    u "(Вау, это было очень мило.)"
+
+# game/v11/scene30.rpy:1452
+translate russian v11s30_PhoneContinuelauren2_8fa0b9ac:
+
+    # u "(Probably our picture.)"
+    u "(Вероятно, наши фотографии.)"
+
+# game/v11/scene30.rpy:1468
+translate russian v11s30_PhoneContinuelauren1_f4fe3f3a:
+
+    # u "(That's how you start a day off right. Let's see what else today has to offer.)"
+    u "(Вот как нужно правильно начинать день. Давайте посмотрим, что ещё может предложить сегодняшний день)."

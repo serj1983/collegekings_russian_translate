@@ -4164,3 +4164,30 @@ translate russian strings:
     old "I'll think about it"
     new "Я подумаю над этим"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v10/scene33.rpy:1141
+translate russian v10s33_chloe2_ec2cf505:
+
+    # cl "You've had something against me from the second I became President and I'm honestly getting sick of it!"
+    cl "Ты имеешь что-то против меня с той самой секунды, как я стала президентом, и мне это уже порядком надоело!"
+
+# game/v10/scene33.rpy:1748
+translate russian v10s33_laurenstatue1_e350ebdf:
+
+    # u "Maybe if you get Autumn to sell fake oil cans people can act as though they're loosening your joints, Mrs. Tin Man. *Laughs*"
+    u "Может быть, если ты заставишь Отем продавать поддельные банки с маслом, люди смогут делать вид, будто они расшатывают твои суставы, Миссис Железный Дровосек. *Смеется*"
+
+# game/v10/scene33.rpy:2955
+translate russian v10s33_amber1_c2832b0c:
+
+    # am "I'm looking forward to a good little catfight. It would be even better though if it was the guys doing the wrestling."
+    am "Я с нетерпением жду хорошей кошачьей драки. Но было бы еще лучше, если бы борьбу вели парни."
+
+# game/v10/scene33.rpy:3086
+translate russian v10s33_chris1_21b3e913:
+
+    # ch "Now that you're back man, you and [name] should play a game. First one to get one in is the Wolves' new President. *Laughs*"
+    ch "Теперь, когда ты вернулся, ты и [name] должны сыграть в игру. Первый, кто его получит, станет новым президентом Волков. *Смеется*"

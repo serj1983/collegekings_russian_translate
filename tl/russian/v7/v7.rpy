@@ -18484,3 +18484,845 @@ translate russian strings:
     old "Tell them truth"
     new "Сказать им правду"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v7/v7.rpy:251
+translate russian v7start_339482d4:
+
+    # u "So all these guys were Wolves Presidents too?"
+    u "Значит, все эти парни тоже были президентами Волков?"
+
+# game/v7/v7.rpy:266
+translate russian v7start_6cc90eff:
+
+    # u "So, I don't know if it's weird asking, but if you're not one of the Fight Kings, how come you're the current President?"
+    u "Не знаю, может быть, это странный вопрос, но если ты не один из Королей Битвы, как получилось, что ты являешься нынешним президентом?"
+
+# game/v7/v7.rpy:271
+translate russian v7start_d6df20e4:
+
+    # ch "Well the year before me, Chuck was President. It was his last year, so I got voted in."
+    ch "За год до меня Чак был президентом. Это был его последний год, поэтому меня выбрали."
+
+# game/v7/v7.rpy:273
+translate russian v7start_731b052f:
+
+    # ch "We need a new President every one or two years so some Presidents aren't Fight Kings."
+    ch "Нам нужен новый президент каждые один или два года, поэтому некоторые президенты не являются Королями Битвы."
+
+# game/v7/v7.rpy:277
+translate russian v7start_fa028502:
+
+    # ch "But I also believe that being President whilst someone else wins for the Wolves is just as big of an honor as winning yourself."
+    ch "Но я также считаю, что быть президентом в то время, когда кто-то другой выигрывает для Волков - это такая же большая честь, как и победить самому."
+
+# game/v7/v7.rpy:689
+translate russian hd_bd_bb871fda:
+
+    # no "Maybe... Like it's fine that he's President and all and that's important, but he's been with everyone all night."
+    no "Может быть... Как будто это прекрасно, что он президент и все такое, и это важно, но он был со всеми всю ночь."
+
+# game/v7/v7.rpy:1393
+translate russian phoneam_2f4dfe6c:
+
+    # u "(I need to respond to some of these messages.)"
+    u "(Мне нужно ответить на некоторые из этих сообщений)."
+
+# game/v7/v7.rpy:1397
+translate russian phoneam_dddb2912:
+
+    # u "(I should check out what Emily posted on Kiwii.)"
+    u "(Я должна проверить, что Эмили написала на Kiwii)."
+
+# game/v7/v7.rpy:1401
+translate russian phoneam_8dbcdbb7:
+
+    # u "(I should answer Penelope.)"
+    u "(Я должен ответить Пенелопе.)"
+
+# game/v7/v7.rpy:1405
+translate russian phoneam_c3668ef2:
+
+    # u "(I should respond to Lauren.)"
+    u "(Я должен ответить Лорен.)"
+
+# game/v7/v7.rpy:1885
+translate russian thisbelauren_3bec4cd9:
+
+    # u "Yes, I did hook up with Emily. And before you say anything, I entirely regret it. I don't know what I was thinking."
+    u "Да, я переспал с Эмили. И прежде чем ты что-то скажешь, я полностью сожалею об этом. Я не знаю, о чём я думал."
+
+# game/v7/v7.rpy:1947
+translate russian thisbelauren_d09e1953:
+
+    # u "(Not ideal, but at least we're still talking...)"
+    u "(Не идеально, но, по крайней мере, мы все ещё разговариваем...)"
+
+# game/v7/v7.rpy:1968
+translate russian thisbelauren_8e49e970:
+
+    # la "This, I can't do this. I can't do us."
+    la "Я не могу этого сделать. Я не могу сделать это с нами."
+
+# game/v7/v7.rpy:1973
+translate russian thisbelauren_4f9fff17:
+
+    # u "I told you I was sorry, Lauren. It won't ever happen again."
+    u "Я же сказал тебе, что мне жаль, Лорен. Этого больше никогда не повторится."
+
+# game/v7/v7.rpy:2031
+translate russian thisbelauren_33c1a659:
+
+    # u "Maybe we just rushed into this."
+    u "Может быть, мы просто поторопились с этим."
+
+# game/v7/v7.rpy:2988
+translate russian beachlauren_b6d31b11:
+
+    # la "Yeah, I mean I know most of them really well and obviously my sister's the President so it's a pretty easy decision."
+    la "Да, я имею в виду, что я знаю большинство из них очень хорошо, и, очевидно, моя сестра - президент, так что это довольно простое решение."
+
+# game/v7/v7.rpy:3140
+translate russian beachlauren_b6d31b11_1:
+
+    # la "Yeah, I mean I know most of them really well and obviously my sister's the President so it's a pretty easy decision."
+    la "Да, я имею в виду, что я знаю большинство из них очень хорошо, и, очевидно, моя сестра - президент, так что это довольно простое решение."
+
+# game/v7/v7.rpy:4497
+translate russian aftercall_81f05e27_1:
+
+    # no "You passed!"
+    no "Ты прошел!"
+
+# game/v7/v7.rpy:4502
+translate russian aftercall_ef2f1671_2:
+
+    # u "What?"
+    u "Что?"
+
+# game/v7/v7.rpy:4507
+translate russian aftercall_1c88cbde_1:
+
+    # no "That was the real test, and you passed it!"
+    no "Это было настоящее испытание, и ты его прошел!"
+
+# game/v7/v7.rpy:4512
+translate russian aftercall_05d25003_1:
+
+    # u "Wait, really? That's great!"
+    u "Подожди, правда? Это здорово!"
+
+# game/v7/v7.rpy:8432
+translate russian wolves_ceremony_2_4f044308:
+
+    # se "Hey, it's the big winner of the night. How does it feel?"
+    se "Эй, это главный победитель вечера. Каково это?"
+
+# game/v7/v7.rpy:8437
+translate russian wolves_ceremony_2_a01a9a12:
+
+    # u "Ehh, it's cool. We all did good. You know?"
+    u "Эхх, это круто. Мы всё сделали хорошо. Ты знаешь?"
+
+# game/v7/v7.rpy:8442
+translate russian wolves_ceremony_2_b9cedcea:
+
+    # se "Yeah, but still, you came in as top dog."
+    se "Да, но все равно, ты вошел как главный герой."
+
+# game/v7/v7.rpy:8447
+translate russian wolves_ceremony_2_91fe7202:
+
+    # u "Yeah, well, I'm looking forward to this first year."
+    u "Да, я с нетерпением жду первого года."
+
+# game/v7/v7.rpy:8452
+translate russian wolves_ceremony_2_e51d4f30:
+
+    # se "You ready to fight this year?"
+    se "Ты готов сражаться в этом году?"
+
+# game/v7/v7.rpy:8457
+translate russian wolves_ceremony_2_94bb2ab0:
+
+    # u "Yeah, maybe."
+    u "Да, возможно."
+
+# game/v7/v7.rpy:8462
+translate russian wolves_ceremony_2_4046c89c:
+
+    # se "You need any pointers let me know, but I'm sure you won't need it."
+    se "Если тебе нужны какие-либо рекомендации, дайте мне знать, но я уверен, что они тебе не понадобятся."
+
+# game/v7/v7.rpy:8467
+translate russian wolves_ceremony_2_b20be699:
+
+    # u "Haha what's that supposed to mean?"
+    u "Хаха, что это должно означать?"
+
+# game/v7/v7.rpy:8472
+translate russian wolves_ceremony_2_ed4daf15:
+
+    # se "You know.. top dog! Ahaha."
+    se "Ты знаешь... лучший пёс! Ахаха."
+
+# game/v7/v7.rpy:8477
+translate russian wolves_ceremony_2_10514931:
+
+    # u "Haha yeah."
+    u "Хаха да."
+
+# game/v7/v7.rpy:8482
+translate russian wolves_ceremony_2_04629a9e:
+
+    # se "But hey, welcome."
+    se "Но добро пожаловать."
+
+# game/v7/v7.rpy:8491
+translate russian wolves_ceremony_2_5e0ab79c:
+
+    # se "Hey, welcome in."
+    se "Эй, добро пожаловать."
+
+# game/v7/v7.rpy:8496
+translate russian wolves_ceremony_2_1acd9503:
+
+    # u "Yeah thanks."
+    u "Да, спасибо."
+
+# game/v7/v7.rpy:8506
+translate russian wolves_ceremony_2_e0d7ef3a:
+
+    # se "And don't feel so down. Not getting first isn't everything. I didn't get first either."
+    se "И не надо так расстраиваться. Не стать первым - это еще не всё. Я тоже не был первым."
+
+# game/v7/v7.rpy:8511
+translate russian wolves_ceremony_2_1ad69e69:
+
+    # u "Oh, I wasn't-"
+    u "О, я не..."
+
+# game/v7/v7.rpy:8516
+translate russian wolves_ceremony_2_e28bb392:
+
+    # se "Yeah some of the problem solving stuff not my thing, but I'm strong. Haha. Am I right?"
+    se "Да, некоторые решения проблем - не мой конек, но я сильный. Хаха. Я прав?"
+
+# game/v7/v7.rpy:8521
+translate russian wolves_ceremony_2_e3e9142f:
+
+    # u "Uh sure."
+    u "Конечно."
+
+# game/v7/v7.rpy:8526
+translate russian wolves_ceremony_2_174656ef:
+
+    # se "So you getting in the ring this year?"
+    se "Так ты выйдешь на ринг в этом году?"
+
+# game/v7/v7.rpy:8531
+translate russian wolves_ceremony_2_16df3fe4:
+
+    # u "Yeah, we'll see."
+    u "Да, посмотрим."
+
+# game/v7/v7.rpy:8536
+translate russian wolves_ceremony_2_9908531f:
+
+    # se "Don't worry my guy. I got you. I'll show you some tricks."
+    se "Не волнуйся, мой парень. Я тебя поймал. Я покажу тебе несколько трюков."
+
+# game/v7/v7.rpy:8541
+translate russian wolves_ceremony_2_d34bdfef:
+
+    # u "Oh, thanks."
+    u "О, спасибо."
+
+# game/v7/v7.rpy:8546
+translate russian wolves_ceremony_2_37792cd7:
+
+    # se "No worries. Come find me if you need anything."
+    se "Не беспокойся. Найдёшь меня, если тебе что-нибудь понадобится."
+
+# game/v7/v7.rpy:8551
+translate russian wolves_ceremony_2_ee01f9b9:
+
+    # u "Thanks."
+    u "Спасибо."
+
+# game/v7/v7.rpy:8563
+translate russian wolves_ceremony_2_0c82f33f:
+
+    # finn "Oh uh hey [name]. What's up?"
+    finn "О, привет [name]. Как дела?"
+
+# game/v7/v7.rpy:8568
+translate russian wolves_ceremony_2_932c0c93:
+
+    # u "Just wanna say hi. You know, now that I'm in just wanna get acquainted with everyone."
+    u "Просто хочу поздороваться. Знаешь, теперь, когда я здесь, просто хочу со всеми познакомиться."
+
+# game/v7/v7.rpy:8573
+translate russian wolves_ceremony_2_6bdc42a0:
+
+    # finn "Yeah, that's cool."
+    finn "Да, это круто."
+
+# game/v7/v7.rpy:8578
+translate russian wolves_ceremony_2_829f30e6:
+
+    # u "So how were your challenges when you did this thing? Cus man mine were rough haha."
+    u "Так как были твои испытания, когда ты это сделал? Мой Кушман был грубым хаха."
+
+# game/v7/v7.rpy:8583
+translate russian wolves_ceremony_2_a055de2d:
+
+    # finn "Uhh yeah, mine were good. Can't complain. I came in second. Stuck to the books. But you know, Chris had a lot of good to say about me."
+    finn "Э-э-э, да, мои были хороши. Не могу жаловаться. Я пришел вторым. Прилип к книгам. Но ты знаешь, Крис сказал обо мне много хорошего."
+
+# game/v7/v7.rpy:8588
+translate russian wolves_ceremony_2_3f89007d:
+
+    # u "Yeah, yeah. Makes sense. Good job. You close with Chris?"
+    u "Да, да. Имеет смысл. Хорошая работа. Ты близок с Крисом?"
+
+# game/v7/v7.rpy:8593
+translate russian wolves_ceremony_2_e6f1b4b4:
+
+    # finn "Oh, yeah totally. Chris is my bro. He needs something, I'm always his first guy."
+    finn "О, да, конечно. Крис - мой брат. Ему что-то нужно, я всегда у него на первом месте."
+
+# game/v7/v7.rpy:8598
+translate russian wolves_ceremony_2_f9707607:
+
+    # u "Oh okay. Well that's good to know."
+    u "О, ладно. Что ж, приятно это знать."
+
+# game/v7/v7.rpy:8603
+translate russian wolves_ceremony_2_0aa627cc:
+
+    # finn "Yeah, well catch you around."
+    finn "Да, мы поймаем тебя где-нибудь поблизости."
+
+# game/v7/v7.rpy:8608
+translate russian wolves_ceremony_2_505a3f68:
+
+    # u "Yeah."
+    u "Ага."
+
+# game/v7/v7.rpy:8617
+translate russian wolves_ceremony_2_23343ceb:
+
+    # finn "Oh, hey. What's up? You're a Wolf now."
+    finn "О, привет. Как дела? Теперь ты Волк."
+
+# game/v7/v7.rpy:8622
+translate russian wolves_ceremony_2_fd0ee87e:
+
+    # u "Yeah just glad to have made it in. Hardly made the cut."
+    u "Да, просто рад, что добрался сюда. Едва попал в список."
+
+# game/v7/v7.rpy:8627
+translate russian wolves_ceremony_2_acaffe5e:
+
+    # finn "Oh don't worry about that. You're here now! Coming in last isn't so bad anyway."
+    finn "Не беспокойтесь об этом. Теперь ты здесь! В любом случае, занять последнее место не так уж плохо."
+
+# game/v7/v7.rpy:8632
+translate russian wolves_ceremony_2_dfc524fc:
+
+    # u "Did you place last in yours?"
+    u "Ты занял последнее место?"
+
+# game/v7/v7.rpy:8637
+translate russian wolves_ceremony_2_637c2a0b:
+
+    # finn "Me? No I got second. But even though I didn't place first, Chris still had a lot of good to say about me."
+    finn "Я? Нет, я занял второе место. Но даже если я не занял первое место, Крис всё равно сказал обо мне много хорошего."
+
+# game/v7/v7.rpy:8642
+translate russian wolves_ceremony_2_638baf2f:
+
+    # u "Yeah that's cool. You guys are tight then?"
+    u "Да, это круто. Вы, ребята, крепко общаетесь?"
+
+# game/v7/v7.rpy:8647
+translate russian wolves_ceremony_2_3ddf1ce2:
+
+    # finn "Yeah, whenever Chris needs something, I'm always his first guy to call."
+    finn "Да, когда Крису что-то нужно, я всегда первый, кому он звонит."
+
+# game/v7/v7.rpy:8652
+translate russian wolves_ceremony_2_a9ee5802:
+
+    # u "That's cool."
+    u "Это круто."
+
+# game/v7/v7.rpy:8657
+translate russian wolves_ceremony_2_065388d8:
+
+    # finn "I'm just dependable you know. That's all. I like to play by the rules."
+    finn "Я просто надежный, знаешь ли. Вот и всё. Мне нравится играть по правилам."
+
+# game/v7/v7.rpy:8662
+translate russian wolves_ceremony_2_8df15829:
+
+    # u "Yeah... I get it. Well, nice talking to you. See you around."
+    u "Да... Я понял. Что ж, приятно было пообщаться. Увидимся."
+
+# game/v7/v7.rpy:8667
+translate russian wolves_ceremony_2_6b6f27b8:
+
+    # finn "Bye."
+    finn "Пока."
+
+# game/v7/v7.rpy:8675
+translate russian wolves_ceremony_2_89fa514d:
+
+    # ch "Let me show you to your room."
+    ch "Позволь проводить тебя в твою комнату."
+
+# game/v7/v7.rpy:8680
+translate russian wolves_ceremony_2_b9c4fde3:
+
+    # u "Okay."
+    u "Окей."
+
+# game/v7/v7.rpy:8690
+translate russian wolves_ceremony_2_e4191a8e:
+
+    # ch "Here's your room. You can unpack and get settled."
+    ch "Вот твоя комната. Можешь распаковывать вещи и обустраиваться."
+
+# game/v7/v7.rpy:8695
+translate russian wolves_ceremony_2_ee01f9b9_1:
+
+    # u "Thanks."
+    u "Спасибо."
+
+# game/v7/v7.rpy:8700
+translate russian wolves_ceremony_2_6a63a084:
+
+    # ch "No problem. Come get me if you need anything."
+    ch "Нет проблем. Приходи ко мне, если тебе что-нибудь понадобится."
+
+# game/v7/v7.rpy:8705
+translate russian wolves_ceremony_2_5d02055e:
+
+    # u "Will do."
+    u "Будет сделано."
+
+# game/v7/v7.rpy:8715
+translate russian wolves_ceremony_2_820a8d6c:
+
+    # u "Man, I can't believe it. Joined the Wolves. Moved in here. This is gonna be dope as fuck! I gotta get on my fight training too."
+    u "Блин, не могу поверить. Присоединился к Волкам. Переехал сюда. Это будет охренительно круто! Мне тоже надо заняться боевой подготовкой."
+
+# game/v7/v7.rpy:8725
+translate russian wolves_ceremony_2_9f7dd0ca:
+
+    # guyd "Oh hey! You're in here."
+    guyd "О, привет! Ты здесь."
+
+# game/v7/v7.rpy:8730
+translate russian wolves_ceremony_2_192a807a:
+
+    # u "Yeah, what's up?"
+    u "Да, что случилось?"
+
+# game/v7/v7.rpy:8735
+translate russian wolves_ceremony_2_623b6355:
+
+    # guyd "We're gonna play charades. 3 versus 3. Old Wolves vs New Wolves. We'll need you on the team."
+    guyd "Мы будем играть в шарады. 3 против 3. Старые Волки против Новых Волков. Ты нужен нам в команде."
+
+# game/v7/v7.rpy:8740
+translate russian wolves_ceremony_2_4b2c2541:
+
+    # u "Alright, cool."
+    u "Хорошо, круто."
+
+# game/v7/v7.rpy:8755
+translate russian wolves_ceremony_2_e36e3089:
+
+    # u "I'm just gonna go and find Imre."
+    u "Пойду найду Имре."
+
+# game/v7/v7.rpy:8761
+translate russian wolves_ceremony_2_23b0a598:
+
+    # u "Hey, what're you doing out here?"
+    u "Эй, что ты здесь делаешь?"
+
+# game/v7/v7.rpy:8766
+translate russian wolves_ceremony_2_e83a01d8:
+
+    # imre "Getting some air."
+    imre "Дышу свежим воздухом."
+
+# game/v7/v7.rpy:8771
+translate russian wolves_ceremony_2_44a16469:
+
+    # u "You good?"
+    u "Ты в порядке?"
+
+# game/v7/v7.rpy:8776
+translate russian wolves_ceremony_2_36629ad9:
+
+    # imre "I'm great man. I have a good feeling about this year."
+    imre "Я в порядке. У меня хорошее предчувствие насчет этого года."
+
+# game/v7/v7.rpy:8781
+translate russian wolves_ceremony_2_0034a72c:
+
+    # u "Yeah it's gonna be amazing. We're Wolves now!"
+    u "Да, это будет потрясающе. Мы теперь Волки!"
+
+# game/v7/v7.rpy:8786
+translate russian wolves_ceremony_2_6d53c48b:
+
+    # imre "Feels like I've been waiting for this moment since my brother was in the Wolves."
+    imre "Такое чувство, что я ждал этого момента с тех пор, как мой брат был в Волках."
+
+# game/v7/v7.rpy:8791
+translate russian wolves_ceremony_2_5988b32e:
+
+    # u "And you made it!"
+    u "И у тебя получилось!"
+
+# game/v7/v7.rpy:8796
+translate russian wolves_ceremony_2_e9a64fee:
+
+    # imre "Man, we made it! Haha."
+    imre "Чувак, мы сделали это! Хаха."
+
+# game/v7/v7.rpy:8801
+translate russian wolves_ceremony_2_883cff4b:
+
+    # u "Haha yeah, but really this year is gonna be dope as fuck."
+    u "Хаха да, но на самом деле этот год будет охренительным."
+
+# game/v7/v7.rpy:8806
+translate russian wolves_ceremony_2_5a6f11d4:
+
+    # imre "Remember meeting the first day?"
+    imre "Помнишь нашу встречу в первый день?"
+
+# game/v7/v7.rpy:8811
+translate russian wolves_ceremony_2_681cdbbb:
+
+    # u "Yeah I mean I knew college was gonna be dope, but I didn't even think about joining a frat."
+    u "Да, я знал, что в колледже будет круто, но я даже не думал о вступлении в братство."
+
+# game/v7/v7.rpy:8816
+translate russian wolves_ceremony_2_934cb241:
+
+    # imre "I didn't see you one joining one either. Haha."
+    imre "Я тоже не видел, чтобы ты один присоединялся к другому. Хаха."
+
+# game/v7/v7.rpy:8821
+translate russian wolves_ceremony_2_8a2e3c69:
+
+    # u "Ay what's that supposed to mean?"
+    u "Да, что это должно означать?"
+
+# game/v7/v7.rpy:8826
+translate russian wolves_ceremony_2_06eb471a:
+
+    # imre "Just that you know, you were a bit of a-"
+    imre "Просто то, что ты знаешь, ты был немного-"
+
+# game/v7/v7.rpy:8831
+translate russian wolves_ceremony_2_dd3894ec:
+
+    # u "A what?"
+    u "Что?"
+
+# game/v7/v7.rpy:8836
+translate russian wolves_ceremony_2_746c996e:
+
+    # imre "I'm fuckin with you! Haha."
+    imre "Я тебя заебал! Хаха."
+
+# game/v7/v7.rpy:8841
+translate russian wolves_ceremony_2_e997f2f0:
+
+    # u "You always fuckin with me."
+    u "Вечно ты меня подкалываешь."
+
+# game/v7/v7.rpy:8851
+translate russian wolves_ceremony_2_1facc401:
+
+    # imre "That's what I'm here for."
+    imre "Вот для чего я тут."
+
+# game/v7/v7.rpy:8856
+translate russian wolves_ceremony_2_faf45bbd:
+
+    # u "Alright, I'm gonna head in. Try to actually get some sleep."
+    u "Ладно, я пойду. Попытаюсь поспать."
+
+# game/v7/v7.rpy:8861
+translate russian wolves_ceremony_2_c95098b8:
+
+    # imre "Okay. Goodnight."
+    imre "Хорошо. Спокойной ночи."
+
+# game/v7/v7.rpy:8866
+translate russian wolves_ceremony_2_bceb4588:
+
+    # u "Night."
+    u "Спокойной."
+
+# game/v7/v7.rpy:8876
+translate russian wolves_ceremony_2_0e2994fa:
+
+    # u "I should probably get some sleep."
+    u "Мне, наверное, нужно поспать."
+
+# game/v7/v7.rpy:9305
+translate russian phoneba_3970a544:
+
+    # aut "I appreciate the witty stuff, but I like to be direct. Feels like it gets right to the point. The more we fight, the more progress we will make."
+    aut "Я ценю остроумные вещи, но мне нравится быть прямой. Чувствую, что попадаю прямо в точку. Чем больше мы будем бороться, тем большего прогресса мы добьемся."
+
+# game/v7/v7.rpy:9378
+translate russian phoneba_9916be1d:
+
+    # aut "Your empathy is admirable."
+    aut "Твоё сочувствие достойно восхищения."
+
+# game/v7/v7.rpy:9418
+translate russian phoneba_49b29297:
+
+    # aut "This movement definitely needs more men. Actually, I take that back. Haha. More men just need to realize their given privileges and stop being in denial."
+    aut "Этому движению определенно нужно больше мужчин. Вообще-то, я беру свои слова обратно. Хаха. Большинство мужчин просто должны осознать свои привилегии и перестать их отрицать."
+
+# game/v7/v7.rpy:9463
+translate russian phoneba_b58a88f7:
+
+    # u "I mean sex. That is the core to a man's mind."
+    u "Я имею в виду секс. Это основа мужского разума."
+
+# game/v7/v7.rpy:9669
+translate russian v7_homecoming_0c0681a5:
+
+    # u "(Probably should get going to Amber's soon.)"
+    u "(Наверное, скоро надо будет идти к Эмбер.)"
+
+# game/v7/v7.rpy:9671
+translate russian v7_homecoming_d763b96b:
+
+    # u "(I don't know about doing drugs. Molly? Fuck, I don't know...)"
+    u "(Я не знаю насчет наркотиков. Молли? Блядь, я не знаю...)"
+
+# game/v7/v7.rpy:9673
+translate russian v7_homecoming_b01d6037:
+
+    # u "(I've never done anything like this, but I guess if there's ever a time to do it, it's now.)"
+    u "(Я никогда не делал ничего подобного, но, думаю, если и есть время сделать это, то сейчас.)"
+
+# game/v7/v7.rpy:9678
+translate russian v7_homecoming_b2c0fe8d:
+
+    # u "(I should probably start getting my suit on and get ready for homecoming.)"
+    u "(Мне, наверное, пора надевать костюм и готовиться к встрече выпускников)."
+
+# game/v7/v7.rpy:9689
+translate russian v7_homecoming_9ef914e0:
+
+    # u "(Time to pick up Chloe. Can't believe she's actually my date...)"
+    u "(Пора забирать Хлою. Не могу поверить, что она действительно моя пара...)"
+
+# game/v7/v7.rpy:9694
+translate russian v7_homecoming_1df8e6c3:
+
+    # u "(Time to pick up Emily. Let's hope this goes well...)"
+    u "(Пора забирать Эмили. Будем надеяться, что все пройдет хорошо...)"
+
+# game/v7/v7.rpy:9699
+translate russian v7_homecoming_ca7d639f:
+
+    # u "(Time to pick up Lauren. I bet she looks stunning in her dress...)"
+    u "(Пора забирать Лорен. Уверен, она выглядит потрясающе в своем платье...)"
+
+# game/v7/v7.rpy:9704
+translate russian v7_homecoming_76e5392e:
+
+    # u "(Time to pick up Penelope. She's gonna make a great date...)"
+    u "(Пора забрать Пенелопу. Она собирается устроить отличное свидание...)"
+
+# game/v7/v7.rpy:9709
+translate russian v7_homecoming_93462a9b:
+
+    # u "(Time to pick up Riley. This is gonna be an amazing night...)"
+    u "(Время забрать Райли. Это будет потрясающая ночь...)"
+
+# game/v7/v7.rpy:9714
+translate russian v7_homecoming_91c0286e:
+
+    # u "(I'm sure going without a date has a lot of advantages...)"
+    u "(Я уверен, что у хождения без пары есть свои преимущества...)"
+
+# game/v7/v7.rpy:11801
+translate russian penelopehocodate_e63f438c:
+
+    # pe "No way, you were never cliff jumping."
+    pe "Не может быть, ты никогда не прыгал с обрыва."
+
+# game/v7/v7.rpy:12819
+translate russian chloe_dance_290c3312:
+
+    # cl "Being a fraternity President is exhausting, but it doesn't mean you can treat the people around you like they're unimportant."
+    cl "Быть президентом братства утомительно, но это не значит, что вы можете относиться к окружающим вас людям так, как будто они ничего не значат."
+
+# game/v7/v7.rpy:14116
+translate russian fr4nora1_f3a14539:
+
+    # u "Women, am I right? Haha."
+    u "Женщины, я прав? Хаха."
+
+# game/v7/v7.rpy:14909
+translate russian fr4nora2_766dc312:
+
+    # u "I mean I get where he's coming from. He's got his own priorities to deal with too. And he's President of a frat-"
+    u "Я понимаю, к чему он клонит. У него тоже есть свои приоритеты. И он президент братства..."
+
+# game/v7/v7.rpy:16871
+translate russian fr4samantha1_928c17e2:
+
+    # u "Uhm, I'm good right now, but thanks."
+    u "У меня сейчас все хорошо, но спасибо."
+
+translate russian strings:
+
+    # game/v7/v7.rpy:261
+    old "That's really impressive"
+    new "Это впечатляет"
+
+    # game/v7/v7.rpy:1192
+    old "Yeah, I'd like that"
+    new "Да, я бы хотел"
+
+    # game/v7/v7.rpy:1192
+    old "Uhm... I shouldn't"
+    new "Гм... Я не должен"
+
+    # game/v7/v7.rpy:1700
+    old "I can't today"
+    new "Я сегодня не могу"
+
+    # game/v7/v7.rpy:1912
+    old "This won't happen again"
+    new "Этого больше не повторится"
+
+    # game/v7/v7.rpy:2237
+    old "Almost as cute as you"
+    new "Почти такой же милый, как ты"
+
+    # game/v7/v7.rpy:2237
+    old "Yeah, he really is"
+    new "Да, так и есть"
+
+    # game/v7/v7.rpy:2291
+    old "Yes, of course"
+    new "Да, конечно"
+
+    # game/v7/v7.rpy:2366
+    old "That's really cool"
+    new "Это очень круто"
+
+    # game/v7/v7.rpy:3249
+    old "You're cute"
+    new "Ты такая милашка"
+
+    # game/v7/v7.rpy:3249
+    old "I won't"
+    new "Не попаду"
+
+    # game/v7/v7.rpy:4162
+    old "True"
+    new "Правда"
+
+    # game/v7/v7.rpy:4162
+    old "False"
+    new "Ложь"
+
+    # game/v7/v7.rpy:6596
+    old "Alright, I'm in"
+    new "Хорошо, я в деле"
+
+    # game/v7/v7.rpy:6596
+    old "I'd rather go to the dance"
+    new "Я лучше пойду на танцы"
+
+    # game/v7/v7.rpy:11749
+    old "You didn't have four cats"
+    new "У тебя не было четырех кошек"
+
+    # game/v7/v7.rpy:11749
+    old "You didn't have six lizards"
+    new "У тебя не было шести ящериц"
+
+    # game/v7/v7.rpy:11816
+    old "You didn't lose your virginity"
+    new "Ты не потеряла девственность"
+
+    # game/v7/v7.rpy:11816
+    old "You didn't learn to drive"
+    new "Ты не научилась водить машину"
+
+    # game/v7/v7.rpy:14743
+    old "Alright, let's go"
+    new "Хорошо, пошли"
+
+    # game/v7/v7.rpy:14743
+    old "I can't ditch my date"
+    new "Я не могу отказаться от свидания"
+
+    # game/v7/v7.rpy:14870
+    old "Agree with Nora"
+    new "Согласиться с Норой"
+
+    # game/v7/v7.rpy:14870
+    old "Defend Chris"
+    new "Защитить Криса"
+
+    # game/v7/v7.rpy:15159
+    old "I'm not really feeling it"
+    new "На самом деле я этого не чувствую"
+
+    # game/v7/v7.rpy:15933
+    old "I like your dress"
+    new "Мне нравится твое платье"
+
+    # game/v7/v7.rpy:15933
+    old "I'll let you get back"
+    new "Я позволю тебе вернуться"
+
+    # game/v7/v7.rpy:16062
+    old "You got this"
+    new "Ты справишься"
+
+    # game/v7/v7.rpy:16062
+    old "Or we could just leave"
+    new "Или мы могли бы просто уйти"
+
+    # game/v7/v7.rpy:16207
+    old "Don't do that"
+    new "Не делай этого"
+
+    # game/v7/v7.rpy:16207
+    old "Alright, enjoy"
+    new "Хорошо, наслаждайся"
+
+    # game/v7/v7.rpy:16454
+    old "Of course you can"
+    new "Конечно ты можешь"
+
+    # game/v7/v7.rpy:16454
+    old "Let's get out of here"
+    new "Давай выбираться отсюда"
+

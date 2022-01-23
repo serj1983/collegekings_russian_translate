@@ -946,3 +946,12 @@ translate russian strings:
     old "Be supportive"
     new "Поддержи её"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v10/scene22.rpy:302
+translate russian v10_cafe_w_jenny_58965fa2:
+
+    # u "And if they don't then I'll just rob a bank for you."
+    u "А если они этого не сделают, то я просто ограблю для тебя банк."

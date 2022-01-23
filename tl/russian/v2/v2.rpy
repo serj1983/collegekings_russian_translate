@@ -4184,3 +4184,145 @@ translate russian strings:
     old "Be funny"
     new "Шутить"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v2/v2.rpy:2700
+translate russian try1done_99e8b499:
+
+    # u "(Yeah- still look the same as a viking as I did before.)"
+    u "(Да, я все еще выгляжу как викинг, как и раньше)."
+
+# game/v2/v2.rpy:2702
+translate russian try1done_5fa5fedc:
+
+    # u "(I should really just choose a costume to buy.)"
+    u "(На самом деле мне нужно просто выбрать костюм для покупки)."
+
+# game/v2/v2.rpy:2839
+translate russian try2done_f4682677:
+
+    # u "(I mean looking at the Knight costume now, I notice that...)"
+    u "(То есть, глядя сейчас на костюм рыцаря, я это заметил...)"
+
+# game/v2/v2.rpy:2841
+translate russian try2done_99bbfeb1:
+
+    # u "(... it looks exactly the same as before.)"
+    u "(... он выглядит точно так же, как и раньше)."
+
+# game/v2/v2.rpy:2994
+translate russian try3done_7329024c:
+
+    # u "(The more I wear this, the more I feel like I would make a great cowboy.)"
+    u "(Чем больше я его ношу, тем больше мне кажется, что из меня получился бы отличный ковбой)."
+
+# game/v2/v2.rpy:3234
+translate russian try4done_0d76acd2:
+
+    # u "(Yeah- still look the same as a Viking as I did before.)"
+    u "(Да, я все еще выгляжу как викинг, как и раньше)."
+
+# game/v2/v2.rpy:3236
+translate russian try4done_5fa5fedc:
+
+    # u "(I should really just choose a costume to buy.)"
+    u "(На самом деле мне нужно просто выбрать костюм для покупки)."
+
+# game/v2/v2.rpy:3379
+translate russian try5done_f4682677:
+
+    # u "(I mean looking at the Knight costume now, I notice that...)"
+    u "(То есть, глядя сейчас на костюм рыцаря, я это заметил...)"
+
+# game/v2/v2.rpy:3381
+translate russian try5done_99bbfeb1:
+
+    # u "(... it looks exactly the same as before.)"
+    u "(... он выглядит точно так же, как и раньше)."
+
+# game/v2/v2.rpy:3518
+translate russian try6done_7329024c:
+
+    # u "(The more I wear this, the more I feel like I would make a great cowboy.)"
+    u "(Чем больше я его ношу, тем больше мне кажется, что из меня получился бы отличный ковбой)."
+
+translate russian strings:
+
+    # game/v2/v2.rpy:140
+    old "Hmm... maybe"
+    new "Хм... может быть"
+
+    # game/v2/v2.rpy:140
+    old "I'm not fighting"
+    new "Я не дерусь"
+
+    # game/v2/v2.rpy:166
+    old "I won't fight"
+    new "Я не буду драться"
+
+    # game/v2/v2.rpy:1173
+    old "There was something there"
+    new "Между нами что-то есть"
+
+    # game/v2/v2.rpy:1173
+    old "Let's forget about it"
+    new "Забудем об этом"
+
+    # game/v2/v2.rpy:1262
+    old "Give me a chance"
+    new "Дай мне шанс"
+
+    # game/v2/v2.rpy:1808
+    old "Okay, I guess"
+    new "Ладно, наверное"
+
+    # game/v2/v2.rpy:1808
+    old "No, sorry"
+    new "Нет, прости"
+
+    # game/v2/v2.rpy:1881
+    old "I'm still single"
+    new "Я всё ещё свободен"
+
+    # game/v2/v2.rpy:1956
+    old "It was adorable"
+    new "Это было восхитительно"
+
+    # game/v2/v2.rpy:1956
+    old "It was so funny"
+    new "Это было так забавно"
+
+    # game/v2/v2.rpy:2098
+    old "Sure, knock yourself out"
+    new "Конечно, валяй"
+
+    # game/v2/v2.rpy:2098
+    old "Stay away from her"
+    new "Отвали"
+
+    # game/v2/v2.rpy:2776
+    old "It's kinda hot"
+    new "Довольно горячо"
+
+    # game/v2/v2.rpy:2776
+    old "It's definitely something"
+    new "В этом что-то есть"
+
+    # game/v2/v2.rpy:2912
+    old "looking mighty fine"
+    new "выглядит впечатляюще"
+
+    # game/v2/v2.rpy:2912
+    old "certainly practical"
+    new "безусловно, практичный"
+
+    # game/v2/v2.rpy:3062
+    old "Oh come on"
+    new "Да ладно тебе"
+
+    # game/v2/v2.rpy:3320
+    old "You look beautiful"
+    new "Ты прекрасно выглядишь"
+

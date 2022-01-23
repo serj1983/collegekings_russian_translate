@@ -343,3 +343,186 @@ translate russian strings:
     old "Yeah"
     new "Ага"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v11/scene27.rpy:171
+translate russian v11_bartender_hotel_chat_5c170ea5_1:
+
+    # bartender "I've seen a lot of cute girls with you on the trip, I'm sure you think they're really pretty too. So, what about me?"
+    bartender "Я видела много симпатичных девушек с тобой в поездке, уверена, что ты тоже считаешь их очень симпатичными. Так, а как насчет меня?"
+
+# game/v11/scene27.rpy:186
+translate russian v11_bartender_hotel_chat_4334d653_1:
+
+    # u "You're very pretty."
+    u "Ты очень хорошенькая."
+
+# game/v11/scene27.rpy:191
+translate russian v11_bartender_hotel_chat_4e563043_1:
+
+    # bartender "That's sweet of you. I know you live in a whole other country, but I could be your little European girlfriend."
+    bartender "Это очень мило с твоей стороны. Я знаю, что ты живешь в совершенно другой стране, но я могла бы быть твоей маленькой европейской подружкой."
+
+# game/v11/scene27.rpy:212
+translate russian v11s27_bartender_yes_9683ffbe:
+
+    # bartender "I don't think you could handle a woman my age."
+    bartender "Я не думаю, что ты смог бы справиться с женщиной моего возраста."
+
+# game/v11/scene27.rpy:217
+translate russian v11s27_bartender_yes_9559e2d6:
+
+    # u "That feels a little insulting..."
+    u "Это немного оскорбительно..."
+
+# game/v11/scene27.rpy:222
+translate russian v11s27_bartender_yes_00e37275:
+
+    # bartender "*Chuckles* So you think you could?"
+    bartender "*Хихикает* Так ты думаешь, что смог бы?"
+
+# game/v11/scene27.rpy:227
+translate russian v11s27_bartender_yes_07c612b3:
+
+    # u "Well..."
+    u "Может..."
+
+# game/v11/scene27.rpy:232
+translate russian v11s27_bartender_yes_f38332ea:
+
+    # bartender "What would you do with a woman like me?"
+    bartender "Что бы ты сделал с такой женщиной, как я?"
+
+# game/v11/scene27.rpy:247
+translate russian v11s27_bartender_yes_acd3a970:
+
+    # u "(What is going on with her?)"
+    u "(Что с ней происходит?)"
+
+# game/v11/scene27.rpy:252
+translate russian v11s27_bartender_yes_52a670c3:
+
+    # bartender "You look flustered."
+    bartender "Ты выглядишь взволнованно."
+
+# game/v11/scene27.rpy:257
+translate russian v11s27_bartender_yes_eaf371d8:
+
+    # bartender "*Whisper* It's too bad I have a boyfriend."
+    bartender "*Шепотом* Как жаль, что у меня есть парень."
+
+# game/v11/scene27.rpy:262
+translate russian v11s27_bartender_yes_baf23d4d:
+
+    # u "What was all that for then?"
+    u "Что все это было за?"
+
+# game/v11/scene27.rpy:267
+translate russian v11s27_bartender_yes_389aa1cd:
+
+    # bartender "*Laughs* I'm a bored bartender and I love teasing guys like you. It's what makes this job worth it."
+    bartender "*Смеется* Я скучающий бармен, и мне нравится дразнить таких парней, как ты. Это то, что делает эту работу стоящей того."
+
+# game/v11/scene27.rpy:272
+translate russian v11s27_bartender_yes_33073aa2:
+
+    # u "I'll have to remember that when I go to bars from now on."
+    u "Отныне мне придется помнить об этом, когда я буду ходить в бары."
+
+# game/v11/scene27.rpy:277
+translate russian v11s27_bartender_yes_273405f4:
+
+    # bartender "Haha, are you drinking anything else?"
+    bartender "Ха-ха, ты выпьешь что-нибудь ещё?"
+
+# game/v11/scene27.rpy:282
+translate russian v11s27_bartender_yes_2195f54e:
+
+    # u "Not tonight."
+    u "Не сегодня."
+
+# game/v11/scene27.rpy:287
+translate russian v11s27_bartender_yes_2dcd759c:
+
+    # bartender "Well if you're done being a loner here at my counter I'd love to get to cleaning."
+    bartender "Что ж, если тебе надоело быть одиночкой здесь, у моей стойки, я бы с удовольствием занялась уборкой."
+
+# game/v11/scene27.rpy:292
+translate russian v11s27_bartender_yes_acb99ae3:
+
+    # u "My bad."
+    u "Моя вина."
+
+# game/v11/scene27.rpy:297
+translate russian v11s27_bartender_yes_2902a1e3:
+
+    # bartender "It was nice chatting, have a good night love."
+    bartender "Было приятно поболтать, спокойной ночи, любовь моя."
+
+# game/v11/scene27.rpy:302
+translate russian v11s27_bartender_yes_9fb611a7:
+
+    # u "You too."
+    u "Тебе тоже."
+
+# game/v11/scene27.rpy:337
+translate russian v11s27_bartender_no_f45b01ae:
+
+    # u "Well, you're not my type, but people like what they like."
+    u "Ну, ты не в моем вкусе, но людям нравится то, что им нравится."
+
+# game/v11/scene27.rpy:342
+translate russian v11s27_bartender_no_f7d7d48e:
+
+    # bartender "So I'm ugly?"
+    bartender "Значит, я уродина?"
+
+# game/v11/scene27.rpy:347
+translate russian v11s27_bartender_no_3040bd6d:
+
+    # u "That's not what I said."
+    u "Это не то, что я сказал."
+
+# game/v11/scene27.rpy:352
+translate russian v11s27_bartender_no_40c2be51:
+
+    # bartender "That's how it came off."
+    bartender "Вот так это получилось."
+
+# game/v11/scene27.rpy:357
+translate russian v11s27_bartender_no_d8d86ad5:
+
+    # u "Can we just not talk?"
+    u "Можем мы просто не разговаривать?"
+
+# game/v11/scene27.rpy:362
+translate russian v11s27_bartender_no_7d9c8a18:
+
+    # bartender "So you just call a girl ugly and then don't want to talk anymore?"
+    bartender "То есть ты просто называешь девушку уродливой, а потом не хочешь больше разговаривать?"
+
+# game/v11/scene27.rpy:367
+translate russian v11s27_bartender_no_3cc7fcdb:
+
+    # u "I didn't call you ugly, but if I did, why would you want to talk to me?"
+    u "Я не называл тебя уродиной, но если бы назвал, зачем бы ты хотела со мной разговаривать?"
+
+# game/v11/scene27.rpy:372
+translate russian v11s27_bartender_no_0f808041:
+
+    # bartender "So you did call me ugly!"
+    bartender "Так ты назвал меня уродливой!"
+
+# game/v11/scene27.rpy:377
+translate russian v11s27_bartender_no_a31ab654:
+
+    # u "I'm just gonna go..."
+    u "Я просто пойду..."
+
+# game/v11/scene27.rpy:382
+translate russian v11s27_bartender_no_7f24aa95:
+
+    # bartender "I'm married anyway you jerk!"
+    bartender "Я все равно замужем, придурок!"

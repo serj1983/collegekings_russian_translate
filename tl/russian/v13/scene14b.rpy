@@ -426,3 +426,18 @@ translate russian strings:
     old "Have fun"
     new "Повеселиться"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v13/scene14b.rpy:20
+translate russian v13s14b_25cd2512:
+
+    # u "Oh shit, this is a club, club!"
+    u "О чёрт, это клуб, клуб!"
+
+# game/v13/scene14b.rpy:31
+translate russian v13s14b_ef0ca01d:
+
+    # u "I don't know, but I wasn't expecting this..."
+    u "Я не знаю, но я не ожидал этого..."

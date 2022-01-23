@@ -457,3 +457,12 @@ translate russian strings:
     old "I haven't decided yet"
     new "Я еще не решил"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v13/scene8.rpy:397
+translate russian v13s8_4669c0d5:
+
+    # no "It did at first, but then she became President and our disagreements started to show."
+    no "Поначалу так и было, но потом она стала президентом, и наши разногласия стали проявляться."

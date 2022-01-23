@@ -1424,3 +1424,12 @@ translate russian strings:
     old "Thanks for doing the event Autumn!"
     new "Спасибо, что провела мероприятие Отэм!"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v11/scene1.rpy:1115
+translate russian v11_case_verdict_abc39474:
+
+    # u "Thank you, Mr. Lee."
+    u "Спасибо вам, мистер Ли."

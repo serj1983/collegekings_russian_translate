@@ -394,7 +394,7 @@ translate russian v13s12c_1eed690d:
 translate russian v13s12c_c90f7157:
 
     # au "Thanks for coming up here with me, even though we didn't really have a concert. *Chuckles*"
-    au "Спасибо, что пришёл сюда со мной, хотя на самом деле у нас не было концерта. *Хихикает*"*Хихикает* Да, не за что.
+    au "Спасибо, что пришёл сюда со мной, хотя на самом деле у нас не было концерта. *Хихикает*"
 
 # game/v13/scene12c.rpy:394
 translate russian v13s12c_c6ffe0ea:
@@ -420,3 +420,18 @@ translate russian strings:
     old "Lindsey"
     new "Линдси"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v13/scene12c.rpy:160
+translate russian v13s12c_f81f2cfe:
+
+    # au "And don't even get me started on the whole \"Lindsey for President\" stuff."
+    au "И даже не начинайте мне рассказывать о всяких \"Линдси в президенты\"."
+
+# game/v13/scene12c.rpy:348
+translate russian v13s12c_99c1503c:
+
+    # u "Chloe is a senior and the current President, which means at some point people obviously had faith in her leadership."
+    u "Хлоя - выпускница и действующий президент, что означает, что в какой-то момент люди поверили в её лидерство."

@@ -494,3 +494,12 @@ translate russian strings:
     old "Defend her"
     new "Защитить её"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v13/scene12a.rpy:188
+translate russian v13s12a_04c7f2d1:
+
+    # au "*SINGING* I CAN *MUMBLE* *MUMBLE* LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL!"
+    au "*ПОЁТ* Я МОГУ *БОРМОЧЕТ* *БОРМОЧЕТ* ЛЮБОВЬ КАК БАТАРЕЙКА, ОНА ПИТАЕТ МОЮ ДУШУ!"

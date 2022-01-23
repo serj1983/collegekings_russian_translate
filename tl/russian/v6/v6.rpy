@@ -11614,3 +11614,215 @@ translate russian strings:
     old "At least we got to talk."
     new "Хотя бы поговорили."
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v6/v6.rpy:6217
+translate russian afterpsb_83f088ac:
+
+    # pe "Pim Kossible."
+    pe "Пим Коссибл."
+
+# game/v6/v6.rpy:6222
+translate russian afterpsb_202723ba:
+
+    # u "Pim Kossible? Like from the TV show?"
+    u "Пим Коссибл? Как в телешоу?"
+
+# game/v6/v6.rpy:6242
+translate russian afterpsb_6ecc919a:
+
+    # pe "You mean Furrus? He was so cute."
+    pe "Ты имеешь в виду Furrus? Он был таким милым."
+
+# game/v6/v6.rpy:6796
+translate russian readywolf_b87ad8e1:
+
+    # u "Imre, do you know the President of the Apes?"
+    u "Имре, ты знаешь президента Приматов?"
+
+# game/v6/v6.rpy:6839
+translate russian readywolf_8b940739:
+
+    # u "Right..."
+    u "Верно..."
+
+# game/v6/v6.rpy:7975
+translate russian v6_fr3chris1_2379a89c:
+
+    # ch "And you see that guy there? That's Peter."
+    ch "Видите того парня? Это Питер."
+
+# game/v6/v6.rpy:8123
+translate russian v6_fr3chris1_2379a89c_1:
+
+    # ch "And you see that guy there? That's Peter."
+    ch "Видите того парня? Это Питер."
+
+# game/v6/v6.rpy:8891
+translate russian v6_fr3nora1_a7ec347f:
+
+    # no "I told Chloe that I don't think she's been a good President for the Chicks and she started some drama."
+    no "Я сказала Хлое, что не думаю, что она была хорошим президентом для Чикс, и она начала драму."
+
+# game/v6/v6.rpy:8896
+translate russian v6_fr3nora1_6edbc0cf:
+
+    # u "What'd she do for you to think she's not a good President?"
+    u "Что она сделала, чтобы ты считала её плохим президентом?"
+
+# game/v6/v6.rpy:8924
+translate russian v6_fr3nora1_6ebe48bc:
+
+    # u "I mean, what kinda friend are you to feed into all the shit people say about her just because you're jealous that she's the President and you're not."
+    u "Я имею в виду, какой же ты друг, если питаешься всем тем дерьмом, которое люди говорят о ней, только потому, что ты завидуешь, что она президент, а ты нет."
+
+# game/v6/v6.rpy:9157
+translate russian v6_fr3chloe1_4d585031:
+
+    # cl "*Sniff* Then all of the sudden, Nora stands up and says that I'm not doing my job well and she wants me to step down as President."
+    cl "*Фыркает* Потом внезапно Нора встаёт и говорит, что я плохо выполняю свою работу, и она хочет, чтобы я ушла с поста президента."
+
+# game/v6/v6.rpy:9235
+translate russian v6_fr3chloe1_773043d6:
+
+    # u "Nora's being stupid. You're a great President. You're smart, you're driven and you care so much..."
+    u "Нора ведет себя глупо. Ты великий президент. Ты умна, ты целеустремленна и тебе так не все равно..."
+
+# game/v6/v6.rpy:9802
+translate russian upstairsaubrey_c747a5a5:
+
+    # au "We're not hooking up if that's what you're asking."
+    au "Мы не встречаемся, если ты об этом спрашиваешь."
+
+# game/v6/v6.rpy:9901
+translate russian upstairsaubrey_901e3dc5_1:
+
+    # u "I told you, just wanted to go somewhere quiet."
+    u "Я же сказал тебе, просто хотел пойти куда-нибудь в тихое место."
+
+# game/v6/v6.rpy:9988
+translate russian upstairsaubrey_553ce212:
+
+    # au "I mean he tried to keep up, but I think I was just too much for him."
+    au "То есть он старался не отставать, но, думаю, я была для него слишком тяжела."
+
+translate russian strings:
+
+    # game/v6/v6.rpy:543
+    old "Just let it ring"
+    new "Пусть просто звонит"
+
+    # game/v6/v6.rpy:543
+    old "You should get that"
+    new "Стоит ответить"
+
+    # game/v6/v6.rpy:1592
+    old "I guess we are"
+    new "Думаю, да"
+
+    # game/v6/v6.rpy:1989
+    old "It'll be an adventure"
+    new "Это будет приключение"
+
+    # game/v6/v6.rpy:1989
+    old "It'll be a nice dinner"
+    new "Это будет хороший ужин"
+
+    # game/v6/v6.rpy:2239
+    old "Fine, I'll come"
+    new "Хорошо, я приду"
+
+    # game/v6/v6.rpy:3819
+    old "A few different girls"
+    new "Нескольких разных девушек"
+
+    # game/v6/v6.rpy:3819
+    old "No one, really"
+    new "Никого, на самом деле"
+
+    # game/v6/v6.rpy:3848
+    old "I think you know"
+    new "Думаю, ты знаешь"
+
+    # game/v6/v6.rpy:3848
+    old "We're just friends"
+    new "Мы просто друзья"
+
+    # game/v6/v6.rpy:3914
+    old "You got me"
+    new "Ты меня раскусила"
+
+    # game/v6/v6.rpy:3914
+    old "I'm not seducing you"
+    new "Я не соблазняю тебя"
+
+    # game/v6/v6.rpy:4818
+    old "I'm in"
+    new "Я с тобой"
+
+    # game/v6/v6.rpy:4818
+    old "I'm not in"
+    new "Я против"
+
+    # game/v6/v6.rpy:5828
+    old "Okay, I'll do it"
+    new "Хорошо, я сделаю это"
+
+    # game/v6/v6.rpy:5828
+    old "No way I'm doing that"
+    new "Я ни за что этого не сделаю"
+
+    # game/v6/v6.rpy:5860
+    old "Act out a lullaby"
+    new "Разыграть колыбельную"
+
+    # game/v6/v6.rpy:5860
+    old "Make something up"
+    new "Придумать что-нибудь"
+
+    # game/v6/v6.rpy:7515
+    old "Anything for a girl like that"
+    new "Что угодно для такой девушки"
+
+    # game/v6/v6.rpy:7666
+    old "I was in love"
+    new "Я был влюблен"
+
+    # game/v6/v6.rpy:7666
+    old "It was nothing"
+    new "Ничего особенного"
+
+    # game/v6/v6.rpy:8576
+    old "You're such a tease"
+    new "Как же ты дразнишь"
+
+    # game/v6/v6.rpy:8576
+    old "Not gonna happen"
+    new "Не случится"
+
+    # game/v6/v6.rpy:9168
+    old "Maybe you should step down"
+    new "Может, тебе лучше уйти"
+
+    # game/v6/v6.rpy:9168
+    old "Nora's being stupid"
+    new "Нора ведет себя глупо"
+
+    # game/v6/v6.rpy:9856
+    old "We could lock the door"
+    new "Мы можем запереть дверь"
+
+    # game/v6/v6.rpy:9856
+    old "It was nice talking"
+    new "Приятно было поболтать"
+
+    # game/v6/v6.rpy:10004
+    old "I kinda get what he means"
+    new "Я понимаю, что он имел в виду"
+
+    # game/v6/v6.rpy:10070
+    old "At least we got to talk"
+    new "Хотя бы поговорили"
+

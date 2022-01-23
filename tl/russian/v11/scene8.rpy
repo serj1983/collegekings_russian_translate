@@ -295,3 +295,30 @@ translate russian strings:
     old "You should run"
     new "Тебе следует участвовать"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v11/scene8.rpy:125
+translate russian v11_chicks_house_1f55a814:
+
+    # li "I don't know, but Chloe needs to do something. She's the President. I understand balancing friendships and running everything can be complicated, but that's part of the job."
+    li "Я не знаю, но Хлоя должна что-то делать. Она президент. Я понимаю, что балансировать между дружбой и управлением всем может быть сложно, но это часть работы."
+
+# game/v11/scene8.rpy:155
+translate russian v11_chicks_house_68bb1925:
+
+    # li "I don't know if she's really the best person to be President."
+    li "Я не знаю, действительно ли она лучший человек для того, чтобы быть президентом."
+
+# game/v11/scene8.rpy:186
+translate russian v11_chicks_house_c4b91a68:
+
+    # li "Is it bad if I'm thinking about running for President?"
+    li "Это плохо, если я думаю о том, чтобы баллотироваться в президенты?"
+
+# game/v11/scene8.rpy:202
+translate russian v11_chicks_house_28e23f0e:
+
+    # u "I think you'd make a good President. And the only way to find out if the rest of the girls support you is by running and seeing how they vote."
+    u "Я думаю, из тебя получился бы хороший президент. И единственный способ узнать, поддерживают ли тебя остальные девочки, - это участвовать в выборах и посмотреть, как они проголосуют."

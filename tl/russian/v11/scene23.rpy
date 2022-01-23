@@ -1321,3 +1321,66 @@ translate russian strings:
     old "Sneak out"
     new "Улизнуть"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v11/scene23.rpy:359
+translate russian v11s23_riley1_fe3921c0:
+
+    # u "Shooting off a random guy's gun isn't enough excitement? *Chuckles*"
+    u "Стрельба из пистолета случайного парня - недостаточно волнительно? *Хихикает*"
+
+# game/v11/scene23.rpy:364
+translate russian v11s23_riley1_e7a524b7:
+
+    # ri "Yeah, no. Not really *Chuckles*"
+    ri "Да, нет. Не совсем *Хихикает*"
+
+# game/v11/scene23.rpy:369
+translate russian v11s23_riley1_14fcf62b:
+
+    # u "You're lucky no one's watching you. You're gonna get us kicked outta here."
+    u "Тебе повезло, что за тобой никто не следит. Из-за тебя нас вышвырнут отсюда."
+
+# game/v11/scene23.rpy:374
+translate russian v11s23_riley1_b725a384:
+
+    # ri "*Mocking voice* You're gonna get us kicked out of here! *Laughs*"
+    ri "*Насмешливый голос* Из-за тебя нас отсюда выгонят! *Смеется*"
+
+# game/v11/scene23.rpy:383
+translate russian v11s23_riley1_dcef9915:
+
+    # u "Haha, okay. I see how we're playing today."
+    u "Хаха, хорошо. Я вижу, как мы играем сегодня."
+
+# game/v11/scene23.rpy:393
+translate russian v11s23_riley1_dad516dc:
+
+    # u "Yeah, just a little bit of excitement..."
+    u "Да, просто небольшое волнение..."
+
+# game/v11/scene23.rpy:426
+translate russian v11s23_riley1_151842f2:
+
+    # u "*Laughs* And then you'll be upset when you've got nothing exciting to do. You'll be screaming for my attention..."
+    u "*Смеется* А потом ты расстроишься, когда тебе нечем будет заняться. Ты будешь кричать, требовать моего внимания..."
+
+# game/v11/scene23.rpy:431
+translate russian v11s23_riley1_2057c186:
+
+    # ri "*Chuckles*"
+    ri "*Хихикает*"
+
+# game/v11/scene23.rpy:436
+translate russian v11s23_riley1_bd7842d9:
+
+    # u "See? It's true."
+    u "Видишь? Это правда."
+
+# game/v11/scene23.rpy:441
+translate russian v11s23_riley1_f1349b82:
+
+    # ri "I only scream for one reason and it's not because I want attention..."
+    ri "Я кричу только по одной причине, и это не потому, что я хочу внимания..."

@@ -3216,3 +3216,90 @@ translate russian strings:
     old "Ask about the punch"
     new "Спросить о ударе"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v4/v4.rpy:1531
+translate russian ec_bd_c0f4f7f7:
+
+    # ry "I didn't mean to attack you like that. I just wanted to let you know about the things that I've heard."
+    ry "Я не хотела нападать на тебя. Я просто хотела рассказать тебе о том, что я слышала."
+
+translate russian strings:
+
+    # game/v4/v4.rpy:83
+    old "You should be more careful"
+    new "Тебе следует быть осторожнее"
+
+    # game/v4/v4.rpy:83
+    old "Let's fuck him up"
+    new "Давай его отмудохаем"
+
+    # game/v4/v4.rpy:99
+    old "Let me help"
+    new "Давай помогу"
+
+    # game/v4/v4.rpy:99
+    old "That's a dumb idea"
+    new "Это глупая идея"
+
+    # game/v4/v4.rpy:573
+    old "Someone punched me"
+    new "Меня кто-то ударил"
+
+    # game/v4/v4.rpy:573
+    old "It was an accident"
+    new "Это был несчастный случай"
+
+    # game/v4/v4.rpy:1633
+    old "Magic Powers"
+    new "Магия"
+
+    # game/v4/v4.rpy:1633
+    old "I didn't"
+    new "Я не знал"
+
+    # game/v4/v4.rpy:2009
+    old "We should watch some"
+    new "Мы должны посмотреть"
+
+    # game/v4/v4.rpy:2009
+    old "You should try it"
+    new "Тебе следует попробовать"
+
+    # game/v4/v4.rpy:2051
+    old "Yeah, it was nice"
+    new "Да, это было здорово"
+
+    # game/v4/v4.rpy:2275
+    old "I can move"
+    new "Я могу подвинуться"
+
+    # game/v4/v4.rpy:2275
+    old "It's my spot now"
+    new "Теперь это моё место"
+
+    # game/v4/v4.rpy:2337
+    old "I'll join the Wolves"
+    new "Я присоединюсь к Волкам"
+
+    # game/v4/v4.rpy:2337
+    old "I don't know yet"
+    new "Пока не знаю"
+
+    # game/v4/v4.rpy:2396
+    old "Sounds good"
+    new "Звучит, хорошо"
+
+    # game/v4/v4.rpy:2396
+    old "I should stop here"
+    new "Я должен остановиться"
+
+    # game/v4/v4.rpy:2418
+    old "Alright, just for a bit"
+    new "Хорошо, только ненадолго"
+
+    # game/v4/v4.rpy:2418
+    old "Sorry, I really can't"
+    new "Извини, я не могу"

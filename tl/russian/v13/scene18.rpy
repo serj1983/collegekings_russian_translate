@@ -196,3 +196,10 @@ translate russian strings:
     old "Okay... "
     new "Окей..."
 
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v13/scene18.rpy:148
+translate russian v13s18_4945864e:
+
+    # u "(Well... She looked... happy? *Chuckles*)"
+    u "(Ну... Она выглядела... счастливой? *Хихикает*)"

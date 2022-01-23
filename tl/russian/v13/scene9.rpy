@@ -707,3 +707,18 @@ translate russian strings:
     old "Don't go with Ryan"
     new "Не идти с Райном"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v13/scene9.rpy:186
+translate russian v13s9_2a6cda45:
+
+    # cl "I don't know if you know or not, but it's pretty much public info now that she's running to become the new President of the Chicks."
+    cl "Не знаю, знаешь ты или нет, но теперь это довольно распространенная информация о том, что она баллотируется на пост нового президента Чикс."
+
+# game/v13/scene9.rpy:226
+translate russian v13s9_cc94c8f8:
+
+    # cl "Not in the history of our sorority, so one of two things must be true. Either I'm the worst President ever, or Lindsey is the most egotistical member we've had."
+    cl "Не в истории нашего женского общества, так что одно из двух должно быть правдой. Либо я худший президент на свете, либо Линдси - самый эгоистичный член нашей команды."

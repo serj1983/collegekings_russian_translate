@@ -781,3 +781,30 @@ translate russian strings:
     old "Glad to have you as my roommate Riley!"
     new "Рад, что ты стала моей соседкой Райли!"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v11/scene19.rpy:565
+translate russian v11_roommate_7a8dd510:
+
+    # u "Yeah, I remember."
+    u "Да, я помню."
+
+# game/v11/scene19.rpy:570
+translate russian v11_roommate_86b920c0:
+
+    # ri "I think it's been confirmed. *Chuckles*"
+    ri "Я думаю, что это подтвердилось. *Хихикает*"
+
+# game/v11/scene19.rpy:575
+translate russian v11_roommate_bb456996:
+
+    # u "Haha, by who?"
+    u "Ха-ха, кем?"
+
+# game/v11/scene19.rpy:581
+translate russian v11_roommate_50cf584c:
+
+    # u "Uh, yeah...?"
+    u "Э-э, да...?"
