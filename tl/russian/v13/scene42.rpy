@@ -4,5 +4,5 @@
 translate russian v13s42_cb65b258:
 
     # u "(Another night, and soon a new day.)"
-    u ""
+    u "(Еще одна ночь, и скоро наступит новый день)."
 
