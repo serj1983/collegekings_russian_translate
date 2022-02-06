@@ -191,7 +191,7 @@ translate russian v11_bartender_hotel_chat_9559e2d6:
 translate russian v11_bartender_hotel_chat_00e37275:
 
     # bartender "*Chuckles* So you think you could?"
-    bartender "*Хохочет* Так ты думаешь, что сможешь?"
+    bartender "*Хихикает* Так ты думаешь, что сможешь?"
 
 # game/v11/scene27.rpy:195
 translate russian v11_bartender_hotel_chat_07c612b3:

@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v13/scene13b.rpy:20
 translate russian v13s13b_1f1e4e1d:

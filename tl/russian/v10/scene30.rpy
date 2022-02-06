@@ -28,7 +28,7 @@ translate russian v10_chloe_gym_363ed93e:
 translate russian v10_chloe_gym_a7510dd0:
 
     # u "Pros don't need to practice! *Laughs*"
-    u "Профессионалам не нужно тренироваться! *Хохочет*"
+    u "Профессионалам не нужно тренироваться! *Хихикает*"
 
 # game/v10/scene30.rpy:42
 translate russian v10_chloe_gym_38436fbc:
@@ -70,7 +70,7 @@ translate russian v10_chloe_gym_13174568:
 translate russian v10_chloe_gym_409d05d6:
 
     # u "Someone should've practiced a bit more. *Laughs*"
-    u "Кто-то должен был больше тренироваться. *Хохочет*"
+    u "Кто-то должен был больше тренироваться. *Хихикает*"
 
 # game/v10/scene30.rpy:79
 translate russian v10_chloe_gym_a2807b1f:

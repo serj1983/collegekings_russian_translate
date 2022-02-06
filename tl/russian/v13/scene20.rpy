@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v13/scene20.rpy:14
 translate russian v13s20_ec9f3b02:
@@ -82,7 +83,7 @@ translate russian v13s20_bleach_fb2afe1c:
 translate russian v13s20_bleach_c44d79b5:
 
     # u "Damn, that's potent! *Chuckles* This is so fucked up..."
-    u "Черт, это сильно! *Хохочет* Это так хреново..."
+    u "Черт, это сильно! *Хихикает* Это так хреново..."
 
 # game/v13/scene20.rpy:155
 translate russian v13s20_toothbrush_db3ffa84:

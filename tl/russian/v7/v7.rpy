@@ -4912,7 +4912,7 @@ translate russian aftercall_d9a224f4:
 translate russian aftercall_36c93942:
 
     # u "*Laugh*"
-    u "*Хохочет*"
+    u "*Смеётся*"
 
 # game/v7/v7.rpy:4387
 translate russian aftercall_1ffec5f6:
@@ -7150,7 +7150,7 @@ translate russian pen_after_history_87d65198:
 translate russian pen_after_history_514a4a13:
 
     # pe "Alright, I'll give you that. *laugh*"
-    pe "Хорошо, я согласна. *Хохочет*"
+    pe "Хорошо, я согласна. *Смеётся*"
 
 # game/v7/v7.rpy:6176
 translate russian pen_after_history_a3bd9a06:
@@ -7162,7 +7162,7 @@ translate russian pen_after_history_a3bd9a06:
 translate russian pen_after_history_12050662:
 
     # pe "It looks good on you and we're totally matching eras! *laugh*"
-    pe "Тебе очень идёт, и мы полностью совпадаем по эпохам! *Хохочет*"
+    pe "Тебе очень идёт, и мы полностью совпадаем по эпохам! *Смеётся*"
 
 # game/v7/v7.rpy:6184
 translate russian pen_after_history_d2ea4b3a:
@@ -7198,7 +7198,7 @@ translate russian pen_after_history_56438992:
 translate russian pen_after_history_21db3a6e:
 
     # pe "Oh stop it, you're stupid! *laugh*"
-    pe "Прекрати, ты глупенький! *Хохочет*"
+    pe "Прекрати, ты глупенький! *Смеётся*"
 
 # game/v7/v7.rpy:6209
 translate russian pen_after_history_9eedd6fe:
@@ -7276,7 +7276,7 @@ translate russian pen_after_history_d9065b51:
 translate russian pen_after_history_d4ed5b9c:
 
     # pe "Alright, I'll give you that one. *laugh*"
-    pe "Хорошо, я соглашусь, пожалуй. *Хохочет*"
+    pe "Хорошо, я соглашусь, пожалуй. *Смеётся*"
 
 # game/v7/v7.rpy:6269
 translate russian pen_after_history_ce49409a:
@@ -7300,7 +7300,7 @@ translate russian pen_after_history_3adebad7:
 translate russian pen_after_history_4fea01df:
 
     # pe "Glad you chose this outfit, we're totally matching eras! *laugh*"
-    pe "Рада, что ты выбрал этот наряд, мы полностью совпадаем по эпохам! *Хохочет*"
+    pe "Рада, что ты выбрал этот наряд, мы полностью совпадаем по эпохам! *Смеётся*"
 
 # game/v7/v7.rpy:6285
 translate russian pen_after_history_b64a6f9c:

@@ -551,7 +551,7 @@ translate russian v11_mc_amber_gokart_e346a8e2:
 translate russian v11_mc_amber_gokart_c8438edd:
 
     # am "Yeah [name], don't cheat. *Chuckles*"
-    am "Да, [name], не обманывай. *Хохочет*"
+    am "Да, [name], не обманывай. *Хихикает*"
 
 # game/v11/scene39.rpy:535
 translate russian v11_mc_amber_gokart_dc2903b8:
@@ -653,7 +653,7 @@ translate russian v11_race_continue1_e5e2c2eb:
 translate russian v11_race_continue1_359ad905:
 
     # am "THAT'S A LAP! HOPE THE WORLD LIKES SEEING YOU NAKED! *Chuckles*"
-    am "ЭТО КРУГ! НАДЕЮСЬ, МИРУ ПОНРАВИТСЯ ВИДЕТЬ ТЕБЯ ГОЛЫМ! *Хохочет*"
+    am "ЭТО КРУГ! НАДЕЮСЬ, МИРУ ПОНРАВИТСЯ ВИДЕТЬ ТЕБЯ ГОЛЫМ! *Хихикает*"
 
 # game/v11/scene39.rpy:663
 translate russian v11_race_continue1_395b2d86:

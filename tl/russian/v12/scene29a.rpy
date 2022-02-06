@@ -789,3 +789,10 @@ translate russian strings:
     old "Hard"
     new "Сложно"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.3) Patch
+
+# game/v12/scene29a.rpy:755
+translate russian v12s29a_faillabel3_7dc85afb:
+
+    # li "Well, I won't be messing with those kinds of weights anytime soon. That made me tired."
+    li "Ну, в ближайшее время я не буду возиться с такими весами. Это меня утомило."

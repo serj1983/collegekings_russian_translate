@@ -986,3 +986,33 @@ translate russian strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Копирует файл errors.txt в буфер обмена в формате Markdown для Discord."
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.3) Patch
+
+    # renpy/common/00accessibility.rpy:180
+    old "High Contrast Text"
+    new "Высококонтрастный Текст"
+
+    # renpy/common/00accessibility.rpy:182
+    old "Enable"
+    new "Включить"
+
+    # renpy/common/00accessibility.rpy:186
+    old "Disable"
+    new "Отключить"
+
+    # renpy/common/00action_file.rpy:638
+    old "Page {}"
+    new "Страница {}"
+
+    # renpy/common/00action_file.rpy:638
+    old "Automatic saves"
+    new "Автосохранения"
+
+    # renpy/common/00action_file.rpy:638
+    old "Quick saves"
+    new "Быстрое сохранение"
+
+    # renpy/common/00preferences.rpy:493
+    old "high contrast text"
+    new "высококонтрастный текст"
+

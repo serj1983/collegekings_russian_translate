@@ -68,7 +68,7 @@ translate russian strings:
 
     # game/screens.rpy:611
     old "Return"
-    new "Возврат"
+    new "Возвратить"
 
     # game/screens.rpy:618
     old "Settings"
@@ -162,3 +162,16 @@ translate russian strings:
     old "Skipping"
     new "Пропускать"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.3) Patch
+
+    # game/screens.rpy:609
+    old "PAGE {}"
+    new "СТРАНИЦА {}"
+
+    # game/screens.rpy:609
+    old "AUTOMATIC SAVES"
+    new "АВТОСОХРАНЕНИЯ"
+
+    # game/screens.rpy:609
+    old "QUICK SAVES"
+    new "БЫСТРОЕ СОХРАНЕНИЕ"

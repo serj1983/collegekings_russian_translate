@@ -598,7 +598,7 @@ translate russian strings:
 
     # game/v8/scene13.rpy:31
     old "And congrats to the prodigal son, [name], for getting the perfect score. Looks like somebody's coming for my throne!"
-    new "И поздравляю блудного сына [имя] с высшим баллом. Похоже, кто-то идет на мой трон!"
+    new "И поздравляю блудного сына [name] с высшим баллом. Похоже, кто-то идет на мой трон!"
 
     # game/v8/scene13.rpy:32
     old "Apes baby! Woohoooo!!!"

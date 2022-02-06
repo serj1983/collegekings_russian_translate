@@ -185,7 +185,7 @@ translate russian v11_treasure_hunt_17acb9e7:
 translate russian v11_treasure_hunt_4af2f6cc:
 
     # ri "Oooh! Can I do the shooting? *Chuckles*"
-    ri "Оооо! Можно я буду стрелять? *Хохочет*"
+    ri "Оооо! Можно я буду стрелять? *Хихикает*"
 
 # game/v11/scene20.rpy:220
 translate russian v11_treasure_hunt_06d67ac1:

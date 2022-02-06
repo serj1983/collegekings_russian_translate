@@ -371,7 +371,7 @@ translate russian v11_roommate_a40478a5:
 translate russian v11_roommate_209c5bda:
 
     # u "You forgot the words to a song you hear every night? *Chuckles*"
-    u "Ты забыла слова песни, которую слушаешь каждый вечер? *Хохочет*"
+    u "Ты забыла слова песни, которую слушаешь каждый вечер? *Хихикает*"
 
 # game/v11/scene19.rpy:484
 translate russian v11_roommate_1c24a2ab:
@@ -563,7 +563,7 @@ translate russian v11_roommate_a40478a5_1:
 translate russian v11_roommate_209c5bda_1:
 
     # u "You forgot the words to a song you hear every night? *Chuckles*"
-    u "Ты забыла слова песни, которую слушаешь каждый вечер? *Хохочет*"
+    u "Ты забыла слова песни, которую слушаешь каждый вечер? *Хихикает*"
 
 # game/v11/scene19.rpy:699
 translate russian v11_roommate_1c24a2ab_1:

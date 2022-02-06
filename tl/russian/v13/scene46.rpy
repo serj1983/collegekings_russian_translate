@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v13/scene46.rpy:17
 translate russian v13s46_3a43e090:
@@ -208,7 +209,7 @@ translate russian v13s46_2f1a878b:
 translate russian v13s46_67b4d6ff:
 
     # la "*Whispers* Oh my gosh, [name]! Walk over here already, would you?"
-    la "*Шепотом* Боже мой, [имя]! Подойдёшь уже сюда?"
+    la "*Шепотом* Боже мой, [name]! Подойдёшь уже сюда?"
 
 # game/v13/scene46.rpy:224
 translate russian v13s46_57ae9944:

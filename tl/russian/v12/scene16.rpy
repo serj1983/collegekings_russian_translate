@@ -713,7 +713,7 @@ translate russian v12_valentine_5b778504:
 translate russian v12_valentine_b86884ec:
 
     # no "*Sighs* Okay. [name], when I think about the type of person I want to marry, I think of someone who is patient. Someone who is selfless. Someone who is always there for me, even when I'm least expecting it."
-    no "*Вздох* Хорошо. [имя], когда я думаю о том, за какого человека я хочу выйти замуж, я думаю о том, кто терпелив. О том, кто бескорыстен. Тот, кто всегда рядом со мной, даже когда я меньше всего этого ожидаю."
+    no "*Вздох* Хорошо. [name], когда я думаю о том, за какого человека я хочу выйти замуж, я думаю о том, кто терпелив. О том, кто бескорыстен. Тот, кто всегда рядом со мной, даже когда я меньше всего этого ожидаю."
 
 # game/v12/scene16.rpy:672
 translate russian v12_valentine_ebb223aa:
@@ -737,7 +737,7 @@ translate russian v12_valentine_f054e8f8:
 translate russian v12_valentine_2168df98:
 
     # li "*Whispers* Wait, you and [name] are dating?"
-    li "*Шепот* Подожди, ты и [имя] встречаетесь?"
+    li "*Шепот* Подожди, ты и [name] встречаетесь?"
 
 # game/v12/scene16.rpy:699
 translate russian v12_valentine_88ba17fb:

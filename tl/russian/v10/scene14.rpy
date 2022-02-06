@@ -178,7 +178,7 @@ translate russian v10_apes_samantha_8f528a91:
 translate russian v10_apes_samantha_783c1171:
 
     # u "*Chuckles* What's that supposed to mean?"
-    u "*Хихиканье* Что это значит?"
+    u "*Хихикает* Что это значит?"
 
 # game/v10/scene14.rpy:157
 translate russian v10_apes_samantha_bb7e8d5f:
@@ -292,7 +292,7 @@ translate russian v10_apes_samantha_a49126a3:
 translate russian v10_apes_samantha_5fd87a1d:
 
     # sa "*Chuckles* Oh shut up. And just so we're clear no one is calling dibs on me. I'm not some leftover lasagna."
-    sa "*Хохочет* Заткнись. И чтобы было понятно, никто не претендует на меня. Я не остатки лазаньи."
+    sa "*хихикает* Заткнись. И чтобы было понятно, никто не претендует на меня. Я не остатки лазаньи."
 
 # game/v10/scene14.rpy:273
 translate russian v10_apes_samantha_3bb6b427:
