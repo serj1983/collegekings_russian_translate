@@ -4,17 +4,17 @@
 translate russian v13s54_a64722d9:
 
     # u "(What will be in store for me tomorrow?)"
-    u ""
+    u "(Что меня ждет завтра?)"
 
 # game/v13/scene54.rpy:25
 translate russian v13s54_57ae9944:
 
     # u "*Sighs*"
-    u ""
+    u "*Вздыхает*"
 
 # game/v13/scene54.rpy:41
 translate russian v13s54_ee3e84d0:
 
     # u "(Guess we'll find out soon.)"
-    u ""
+    u "(Думаю, мы скоро узнаем.)"
 
