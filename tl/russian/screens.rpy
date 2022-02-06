@@ -82,18 +82,6 @@ translate russian strings:
     old "save"
     new "сохранить"
 
-    # game/screens.rpy:718
-    old "Page {}"
-    new "Страница {}"
-
-    # game/screens.rpy:718
-    old "Automatic saves"
-    new "Автоматическое сохранения"
-
-    # game/screens.rpy:718
-    old "Quick saves"
-    new "Быстрые сохранения"
-
     # game/screens.rpy:760
     old "{#file_time}%A, %B %d %Y, %H:%M"
     new "{#file_time}%A, %B %d %Y, %H:%M"
@@ -162,16 +150,3 @@ translate russian strings:
     old "Skipping"
     new "Пропускать"
 
-#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.3) Patch
-
-    # game/screens.rpy:609
-    old "PAGE {}"
-    new "СТРАНИЦА {}"
-
-    # game/screens.rpy:609
-    old "AUTOMATIC SAVES"
-    new "АВТОСОХРАНЕНИЯ"
-
-    # game/screens.rpy:609
-    old "QUICK SAVES"
-    new "БЫСТРОЕ СОХРАНЕНИЕ"

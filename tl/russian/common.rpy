@@ -798,14 +798,6 @@ translate russian strings:
     old "Enable (No Blocklist)"
     new ""
 
-    # renpy/common/00gltest.rpy:140
-    old "Enable"
-    new ""
-
-    # renpy/common/00gltest.rpy:144
-    old "Disable"
-    new ""
-
     # renpy/common/00gltest.rpy:150
     old "Calibrate"
     new ""
