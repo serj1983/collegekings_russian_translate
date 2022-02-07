@@ -352,3 +352,30 @@ translate russian strings:
     old "Don't go to the protest"
     new "Не ходить на демонстрацию"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v8/scene7.rpy:364
+translate russian caf_no_prot_au_63b0e693:
+
+    # u "I probably should be heading off actually."
+    u "Наверное, мне пора идти."
+
+# game/v8/scene7.rpy:369
+translate russian caf_no_prot_au_75edb165:
+
+    # au "Well don't let me keep you."
+    au "Что ж, не позволяй мне тебя задерживать."
+
+# game/v8/scene7.rpy:374
+translate russian caf_no_prot_au_7803effd:
+
+    # u "See you later Aubrey."
+    u "Увидимся позже, Обри."
+
+# game/v8/scene7.rpy:378
+translate russian caf_no_prot_au_74c951b1:
+
+    # au "Bye [name]."
+    au "Пока [name]."

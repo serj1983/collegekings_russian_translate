@@ -46,7 +46,7 @@ translate russian v8_la_start_756a91b6:
 translate russian v8_la_start_a1e848d2:
 
     # la "*Chuckles*"
-    la "*Хохочет*"
+    la "*Хихикает*"
 
 # game/v8/scene1.rpy:99
 translate russian v8_la_start_2e515dd6:

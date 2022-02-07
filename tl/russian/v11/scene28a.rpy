@@ -377,7 +377,7 @@ translate russian v11_sam_spa_c776043d:
 translate russian v11_sam_spa_977d0d87:
 
     # u "So you're a beauty expert now too. *Chuckles*"
-    u "Так ты теперь и эксперт по красоте. *Хохочет*"
+    u "Так ты теперь и эксперт по красоте. *Хихикает*"
 
 # game/v11/scene28a.rpy:355
 translate russian v11_sam_spa_8a9e3334:
@@ -563,7 +563,7 @@ translate russian v11s28a_galleryScene_c61b86ea:
 translate russian v11s28a_galleryScene_41d9ec45:
 
     # u "*Chuckles* Obviously."
-    u "*Хохочет* Очевидно."
+    u "*Хихикает* Очевидно."
 
 # game/v11/scene28a.rpy:549
 translate russian v11s28a_galleryScene_220bc4e2:

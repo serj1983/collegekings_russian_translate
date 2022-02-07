@@ -300,3 +300,12 @@ translate russian v9_call_w_lindsey_9443a35c_1:
     # u "(Was she hinting at something? \"I could be even sweeter\", what does that mean? Oh well, time to get some rest. I got a big day tomorrow.)"
     u "(Она на что-то намекает? \"Я могу быть ещё слаще\", что это значит? Ну что ж, пора отдохнуть. Завтра у меня важный день.)"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v9/scene28.rpy:56
+translate russian v9_call_w_lindsey_4326837d:
+
+    # li "This fight could be major for you. Think you'll come out on top?"
+    li "Этот бой может стать для тебя главным. Думаешь, ты выйдешь победителем?"

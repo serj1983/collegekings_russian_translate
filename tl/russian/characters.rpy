@@ -1,3 +1,17 @@
+init python:
+    def relationship_callback(event, interact=True, **kwargs):
+        character = kwargs.get("character")
+
+        if character is None:
+            return
+
+        character = getattr(store, character)
+        relationship_girls = getattr(store, "relationship_girls")
+
+        if character not in relationship_girls:
+            relationship_girls.append(character)
+            setattr(store, "relationship_girls", relationship_girls)
+
 # Declare characters used by this game. The color argument colorizes the name of the character.
 define character.narrator = Character (None, what_outlines=[ (2, "#000") ])
 define character.u = Character("[name]", who_color="#53d769", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
@@ -127,17 +141,17 @@ define character.greeter = Character("Хостес", who_color="#0055ff", who_ou
 define character.tattoo = Character("Мастер татуировок", who_color="#ff1694", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 
 # 13.0
-define character.ary = Character("Aryssa", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ash = Character("Ashton", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.barh = Character("Host", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.clipps = Character("Clipps", who_color="#cccccc", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.emmy = Character("Emmy", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.gary = Character("Gary", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.gitw = Character("Unknown", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.kourt = Character("Kourtney", who_color="#ff8afb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.luuk = Character("Luuk", who_color="#ff1694", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.polly = Character("Polly", who_color="#8b0000", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.random_guy = Character("Bartender", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.ary = Character("Арисса", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.ash = Character("Эштон", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.barh = Character("Хозяин", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.clipps = Character("Клиппс", who_color="#cccccc", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.emmy = Character("Эмми", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.gary = Character("Гэри", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.gitw = Character("Неизвестный", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.kourt = Character("Кортни", who_color="#ff8afb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.luuk = Character("Луук", who_color="#ff1694", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.polly = Character("Полли", who_color="#8b0000", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.random_guy = Character("Бармен", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 
 # 14.0
 define character.ngam = Character("Night Gambler", who_color="#ff1694", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])

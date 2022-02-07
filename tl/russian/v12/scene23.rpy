@@ -439,3 +439,72 @@ translate russian strings:
     old "Let's go"
     new "Пойдем"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v12/scene23.rpy:523
+translate russian v12s23_nsfwSkipLabel1_fc247ad9:
+
+    # ro "Hmm, are you busy?"
+    ro "Хм, ты занят?"
+
+# game/v12/scene23.rpy:528
+translate russian v12s23_nsfwSkipLabel1_5fc3c52f:
+
+    # u "No, not really."
+    u "Нет, не совсем."
+
+# game/v12/scene23.rpy:533
+translate russian v12s23_nsfwSkipLabel1_14ddb920:
+
+    # ro "How come? I'm sure there's plenty of things you and your friends could be doing."
+    ro "Как так? Я уверена, что у тебя и твоих друзей есть куча дел, которыми они могли бы заняться."
+
+# game/v12/scene23.rpy:538
+translate russian v12s23_nsfwSkipLabel1_bbe9bd15:
+
+    # u "There's just not much going on today I guess. I came out here to see what was up."
+    u "Просто сегодня мало что происходит, я думаю. Я пришел сюда, чтобы посмотреть, что случилось."
+
+# game/v12/scene23.rpy:543
+translate russian v12s23_nsfwSkipLabel1_c1e7d382:
+
+    # ro "Well, sorry to disappoint you. But, it's already late and I've just finished walking my rounds around the hotel. Everyone is either asleep or at least in their rooms."
+    ro "Что ж, жаль тебя разочаровывать. Но уже поздно, и я только что закончила обход отеля. Все либо спят, либо, по крайней мере, находятся в своих номерах."
+
+# game/v12/scene23.rpy:548
+translate russian v12s23_nsfwSkipLabel1_ff407fcb:
+
+    # u "Oh. Well I guess I might as well just go back to my room too. *Chuckles*"
+    u "О. Думаю, я тоже могу просто вернуться в свою комнату. *Хихикает*"
+
+# game/v12/scene23.rpy:553
+translate russian v12s23_nsfwSkipLabel1_3530230e:
+
+    # ro "*Chuckles* Alright, then. Be sure to make tomorrow a more fun-filled day."
+    ro "*Хихикает* Хорошо, тогда. Не забудь сделать завтрашний день более веселым."
+
+# game/v12/scene23.rpy:558
+translate russian v12s23_nsfwSkipLabel1_5d02055e:
+
+    # u "Will do."
+    u "Постараюсь"
+
+# game/v12/scene23.rpy:563
+translate russian v12s23_nsfwSkipLabel1_f89416b9:
+
+    # ro "Have a good night, [name]."
+    ro "Спокойной ночи, [name]."
+
+# game/v12/scene23.rpy:568
+translate russian v12s23_nsfwSkipLabel1_9fb611a7:
+
+    # u "You too."
+    u "Тебе тоже."
+
+# game/v12/scene23.rpy:578
+translate russian v12s23_nsfwSkipLabel1_897de684:
+
+    # u "(And right back to my room.)"
+    u "(И сразу в свою комнату.)"

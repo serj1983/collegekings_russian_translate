@@ -453,3 +453,24 @@ translate russian strings:
     old "Her or the frat"
     new "Она или братство"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v11/scene3a.rpy:122
+translate russian v11_wolves_packing_chris_a35e17a3:
+
+    # ch "I've known her forever. I mean, we've been dating since high school. But ever since I became Wolves President it's like I'm being torn two ways."
+    ch "Я знаю её целую вечность. Я имею в виду, мы встречаемся со средней школы. Но с тех пор, как я стал президентом Волков, меня словно разрывает на две части."
+
+# game/v11/scene3a.rpy:136
+translate russian v11_wolves_packing_chris_0d7beee8:
+
+    # ch "That's just it, I can't. I completely understand her point of view and I wish things were different, but they can't be while I'm President."
+    ch "В том-то и дело, что я не могу. Я полностью понимаю её точку зрения и хотел бы, чтобы все было по-другому, но так не может быть, пока я президент."
+
+# game/v11/scene3a.rpy:247
+translate russian v11_wolves_packing_chris_9a82eb1b:
+
+    # u "I can't picture the frat without you as President, but it would give you more time for Nora."
+    u "Я не могу представить братство без тебя в качестве президента, но это даст тебе больше времени для Норы."

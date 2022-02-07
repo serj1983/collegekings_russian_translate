@@ -513,3 +513,54 @@ translate russian strings:
     old "Ryan"
     new "Райн"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v11/scene31.rpy:208
+translate russian v11_lindsey_park_35e59b1a:
+
+    # li "Normally, we don't have these issues so the presidency is just passed on to whoever the former President wants."
+    li "Обычно у нас нет таких проблем, поэтому президентство просто передается тому, кого хочет бывший президент."
+
+# game/v11/scene31.rpy:215
+translate russian v11_lindsey_park_f8173285:
+
+    # u "How often do you all decide on a new President?"
+    u "Как часто вы все принимаете решение о новом президенте?"
+
+# game/v11/scene31.rpy:220
+translate russian v11_lindsey_park_61cce069:
+
+    # li "Every half semester we do a vote, but no one ever runs against the current President."
+    li "Каждые полсеместра мы проводим голосование, но никто никогда не баллотируется против действующего президента."
+
+# game/v11/scene31.rpy:222
+translate russian v11_lindsey_park_a47f4cf4:
+
+    # li "So from what I've learned, people just suck up to the President and hope they're chosen when the President leaves."
+    li "Так что, насколько я поняла, люди просто подлизываются к президенту и надеются, что их выберут, когда президент уйдет."
+
+# game/v11/scene31.rpy:252
+translate russian v11_lindsey_park_6c3d789d:
+
+    # li "I want to run a full campaign and really show the girls why I should be President."
+    li "Я хочу провести полноценную кампанию и действительно показать девушкам, почему я должна стать президентом."
+
+# game/v11/scene31.rpy:262
+translate russian v11_lindsey_park_67d1c64e:
+
+    # li "Well, it starts with me knowing why I want to be President and putting it into a concise message."
+    li "Ну, всё начинается с того, что я знаю, почему я хочу стать президентом, и излажу это в краткой форме."
+
+# game/v11/scene31.rpy:277
+translate russian v11_lindsey_park_6759674f:
+
+    # u "Well, I can help with that. If someone was to ask, like if you were in an interview or something, why do you want to be the Chicks President? What would you say?"
+    u "Ну, я могу помочь с этим. Если бы кто-то спросил, например, если бы ты была на интервью или что-то в этом роде, почему ты хочешь стать президентом Чикс? Что бы ты ответила?"
+
+# game/v11/scene31.rpy:288
+translate russian v11_lindsey_park_ca0dc500:
+
+    # li "That's why I want to be President."
+    li "Вот почему я хочу стать президентом."

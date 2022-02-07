@@ -112,3 +112,12 @@ translate russian strings:
     old "Don't Fight"
     new "Не драться"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+translate russian strings:
+
+    # game/v10/scene6.rpy:64
+    old "Don't fight"
+    new "Не драться"

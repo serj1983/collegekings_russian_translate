@@ -491,7 +491,7 @@ translate russian v11_cardealership_f14c76ad:
 translate russian v11_cardealership_8eef518f:
 
     # cl "[name], I care about you a lot too, and I've enjoyed the time we've spent together, but we have so much more to explore about each other."
-    cl "[имя], ты мне тоже очень дорог, и я наслаждалась временем, в котором мы провели вместе, но нам еще многое предстоит узнать друг о друге."
+    cl "[name], ты мне тоже очень дорог, и я наслаждалась временем, в котором мы провели вместе, но нам еще многое предстоит узнать друг о друге."
 
 # game/v11/scene34.rpy:567
 translate russian v11_cardealership_9f7192c4:
@@ -515,13 +515,13 @@ translate russian v11_cardealership_085bf9e2:
 translate russian v11_cardealership_b2daf0f9:
 
     # u "C'mon, let's get this car back."
-    u "Давайте, вернем эту машину."
+    u "Давай, вернем эту машину."
 
 # game/v11/scene34.rpy:610
 translate russian v11_cardealership_b2daf0f9_1:
 
     # u "C'mon, let's get this car back."
-    u "Давайте, вернем эту машину."
+    u "Давай, вернем эту машину."
 
 # game/v11/scene34.rpy:627
 translate russian v11_cardealership_22b8762e_1:
@@ -719,7 +719,7 @@ translate russian v11_cardealership_3f351345:
 translate russian v11_cardealership_2fa85960:
 
     # cl "You better."
-    cl "Тебе лучше"
+    cl "Тебе тоже."
 
 translate russian strings:
 
@@ -739,3 +739,376 @@ translate russian strings:
     old "Let's get the car back"
     new "Давай вернем машину"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.3) Patch
+
+# game/v11/scene34.rpy:398
+translate russian v11s34_c1_13a9912f:
+
+    # u "You are perfect."
+    u "Ты совершенена."
+
+# game/v11/scene34.rpy:403
+translate russian v11s34_c1_b495f5d2:
+
+    # cl "Ha, no I'm not. Nobody is."
+    cl "Ха, нет, я не такая."
+
+# game/v11/scene34.rpy:408
+translate russian v11s34_c1_9765acaa:
+
+    # u "You're right. No one is perfect, but there are people that are perfect for each other and you, Chloe Moralez, are perfect for me."
+    u "Ты права. Никто не идеален, но есть люди, которые идеально подходят друг другу, и ты, Хлоя Моралес, идеально подходишь мне."
+
+# game/v11/scene34.rpy:413
+translate russian v11s34_c1_d654736f:
+
+    # cl "[name]-"
+    cl "[name]-"
+
+# game/v11/scene34.rpy:425
+translate russian v11s34_c1_81ded487:
+
+    # cl "I really like you, [name]."
+    cl "Ты мне очень нравишься, [name]."
+
+# game/v11/scene34.rpy:430
+translate russian v11s34_c1_d7df013d:
+
+    # u "I like you too."
+    u "Ты мне тоже нравишься."
+
+# game/v11/scene34.rpy:441
+translate russian v11s34_c1_88da3405:
+
+    # u "Chloe, I've been captured by you since the moment I first saw you. Every day I think about you and hope that we can be together at all times."
+    u "Хлоя, я был пленен тобой с того момента, как впервые увидел тебя. Каждый день я думаю о тебе и надеюсь, что мы всегда сможем быть вместе."
+
+# game/v11/scene34.rpy:442
+translate russian v11s34_c1_5d91b504:
+
+    # u "I don't know what I'd do if one day you were just... gone. The truth is... I love you, Chloe, and I don't want to go another day without you being mine."
+    u "Я не знаю, что бы я делал, если бы однажды ты просто... ушла. Правда в том, что... Я люблю тебя, Хлоя, и я не хочу прожить еще один день без того, чтобы ты не была моей."
+
+# game/v11/scene34.rpy:443
+translate russian v11s34_c1_52dede05:
+
+    # u "So with all that said, can we make it official? Will you be my girl?"
+    u "Так что, учитывая все вышесказанное, можем ли мы сделать это официально? Будешь ли ты моей девушкой?"
+
+# game/v11/scene34.rpy:450
+translate russian v11s34_c1_c674dc7a:
+
+    # cl "I... I love you too. Yes, yes I'll be your girl!"
+    cl "Я... Я тоже тебя люблю. Да, да, я буду твоей девушкой!"
+
+# game/v11/scene34.rpy:471
+translate russian v11s34_c1_384de051:
+
+    # u "(Damn, two girlfriends. This could get complicated fast.)"
+    u "(Черт, две подружки. Это может быстро усложниться)."
+
+# game/v11/scene34.rpy:473
+translate russian v11s34_c1_f14c76ad:
+
+    # u "Wow... c'mon, let's get this car back."
+    u "Вау... Давай, давай вернем эту машину."
+
+# game/v11/scene34.rpy:491
+translate russian v11s34_c1_8eef518f:
+
+    # cl "[name], I care about you a lot too, and I've enjoyed the time we've spent together, but we have so much more to explore about each other."
+    cl "[name], ты мне тоже очень дорог, и я наслаждалась временем, в котором мы провели вместе, но нам еще многое предстоит узнать друг о друге."
+
+# game/v11/scene34.rpy:492
+translate russian v11s34_c1_9f7192c4:
+
+    # cl "You may like what you see now, but there's still so much we don't know about each other."
+    cl "Тебе может нравиться то, что ты видишь сейчас, но мы еще многого не знаем друг о друге."
+
+# game/v11/scene34.rpy:500
+translate russian v11s34_c1_e41e6de2:
+
+    # cl "I like where we're at, and I'm only focused on you, but we don't need to rush anything. I'm not going anywhere."
+    cl "Мне нравится, где мы сейчас находимся, и я сосредоточена только на тебе, но нам не нужно торопить события. Я никуда не ухожу."
+
+# game/v11/scene34.rpy:505
+translate russian v11s34_c1_085bf9e2:
+
+    # u "I won't be going anywhere either."
+    u "Я тоже никуда не уйду."
+
+# game/v11/scene34.rpy:517
+translate russian v11s34_c1_b2daf0f9:
+
+    # u "C'mon, let's get this car back."
+    u "Давай, вернем эту машину."
+
+# game/v11/scene34.rpy:535
+translate russian v11s34_c1_b2daf0f9_1:
+
+    # u "C'mon, let's get this car back."
+    u "Давай, вернем эту машину."
+
+# game/v11/scene34.rpy:552
+translate russian v11s34_c1_22b8762e:
+
+    # u "I just never realized how..."
+    u "Я просто не понимал, как..."
+
+# game/v11/scene34.rpy:557
+translate russian v11s34_c1_a29cfe69:
+
+    # cl "Just how what?"
+    cl "Просто, как что?"
+
+# game/v11/scene34.rpy:562
+translate russian v11s34_c1_7b1c1392:
+
+    # u "..."
+    u "..."
+
+# game/v11/scene34.rpy:567
+translate russian v11s34_c1_743787c1:
+
+    # cl "[name], what?"
+    cl "[name], что?"
+
+# game/v11/scene34.rpy:572
+translate russian v11s34_c1_16f3e38e:
+
+    # u "Just how big your forehead is... *Laughs*"
+    u "Просто какой у тебя большой лоб... *Смеется*"
+
+# game/v11/scene34.rpy:577
+translate russian v11s34_c1_43c81970:
+
+    # cl "OH MY GOD, YOU'RE SUCH AN ASS! *Laughs* That's not funny."
+    cl "БОЖЕ МОЙ, ТЫ ТАКАЯ ЗАДНИЦА! *Смеется* Это не смешно."
+
+# game/v11/scene34.rpy:582
+translate russian v11s34_c1_1e470d97:
+
+    # u "*Laughs* Ouch!"
+    u "*Смеется* Ой!"
+
+# game/v11/scene34.rpy:587
+translate russian v11s34_c1_71a7abc0:
+
+    # cl "Get in before I start firing jokes back... You don't want me to hurt your feelings."
+    cl "Залезай, пока я не начала отпускать шуточки в ответ... Ты же не хочешь, чтобы я ранила твои чувства."
+
+# game/v11/scene34.rpy:592
+translate russian v11s34_c1_7e18cb10:
+
+    # u "As you wish, your majesty."
+    u "Как пожелаете, ваше величество."
+
+# game/v11/scene34.rpy:599
+translate russian v11s34_c1_40195a02:
+
+    # cl "If you don't hurry, I will leave you."
+    cl "Если ты не поторопишься, останешься здесь."
+
+# game/v11/scene34.rpy:604
+translate russian v11s34_c1_ede6cd32:
+
+    # u "I'm coming!"
+    u "Я иду!"
+
+# game/v11/scene34.rpy:624
+translate russian v11s34_c1_22b8762e_1:
+
+    # u "I just never realized how..."
+    u "Я просто не понимал, как..."
+
+# game/v11/scene34.rpy:629
+translate russian v11s34_c1_a29cfe69_1:
+
+    # cl "Just how what?"
+    cl "Просто, как что?"
+
+# game/v11/scene34.rpy:634
+translate russian v11s34_c1_7b1c1392_1:
+
+    # u "..."
+    u "..."
+
+# game/v11/scene34.rpy:639
+translate russian v11s34_c1_743787c1_1:
+
+    # cl "[name], what?"
+    cl "[name], что?"
+
+# game/v11/scene34.rpy:644
+translate russian v11s34_c1_16f3e38e_1:
+
+    # u "Just how big your forehead is... *Laughs*"
+    u "Просто какой у тебя большой лоб... *Смеется*"
+
+# game/v11/scene34.rpy:649
+translate russian v11s34_c1_43c81970_1:
+
+    # cl "OH MY GOD, YOU'RE SUCH AN ASS! *Laughs* That's not funny."
+    cl "БОЖЕ МОЙ, ТЫ ТАКАЯ ЗАДНИЦА! *Смеется* Это не смешно."
+
+# game/v11/scene34.rpy:654
+translate russian v11s34_c1_1e470d97_1:
+
+    # u "*Laughs* Ouch!"
+    u "*Смеется* Ой!"
+
+# game/v11/scene34.rpy:659
+translate russian v11s34_c1_71a7abc0_1:
+
+    # cl "Get in before I start firing jokes back... You don't want me to hurt your feelings."
+    cl "Залезай, пока я не начала отпускать шуточки в ответ... Ты же не хочешь, чтобы я ранила твои чувства."
+
+# game/v11/scene34.rpy:664
+translate russian v11s34_c1_7e18cb10_1:
+
+    # u "As you wish, your majesty."
+    u "Как пожелаете, ваше величество."
+
+# game/v11/scene34.rpy:671
+translate russian v11s34_c1_40195a02_1:
+
+    # cl "If you don't hurry, I will leave you."
+    cl "Если ты не поторопишься, останешься здесь."
+
+# game/v11/scene34.rpy:676
+translate russian v11s34_c1_ede6cd32_1:
+
+    # u "I'm coming!"
+    u "Я иду!"
+
+# game/v11/scene34.rpy:700
+translate russian v11s34_c1_d98251d9:
+
+    # csa "Did you two enjoy the ride?"
+    csa "Вам двоим понравилась поездка?"
+
+# game/v11/scene34.rpy:706
+translate russian v11s34_c1_834a4b2d:
+
+    # u "It changed our lives."
+    u "Это изменило нашу жизнь."
+
+# game/v11/scene34.rpy:711
+translate russian v11s34_c1_3da30892:
+
+    # csa "You two have truly made my day."
+    csa "Вы двое сделали мой день лучше."
+
+# game/v11/scene34.rpy:717
+translate russian v11s34_c1_cce0e1c6:
+
+    # u "It was nice."
+    u "Это было приятно."
+
+# game/v11/scene34.rpy:722
+translate russian v11s34_c1_bacafd6f:
+
+    # csa "Wonderful!"
+    csa "Замечательно!"
+
+# game/v11/scene34.rpy:727
+translate russian v11s34_c1_f71e142c:
+
+    # csa "So, will you two be purchasing the car?"
+    csa "Итак, вы двое будете покупать машину?"
+
+# game/v11/scene34.rpy:734
+translate russian v11s34_c1_0d0897c2:
+
+    # cl "So sorry, one second... My phone is ringing."
+    cl "Простите, секундочку... У меня звонит телефон."
+
+# game/v11/scene34.rpy:741
+translate russian v11s34_c1_01088e3f:
+
+    # cl "Hello?"
+    cl "Алло?"
+
+# game/v11/scene34.rpy:746
+translate russian v11s34_c1_aa534330:
+
+    # cl "Oh my god, we're on our way right now!"
+    cl "Боже мой, мы уже в пути!"
+
+# game/v11/scene34.rpy:751
+translate russian v11s34_c1_0c45b712:
+
+    # cl "[name], we have to go right now. It's my sister."
+    cl "[name], нам нужно идти прямо сейчас. Это моя сестра."
+
+# game/v11/scene34.rpy:756
+translate russian v11s34_c1_cef767fb:
+
+    # cl "I am so sorry, we'll be back if possible."
+    cl "Мне очень жаль, мы вернемся, как только это будет возможно."
+
+# game/v11/scene34.rpy:761
+translate russian v11s34_c1_2056e805:
+
+    # u "I'm sorry."
+    u "Мне жаль."
+
+# game/v11/scene34.rpy:766
+translate russian v11s34_c1_121df40b:
+
+    # csa "No no, please go."
+    csa "Нет, нет, пожалуйста, идите."
+
+# game/v11/scene34.rpy:771
+translate russian v11s34_c1_1ac6f3dd:
+
+    # cl "C'mon, [name]!"
+    cl "Давай, [name]!"
+
+# game/v11/scene34.rpy:776
+translate russian v11s34_c1_36f768bf:
+
+    # cl "*Whisper* Race ya."
+    cl "*Шепот* Наперегонки."
+
+# game/v11/scene34.rpy:781
+translate russian v11s34_c1_5d6436d8:
+
+    # u "*Whisper* Huh?"
+    u "*Шепот* А?"
+
+# game/v11/scene34.rpy:802
+translate russian v11s34_c1_a202b8f3:
+
+    # cl "Damn, you're pretty fast."
+    cl "Чёрт, а ты довольно быстр."
+
+# game/v11/scene34.rpy:807
+translate russian v11s34_c1_57559dae:
+
+    # u "Haha, you too."
+    u "Ха-ха, ты тоже."
+
+# game/v11/scene34.rpy:830
+translate russian v11s34_c1_edb4fa11:
+
+    # lee "[name], I don't believe that's your room."
+    lee "[name], я не верю, что это твоя комната."
+
+# game/v11/scene34.rpy:835
+translate russian v11s34_c1_b4f8e2a8:
+
+    # u "(What a fucking cock-block.)"
+    u "(Что за херня.)"
+
+# game/v11/scene34.rpy:840
+translate russian v11s34_c1_3f351345:
+
+    # u "I'll see you soon, Chloe."
+    u "До скорой встречи, Хлоя."
+
+# game/v11/scene34.rpy:845
+translate russian v11s34_c1_2fa85960:
+
+    # cl "You better."
+    cl "Тебе тоже."

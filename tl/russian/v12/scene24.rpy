@@ -43,3 +43,24 @@ translate russian v12_simplr_convo_89080957:
     # u "(Well, no matches, I'm just gonna take my sorry ass to sleep.)"
     u "(Ну, никаких совпадений, я просто собираюсь уложить свою жалкую задницу спать.)"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v12/scene24.rpy:60
+translate russian v12s24_PhoneContinueEmmy_581b2cbc:
+
+    # u "(I should check Simplr.)"
+    u "(Я должен проверить Simplr.)"
+
+# game/v12/scene24.rpy:66
+translate russian v12s24_PhoneContinueEmmy_c0f47f91:
+
+    # u "(Very interesting... *Chuckles* Now, I need to sleep.)"
+    u "(Очень интересно... *Смеется* Теперь мне нужно поспать.)"
+
+# game/v12/scene24.rpy:72
+translate russian v12s24_PhoneContinueEmmy_89080957:
+
+    # u "(Well, no matches, I'm just gonna take my sorry ass to sleep.)"
+    u "(Ну, никаких совпадений, я просто собираюсь уложить свою жалкую задницу спать.)"

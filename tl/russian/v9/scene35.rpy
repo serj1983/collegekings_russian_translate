@@ -242,3 +242,12 @@ translate russian strings:
     old "Yeah haha, I feel wiped."
     new "Да, хаха, я чувствую себя вымотанным."
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+translate russian strings:
+
+    # game/v9/scene35.rpy:36
+    old "God, I miss that cock."
+    new "Боже, я скучаю по этому члену."

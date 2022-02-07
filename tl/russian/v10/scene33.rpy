@@ -76,7 +76,7 @@ translate russian v10s33_autumn1_5bbd8cbd:
 translate russian v10s33_autumn1_df090562:
 
     # aut "I take a more uhm... lead by example approach, instead of just passing out orders. Though some were more eager to help than others. *Chuckles*"
-    aut "Я придерживаюсь более... эээ... образцового подхода, вместо того, чтобы просто раздавать приказы. Хотя некоторые охотнее помогали, чем другие. *Хохочет*"
+    aut "Я придерживаюсь более... эээ... образцового подхода, вместо того, чтобы просто раздавать приказы. Хотя некоторые охотнее помогали, чем другие. *Хихикает*"
 
 # game/v10/scene33.rpy:90
 translate russian v10s33_autumn1_11384a71:
@@ -208,7 +208,7 @@ translate russian v10s33_autumn1_5525d078:
 translate russian v10s33_autumn1_176f5948:
 
     # u "*Chuckles* You say it like they're your kids. I'm sure they can take care of themselves while you're on vacation."
-    u "*Хохочет* Ты говоришь так, будто это твои дети. Я думаю, они сами о себе позаботятся, пока ты в отпуске."
+    u "*Хихикает* Ты говоришь так, будто это твои дети. Я думаю, они сами о себе позаботятся, пока ты в отпуске."
 
 # game/v10/scene33.rpy:204
 translate russian v10s33_autumn1_6a74434e:
@@ -376,7 +376,7 @@ translate russian v10s33_deergirl11_9ef7390b:
 translate russian v10s33_deergirl11_058deeb6:
 
     # u "Or I could find Perry, he was doing great. *Chuckles*"
-    u "Или я могу найти Перри, у него всё было отлично. *Хохочет*"
+    u "Или я могу найти Перри, у него всё было отлично. *Хихикает*"
 
 # game/v10/scene33.rpy:437
 translate russian v10s33_deergirl11_c26eb129:
@@ -658,7 +658,7 @@ translate russian v10s33_aubrey1_e39a21b0:
 translate russian v10s33_aubrey1_47fc0e1d:
 
     # u "*Chuckles* Are you planning on asking me about every girl on campus you know?"
-    u "*Хохочет* Ты планируешь расспрашивать меня о каждой девушке в кампусе, которую ты знаешь?"
+    u "*Хихикает* Ты планируешь расспрашивать меня о каждой девушке в кампусе, которую ты знаешь?"
 
 # game/v10/scene33.rpy:746
 translate russian v10s33_aubrey1_1a179f5f:
@@ -766,7 +766,7 @@ translate russian v10s33_aubrey1_d27331b7:
 translate russian v10s33_aubrey1_d3660af2:
 
     # au "*Chuckles* Guess I have my answer to that."
-    au "*Хохочет* Думаю, у меня есть ответ на этот вопрос."
+    au "*Хихикает* Думаю, у меня есть ответ на этот вопрос."
 
 # game/v10/scene33.rpy:836
 translate russian v10s33_aubrey1_af5b70d8:
@@ -832,7 +832,7 @@ translate russian v10s33_aubrey1_5984a000:
 translate russian v10s33_aubrey1_8d402e41:
 
     # u "What? *Chuckles*"
-    u "Что? *Хохочет*"
+    u "Что? *Хихикает*"
 
 # game/v10/scene33.rpy:901
 translate russian v10s33_aubrey1_97ee1b7a:
@@ -922,7 +922,7 @@ translate russian v10s33_chloe2_385c18d3:
 translate russian v10s33_chloe2_6feade1e:
 
     # cl "I don't know if that's supposed to be a compliment or not. *Chuckles*"
-    cl "Я не знаю, должно ли это быть комплиментом или нет. *Хохочет*"
+    cl "Я не знаю, должно ли это быть комплиментом или нет. *Хихикает*"
 
 # game/v10/scene33.rpy:981
 translate russian v10s33_chloe2_23bb0aa4:
@@ -1036,13 +1036,13 @@ translate russian v10s33_chloe2_d7a60a65:
 translate russian v10s33_chloe2_90e83552:
 
     # cl "Can I choose cartoon characters? *Chuckles*"
-    cl "Могу ли я выбрать героев мультфильмов? *Хохочет*"
+    cl "Могу ли я выбрать героев мультфильмов? *Хихикает*"
 
 # game/v10/scene33.rpy:1076
 translate russian v10s33_chloe2_ff828f1f:
 
     # u "That's one way to say no man is good enough for me. *Chuckles*"
-    u "Это один из способов сказать, что ни один парень не достаточно хорош для тебя?! *Хохочет*"
+    u "Это один из способов сказать, что ни один парень не достаточно хорош для тебя?! *Хихикает*"
 
 # game/v10/scene33.rpy:1081
 translate russian v10s33_chloe2_ed23f02b:
@@ -1246,7 +1246,7 @@ translate russian v10s33_deergirl21_dccaf971:
 translate russian v10s33_deergirl21_4c966563:
 
     # dg2 "Some people have done amazing, others... not so much. *Chuckles*"
-    dg2 "Некоторые люди добились потрясающих результатов, другие... не очень. *Хохочет*"
+    dg2 "Некоторые люди добились потрясающих результатов, другие... не очень. *Хихикает*"
 
 # game/v10/scene33.rpy:1269
 translate russian v10s33_deergirl21_a3f6b7fd:
@@ -1264,7 +1264,7 @@ translate russian v10s33_deergirl21_1024b30c:
 translate russian v10s33_deergirl21_51f60d28:
 
     # u "If I win the lingerie I get to see you in it right? *Chuckles*"
-    u "Если я выиграю бельё, то смогу увидеть тебя в нём, да? *Хохочет*"
+    u "Если я выиграю бельё, то смогу увидеть тебя в нём, да? *Хихикает*"
 
 # game/v10/scene33.rpy:1289
 translate russian v10s33_deergirl21_7eb6c568:
@@ -1414,7 +1414,7 @@ translate russian v10s33_laurenbake1_b7c84852:
 translate russian v10s33_laurenbake1_8d402e41:
 
     # u "What? *Chuckles*"
-    u "Что? *Хохочет*"
+    u "Что? *Хихикает*"
 
 # game/v10/scene33.rpy:1459
 translate russian v10s33_laurenbake1_4e083ba1:
@@ -1684,7 +1684,7 @@ translate russian v10s33_laurenstatue1_960fc909:
 translate russian v10s33_laurenstatue1_1e152bc7:
 
     # la "You think? *Chuckles*"
-    la "Думаешь? *Хохочет*"
+    la "Думаешь? *Хихикает*"
 
 # game/v10/scene33.rpy:1690
 translate russian v10s33_laurenstatue1_4a912210:
@@ -2326,7 +2326,7 @@ translate russian v10s33_riley1_dbf7a994:
 translate russian v10s33_riley1_6cd1aca5:
 
     # u "Maybe. *Chuckles*"
-    u "Может. *Хохочет*"
+    u "Может. *Хихикает*"
 
 # game/v10/scene33.rpy:2259
 translate russian v10s33_riley1_d008d71c:
@@ -2338,7 +2338,7 @@ translate russian v10s33_riley1_d008d71c:
 translate russian v10s33_riley1_5ad226e1:
 
     # ri "Such a gentleman. *Chuckles*"
-    ri "Такой джентльмен. *Хохочет*"
+    ri "Такой джентльмен. *Хихикает*"
 
 # game/v10/scene33.rpy:2269
 translate russian v10s33_riley1_d3a21e5e:
@@ -2356,7 +2356,7 @@ translate russian v10s33_riley1_ce340e63:
 translate russian v10s33_riley1_38ed5c35:
 
     # u "Does that make you \"just right\"? *Chuckles*"
-    u "Так может просто ты обычная? *Хохочет*"
+    u "Так может просто ты обычная? *Хихикает*"
 
 # game/v10/scene33.rpy:2284
 translate russian v10s33_riley1_d2340421:
@@ -2560,7 +2560,7 @@ translate russian v10s33_riley1_c40855fd:
 translate russian v10s33_riley1_081c076a:
 
     # ri "You obviously have no fashion sense. *Chuckles* I'm gonna get it."
-    ri "У тебя явно нет чувства моды. *Хохочет* Я заберу её."
+    ri "У тебя явно нет чувства моды. *Хихикает* Я заберу её."
 
 # game/v10/scene33.rpy:2445
 translate russian v10s33_riley1_263004e5:
@@ -2572,7 +2572,7 @@ translate russian v10s33_riley1_263004e5:
 translate russian v10s33_riley1_0115a0f6:
 
     # ri "Like I said, I'm a kind person. *Chuckles* Have you been to the dance stand?"
-    ri "Как я уже сказала, я добрая. *Хохочет* Ты был на танцевальном стенде?"
+    ri "Как я уже сказала, я добрая. *Хихикает* Ты был на танцевальном стенде?"
 
 # game/v10/scene33.rpy:2457
 translate russian v10s33_riley1_fbd0eabf:
@@ -2620,7 +2620,7 @@ translate russian v10s33_riley2_abb699b8:
 translate russian v10s33_riley2_8ba00f97:
 
     # au "I really like it, if it goes missing it wasn't me. *Chuckles* You look like a real dancer in that hat."
-    au "Мне очень нравится, если она пропадёт, то это не я. *Хохочет* В этой шляпе ты похожа на настоящую танцовщицу."
+    au "Мне очень нравится, если она пропадёт, то это не я. *Хихикает* В этой шляпе ты похожа на настоящую танцовщицу."
 
 # game/v10/scene33.rpy:2503
 translate russian v10s33_riley2_e79f5c74:
@@ -2632,7 +2632,7 @@ translate russian v10s33_riley2_e79f5c74:
 translate russian v10s33_riley2_a5fd30e3:
 
     # au "Almost falling on a slippery road but managing to catch yourself isn't dancing. *Chuckles*"
-    au "Чуть не упасть на скользкой дороге, но успеть вовремя наклониться для баланса - это не танцы. *Хохочет*"
+    au "Чуть не упасть на скользкой дороге, но успеть вовремя наклониться для баланса - это не танцы. *Хихикает*"
 
 # game/v10/scene33.rpy:2513
 translate russian v10s33_riley2_851f668b:
@@ -2656,7 +2656,7 @@ translate russian v10s33_riley2_0ad5d22a:
 translate russian v10s33_riley2_2d31833f:
 
     # au "What scientist taught you that? *Chuckles*"
-    au "Какой учёный научил тебя этому? *Хохочет*"
+    au "Какой учёный научил тебя этому? *Хихикает*"
 
 # game/v10/scene33.rpy:2533
 translate russian v10s33_riley2_ab6ddc47:
@@ -2710,7 +2710,7 @@ translate russian v10s33_riley2_016be1d6:
 translate russian v10s33_riley2_8ea85ca1:
 
     # au "What's wrong redhead? *Chuckles* Scared?"
-    au "Что случилось, рыжая? *Хохочет* Испугалась?"
+    au "Что случилось, рыжая? *Хихикает* Испугалась?"
 
 # game/v10/scene33.rpy:2579
 translate russian v10s33_riley2_448df40e:
@@ -2920,7 +2920,7 @@ translate russian v10s33_riley2_28d7d1d4:
 translate russian v10s33_riley2_919b2baa:
 
     # ri "Good battle, loser. *Chuckles*"
-    ri "Хороший батл, неудачница. *Хохочет*"
+    ri "Хороший батл, неудачница. *Хихикает*"
 
 # game/v10/scene33.rpy:2869
 translate russian v10s33_riley2_7cc7c7e1:
@@ -2974,7 +2974,7 @@ translate russian v10s33_riley2_fb50cedb:
 translate russian v10s33_riley2_8557b482:
 
     # au "Should I rub it in now or later? *Chuckles*"
-    au "Хочешь реванш сейчас или позже? *Хохочет*"
+    au "Хочешь реванш сейчас или позже? *Хихикает*"
 
 # game/v10/scene33.rpy:2917
 translate russian v10s33_riley2_e7a00c38:
@@ -3034,7 +3034,7 @@ translate russian v10s33_amber1_6ed07188:
 translate russian v10s33_amber1_2f706e26:
 
     # am "Oh please, remember who you're talking to. *Chuckles*"
-    am "О, пожалуйста, не забывай, с кем ты разговариваешь. *Хохочет*"
+    am "О, пожалуйста, не забывай, с кем ты разговариваешь. *Хихикает*"
 
 # game/v10/scene33.rpy:2975
 translate russian v10s33_amber1_9ccb7c75:
@@ -3076,7 +3076,7 @@ translate russian v10s33_amber1_51f36082:
 translate russian v10s33_amber1_cff56a96:
 
     # u "*Chuckles* You know that's not what I meant."
-    u "*Хохочет* Ты знаешь, что я не это имел в виду."
+    u "*Хихикает* Ты знаешь, что я не это имел в виду."
 
 # game/v10/scene33.rpy:3012
 translate russian v10s33_amber1_5aa2421f:
@@ -3748,7 +3748,7 @@ translate russian v10s33_emily1_fcb52aa7:
 translate russian v10s33_emily1_9d5b91ea:
 
     # em "*Chuckles* Whatever."
-    em "*Хохочет* Без разницы."
+    em "*Хихикает* Без разницы."
 
 # game/v10/scene33.rpy:3669
 translate russian v10s33_emily1_1f844138:
@@ -3892,7 +3892,7 @@ translate russian v10s33_evelyn1_412524e6:
 translate russian v10s33_evelyn1_adff89cd:
 
     # ev "Uhm, no. *Chuckles* I'm here for the charity. I love events like this, community things always make me happy."
-    ev "Эмм, нет. *Хохочет* Я здесь ради благотворительности. Я люблю подобные мероприятия, общественные дела всегда делают меня счастливее."
+    ev "Эмм, нет. *Хихикает* Я здесь ради благотворительности. Я люблю подобные мероприятия, общественные дела всегда делают меня счастливее."
 
 # game/v10/scene33.rpy:3795
 translate russian v10s33_evelyn1_dea0b6ec:
@@ -3904,7 +3904,7 @@ translate russian v10s33_evelyn1_dea0b6ec:
 translate russian v10s33_evelyn1_f0b88fa0:
 
     # ev "Maybe they should sell tickets to the toilet so people can go when they need to, I'm sure that would bring in some money. *Chuckles*"
-    ev "Может быть, им стоит продавать билеты в туалет, чтобы люди могли ходить туда, когда им нужно, я уверена, это принесло бы немного денег. *Хохочет*"
+    ev "Может быть, им стоит продавать билеты в туалет, чтобы люди могли ходить туда, когда им нужно, я уверена, это принесло бы немного денег. *Хихикает*"
 
 # game/v10/scene33.rpy:3805
 translate russian v10s33_evelyn1_c0f3f77e:
@@ -3928,13 +3928,13 @@ translate russian v10s33_evelyn1_7da7e1eb:
 translate russian v10s33_evelyn1_bc4326ff:
 
     # ev "Someone's eager. *Chuckles* Soon, but let's enjoy the event for today."
-    ev "Кто-то нетерпелив. *Хохочет* Скоро, но пока насладимся сегодняшним мероприятием."
+    ev "Кто-то нетерпелив. *Хихикает* Скоро, но пока насладимся сегодняшним мероприятием."
 
 # game/v10/scene33.rpy:3827
 translate russian v10s33_evelyn1_1696e44b:
 
     # u "I'll think about it. *Chuckles*"
-    u "Я подумаю над этим. *Хохочет*"
+    u "Я подумаю над этим. *Хихикает*"
 
 # game/v10/scene33.rpy:3832
 translate russian v10s33_evelyn1_b1b1d0c7:
@@ -4164,3 +4164,30 @@ translate russian strings:
     old "I'll think about it"
     new "Я подумаю над этим"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v10/scene33.rpy:1141
+translate russian v10s33_chloe2_ec2cf505:
+
+    # cl "You've had something against me from the second I became President and I'm honestly getting sick of it!"
+    cl "Ты имеешь что-то против меня с той самой секунды, как я стала президентом, и мне это уже порядком надоело!"
+
+# game/v10/scene33.rpy:1748
+translate russian v10s33_laurenstatue1_e350ebdf:
+
+    # u "Maybe if you get Autumn to sell fake oil cans people can act as though they're loosening your joints, Mrs. Tin Man. *Laughs*"
+    u "Может быть, если ты заставишь Отем продавать поддельные банки с маслом, люди смогут делать вид, будто они расшатывают твои суставы, Миссис Железный Дровосек. *Смеется*"
+
+# game/v10/scene33.rpy:2955
+translate russian v10s33_amber1_c2832b0c:
+
+    # am "I'm looking forward to a good little catfight. It would be even better though if it was the guys doing the wrestling."
+    am "Я с нетерпением жду хорошей кошачьей драки. Но было бы еще лучше, если бы борьбу вели парни."
+
+# game/v10/scene33.rpy:3086
+translate russian v10s33_chris1_21b3e913:
+
+    # ch "Now that you're back man, you and [name] should play a game. First one to get one in is the Wolves' new President. *Laughs*"
+    ch "Теперь, когда ты вернулся, ты и [name] должны сыграть в игру. Первый, кто его получит, станет новым президентом Волков. *Смеется*"

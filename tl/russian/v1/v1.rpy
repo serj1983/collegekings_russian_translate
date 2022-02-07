@@ -5206,3 +5206,225 @@ translate russian strings:
     old "Poke fun"
     new "Подшучивать"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v1/v1.rpy:572
+translate russian ad_db_2534815f:
+
+    # ry "And...their President is the current Fight King."
+    ry "И... их президент - нынешний король Битвы."
+
+# game/v1/v1.rpy:789
+translate russian af_db_086c04ba:
+
+    # la "They're one of the two sororities at San Vallejo. My sister Autumn is their President, so I know most of them quite well."
+    la "Это одно из двух женских обществ в Сан-Вальехо. Моя сестра Отем - их президент, поэтому я хорошо знаю большинство из них."
+
+# game/v1/v1.rpy:1546
+translate russian v1_phoneCheck2_2e6452c1:
+
+    # "(I should reply to Julia as well, by the way.)"
+    "(Кстати, я должен ответить Джулии)."
+
+# game/v1/v1.rpy:1552
+translate russian v1_phoneCheck2_724c271c:
+
+    # u "Okay man, I did it."
+    u "Хорошо, мужик, я сделал это."
+
+# game/v1/v1.rpy:1557
+translate russian v1_phoneCheck2_10eaa655:
+
+    # imre "Awesome! Get ready for a wild night, my man."
+    imre "Потрясающе! Приготовься к дикой ночи, дружище."
+
+# game/v1/v1.rpy:3413
+translate russian v1_freeRoam2_josh_edb34ffa:
+
+    # au "Oh no, I'm a junior, vice President of the Chicks actually."
+    au "О нет, я младше, вице-президент Чикс вообще-то."
+
+# game/v1/v1.rpy:3463
+translate russian v1_freeRoam2_josh_35b6f2b3:
+
+    # au "He's the President of the Apes and the current Fight King."
+    au "Он президент Приматов и нынешний Король Битвы."
+
+# game/v1/v1.rpy:3493
+translate russian v1_freeRoam2_josh_35b6f2b3_1:
+
+    # au "He's the President of the Apes and the current Fight King."
+    au "Он президент Приматов и нынешний Король Битвы."
+
+# game/v1/v1.rpy:3545
+translate russian v1_freeRoam2_josh_35b6f2b3_2:
+
+    # au "He's the President of the Apes and the current Fight King."
+    au "Он президент Приматов и нынешний Король Битвы."
+
+# game/v1/v1.rpy:3547
+translate russian v1_freeRoam2_josh_f30d22af_1:
+
+    # au "I think he's upstairs, but I'm not sure."
+    au "Я думаю, он наверху, но я не уверена."
+
+# game/v1/v1.rpy:3552
+translate russian v1_freeRoam2_josh_94906a23_1:
+
+    # u "Alright, I'll leave you guys alone and look around a bit more. Maybe I'll even talk to Grayson."
+    u "Хорошо, я оставлю вас, ребята, в покое и осмотрюсь ещё немного. Может быть, я даже поговорю с Грейсоном."
+
+# game/v1/v1.rpy:3575
+translate russian v1_freeRoam2_josh_35b6f2b3_3:
+
+    # au "He's the President of the Apes and the current Fight King."
+    au "Он президент Приматов и нынешний Король Битвы."
+
+# game/v1/v1.rpy:3577
+translate russian v1_freeRoam2_josh_2f3f97b5_1:
+
+    # au "You'll never know, maybe if you meet some of the Apes, you'll change your mind about fighting."
+    au "Никогда не знаешь, может быть, если ты встретишь кого-то из приматов, ты изменишь свое мнение о борьбе."
+
+# game/v1/v1.rpy:3582
+translate russian v1_freeRoam2_josh_94b81b79_1:
+
+    # u "(I doubt it, but I guess it won't hurt to talk to some of them.)"
+    u "(Я сомневаюсь в этом, но думаю, что не помешает поговорить с некоторыми из них)."
+
+# game/v1/v1.rpy:3584
+translate russian v1_freeRoam2_josh_25f14ccc_1:
+
+    # u "Alright, I'll leave you guys alone and look around a bit more."
+    u "Ладно, я оставлю вас одних и осмотрюсь еще немного."
+
+# game/v1/v1.rpy:3914
+translate russian v1_freeRoam2_grayson_44b1453d:
+
+    # gr "We're building the Apes' legacy here. 10 years from now, I'll be the most successful Ape President in history."
+    gr "Мы строим здесь наследие Приматов. Через 10 лет я стану самым успешным президентом обезьян в истории."
+
+# game/v1/v1.rpy:3916
+translate russian v1_freeRoam2_grayson_16256e07:
+
+    # gr "And you could be the most successful vice President."
+    gr "И ты можешь стать самым успешным вице-президентом."
+
+# game/v1/v1.rpy:3967
+translate russian fr2end_decaa9f0:
+
+    # ry "I think that's Chloe, right? I talked to some of the Chicks and she's like their President."
+    ry "Я думаю, это Хлоя, верно? Я разговаривала с некоторыми Чикс, и она вроде как их президент."
+
+# game/v1/v1.rpy:4214
+translate russian bf_bd_3eb3984d:
+
+    # u "So, you're the President of the Chicks, right?"
+    u "Итак, ты президент Чикс, верно?"
+
+# game/v1/v1.rpy:4224
+translate russian bf_bd_57f8722d:
+
+    # u "Are you close with Aubrey then? She told me she was the vice President."
+    u "Вы близки с Обри? Она сказала мне, что была вице-президентом."
+
+translate russian strings:
+
+    # game/v1/v1.rpy:965
+    old "She's hot"
+    new "Она горячая штучка"
+
+    # game/v1/v1.rpy:965
+    old "She seems nice"
+    new "Она кажется хорошенькой"
+
+    # game/v1/v1.rpy:1104
+    old "That's cool"
+    new "Это круто"
+
+    # game/v1/v1.rpy:1394
+    old "The Wolves sound sick"
+    new "Волки - крутые ребята"
+
+    # game/v1/v1.rpy:1785
+    old "You're missing out"
+    new "Многое упускаешь"
+
+    # game/v1/v1.rpy:1785
+    old "Dodged a bullet there"
+    new "От пули увернулся"
+
+    # game/v1/v1.rpy:1925
+    old "Do it, or drink"
+    new "Сделай это или выпей"
+
+    # game/v1/v1.rpy:1982
+    old "Riley's mine"
+    new "Райли моя"
+
+    # game/v1/v1.rpy:1982
+    old "They're both hot"
+    new "Они обе горячие"
+
+    # game/v1/v1.rpy:1996
+    old "You're right, sorry"
+    new "Ты прав, прости"
+
+    # game/v1/v1.rpy:1996
+    old "She wants me"
+    new "Она хочет меня"
+
+    # game/v1/v1.rpy:2543
+    old "Bad roommates suck"
+    new "Плохие соседи - отстой"
+
+    # game/v1/v1.rpy:2666
+    old "You could get any guy"
+    new "Ты можешь выбрать кого-угодно"
+
+    # game/v1/v1.rpy:2666
+    old "Yet, you're here with me"
+    new "И все же ты со мной"
+
+    # game/v1/v1.rpy:2730
+    old "I'm still in love with my ex"
+    new "Я все еще люблю свою бывшую"
+
+    # game/v1/v1.rpy:2730
+    old "I've broken into an Ikea"
+    new "Я вломился в ИКЕА"
+
+    # game/v1/v1.rpy:2884
+    old "You're really beautiful"
+    new "Ты очень красивая"
+
+    # game/v1/v1.rpy:2884
+    old "You're not ugly"
+    new "Ты не стрёмная"
+
+    # game/v1/v1.rpy:3521
+    old "I'll be the next Fight King"
+    new "Я буду следующим Королем Битвы"
+
+    # game/v1/v1.rpy:3521
+    old "No, that's not for me"
+    new "Нет, это не для меня"
+
+    # game/v1/v1.rpy:3654
+    old "Yeah, he better watch out"
+    new "Пусть будет начеку"
+
+    # game/v1/v1.rpy:3654
+    old "I didn't wanna fight him"
+    new "Я не хотел драться с ним"
+
+    # game/v1/v1.rpy:3978
+    old "You're right, I'll talk to her"
+    new "Ты прав, я с ней поговорю"
+
+    # game/v1/v1.rpy:3978
+    old "She's occupied"
+    new "Она занята"
+

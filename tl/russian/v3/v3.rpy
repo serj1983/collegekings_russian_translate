@@ -3580,3 +3580,70 @@ translate russian strings:
     old "Stop"
     new "Остановиться"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v3/v3.rpy:76
+translate russian v3start_41cf4bab:
+
+    # cl "If I don't show up to Ape parties as the Chicks' President, I risk losing the relationships I've built and being voted out."
+    cl "Если я не буду появляться на вечеринках Приматов в качестве президента Чикс, то рискую потерять отношения, которые я построила, и буду изгнана."
+
+# game/v3/v3.rpy:1301
+translate russian cx_ad_e916cc3c:
+
+    # imre "No, body shots."
+    imre "Нет, ударь по корпусу."
+
+# game/v3/v3.rpy:3026
+translate russian df_bd_e34d20b3:
+
+    # ri "So what's going on between you and Chloe? She's the President of the Chicks, right?"
+    ri "Так что происходит между тобой и Хлоей? Она ведь президент Чикс, верно?"
+
+translate russian strings:
+
+    # game/v3/v3.rpy:145
+    old "You're crazy"
+    new "Ты спятил"
+
+    # game/v3/v3.rpy:145
+    old "That's not cool"
+    new "Это не круто"
+
+    # game/v3/v3.rpy:205
+    old "Hell yeah"
+    new "Даа"
+
+    # game/v3/v3.rpy:205
+    old "She's alright"
+    new "Она ничего"
+
+    # game/v3/v3.rpy:2537
+    old "I'd love to"
+    new "Я бы с удовольствием"
+
+    # game/v3/v3.rpy:2648
+    old "Shopping sounds great"
+    new "Шоппинг - это здорово"
+
+    # game/v3/v3.rpy:2648
+    old "I can't, sorry"
+    new "Я не могу, извини"
+
+    # game/v3/v3.rpy:3028
+    old "I like her"
+    new "Она мне нравится"
+
+    # game/v3/v3.rpy:3028
+    old "She's into me"
+    new "Я ей нравлюсь"
+
+    # game/v3/v3.rpy:3187
+    old "Tell her what happened"
+    new "Расскажи ей, что случилось"
+
+    # game/v3/v3.rpy:3187
+    old "Don't tell her"
+    new "Не говорить ей"

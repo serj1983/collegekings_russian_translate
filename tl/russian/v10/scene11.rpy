@@ -576,3 +576,12 @@ translate russian strings:
     old "I understand"
     new "Я понимаю"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v10/scene11.rpy:61
+translate russian v10_linds_room_55138f7c:
+
+    # u "My mom was always quite a... uhm... cold person. When I was a kid she just really wanted to travel the world, so she and my dad split and I stayed with him."
+    u "Моя мама всегда была довольно... хм... холодным человеком. Когда я был ребенком, она очень хотела путешествовать по миру, поэтому они с отцом разошлись, и я остался с ним."

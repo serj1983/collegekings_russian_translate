@@ -3994,3 +3994,88 @@ translate russian strings:
     old "I'm busy later tonight and I'm pretty much booked for the entire week :/"
     new "Я занята сегодня вечером, и у меня практически вся неделя расписана. :/"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v5/v5.rpy:680
+translate russian phoney_6b7f28be:
+
+    # u "(Maybe it's Lauren and she wants to talk about what happened? I should definitely check.)"
+    u "(Может, это Лорен и она хочет поговорить о том, что случилось? Я обязательно проверю.)"
+
+# game/v5/v5.rpy:1819
+translate russian apo_cd84c2f9:
+
+    # la "I trusted you... And you didn't seem to care one bit."
+    la "Я доверяла тебе... А тебе, похоже, было всё равно."
+
+# game/v5/v5.rpy:3703
+translate russian youfinishadam_7ed7b49c:
+
+    # u "Oh shit, you're Chris, President of the Wolves, right?"
+    u "О черт, ты Крис, президент Волков, верно?"
+
+# game/v5/v5.rpy:3875
+translate russian adamfinish_0515b18a:
+
+    # u "You're Chris, President of the Wolves, right?"
+    u "Вы Крис, президент Волков, верно?"
+
+translate russian strings:
+
+    # game/v5/v5.rpy:65
+    old "It's Chloe"
+    new "Это Хлоя"
+
+    # game/v5/v5.rpy:65
+    old "It's nothing"
+    new "Ничего особенного"
+
+    # game/v5/v5.rpy:289
+    old "I believe you"
+    new "Я верю тебе"
+
+    # game/v5/v5.rpy:289
+    old "You're lying"
+    new "Ты врешь"
+
+    # game/v5/v5.rpy:728
+    old "Complaints? I love it"
+    new "Возражения? Мне нравится"
+
+    # game/v5/v5.rpy:728
+    old "I don't like kissing in public"
+    new "Я не люблю целоваться на людях"
+
+    # game/v5/v5.rpy:778
+    old "Sorry, not in public"
+    new "Извини, не на людях"
+
+    # game/v5/v5.rpy:778
+    old "Actually, a kiss is fine"
+    new "Вообще, целоваться - это прекрасно"
+
+    # game/v5/v5.rpy:1221
+    old "Yeah, let's do it"
+    new "Ага, давай сделаем это"
+
+    # game/v5/v5.rpy:1221
+    old "I'd rather not"
+    new "Я бы не стал"
+
+    # game/v5/v5.rpy:1332
+    old "Yeah, okay"
+    new "Да, хорошо"
+
+    # game/v5/v5.rpy:1445
+    old "At least we're done now"
+    new "По крайней мере, мы закончили"
+
+    # game/v5/v5.rpy:1445
+    old "That was too far"
+    new "Это было слишком"
+
+    # game/v5/v5.rpy:3722
+    old "Yeah, I'm interested"
+    new "Да, мне интересно"

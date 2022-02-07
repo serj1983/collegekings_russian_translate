@@ -137,7 +137,7 @@ translate russian v11_hotel_bar_wolves_cca6550f:
 translate russian v11_hotel_bar_wolves_f89416b9:
 
     # ro "Have a good night, [name]."
-    ro "Спокойной ночи, [имя]."
+    ro "Спокойной ночи, [name]."
 
 # game/v11/scene26.rpy:139
 translate russian v11_hotel_bar_wolves_9fb611a7:

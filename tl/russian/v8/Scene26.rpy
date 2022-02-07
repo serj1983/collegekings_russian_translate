@@ -468,3 +468,12 @@ translate russian strings:
     old "Both glasses"
     new "Обе пары очков"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v8/Scene26.rpy:268
+translate russian after_glasses_choice_4f77a040:
+
+    # u "You really suit them, Riley!"
+    u "Тебе они очень идут, Райли!"

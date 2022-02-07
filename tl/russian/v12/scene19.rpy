@@ -149,7 +149,7 @@ translate russian v12_party_wake_up_997df18d:
 translate russian v12_party_wake_up_5b4eed56:
 
     # no "Imre, you and [name] can come too. If you want?"
-    no "Имре, и ты [имя] тоже можете пойти. Если хотите?"
+    no "Имре, и ты [name] тоже можете пойти. Если хотите?"
 
 # game/v12/scene19.rpy:173
 translate russian v12_party_wake_up_e7d9ac6f:

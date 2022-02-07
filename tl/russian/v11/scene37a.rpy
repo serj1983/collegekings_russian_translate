@@ -731,3 +731,12 @@ translate russian strings:
     old "Side with Ryan"
     new "На стороне с Райна"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+# game/v11/scene37a.rpy:231
+translate russian v11_ride_with_mrlee_7609c2ed:
+
+    # lee "If I'm able to help one of you or all of you, that makes it worth it. But I'm not going to babysit anyone. Instead, I'll give you all clarity and a fair shot."
+    lee "Если я смогу помочь одному из вас или всем вам, это будет стоит того. Но я не собираюсь ни с кем нянчиться. Вместо этого я дам вам всем ясность и честную попытку."

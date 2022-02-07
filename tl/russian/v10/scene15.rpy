@@ -202,7 +202,7 @@ translate russian v10_call_with_lauren1_b23d8e06:
 translate russian v10_call_with_lauren1_b488e4aa:
 
     # u "Yeah to be fair, I kinda knew you were gonna follow up on them when I said them out loud. *Chuckles*"
-    u "Да, если честно, я вроде как знал, что ты выберешь этот вариант, когда я произнёс его вслух. *Хохочет*"
+    u "Да, если честно, я вроде как знал, что ты выберешь этот вариант, когда я произнёс его вслух. *Хихикает*"
 
 # game/v10/scene15.rpy:184
 translate russian v10_call_with_lauren1_07959c46:
@@ -376,7 +376,7 @@ translate russian v10_call_with_lauren1_206ffec4:
 translate russian v10_call_with_lauren1_dadcab73:
 
     # u "*Chuckles* Fine, we can do that too."
-    u "*Хохочет* Отлично, мы можем сделать и это."
+    u "*Хихикает* Отлично, мы можем сделать и это."
 
 # game/v10/scene15.rpy:327
 translate russian v10_call_with_lauren1_57f70a3c:
@@ -448,7 +448,7 @@ translate russian v10_call_with_lauren1_34730a7b:
 translate russian v10_call_with_lauren1_cbec25a5:
 
     # la "*Chuckles* My bad, you're right. I'm excited to hear all of your favorites and I'm sure this game will be an essential pillar to the strengthening of our relationship."
-    la "*Хохочет* Виновата, ты прав. Мне не терпится услышать все твои предпочтения, и я уверена, что эта игра станет важной опорой для укрепления наших отношений."
+    la "*Хихикает* Виновата, ты прав. Мне не терпится услышать все твои предпочтения, и я уверена, что эта игра станет важной опорой для укрепления наших отношений."
 
 # game/v10/scene15.rpy:387
 translate russian v10_call_with_lauren1_58a53600:
@@ -586,7 +586,7 @@ translate russian v10_call_with_lauren1_17edc166:
 translate russian v10_call_with_lauren1_ea899a79:
 
     # la "Yeah, of course. You ever had school on Halloween? *Chuckles* What did you think it was?"
-    la "Да, конечно. Ты когда-нибудь ходил в школу на Хэллоуин? *Хохочет* Как ты думаешь, что это было?"
+    la "Да, конечно. Ты когда-нибудь ходил в школу на Хэллоуин? *Хихикает* Как ты думаешь, что это было?"
 
 # game/v10/scene15.rpy:520
 translate russian v10_call_with_lauren1_a4665b39:
@@ -604,7 +604,7 @@ translate russian v10_call_with_lauren1_d2b0070e:
 translate russian v10_call_with_lauren1_e16cbb14:
 
     # u "*Chuckles* Huh, I guess you're right."
-    u "*Хохочет* Ха, думаю, ты права."
+    u "*Хихикает* Ха, думаю, ты права."
 
 # game/v10/scene15.rpy:535
 translate russian v10_call_with_lauren1_483e69c9:
@@ -652,7 +652,7 @@ translate russian v10_call_with_lauren1_63a06803:
 translate russian v10_call_with_lauren1_30b90171:
 
     # u "Hey, what's up? Also, did you just throw a pebble at my window? *Chuckles*"
-    u "Привет, как дела? И ещё, ты только что бросила камешек в моё окно? *Хохочет*"
+    u "Привет, как дела? И ещё, ты только что бросила камешек в моё окно? *Хихикает*"
 
 # game/v10/scene15.rpy:586
 translate russian v10_call_with_lauren1_f54bd005:
@@ -1042,7 +1042,7 @@ translate russian v10_call_with_lauren1_b23d8e06_1:
 translate russian v10_call_with_lauren1_b488e4aa_1:
 
     # u "Yeah to be fair, I kinda knew you were gonna follow up on them when I said them out loud. *Chuckles*"
-    u "Да, если честно, я вроде как знал, что ты выберешь этот вариант, когда я произнёс его вслух. *Хохочет*"
+    u "Да, если честно, я вроде как знал, что ты выберешь этот вариант, когда я произнёс его вслух. *Хихикает*"
 
 # game/v10/scene15.rpy:945
 translate russian v10_call_with_lauren1_07959c46_1:
@@ -1216,7 +1216,7 @@ translate russian v10_call_with_lauren1_206ffec4_1:
 translate russian v10_call_with_lauren1_dadcab73_1:
 
     # u "*Chuckles* Fine, we can do that too."
-    u "*Хохочет* Отлично, мы можем сделать и это."
+    u "*Хихикает* Отлично, мы можем сделать и это."
 
 # game/v10/scene15.rpy:1088
 translate russian v10_call_with_lauren1_57f70a3c_1:
@@ -1288,7 +1288,7 @@ translate russian v10_call_with_lauren1_34730a7b_1:
 translate russian v10_call_with_lauren1_cbec25a5_1:
 
     # la "*Chuckles* My bad, you're right. I'm excited to hear all of your favorites and I'm sure this game will be an essential pillar to the strengthening of our relationship."
-    la "*Хохочет* Виновата, ты прав. Мне не терпится услышать все твои предпочтения, и я уверена, что эта игра станет важной опорой для укрепления наших отношений."
+    la "*Хихикает* Виновата, ты прав. Мне не терпится услышать все твои предпочтения, и я уверена, что эта игра станет важной опорой для укрепления наших отношений."
 
 # game/v10/scene15.rpy:1148
 translate russian v10_call_with_lauren1_58a53600_1:
@@ -1426,7 +1426,7 @@ translate russian v10_call_with_lauren1_17edc166_1:
 translate russian v10_call_with_lauren1_ea899a79_1:
 
     # la "Yeah, of course. You ever had school on Halloween? *Chuckles* What did you think it was?"
-    la "Да, конечно. Ты когда-нибудь ходил в школу на Хэллоуин? *Хохочет* Как ты думаешь, что это было?"
+    la "Да, конечно. Ты когда-нибудь ходил в школу на Хэллоуин? *Хихикает* Как ты думаешь, что это было?"
 
 # game/v10/scene15.rpy:1282
 translate russian v10_call_with_lauren1_a4665b39_1:
@@ -1444,7 +1444,7 @@ translate russian v10_call_with_lauren1_d2b0070e_1:
 translate russian v10_call_with_lauren1_e16cbb14_1:
 
     # u "*Chuckles* Huh, I guess you're right."
-    u "*Хохочет* Ха, думаю, ты права."
+    u "*Хихикает* Ха, думаю, ты права."
 
 # game/v10/scene15.rpy:1297
 translate russian v10_call_with_lauren1_483e69c9_1:
@@ -1492,7 +1492,7 @@ translate russian v10_call_with_lauren1_63a06803_1:
 translate russian v10_call_with_lauren1_ec5bbc4f:
 
     # u "Hey What's up? Also, did you just throw a pebble at my window? *Chuckles*"
-    u "Привет, как дела? И ещё, ты только что бросила камешек в моё окно? *Хохочет*"
+    u "Привет, как дела? И ещё, ты только что бросила камешек в моё окно? *Хихикает*"
 
 # game/v10/scene15.rpy:1347
 translate russian v10_call_with_lauren1_f54bd005_1:
@@ -1730,3 +1730,736 @@ translate russian strings:
     old "Don't walk her home"
     new "Откажись провожать её"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.3) Patch
+
+# game/v10/scene15.rpy:145
+translate russian v10s15_c1_1137f72a:
+
+    # u "How about we play two truths and a lie?"
+    u "Как насчёт того, чтобы сыграть в две правды и ложь?"
+
+# game/v10/scene15.rpy:153
+translate russian v10s15_c1_62b14a2a:
+
+    # la "Alright, but you start. I'm always bad at these things."
+    la "Хорошо, но ты начинай. У меня всегда плохо получается."
+
+# game/v10/scene15.rpy:158
+translate russian v10s15_c1_f6590c40:
+
+    # u "Okay let's see. I got chased by a pack of dogs after school and hid in a porta potty for hours as a kid..."
+    u "Ладно, давай посмотрим. В детстве за мной гналась стая собак после школы и я часами прятался в туалете..."
+
+# game/v10/scene15.rpy:160
+translate russian v10s15_c1_11cfe09a:
+
+    # u "I was the star in a children's show as an infant, and I'm a pretty good harmonica player."
+    u "В младенческом возрасте я был звездой в детском шоу, и я довольно хорошо играю на губной гармошке."
+
+# game/v10/scene15.rpy:168
+translate russian v10s15_c1_89cc83a0:
+
+    # la "So you just jump to the hardest difficulty huh? *Laughs*"
+    la "Значит, ты просто переходишь на самую сложную сложность? *Смеётся*"
+
+# game/v10/scene15.rpy:173
+translate russian v10s15_c1_13ef612a:
+
+    # u "I don't want to brag or anything, but I am sort of a professional at this game. The trick is to live a life that's utterly ridiculous."
+    u "Я не хочу хвастаться, но в этой игре я вроде как профессионал. Фокус в том, чтобы жить жизнью, которая совершенно нелепа."
+
+# game/v10/scene15.rpy:181
+translate russian v10s15_c1_9b755f5b:
+
+    # la "Honestly, I have no idea, haha. But I really want the harmonica and children's show stuff to be true, so I'm gonna say you did not get chased by a pack of dogs. Am I right?"
+    la "Честно говоря, я понятия не имею, хаха. Но я очень хочу, чтобы история с гармошкой и детским шоу была правдой, поэтому я скажу, что за тобой не гналась стая собак. Я права?"
+
+# game/v10/scene15.rpy:186
+translate russian v10s15_c1_bf0526c4:
+
+    # u "Are you?"
+    u "Хмм, ты уверена? :)"
+
+# game/v10/scene15.rpy:194
+translate russian v10s15_c1_2d04cc2e:
+
+    # la "Oh no, don't tell me you're one of those people that changes the \"right\" answer so no one can ever guess correctly."
+    la "О нет, только не говори мне, что ты один из тех людей, которые меняют \"правильный\" ответ, чтобы никто не мог угадать правильно."
+
+# game/v10/scene15.rpy:196
+translate russian v10s15_c1_864c99cd:
+
+    # la "My dad always changed his answer when we played games. He'd put his fingers behind his back and tell me to guess how many fingers he was holding up."
+    la "Мой отец всегда менял свой ответ, когда мы играли в игры. Он закладывал пальцы за спину и просил меня угадать, сколько пальцев он держит."
+
+# game/v10/scene15.rpy:198
+translate russian v10s15_c1_6ffb8151:
+
+    # la "No matter what I guessed I'd always be wrong because come to find out he would change it if I got it right."
+    la "Что бы я ни загадывала, я всегда ошибалась, потому что, если я правильно угадаю, он всё изменит."
+
+# game/v10/scene15.rpy:203
+translate russian v10s15_c1_d805ddb1:
+
+    # u "*Smiles* That's actually hilarious. But I won't do you like that. You actually were right."
+    u "*Улыбается* Это на самом деле уморительно. Но я не буду делать тебе этого. Ты была права."
+
+# game/v10/scene15.rpy:208
+translate russian v10s15_c1_abfff6ec:
+
+    # la "*Laughs* Really?"
+    la "*Смеётся* Правда?"
+
+# game/v10/scene15.rpy:213
+translate russian v10s15_c1_a2f570fd:
+
+    # u "Yeah, I'd rather get chewed up by dogs then suffer the smell of a porta potty for hours."
+    u "Да, лучше пусть меня загрызут собаки, чем я буду часами терпеть запах туалета."
+
+# game/v10/scene15.rpy:221
+translate russian v10s15_c1_b23d8e06:
+
+    # la "I was gonna say it would've been impressive if you could stand the smell that long. In that case, we have to pause the game and talk about these truths."
+    la "Я хотела сказать, что это было бы впечатляюще, если бы ты мог выносить запах так долго. В таком случае, мы должны были бы поставить игру на паузу и поговорить об этих истинах."
+
+# game/v10/scene15.rpy:226
+translate russian v10s15_c1_b488e4aa:
+
+    # u "Yeah to be fair, I kinda knew you were gonna follow up on them when I said them out loud. *Chuckles*"
+    u "Да, если честно, я вроде как знал, что ты выберешь этот вариант, когда я произнёс его вслух. *Хихикает*"
+
+# game/v10/scene15.rpy:234
+translate russian v10s15_c1_07959c46:
+
+    # la "Sooo, you were an infant TV sensation? And you've never told me about it?"
+    la "Итак, ты стал сенсацией на телевидении в детстве? И ты никогда не рассказывал мне об этом?"
+
+# game/v10/scene15.rpy:239
+translate russian v10s15_c1_fd88e514:
+
+    # u "*Laughs* First of all, sensation may be pushing it a bit. Second of all, I don't really tell anyone about it."
+    u "*Смеётся* Во-первых, сенсационность, возможно, немного завышена. Во-вторых, я никому об этом не рассказываю."
+
+# game/v10/scene15.rpy:241
+translate russian v10s15_c1_2c8c90bd:
+
+    # u "I mean it was all my grandmother's idea really."
+    u "Это была идея моей бабушки."
+
+# game/v10/scene15.rpy:243
+translate russian v10s15_c1_0f2c7050:
+
+    # u "She was obsessed at how cute I was so she found me an agent, my agent got me on the show, and after one short season the show got cancelled."
+    u "Она была одержима тем, насколько я мил, поэтому нашла мне агента, мой агент устроил меня на шоу, и после одного короткого сезона, шоу отменили."
+
+# game/v10/scene15.rpy:245
+translate russian v10s15_c1_bb9614d8:
+
+    # u "The rest is history."
+    u "Остальное - история."
+
+# game/v10/scene15.rpy:253
+translate russian v10s15_c1_efd9c25a:
+
+    # la "Wait, why did the show get cancelled?"
+    la "Стоп, а почему шоу отменили?"
+
+# game/v10/scene15.rpy:258
+translate russian v10s15_c1_51548a49:
+
+    # u "Do I really have to say?"
+    u "Должен ли я это говорить?"
+
+# game/v10/scene15.rpy:263
+translate russian v10s15_c1_3bcc7f84:
+
+    # la "*Laughs* Now you do!"
+    la "*Смеётся* Теперь да!"
+
+# game/v10/scene15.rpy:268
+translate russian v10s15_c1_519daadf:
+
+    # u "It's because I gained a whole lot of baby weight and the producers said a \"fat\" baby wasn't good for the camera."
+    u "Это потому, что я слишком набрала вес, и продюсеры сказали, что \"толстый\" ребёнок не годится для съёмок."
+
+# game/v10/scene15.rpy:276
+translate russian v10s15_c1_ef26e8a3:
+
+    # la "Awww, why is that both funny and sad? Okay, now explain the second one."
+    la "Почему это одновременно смешно и грустно? Хорошо, теперь поясни второе."
+
+# game/v10/scene15.rpy:281
+translate russian v10s15_c1_c83ae144:
+
+    # u "What was the second one again? Only thing I can think about right now are my fat baby rolls."
+    u "Во вторых? Единственное, о чём я могу сейчас думать, это мои жирные детские булки."
+
+# game/v10/scene15.rpy:289
+translate russian v10s15_c1_ef10b6a3:
+
+    # la "Haha, you said you played the harmonica..."
+    la "Хаха, ты сказал, что играешь на губной гармошке..."
+
+# game/v10/scene15.rpy:294
+translate russian v10s15_c1_dc1889ba:
+
+    # u "Oh yeah, I played a lot growing up. I used to love those old western movies and all the cool cowboys played the harmonica so I picked it up."
+    u "О да, я много играл в детстве. Мне нравились старые фильмы про вестерны, и все крутые ковбои играли на губной гармошке, поэтому я взял её на вооружение."
+
+# game/v10/scene15.rpy:296
+translate russian v10s15_c1_fe131699:
+
+    # u "After a few years of dabbling, I got really good."
+    u "После нескольких лет увлечения я стал действительно хорош."
+
+# game/v10/scene15.rpy:304
+translate russian v10s15_c1_7e0d5790:
+
+    # la "Can you still play?"
+    la "Ты сможешь сыграть?"
+
+# game/v10/scene15.rpy:309
+translate russian v10s15_c1_137c5bbb:
+
+    # u "I haven't played in a long time, but sure. I could definitely pick it up anytime."
+    u "Я давно не играл, но уверен. Я определённо могу взять её в любое время."
+
+# game/v10/scene15.rpy:314
+translate russian v10s15_c1_93b150ea:
+
+    # la "I'm gonna need proof of a claim that bold."
+    la "Мне понадобятся доказательства столь смелого утверждения."
+
+# game/v10/scene15.rpy:330
+translate russian v10s15_c1_500e6417:
+
+    # u "I guess it wouldn't hurt to give a little performance sometime."
+    u "Думаю, не помешает как-нибудь устроить небольшое представление."
+
+# game/v10/scene15.rpy:336
+translate russian v10s15_c1_6b05d4f4:
+
+    # la "Maybe on our next date?"
+    la "Может, на следующем свидании?"
+
+# game/v10/scene15.rpy:341
+translate russian v10s15_c1_89f86ac4:
+
+    # u "Sure, that sounds good."
+    u "Конечно, звучит хорошо."
+
+# game/v10/scene15.rpy:346
+translate russian v10s15_c1_c810edf2:
+
+    # la "Can't wait. You don't hear of a lot of people playing the harmonica, almost as rare as hearing someone be able to play the harp."
+    la "Не могу дождаться. Не так уж часто можно услышать, что кто-то играет на губной гармошке, почти так же редко, как услышать, что кто-то умеет играть на арфе."
+
+# game/v10/scene15.rpy:351
+translate russian v10s15_c1_0c368585:
+
+    # u "What can I say, I'm a unique guy."
+    u "Что я могу сказать, я уникальный парень."
+
+# game/v10/scene15.rpy:360
+translate russian v10s15_c1_70210849:
+
+    # u "Well there's certainly ways to prove my mouth agility to you."
+    u "Ну, конечно, есть способы доказать тебе мою ловкость рта."
+
+# game/v10/scene15.rpy:365
+translate russian v10s15_c1_f6116cd3:
+
+    # la "What do you mean?"
+    la "Что ты имеешь в виду?"
+
+# game/v10/scene15.rpy:370
+translate russian v10s15_c1_92cb80b4:
+
+    # u "You know, playing the harmonica requires quite a lot of tongue coordination, usually girls like that."
+    u "Знаешь, игра на губной гармошке требует довольно большой координации языка, обычно девушкам это нравится."
+
+# game/v10/scene15.rpy:379
+translate russian v10s15_c1_ced11d9b:
+
+    # la "*Laughs* Ewww, [name] stop it!"
+    la "*Смеётся* Эй, [name] прекрати!"
+
+# game/v10/scene15.rpy:384
+translate russian v10s15_c1_5b7de8d6:
+
+    # u "*Laughs* What? I'm just saying!"
+    u "*Смеётся* Что? Я говорю как есть!"
+
+# game/v10/scene15.rpy:392
+translate russian v10s15_c1_206ffec4:
+
+    # la "You're unbelievable, I just wanted to hear you play!"
+    la "Ты невероятен, я просто хотела услышать, как ты играешь!"
+
+# game/v10/scene15.rpy:397
+translate russian v10s15_c1_dadcab73:
+
+    # u "*Chuckles* Fine, we can do that too."
+    u "*Хихикает* Отлично, мы можем сделать и это."
+
+# game/v10/scene15.rpy:406
+translate russian v10s15_c1_57f70a3c:
+
+    # la "Uhm, I think I'll pass."
+    la "Думаю, я пас."
+
+# game/v10/scene15.rpy:411
+translate russian v10s15_c1_7d770ce3:
+
+    # u "Alright, offer stands."
+    u "Хорошо, предложение в силе."
+
+# game/v10/scene15.rpy:419
+translate russian v10s15_c1_31013c6e:
+
+    # la "I just wanted to hear you play."
+    la "Я просто хотела послушать, как ты играешь."
+
+# game/v10/scene15.rpy:424
+translate russian v10s15_c1_17fc258d:
+
+    # u "Fine, I can do that too."
+    u "Отлично, я могу это сделать."
+
+# game/v10/scene15.rpy:432
+translate russian v10s15_c1_712a38ff:
+
+    # la "Good."
+    la "Хорошо."
+
+# game/v10/scene15.rpy:443
+translate russian v10s15_c2_1feb124c:
+
+    # u "Let's play favorites!"
+    u "Давай играть в Любимчиков!"
+
+# game/v10/scene15.rpy:451
+translate russian v10s15_c2_b53e5787:
+
+    # la "Favorites? I don't know if I know what that is."
+    la "Любимчиков? Я не знаю, знаю ли я, что это такое."
+
+# game/v10/scene15.rpy:456
+translate russian v10s15_c2_da69e2a1:
+
+    # u "Honestly, I'm not sure if I made it up or learned about it from someone else. It's a pretty simple game."
+    u "Честно говоря, я не уверен, придумал ли я её или узнал о ней от кого-то другого. Это довольно простая игра."
+
+# game/v10/scene15.rpy:458
+translate russian v10s15_c2_7c33fcd8:
+
+    # u "I just name a topic, say my favorite thing in that topic and then you answer your favorite. Then the game continues, but switched."
+    u "Я просто называю тему, говорю, что мне больше всего нравится в этой теме, а ты отвечаешь, что тебе больше всего нравится. Потом игра продолжается, но меняется."
+
+# game/v10/scene15.rpy:467
+translate russian v10s15_c2_263777eb:
+
+    # la "Uhm, I mean sure. Anything's better than doing nothing on this train."
+    la "Конечно. Что угодно лучше, чем ничего не делать в этом поезде."
+
+# game/v10/scene15.rpy:472
+translate russian v10s15_c2_34730a7b:
+
+    # u "Okay, I feel like considering you get to talk to your boyfriend and hear about all his favorite things, you're getting a pretty good deal here."
+    u "Ладно, мне кажется, что если учесть, что ты разговариваешь со своим парнем и услышишь обо всех его любимых вещах, то ты получаешь довольно выгодную партию."
+
+# game/v10/scene15.rpy:480
+translate russian v10s15_c2_cbec25a5:
+
+    # la "*Chuckles* My bad, you're right. I'm excited to hear all of your favorites and I'm sure this game will be an essential pillar to the strengthening of our relationship."
+    la "*Хихикает* Виновата, ты прав. Мне не терпится услышать все твои предпочтения, и я уверена, что эта игра станет важной опорой для укрепления наших отношений."
+
+# game/v10/scene15.rpy:485
+translate russian v10s15_c2_58a53600:
+
+    # u "See, that wasn't so hard, was it?"
+    u "Видишь, это было не так уж и сложно, правда?"
+
+# game/v10/scene15.rpy:490
+translate russian v10s15_c2_e4c4c798:
+
+    # la "Yeah, yeah, yeah. *Laughs* Can we start already?"
+    la "Да, да, да. *Смеётся* Мы можем уже начать?"
+
+# game/v10/scene15.rpy:499
+translate russian v10s15_c2_0029b916:
+
+    # la "Seems easy enough. Let's do it."
+    la "Кажется, это достаточно просто. Давай сделаем это."
+
+# game/v10/scene15.rpy:504
+translate russian v10s15_c2_d0d29a6d:
+
+    # u "Alright let's go."
+    u "Ладно, поехали."
+
+# game/v10/scene15.rpy:520
+translate russian v10s15_c2_0b2b0b53:
+
+    # u "Color, orange."
+    u "Цвет, Оранжевый."
+
+# game/v10/scene15.rpy:529
+translate russian v10s15_c2_f3889ead:
+
+    # u "Color, blue."
+    u "Цвет, Синий."
+
+# game/v10/scene15.rpy:534
+translate russian v10s15_c2_52643d24:
+
+    # la "Green. Animal, lemur monkey."
+    la "Зеленый. Животное, обезьяна лемур."
+
+# game/v10/scene15.rpy:539
+translate russian v10s15_c2_77fe02ba:
+
+    # u "Cute."
+    u "Мило."
+
+# game/v10/scene15.rpy:555
+translate russian v10s15_c2_94d3dd43:
+
+    # u "Gecko."
+    u "Геккон."
+
+# game/v10/scene15.rpy:565
+translate russian v10s15_c2_313e422f:
+
+    # u "Lion."
+    u "Лев."
+
+# game/v10/scene15.rpy:581
+translate russian v10s15_c2_3938583e:
+
+    # u "Hmm, season... Spring."
+    u "Хм, время года... Весна."
+
+# game/v10/scene15.rpy:590
+translate russian v10s15_c2_8dbf1619:
+
+    # u "Hmm, season... Fall."
+    u "Хм, время года... Осень."
+
+# game/v10/scene15.rpy:595
+translate russian v10s15_c2_4f0fed6b:
+
+    # la "Fall. Holiday, my birthday."
+    la "Осень. Праздник, мой день рождения."
+
+# game/v10/scene15.rpy:600
+translate russian v10s15_c2_4de5d364:
+
+    # u "Wait, what? Your birthday doesn't count as a holiday... well unless your birthday is on a holiday. *Laughs*"
+    u "Эмм, Что? Твой день рождения не считается праздником... ну, если только твой день рождения не приходится на праздник. *Смеётся*"
+
+# game/v10/scene15.rpy:608
+translate russian v10s15_c2_efbde647:
+
+    # la "My birthday actually is a holiday, can you guess which one."
+    la "На самом деле мой день рождения - это праздник, угадай, какой."
+
+# game/v10/scene15.rpy:613
+translate russian v10s15_c2_af065027:
+
+    # u "Hmmm, can I get a hint?"
+    u "Хммм, могу я получить подсказку?"
+
+# game/v10/scene15.rpy:621
+translate russian v10s15_c2_8d149c76:
+
+    # la "I feel like a hint is hard to give without giving it away. Let's see, well... it's one of the major holidays."
+    la "Я чувствую, что трудно дать подсказку, не выдав её. Посмотрим, ну... это один из главных праздников."
+
+# game/v10/scene15.rpy:626
+translate russian v10s15_c2_357cb356:
+
+    # u "Kinda surprised I don't know your birthday already, but let's see, are you a Christmas baby?"
+    u "Странно, что я ещё не знаю твоего дня рождения, но давай посмотрим, ты рождественский ребёнок?"
+
+# game/v10/scene15.rpy:634
+translate russian v10s15_c2_eefa544c:
+
+    # la "Nope! Wanna keep guessing?"
+    la "Нет! Хочешь продолжить гадать?"
+
+# game/v10/scene15.rpy:639
+translate russian v10s15_c2_283de24e:
+
+    # u "New Years Baby?"
+    u "Новогодний ребёнок?"
+
+# game/v10/scene15.rpy:647
+translate russian v10s15_c2_2d18ae64:
+
+    # la "Nope! I'll just tell you, my birthday is Halloween."
+    la "Нет! Я просто скажу тебе, что мой день рождения - Хэллоуин."
+
+# game/v10/scene15.rpy:652
+translate russian v10s15_c2_17edc166:
+
+    # u "Wait, is Halloween a holiday?"
+    u "Погоди, а Хэллоуин - это праздник?"
+
+# game/v10/scene15.rpy:660
+translate russian v10s15_c2_ea899a79:
+
+    # la "Yeah, of course. You ever had school on Halloween? *Chuckles* What did you think it was?"
+    la "Да, конечно. Ты когда-нибудь ходил в школу на Хэллоуин? *Хихикает* Как ты думаешь, что это было?"
+
+# game/v10/scene15.rpy:665
+translate russian v10s15_c2_a4665b39:
+
+    # u "I don't know, like a day were people celebrate scary stuff and don't have to go to school because of it."
+    u "Я не знаю, как день, когда люди радуются страшным историям и не ходят из-за этого в школу."
+
+# game/v10/scene15.rpy:673
+translate russian v10s15_c2_d2b0070e:
+
+    # la "Celebrating and time off, and that does not sound like a holiday to you why? *Laughs*"
+    la "Празднование и выходной, и это не похоже на праздник, почему? *Смеётся*"
+
+# game/v10/scene15.rpy:678
+translate russian v10s15_c2_e16cbb14:
+
+    # u "*Chuckles* Huh, I guess you're right."
+    u "*Хихикает* Ха, думаю, ты права."
+
+# game/v10/scene15.rpy:683
+translate russian v10s15_c2_483e69c9:
+
+    # u "So Halloween. You must like horror movies and stuff."
+    u "Итак, Хэллоуин. Ты, должно быть, любишь фильмы ужасов и всё такое."
+
+# game/v10/scene15.rpy:691
+translate russian v10s15_c2_75dbdca7:
+
+    # la "Honestly, I can't stand anything scary related and most people are surprised when they know Halloween is my birthday."
+    la "Честно говоря, я не выношу ничего страшного, и большинство людей удивляются, когда узнают, что Хэллоуин - мой день рождения."
+
+# game/v10/scene15.rpy:696
+translate russian v10s15_c2_0f5ee1e0:
+
+    # u "I have to admit it is a bad coincidence."
+    u "Хмм, неудачное совпадение."
+
+# game/v10/scene15.rpy:704
+translate russian v10s15_c2_e384d67d:
+
+    # la "Are you a big Halloween fan?"
+    la "А ты большой поклонник Хэллоуина?"
+
+# game/v10/scene15.rpy:709
+translate russian v10s15_c2_618691ae:
+
+    # u "I actually love Halloween, but I-"
+    u "Вообще-то я люблю Хэллоуин, но я..."
+
+# game/v10/scene15.rpy:736
+translate russian v10s15_c3_805d465f:
+
+    # u "Hey Lauren, mind giving me just a sec?"
+    u "Привет, Лорен, я отойду на минутку?"
+
+# game/v10/scene15.rpy:744
+translate russian v10s15_c3_63a06803:
+
+    # la "Yeah sure!"
+    la "Да, конечно!"
+
+# game/v10/scene15.rpy:749
+translate russian v10s15_c3_30b90171:
+
+    # u "Hey, what's up? Also, did you just throw a pebble at my window? *Chuckles*"
+    u "Привет, как дела? И ещё, ты только что бросила камешек в моё окно? *Хихикает*"
+
+# game/v10/scene15.rpy:754
+translate russian v10s15_c3_f54bd005:
+
+    # au "That must have been the wind. I'm just on my way home from the gym."
+    au "Наверное, это был ветер. Я как раз возвращалась домой из спортзала."
+
+# game/v10/scene15.rpy:757
+translate russian v10s15_c3_c2d66c03:
+
+    # au "I'm gonna have the house all to myself since none of the girls are home. You wanna come over?"
+    au "Дом в полном распоряжении, никого из девочек нет дома. Хочешь зайти?"
+
+# game/v10/scene15.rpy:764
+translate russian v10s15_c3_2c182c97:
+
+    # u "Hell yeah, I'll be down in a second."
+    u "Да, я спущусь через секунду."
+
+# game/v10/scene15.rpy:777
+translate russian v10s15_c3_8351517c:
+
+    # u "Hey Lauren..."
+    u "Эй, Лорен..."
+
+# game/v10/scene15.rpy:782
+translate russian v10s15_c3_8b72c8f3:
+
+    # la "There you are, something wrong?"
+    la "Ну вот, что-то случилось?"
+
+# game/v10/scene15.rpy:787
+translate russian v10s15_c3_caa06e32:
+
+    # u "No, nothing's wrong, but I have to go. Apparently there's some frat thing coming up they wanna prep us for."
+    u "Нет, ничего страшного, но мне нужно идти. Видимо, намечается какая-то встреча с братством, к которой они хотят нас подготовить."
+
+# game/v10/scene15.rpy:792
+translate russian v10s15_c3_d489cef5:
+
+    # la "Oh okay... no problem, I'll talk to you soon."
+    la "О, хорошо... без проблем, скоро поговорим."
+
+# game/v10/scene15.rpy:797
+translate russian v10s15_c3_c576370b:
+
+    # u "Bye bye."
+    u "Пока-пока."
+
+# game/v10/scene15.rpy:805
+translate russian v10s15_c3_ece43916:
+
+    # u "I'd love to, but I'm busy right now, sorry."
+    u "Я бы с удовольствием, но сейчас я занят, прости."
+
+# game/v10/scene15.rpy:810
+translate russian v10s15_c3_f5242dff:
+
+    # au "Oh okay, guess I'll see you around then."
+    au "Ну ладно, тогда увидимся."
+
+# game/v10/scene15.rpy:815
+translate russian v10s15_c3_18647189:
+
+    # u "See ya!"
+    u "До скорого!"
+
+# game/v10/scene15.rpy:828
+translate russian v10s15_c3_38b37446:
+
+    # u "Hey Lauren!"
+    u "Эй, Лорен!"
+
+# game/v10/scene15.rpy:836
+translate russian v10s15_c3_cdaa2393:
+
+    # la "There you are? Everything okay?"
+    la "Ты здесь? Всё в порядке?"
+
+# game/v10/scene15.rpy:841
+translate russian v10s15_c3_0ac8ef26:
+
+    # u "Yeah everything's fine, had a bird at my window. *Laughs*"
+    u "Да, всё в порядке, у моего окна была птица. *Смеётся*"
+
+# game/v10/scene15.rpy:849
+translate russian v10s15_c3_bccf6caf:
+
+    # la "A bird took you that long? What'd you do, sing to it? *Laughs*"
+    la "Птица заняла у тебя столько времени? Что ты делал, пел ей? *Смеётся*"
+
+# game/v10/scene15.rpy:854
+translate russian v10s15_c3_74406210:
+
+    # u "Something like that."
+    u "Вроде того."
+
+# game/v10/scene15.rpy:860
+translate russian v10s15_c3_1d922cec:
+
+    # au "It's kind of a long walk, wanna go with me and hang out?"
+    au "Идти далековато, хочешь пойти со мной и погулять?"
+
+# game/v10/scene15.rpy:870
+translate russian v10s15_c3_cdc6f619:
+
+    # u "Yeah sure, I'll be right down."
+    u "Да, конечно, я сейчас спущусь."
+
+# game/v10/scene15.rpy:883
+translate russian v10s15_c3_8351517c_1:
+
+    # u "Hey Lauren..."
+    u "Эй, Лорен..."
+
+# game/v10/scene15.rpy:888
+translate russian v10s15_c3_8b72c8f3_1:
+
+    # la "There you are, something wrong?"
+    la "Ну вот, что-то случилось?"
+
+# game/v10/scene15.rpy:893
+translate russian v10s15_c3_31f22f5b:
+
+    # u "No nothing's wrong, but I have to go. Something came up."
+    u "Нет, всё в порядке, но мне нужно идти. Появилось дело."
+
+# game/v10/scene15.rpy:898
+translate russian v10s15_c3_d489cef5_1:
+
+    # la "Oh okay... no problem, I'll talk to you soon."
+    la "О, хорошо... без проблем, скоро поговорим."
+
+# game/v10/scene15.rpy:903
+translate russian v10s15_c3_cb046e78:
+
+    # u "Later."
+    u "Позже, конечно."
+
+# game/v10/scene15.rpy:911
+translate russian v10s15_c3_ece43916_1:
+
+    # u "I'd love to, but I'm busy right now, sorry."
+    u "Я бы с удовольствием, но сейчас я занят, прости."
+
+# game/v10/scene15.rpy:916
+translate russian v10s15_c3_f5242dff_1:
+
+    # au "Oh okay, guess I'll see you around then."
+    au "Ну ладно, тогда увидимся."
+
+# game/v10/scene15.rpy:921
+translate russian v10s15_c3_18647189_1:
+
+    # u "See ya!"
+    u "До скорого!"
+
+# game/v10/scene15.rpy:934
+translate russian v10s15_c3_38b37446_1:
+
+    # u "Hey Lauren!"
+    u "Эй, Лорен!"
+
+# game/v10/scene15.rpy:942
+translate russian v10s15_c3_cdaa2393_1:
+
+    # la "There you are? Everything okay?"
+    la "Ты здесь? Всё в порядке?"
+
+# game/v10/scene15.rpy:947
+translate russian v10s15_c3_0ac8ef26_1:
+
+    # u "Yeah everything's fine, had a bird at my window. *Laughs*"
+    u "Да, всё в порядке, у моего окна была птица. *Смеётся*"
+
+# game/v10/scene15.rpy:952
+translate russian v10s15_c3_bccf6caf_1:
+
+    # la "A bird took you that long? What'd you do, sing to it? *Laughs*"
+    la "Птица заняла у тебя столько времени? Что ты делал, пел ей? *Смеётся*"
+
+# game/v10/scene15.rpy:960
+translate russian v10s15_c3_74406210_1:
+
+    # u "Something like that."
+    u "Вроде того."

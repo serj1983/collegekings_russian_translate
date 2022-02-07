@@ -245,13 +245,13 @@ translate russian v11_nora_lingerie_a5723653:
 translate russian v11_nora_lingerie_6cdb3873:
 
     # no "*Whispers* Now who's embarrassed? *Chuckles*"
-    no "*Шёпот* Ну и кто теперь смущается? *Хохочет*"
+    no "*Шёпот* Ну и кто теперь смущается? *Хихикает*"
 
 # game/v11/scene44.rpy:256
 translate russian v11_nora_lingerie_229320ef:
 
     # u "Haha. Well, I already know your bra size thanks to the charity event. *Chuckles*"
-    u "Хаха. Я уже знаю размер твоего бюстгальтера благодаря благотворительной акции. *Хохочет*"
+    u "Хаха. Я уже знаю размер твоего бюстгальтера благодаря благотворительной акции. *Хихикает*"
 
 # game/v11/scene44.rpy:261
 translate russian v11_nora_lingerie_284bd34c:

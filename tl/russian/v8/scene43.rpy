@@ -436,3 +436,13 @@ translate russian strings:
     old "Hesitate"
     new "Колебаться"
 
+#Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
+
+# TODO: Translation updated at 2022-01-23 18:53
+
+translate russian strings:
+
+    # game/v8/scene43.rpy:254
+    old "I joined for the fights"
+    new "Я присоединяюсь к боям."
+

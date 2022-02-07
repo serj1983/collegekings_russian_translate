@@ -299,7 +299,7 @@ translate russian v11_riley_amber_smoking_14a34382:
 translate russian v11_riley_amber_smoking_884f1f9c:
 
     # am "Aww, is someone jealous? *Chuckles*"
-    am "Кто-то ревнует? *Хохочет*"
+    am "Кто-то ревнует? *Хихикает*"
 
 # game/v11/scene41a.rpy:305
 translate russian v11_riley_amber_smoking_c41a394c:
