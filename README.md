@@ -9,4 +9,4 @@
 Установка v13.2.*:
 
 1. Разместить папку tl с содержимым в папку "College Kings/game/"
-2. Начать новую игру, нажать Shift+O, попадаем в консоль, печатаем renpy.change_language(‘Russian’)
+2. Начать новую игру, нажать Shift+O, попадаем в консоль, печатаем renpy.change_language('russian')
