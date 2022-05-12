@@ -4113,12 +4113,12 @@ translate russian strings:
     new "Выглядит хорошо"
 
     # game/v10/scene33.rpy:2655
-    old "Riley"
-    new "Райли"
+#    old "Riley"
+#    new "Райли"
 
     # game/v10/scene33.rpy:2655
-    old "Aubrey"
-    new "Обри"
+#    old "Aubrey"
+#    new "Обри"
 
     # game/v10/scene33.rpy:2985
     old "Witty retort"

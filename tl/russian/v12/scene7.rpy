@@ -6037,8 +6037,8 @@ translate russian strings:
     new "Больше расследования"
 
     # game/v12/scene7.rpy:3033
-    old "Charli"
-    new "Чарли"
+#    old "Charli"
+#    new "Чарли"
 
     # game/v12/scene7.rpy:3452
     old "Who wouldn't be"

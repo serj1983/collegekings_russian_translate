@@ -205,11 +205,11 @@ translate russian v11_lobby_mrlee_bd043fbf_1:
     # au "It is now."
     au "Уже занято."
 
-translate russian strings:
+#translate russian strings:
 
     # game/v11/scene45.rpy:164
-    old "Lauren"
-    new "Лорен"
+#    old "Lauren"
+#    new "Лорен"
 
 #Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
 

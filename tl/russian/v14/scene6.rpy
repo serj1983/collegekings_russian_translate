@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2022-05-10 22:25
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/v14/scene6.rpy:22
 translate russian v14s06_29e2c407:

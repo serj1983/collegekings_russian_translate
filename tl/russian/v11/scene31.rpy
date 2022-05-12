@@ -506,12 +506,12 @@ translate russian strings:
     new "Линдси, Попрощайся с Брехней"
 
     # game/v11/scene31.rpy:369
-    old "Imre"
-    new "Имре"
+#    old "Imre"
+#    new "Имре"
 
     # game/v11/scene31.rpy:369
-    old "Ryan"
-    new "Райн"
+#    old "Ryan"
+#    new "Райн"
 
 #Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
 

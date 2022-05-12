@@ -1,163 +1,277 @@
-init python:
-    def relationship_callback(event, interact=True, **kwargs):
-        character = kwargs.get("character")
+# Перевёл: serj1983 (post.serj@gmail.com)
 
-        if character is None:
-            return
+translate russian strings:
 
-        character = getattr(store, character)
-        relationship_girls = getattr(store, "relationship_girls")
-
-        if character not in relationship_girls:
-            relationship_girls.append(character)
-            setattr(store, "relationship_girls", relationship_girls)
-
-# Declare characters used by this game. The color argument colorizes the name of the character.
-define character.narrator = Character (None, what_outlines=[ (2, "#000") ])
-define character.u = Character("[name]", who_color="#53d769", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ju = Character("Джулия", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.car = Character("Автомобиль", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ca = Character("Кэмерон", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ma = Character("Мэйсон", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.aut = Character("Отем", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.em = Character("Эмили", who_color="#fc3d39", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.an = Character("Миссис Андерсон", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ch = Character("Крис", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.no = Character("Нора", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ry = Character("Райн", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ro = Character("Мисс Роуз", who_color="#fc3d39", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.la = Character("Лорен", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ri = Character("Райли", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.el = Character("Элай", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.imre = Character("Имре", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.au = Character("Обри", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.sam = Character("Сэм", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.karen = Character("Карен", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.jo = Character("Джош", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.courtney = Character("Кортни", who_color="#fc3d39", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.jeremy = Character("Джереми", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.katy = Character("Кэти", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.sarah = Character("Сара", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.gr = Character("Грэйсон", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.cl = Character("Хлоя", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.tom = Character("Том", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.tut = Character("Обучение", who_color="#53d769", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.lee = Character("Мистер Ли", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ben = Character("Бенджамин", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ehr = Character("Доктор Эрмантраут", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.pe = Character("Пенелопа", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ev = Character("Эвелин", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.aa = Character("Аарон", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.sec = Character("Охранник", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.li = Character("Линдси", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.unknown = Character("Неизвестный человек", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.uber = Character("Водитель Uber", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.clerk = Character("Продавец Магазина", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.am = Character("Эмбер", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ki = Character("Ким", who_color="#fc3d39", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ad = Character("Адам", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.co = Character("Советница", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-
+    old "Aaron"
+    new "Аарон"
+    old "Adam"
+    new "Адам"
+    old "Amber"
+    new "Эмбер"
+    old "Mrs. Anderson"
+    new "Миссис Андерсон"
+    old "Aubrey"
+    new "Обри"
+    old "Autumn"
+    new "Отем"
+    old "Benjamin"
+    new "Бенджамин"
+    old "Cameron"
+    new "Кэмерон"
+    old "Car"
+    new "Автомобиль"
+    old "Chris"
+    new "Крис"
+    old "Chloe"
+    new "Хлоя"
+    old "Clerk"
+    new "Продавец"
+    old "Counselor"
+    new "Советница"
+    old "Courtney"
+    new "Кортни"
+    old "Dr. Ehrmantraut"
+    new "Доктор Эрмантраут"
+    old "Elijah"
+    new "Элай"
+    old "Emily"
+    new "Эмили"
+    old "Evelyn"
+    new "Эвелин"
+    old "Grayson"
+    new "Грэйсон"
+    old "Imre"
+    new "Имре"
+    old "Jeremy"
+    new "Джереми"
+    old "Josh"
+    new "Джош"
+    old "Julia"
+    new "Джулия"
+    old "Karen"
+    new "Карен"
+    old "Katy"
+    new "Кэти"
+    old "Kim"
+    new "Ким"
+    old "Lauren"
+    new "Лорен"
+    old "Mr. Lee"
+    new "Мистер Ли"
+    old "Lindsey"
+    new "Линдси"
+    old "Mason"
+    new "Мэйсон"
+    old "Nora"
+    new "Нора"
+    old "Penelope"
+    new "Пенелопа"
+    old "Riley"
+    new "Райли"
+    old "Ms. Rose"
+    new "Мисс Роуз"
+    old "Ryan"
+    new "Райн"
+    old "Sam"
+    new "Сэм"
+    old "Sarah"
+    new "Сара"
+    old "Security Guard"
+    new "Охранник"
+    old "Tom"
+    new "Том"
+    old "Tutorial"
+    new "Обучение"
+    old "Uber Driver"
+    new "Водитель Uber"
+    old "Unknown"
+    new "Неизвестный"
 # 6.0
-define character.waiter = Character("Официант", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.host = Character("Хозяин", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.poet1 = Character("Лиза", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.poet2 = Character("Мартин", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.sa = Character("Саманта", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.guya = Character("Питер", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.guyb = Character("Гарри", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.finn = Character("Финн", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.guyd = Character("Перри", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.se = Character("Себастьян", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.guyc = Character("Маркус", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.matt = Character("Мэтт", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-
+    old "Finn"
+    new "Финн"
+    old "Peter"
+    new "Питер"
+    old "Harry"
+    new "Гарри"
+    old "Marcus"
+    new "Маркус"
+    old "Perry"
+    new "Перри"
+    old "Host"
+    new "Хозяин"
+    old "Matt"
+    new "Мэтт"
+    old "Lisa"
+    new "Лиза"
+    old "Martin"
+    new "Мартин"
+    old "Samantha"
+    new "Саманта"
+    old "Sebastian"
+    new "Себастьян"
+    old "Waiter"
+    new "Официант"
 # 7.0
-define character.cal = Character("Калеб", who_color="#83d81c", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ]) # Ape pledge
-define character.coop = Character("Купер", who_color="#11af68", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ]) # Ape pledge
-define character.kai = Character("Кай", who_color="#1caedb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ]) # Ape pledge
-define character.wes = Character("Уэсли", who_color="#db6f1c", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ]) # Ape
-define character.par = Character("Паркер", who_color="#a815f2", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ]) # Ape
-define character.rg1 = Character("Анжелика", who_color="#db6f1c", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.rg2 = Character("Элиза", who_color="#a815f2", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.nerd = Character("Зануда", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.xav = Character("Хавьер", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.jax = Character("Джексон", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.teach = Character("Учитель", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.class1 = Character("Класс", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-
+    old "Caleb"
+    new "Калеб"
+    old "Class"
+    new "Класс"
+    old "Cooper"
+    new "Купер"
+    old "Jaxon"
+    new "Джексон"
+    old "Kai"
+    new "Кай"
+    old "Nerd"
+    new "Зануда"
+    old "Parker"
+    new "Паркер"
+    old "Angelica"
+    new "Анжелика"
+    old "Elisa"
+    new "Элиза"
+    old "Teacher"
+    new "Учитель"
+    old "Wesley"
+    new "Уэсли"
+    old "Xavier"
+    new "Хавьер"
 # 8.0
-define character.de = Character("Декан", who_color="#fc3d39", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.je = Character("Джо", who_color="#53d769", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ann = Character("Объявление спикера", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.empl = Character("Сотрудник", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-
+    old "Speaker Announcement"
+    new "Объявление спикера"
+    old "Dean"
+    new "Декан"
+    old "Employee"
+    new "Сотрудник"
+    old "Joe"
+    new "Джо"
 # 9.0
-define character.unkfem = Character("Женский голос", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-
+    old "Female voice"
+    new "Женский голос"
 # 10.0
-define character.jen = Character("Дженни", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.mrr = Character("Мистер Роуз", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.be = Character("Бен", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.jer = Character("Джерри", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.dg1 = Character("Рэйчел", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.dg2 = Character("Элеонора", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.dg3 = Character("Карен", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.dg4 = Character("Ребекка", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-
+    old "Ben"
+    new "Бен"
+    old "Rachel"
+    new "Рэйчел"
+    old "Eleanor"
+    new "Элеонора"
+#    old "Karen"
+#    new "Карен"
+    old "Rebecca"
+    new "Ребекка"
+    old "Jenny"
+    new "Дженни"
+    old "Jerry"
+    new "Джерри"
+    old "Mr. Rose"
+    new "Мистер Роуз"
 # 11.0
-define character.art = Character("Художественный руководитель", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.air = Character("Airport Host", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ran = Character("Фермер", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.hor = Character("Лошадь", who_color="#a815f2", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.dun = Character("Дункан", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.bartender = Character("Бармен", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.foxy = Character("Фокси", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ericka = Character("Эрика", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.jane = Character("Джейн", who_color="#fc3d39", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.candy = Character("Кэнди", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.mana = Character("Менеджер", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.driver = Character("Водитель", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.sus = Character("Сьюзан", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.jud = Character("Судья", who_color="#db6f1c", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.charli = Character("Чарли", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.csa = Character("Торговый представитель", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.dennis = Character("Деннис", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.bank = Character("Банковский служащий", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-
+    old "Airport Host"
+    new "Принимающая сторона аэропорта"
+    old "Art Director"
+    new "Художественный руководитель"
+    old "Bank Teller"
+    new "Банковский служащий"
+    old "Bartender"
+    new "Бармен"
+    old "Candy"
+    new "Кэнди"
+    old "Charli"
+    new "Чарли"
+    old "Sales Rep"
+    new "Торговый представитель"
+    old "Dennis"
+    new "Деннис"
+    old "Driver"
+    new "Водитель"
+    old "Duncan"
+    new "Дункан"
+    old "Ericka"
+    new "Эрика"
+    old "Foxy"
+    new "Фокси"
+    old "Horse"
+    new "Лошадь"
+    old "Jane"
+    new "Джейн"
+    old "Judge"
+    new "Судья"
+    old "Manager"
+    new "Менеджер"
+    old "Rancher"
+    new "Фермер"
+    old "Susan"
+    new "Сьюзан"
 # 12.0
-define character.robber = Character("Грабитель", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.fwait = Character("Французская официантка", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.na = Character("Наоми", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.pg = Character("Фотограф", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.lmass = Character("Леди Массажистка", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.mmass = Character("Мужчина массажист", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.clady = Character("Сумасшедшая", who_color="#ff8afb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.escman = Character("Менеджер", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.bishop = Character("Епископ", who_color="#800080", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.nurse = Character("Медсестра", who_color="#dbfffe", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.barber = Character("Парикмахер", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.greeter = Character("Хостес", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.tattoo = Character("Мастер татуировок", who_color="#ff1694", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-
+    old "Barber"
+    new "Парикмахер"
+    old "Bishop"
+    new "Епископ"
+    old "Crazy Lady"
+    new "Сумасшедшая"
+#    old "Manager"
+#    new "Менеджер"
+    old "French Waitress"
+    new "Французская официантка"
+    old "Greeter"
+    new "Хостес"
+    old "Lady Masseuse"
+    new "Массажистка"
+    old "Male Masseuse"
+    new "Массажист"
+    old "Naomi"
+    new "Наоми"
+    old "Nurse"
+    new "Медсестра"
+    old "Photographer"
+    new "Фотограф"
+    old "Robber"
+    new "Грабитель"
+    old "Tattoo Artist"
+    new "Мастер татуировок"
 # 13.0
-define character.ary = Character("Арисса", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ash = Character("Эштон", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.barh = Character("Хозяин", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.clipps = Character("Клиппс", who_color="#cccccc", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.emmy = Character("Эмми", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.gary = Character("Гэри", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.gitw = Character("Неизвестный", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.kourt = Character("Кортни", who_color="#ff8afb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.luuk = Character("Луук", who_color="#ff1694", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.polly = Character("Полли", who_color="#8b0000", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.random_guy = Character("Бармен", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-
+    old "Aryssa"
+    new "Арисса"
+    old "Ashton"
+    new "Эштон"
+#    old "Host"
+#    new "Хозяин"
+    old "Clipps"
+    new "Клиппс"
+    old "Emmy"
+    new "Эмми"
+    old "Gary"
+    new "Гэри"
+#    old "Unknown"
+#    new "Неизвестный"
+    old "Kourtney"
+    new "Кортни"
+    old "Luuk"
+    new "Луук"
+    old "Polly"
+    new "Полли"
+#    old "Bartender"
+#    new "Бармен"
 # 14.0
-define character.ngam = Character("Night Gambler", who_color="#ff1694", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.emerald = Character("Emerald", who_color="#046307", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.madame = Character("Madame", who_color="#800080", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.satin = Character("Satin", who_color="#ecd9c9", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.wtrain = Character("Woman", who_color="#ff1694", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.rub = Character("Rubee", who_color="#8b0000", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.trainer = Character("Trainer", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+    old "Bird"
+    new "Птица"
+    old "Elijah's Mother"
+    new "Мать Элайя"
+    old "Emerald"
+    new "Эмеральд"
+    old "Gentleman"
+    new "Джентельмен"
+    old "Lady"
+    new "Леди"
+    old "Madame"
+    new "Мадам"
+    old "Night Gambler"
+    new "Напёрсточник"
+    old "Rubee"
+    new "Руби"
+    old "Satin"
+    new "Сатин"
+    old "Trainer"
+    new "Тренер"
+    old "Wolf Trainer"
+    new "Тренер Волков"

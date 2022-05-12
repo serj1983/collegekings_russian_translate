@@ -5428,3 +5428,8 @@ translate russian strings:
     old "She's occupied"
     new "Она занята"
 
+# game/v1/v1.rpy:1515
+translate russian v1_phoneCheck1_27ecbc47:
+
+    # u "(I should reply to Lauren.)"
+    u "(Я должен ответить Лорен.)"

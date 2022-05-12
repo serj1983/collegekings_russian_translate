@@ -415,11 +415,11 @@ translate russian v13s12c_5788969f:
     # u "Goodnight."
     u "Спокойной ночи."
 
-translate russian strings:
+#translate russian strings:
 
     # game/v13/scene12c.rpy:342
-    old "Lindsey"
-    new "Линдси"
+#    old "Lindsey"
+#    new "Линдси"
 
 #Act 1 (7.8.2) / Act 2 (10.3.2) / Act 3 (13.2.2) Patch
 

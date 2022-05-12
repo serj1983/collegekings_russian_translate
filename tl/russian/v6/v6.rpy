@@ -11543,8 +11543,8 @@ translate russian strings:
     new "Кайли"
 
     # game/v6/v6.rpy:7230
-    old "Kourtney"
-    new "Кортни"
+#    old "Kourtney"
+#    new "Кортни"
 
     # game/v6/v6.rpy:7544
     old "Anything for a girl like that."

@@ -61,9 +61,9 @@ translate russian v11_arrive_hotel_37fe551f:
     # u "Sure."
     u "Конечно."
 
-translate russian strings:
+#translate russian strings:
 
     # game/v11/scene17.rpy:34
-    old "Chloe"
-    new "Хлоя"
+#    old "Chloe"
+#    new "Хлоя"
 

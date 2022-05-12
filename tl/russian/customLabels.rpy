@@ -1,4 +1,5 @@
 ﻿# TODO: Translation updated at 2021-11-10 00:46
+# Перевёл: serj1983 (post.serj@gmail.com)
 
 # game/customLabels.rpy:44
 translate russian freeRoamSpokenToo_9490a94d:

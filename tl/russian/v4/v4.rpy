@@ -3205,8 +3205,8 @@ translate russian strings:
     new "Выпить три глотка"
 
     # game/v4/v4.rpy:2657
-    old "Kim"
-    new "Ким"
+#    old "Kim"
+#    new "Ким"
 
     # game/v4/v4.rpy:2883
     old "Accuse her of lying"

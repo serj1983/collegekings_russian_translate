@@ -535,9 +535,9 @@ translate russian v13_ticket_transfer_e19bd21b:
     # u "(Bold guy...)"
     u "(Смелый парень...)"
 
-translate russian strings:
+#translate russian strings:
 
     # game/v13/scene7.rpy:194
-    old "Penelope"
-    new "Пенелопа"
+#    old "Penelope"
+#    new "Пенелопа"
 

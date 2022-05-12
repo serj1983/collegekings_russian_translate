@@ -1,0 +1,7 @@
+translate russian strings:
+
+    old "Are you sure you want to end the free roam?"
+    new "Вы уверены, что хотите прекратить свободное передвижение?"
+
+    old "This game contains fully explicit sex scenes. These are not suitable for Twitch or Youtube. Please select if you'd like to enable explicit sex scenes."
+    new "Эта игра содержит полностью откровенные сексуальные сцены. Они не подходят для Twitch или Youtube. Пожалуйста, выберите, хотите ли вы включить откровенные сексуальные сцены."

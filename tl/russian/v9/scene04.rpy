@@ -342,11 +342,11 @@ translate russian v9_dream_apes_10ed4aac:
     # u "Wake up, [name]. WAKE UP!"
     u "Просыпайся, [name]. Просыпайся!"
 
-translate russian strings:
+#translate russian strings:
 
     # game/v9/scene04.rpy:174
-    old "Caleb"
-    new "Калеб"
+#    old "Caleb"
+#    new "Калеб"
 
     # game/v9/scene04.rpy:420
     old "Perry"
