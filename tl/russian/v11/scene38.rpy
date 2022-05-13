@@ -165,7 +165,7 @@ translate russian strings:
 
     # game/v11/scene38.rpy:10
     old "Fucking simp"
-    new "Гребаный тупица"
+    new "Ёбанный кролик"
 
     # game/v11/scene38.rpy:14
     old "You were busy somewhere else... ;)"
@@ -173,15 +173,15 @@ translate russian strings:
 
     # game/v11/scene38.rpy:18
     old "Living the London life"
-    new "Жизнью в Лондоне"
+    new "Жизнь в Лондоне"
 
     # game/v11/scene38.rpy:19
     old "So that's where you've been this entire trip! Beautiful as always"
-    new "Так вот где ты был всю эту поездку! Прекрасно, как всегда"
+    new "Так вот где ты была всю поездку! Прекрасно, как всегда"
 
     # game/v11/scene38.rpy:20
     old "Hotttt! We need a girls night soon ;)"
-    new "Горячо! Нам скоро нужен девичник;)"
+    new "Горячо! Скоро нам нужен девичник;)"
 
     # game/v11/scene38.rpy:21
     old "Damn... looking good"
@@ -198,4 +198,3 @@ translate russian strings:
     # game/v11/scene38.rpy:24
     old "Thanks for the invite... lol"
     new "Спасибо за приглашение... lol"
-

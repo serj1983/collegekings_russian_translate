@@ -185,3 +185,17 @@ translate russian strings:
     old "Be friends"
     new "Будьте друзьями"
 
+translate russian strings:
+
+    old "This is important, we need to talk now."
+    new "Это важно, нам нужно поговорить сейчас."
+    old "What's up?"
+    new "Что случилось?"
+    old "Meet me at the park."
+    new "Встретимся в парке."
+    old "Okay."
+    new "Хорошо."
+    old "Hey, we need to talk."
+    new "Эй, нам нужно поговорить."
+    old "I'm pretty busy right now."
+    new "Я сейчас очень занят."

@@ -557,7 +557,7 @@ translate russian strings:
 
     # game/v11/scene9a.rpy:201
     old "A little early in the morning to go streaking isn't it? lol"
-    new "Немного рановато для того, чтобы идти на пробежку, не так ли? lol"
+    new "Немного рановато для того, чтобы идти на пробежку, не так ли? лол"
 
     # game/v11/scene9a.rpy:202
     old "Spicy!"

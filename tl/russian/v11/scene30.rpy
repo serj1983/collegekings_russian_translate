@@ -1379,3 +1379,10 @@ translate russian v11s30_PhoneContinuelauren1_f4fe3f3a:
 
     # u "(That's how you start a day off right. Let's see what else today has to offer.)"
     u "(Вот как нужно правильно начинать день. Давайте посмотрим, что ещё может предложить сегодняшний день)."
+
+translate russian strings:
+
+    old "Some good looking people."
+    new "Я вижу здесь красивых людей."
+    old "Sure are."
+    new "Конечно."

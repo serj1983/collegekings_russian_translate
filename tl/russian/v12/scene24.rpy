@@ -64,3 +64,26 @@ translate russian v12s24_PhoneContinueEmmy_89080957:
 
     # u "(Well, no matches, I'm just gonna take my sorry ass to sleep.)"
     u "(Ну, никаких совпадений, я просто собираюсь уложить свою жалкую задницу спать.)"
+
+translate russian strings:
+
+    old "Hey handsome, I was hoping I'd match with you. Where are you from?"
+    new "Привет, красавчик, я надеялась, что мы с тобой совпадем. Откуда ты?"
+    old "I'm actually in Paris right now, but I'm from California. Wbu?"
+    new "Вообще-то я сейчас в Париже, но я из Калифорнии. А ты?"
+    old "Wow, my distance settings are way off. I'm from Amsterdam."
+    new "Ух ты, мои настройки расстояния сбились. Я из Амстердама."
+    old "Haha, call it a coincidence, but I'm actually headed to Amsterdam here soon."
+    new "Хаха, назовём это совпадением, но я действительно скоро отправлюсь в Амстердам."
+    old "Wowww, guess I got a headstart on all the other Amsterdam chicks huh?"
+    new "Ух ты, похоже, я опередила всех остальных амстердамских девчонок, да?"
+    old "Ha, I'm thinking I'm the lucky one."
+    new "Ха, я думаю, я счастливчик."
+    old "There's actually a Simplr event they do regularly here, you should stop by when you come and maybe we'll run into each other."
+    new "На самом деле, здесь регулярно проводятся евенты Simplr, тебе стоит заглянуть сюда, когда приедешь, и, возможно, мы встретимся."
+    old "I'll definitely look into that."
+    new "Я обязательно посмотрю."
+    old "Good, I know it's late so goodnight handsome ;)"
+    new "Хорошо, я знаю, что уже поздно, так что спокойной ночи, красавчик ;)"
+    old "Goodnight ;)"
+    new "Спокойной ночи ;)"

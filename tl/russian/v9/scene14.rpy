@@ -528,3 +528,11 @@ translate russian v9_thur_w_no_punch_e8a49620:
     # u "So I open my eyes, flat on my back, when..."
     u "И вот я открываю глаза, лёжа на спине, когда..."
 
+translate russian strings:
+
+    old "That's my boy! Go [name]! Fuck yeah!"
+    new "Это мой мальчик! Вперёд, [name]! Да, блядь!"
+    old "Fuckin' A!"
+    new "Ебаная пятёрочка!"
+    old "Knew he had it in him!"
+    new "Знала, что в нём это есть!"

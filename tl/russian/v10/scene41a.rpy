@@ -30,3 +30,13 @@ translate russian end10_9ea2f78c:
     # " "
     " "
 
+translate russian strings:
+
+    old "Hey, do you mind coming by before the hearing starts?"
+    new "Эй, ты не против зайти до начала слушаний?"
+    old "Hey! Where are you, the hearing is in two hours."
+    new "Эй! Где ты, слушание через два часа."
+    old "WHERE ARE YOU THE HEARING IS IN 15 MINUTES!?"
+    new "ГДЕ ТЫ НАХОДИШСЯ, СЛУШАНИЕ ЧЕРЕЗ 15 МИНУТ!?"
+    old "OMG, WE'RE STARTING! WHERE ARE YOU?"
+    new "ОМГ, МЫ НАЧИНАЕМ! ГДЕ ТЫ?"

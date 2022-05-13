@@ -946,7 +946,7 @@ translate russian strings:
 
     # game/v9/scene16.rpy:861
     old "Better now that I'm talking to you"
-    new "учше, когда я говорю с тобой"
+    new "Лучше, когда я говорю с тобой"
 
     # game/v9/scene16.rpy:862
     old "Super. You getting ready for bed?"

@@ -391,9 +391,9 @@ translate russian strings:
 
     # game/v13/scene50.rpy:341
     old "Kick her out"
-    new ""
+    new "Выгнать её"
 
     # game/v13/scene50.rpy:341
     old "Fuck her"
-    new ""
+    new "Трахнуть её"
 

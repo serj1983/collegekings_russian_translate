@@ -349,6 +349,6 @@ translate russian v9_dream_apes_10ed4aac:
 #    new "Калеб"
 
     # game/v9/scene04.rpy:420
-    old "Perry"
-    new "Перри"
+#    old "Perry"
+#    new "Перри"
 

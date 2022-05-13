@@ -73,3 +73,13 @@ translate russian v11s6_PhoneContinue1_08defd0d:
     # u "(This is kinda weird... First I have no idea who this guy is and now he's in my circle? *Sighs* I'm not gonna stress about it, I just need to relax. Getting some sleep will be nice.)"
     u "(Это немного странно... Сначала я понятия не имел, кто этот парень, а теперь он в моем кругу? *Вздох* Я не собираюсь напрягаться из-за этого, мне просто нужно расслабиться. Поспать было бы неплохо.)"
 
+translate russian strings:
+
+    old "You wanna catch the indoor skydiving thing tomorrow before the trip?"
+    new "Хочешь завтра перед поездкой полетать в аэротрубе?"
+    old "I knew I was forgetting something... I actually made plans with Charli already. Sorry :("
+    new "Я знала, что что-то забыла... На самом деле у меня уже планы с Чарли. Извини :("
+    old "It's fine, gn."
+    new "Всё в порядке"
+#    old "Goodnight"
+#    new "Споки"

@@ -16,7 +16,7 @@ translate russian v9_hc_demo_49a7f6b9:
 translate russian v9_hc_demo_542d922e:
 
     # pe "What?"
-    pe "то?"
+    pe "Что?"
 
 # game/v9/scene11.rpy:42
 translate russian v9_hc_demo_21ac9ce4:

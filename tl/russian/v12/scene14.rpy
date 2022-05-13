@@ -637,3 +637,15 @@ translate russian strings:
     old "It'd be nice"
     new "Это было бы здорово"
 
+translate russian strings:
+
+    old "TREASURE HUNT TIME!"
+    new "ВРЕМЯ ПОИСКА СОКРОВИЩ!"
+    old "Really... now?"
+    new "Серьёзно... сейчас?"
+    old "Yep, and I'm already at the spot of the next clue... I think."
+    new "Ага, и я уже на месте следующей подсказки... Я думаю."
+    old "Meet me here :)"
+    new "Встретимся там :)"
+    old "Okay, I'll be there soon."
+    new "Хорошо, я скоро буду."

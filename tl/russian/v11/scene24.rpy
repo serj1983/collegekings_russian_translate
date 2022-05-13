@@ -499,5 +499,5 @@ translate russian strings:
 
     # game/v11/scene24.rpy:13
     old "That thing stinks!"
-    new "От этой штуки воняет!"
+    new "Они воняют!"
 

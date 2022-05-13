@@ -1042,3 +1042,6 @@ translate russian strings:
 
     old "ARE YOU SURE YOU WANT TO END THE FREE ROAM?"
     new "Вы уверены, что хотите прекратить свободное передвижение?"
+
+    old "LOADING WILL LOSE UNSAVED PROGRESS.\nARE YOU SURE YOU WANT TO DO THIS?"
+    new "Загрузка приведет к потере несохраненного прогресса. Вы уверены, что хотите это сделать?"

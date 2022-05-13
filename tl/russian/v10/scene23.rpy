@@ -324,3 +324,9 @@ translate russian strings:
     old "Hot girls"
     new "Горячие девочки"
 
+translate russian strings:
+
+    old "Hey, wanna hang out? I have some free time in between study sessions."
+    new "Привет, хочешь потусоваться? У меня есть немного свободного времени между учебными занятиями."
+    old "Sure, on my way"
+    new "Конечно, уже иду"
