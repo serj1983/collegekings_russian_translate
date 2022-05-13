@@ -60,7 +60,7 @@ translate russian strings:
 
     # game/v9/scene38.rpy:34
     old "Hey Freshmeat! How's it hangin?"
-    new "Привет, Свежатина! Как дела?"
+    new "Привет, Freshmeat! Как дела?"
 
     # game/v9/scene38.rpy:35
     old "Hey Linds ;)"

@@ -37,3 +37,9 @@ translate russian v13s27_PhoneContinueAmber_c74c29f0:
     # u "*Chuckles* (Oh well.)"
     u "*Хихикает* (О, хорошо.)"
 
+translate russian strings:
+
+    old "Meet me at the bus stop near the hotel."
+    new "Встретимся на автобусной остановке рядом с отелем."
+    old "For?"
+    new "Для чего?"

@@ -16,81 +16,81 @@ translate russian strings:
 
     # game/v8/Scene16.rpy:8
     old "Took a lot of work but Homecoming looks great"
-    new ""
+    new "Потребовалось много работы, но Встреча выпускников вышла великолепно"
 
     # game/v8/Scene16.rpy:11
     old "Thank you miss Rose also says thank you"
-    new ""
+    new "Спасибо, мисс Роуз тоже говорит спасибо."
 
     # game/v8/Scene16.rpy:14
     old "You will have to find out some times :)"
-    new ""
+    new "Тебе придется потом выяснить :)"
 
     # game/v8/Scene16.rpy:17
     old "Not this time, but maybe next time you can join me ;)"
-    new ""
+    new "Не в этот раз, но, возможно, в следующий раз ты сможешь присоединиться ко мне ;)"
 
     # game/v8/Scene16.rpy:35
     old "Hanging with my best friend. Good times!"
-    new ""
+    new "Провожу время с моей лучшей подругой. Хорошие времена!"
 
     # game/v8/Scene16.rpy:36
     old "Awww, I love hanging out with you <3"
-    new ""
+    new "Оу, я люблю проводить время с тобой <3"
 
     # game/v8/Scene16.rpy:37
     old "Looking great Aubrey!"
-    new ""
+    new "Обри отлично выглядит!"
 
     # game/v8/Scene16.rpy:38
     old "Next time invite me along"
-    new ""
+    new "В следующий раз пригласите меня с собой."
 
     # game/v8/Scene16.rpy:39
     old "Looking hot, ladies!"
-    new ""
+    new "Выглядите сексуально, дамы!"
 
     # game/v8/Scene16.rpy:40
     old "This is such a great picture!"
-    new ""
+    new "Это такая замечательная картина!"
 
     # game/v8/Scene16.rpy:43
     old "Having fun with Ms. Rose at Hoco!"
-    new ""
+    new "Веселюсь с мисс Роуз в Хоко!"
 
     # game/v8/Scene16.rpy:44
     old "Teacher's pet!"
-    new ""
+    new "Любимица учителей!"
 
     # game/v8/Scene16.rpy:45
     old "Booba"
-    new ""
+    new "Буба"
 
     # game/v8/Scene16.rpy:46
     old "I'm glad you guys had fun"
-    new ""
+    new "Я рад, что вы, ребята, повеселились"
 
     # game/v8/Scene16.rpy:47
     old "Wow, you two look great!"
-    new ""
+    new "Вау, вы двое выглядите великолепно!"
 
     # game/v8/Scene16.rpy:49
     old "Nothing like a good day of shopping"
-    new ""
+    new "Ничто не сравнится с хорошим днем шопинга"
 
     # game/v8/Scene16.rpy:50
     old "Wish I could of been there to try things with you"
-    new ""
+    new "Хотела бы я быть там, чтобы померить всё вместе с тобой."
 
     # game/v8/Scene16.rpy:51
     old "Looking good"
-    new ""
+    new "Выглядит хорошо"
 
     # game/v8/Scene16.rpy:52
     old "How many bikinis did you buy? Haha."
-    new ""
+    new "Сколько бикини ты купила? Хаха."
 
     # game/v8/Scene16.rpy:53
     old "Did you buy me anything?"
-    new ""
+    new "Ты мне что-нибудь купила?"
 

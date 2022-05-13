@@ -751,11 +751,11 @@ translate russian strings:
 
     # game/v11/scene19.rpy:202
     old "I think I made the correct choice of roommate ;)"
-    new "Думаю, я сделал правильный выбор соседа по комнате ;)"
+    new "Думаю, я сделал правильный выбор соседки по комнате ;)"
 
     # game/v11/scene19.rpy:203
     old "Glad to have you as my roommate Chloe!"
-    new "Рада, что ты стала моей соседкой Хлоя!"
+    new "Рад, что ты стала моей соседкой Хлоя!"
 
     # game/v11/scene19.rpy:594
     old "Just tell her"

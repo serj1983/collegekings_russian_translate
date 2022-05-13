@@ -849,3 +849,7 @@ translate russian strings:
     old "Don't go on the date"
     new "Не ходить на свидание"
 
+# Patch 13.2.3s
+
+    old "That's too much..."
+    new "Это уже слишком..."

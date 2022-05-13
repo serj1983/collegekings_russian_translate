@@ -97,3 +97,11 @@ translate russian strings:
     old "Tell him off"
     new "Передай ему"
 
+translate russian strings:
+
+    old "OMG, I'M SO SORRY!"
+    new "БОЖЕ, МНЕ ТАК ЖАЛЬ!"
+    old "I DID NOT MEAN TO SEND THAT!"
+    new "Я НЕ ХОТЕЛА ПОСЫЛАТЬ ЭТО!"
+    old "Haha, don't worry about it."
+    new "Ха-ха, не беспокойся об этом."

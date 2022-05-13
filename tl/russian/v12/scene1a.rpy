@@ -467,13 +467,29 @@ translate russian strings:
 
     # game/v12/scene1a.rpy:528
     old "Would your man chase a robber down in the middle of the night? If not, you don't have a real man..."
-    new "Стал бы ваш мужчина преследовать грабителя посреди ночи? Если нет, то у вас нет настоящего мужчины..."
+    new "Стал бы твой парень преследовать грабителя посреди ночи? Если нет, то у вас нет настоящего парня..."
 
     # game/v12/scene1a.rpy:529
     old "If you want a man Imre I can take you to a few bars... All you had to do was ask."
-    new "Если тебе нужен мужик, Имре, я могу сводить тебя в несколько баров... Всё, что тебе нужно было сделать, это спросить."
+    new "Если тебе нужен парень, Имре, я могу сводить тебя в несколько баров... Всё, что тебе нужно было сделать, это спросить."
 
     # game/v12/scene1a.rpy:530
     old "LMAO"
     new "Ржунимагу"
 
+translate russian strings:
+
+    old "Check Kiwii... you're welcome. :)"
+    new "Проверьте Kiwii... не за что. :)"
+    old "Haha okay"
+    new "Хаха, хорошо"
+    old "Boosting me huh?"
+    new "Подбадриваешь меня?"
+    old "You deserved it"
+    new "Ты заслужил это"
+    old "You see Charli's comment?"
+    new "Вы видели комментарий Чарли?"
+    old "No, one sec"
+    new "Нет, секунду"
+    old "I'm gonna beat his ass"
+    new "Я надеру ему задницу"

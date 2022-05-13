@@ -866,8 +866,8 @@ translate russian strings:
     new "Хаос"
 
     # game/v11/scene43.rpy:406
-    old "Amber"
-    new "Эмбер"
+#    old "Amber"
+#    new "Эмбер"
 
     # game/v11/scene43.rpy:529
     old "Yep"

@@ -187,11 +187,11 @@ translate russian strings:
 
     # game/v13/scene18.rpy:160
     old "What was that about, you guys all good now or something? "
-    new "Что это было, вы, ребята, теперь снова вместе или что-то в этом роде? "
+    new "Что это было, вы что, снова вместе? "
 
     # game/v13/scene18.rpy:161
     old "I know it's odd, but I'm trying to figure things out. Pls just... Let me handle it?"
-    new "Я знаю, это странно, но я пытаюсь во всем разобраться. Пожалуйста... Позволь мне разобраться с этим?"
+    new "Я знаю, это странно, но я пытаюсь во всём разобраться. Пожалуйста... Позволь мне разобраться?"
 
     # game/v13/scene18.rpy:162
     old "Okay... "

@@ -414,7 +414,7 @@ translate russian strings:
 
     # game/v8/scene43.rpy:68
     old "Go along with it"
-    new ""
+    new "Cогласится с ним"
 
     # game/v8/scene43.rpy:178
     old "I definitely want to be an Ape"

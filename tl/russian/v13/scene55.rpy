@@ -101,7 +101,7 @@ translate russian v13s55_1fb61dae:
 translate russian v13s55_53ef3139:
 
     # u "Waiting... *Chuckles*"
-    u ""
+    u "Жду... *Хихикает*"
 
 # game/v13/scene55.rpy:109
 translate russian v13s55_ff52b17f:

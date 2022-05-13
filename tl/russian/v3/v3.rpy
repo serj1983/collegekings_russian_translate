@@ -2176,13 +2176,13 @@ translate russian amiss_9ea2f78c_2:
 translate russian amiss_1e7ee0b5:
 
     # au "*Squeals* Yes, yes, yes!"
-    au ""
+    au "*Визжит* Да, да, да!"
 
 # game/v3/v3.rpy:2341
 translate russian amiss_9ea2f78c_3:
 
     # " "
-    "*Визжит* Да, да, да!"
+    " "
 
 # game/v3/v3.rpy:2346
 translate russian amiss_e38ad56a:

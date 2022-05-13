@@ -978,3 +978,13 @@ translate russian strings:
     old "Place hand on her leg"
     new "Положи ладонь на её ногу"
 
+translate russian strings:
+
+    old "Skatepark behind SVC, 10pm, bring a six pack."
+    new "Скейтпарк за SVC, 10 вечера, приноси с собой шесть упаковок."
+    old "Condoms or beer?"
+    new "Гондонов или пиво?"
+    old "Alright sure"
+    new "Да, конечно"
+    old "Beer, obviously"
+    new "Пиво, конечно"
