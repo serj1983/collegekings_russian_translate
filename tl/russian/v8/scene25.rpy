@@ -93,3 +93,23 @@ translate russian strings:
     # game/v8/scene25.rpy:44
     old "Sure, I will come. But where is the store?"
     new "Конечно, я приду. Но где находится магазин?"
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v8/scene25.rpy:53
+translate russian phn_riley11_setup_11900a1d:
+
+    # u "(I should talk to Riley.)"
+    u "(Я должен поговорить с Райли.)"
+
+# game/v8/scene25.rpy:56
+translate russian phn_riley11_setup_1ace9f3a:
+
+    # u "(Guess I'm not gonna be bored to death after all.)"
+    u "(Думаю, мне не будет скучно до смерти.)"
+
+# game/v8/scene25.rpy:61
+translate russian phn_riley11_setup_1ace9f3a_1:
+
+    # u "(Guess I'm not gonna be bored to death after all.)"
+    u "(Думаю, мне не будет скучно до смерти.)"
+

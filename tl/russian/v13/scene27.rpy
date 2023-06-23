@@ -43,3 +43,35 @@ translate russian strings:
     new "Встретимся на автобусной остановке рядом с отелем."
     old "For?"
     new "Для чего?"
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v13/scene27.rpy:31
+translate russian v13s27_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v13/scene27.rpy:36
+translate russian v13s27_87d7e556:
+
+    # u "(She wants me to drag my ass over there without knowing a damn thing about what we're doing?)"
+    u "(Она хочет, чтобы я тащил туда свою задницу, ни черта не зная о том, что мы делаем?)"
+
+# game/v13/scene27.rpy:41
+translate russian v13s27_f7e60c9a:
+
+    # u "*Sighs* (I'd rather just go instead of getting my shit rocked by Amber.)"
+    u "*Вздох* (Я бы предпочел просто уйти, вместо того чтобы получить от Эмбер.)"
+
+# game/v13/scene27.rpy:46
+translate russian v13s27_c1ba7e32:
+
+    # u "(I don't even know where Ryan and Imre are.)"
+    u "(Я даже не знаю, где Райан и Имре)."
+
+# game/v13/scene27.rpy:51
+translate russian v13s27_c74c29f0:
+
+    # u "*Chuckles* (Oh well.)"
+    u "*Хихикает* (О, хорошо.)"
+

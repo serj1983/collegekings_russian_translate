@@ -241,3 +241,17 @@ translate russian v11_nora_airport_convo_ab8f07e5:
     # ri "Now be happy! We're on vacation, grumpy man."
     ri "А теперь будь счастлив! Мы в отпуске, ворчун."
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v11/scene15.rpy:156
+translate russian v11_nora_airport_convo_9fe4d1d5:
+
+    # charli "Pfft. I was just trying to be friendly. But if you wanna make this some petty, jealousy feud, sure. Go ahead."
+    charli "Пфф. Я просто пытался быть дружелюбным. Но если ты хочешь превратить это в какую-то мелкую ревнивую вражду, конечно. Продолжай."
+
+# game/v11/scene15.rpy:158
+translate russian v11_nora_airport_convo_a56faefe:
+
+    # charli "Just know that we could've been good friends and your life would be a whole lot easier."
+    charli "Просто знай, что мы могли бы быть хорошими друзьями, и твоя жизнь была бы намного проще."
+

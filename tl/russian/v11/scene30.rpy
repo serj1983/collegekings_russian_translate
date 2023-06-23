@@ -1386,3 +1386,23 @@ translate russian strings:
     new "Я вижу здесь красивых людей."
     old "Sure are."
     new "Конечно."
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v11/scene30.rpy:1440
+translate russian v11_quiz_bonus_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v11/scene30.rpy:1459
+translate russian v11_quiz_bonus_27ecbc47:
+
+    # u "(I should reply to Lauren.)"
+    u "(Я должен ответить Лорен.)"
+
+# game/v11/scene30.rpy:1464
+translate russian v11_quiz_bonus_f4fe3f3a:
+
+    # u "(That's how you start a day off right. Let's see what else today has to offer.)"
+    u "(Вот как нужно правильно начинать день. Давай посмотрим, что ещё может предложить сегодняшний день)."
+

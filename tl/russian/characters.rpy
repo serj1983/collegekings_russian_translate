@@ -275,3 +275,11 @@ translate russian strings:
     new "Тренер"
     old "Wolf Trainer"
     new "Тренер Волков"
+# TODO: Translation updated at 2023-06-21 15:57
+
+translate russian strings:
+
+    # game/characters.rpy:3
+    old "[name]"
+    new "[name]"
+

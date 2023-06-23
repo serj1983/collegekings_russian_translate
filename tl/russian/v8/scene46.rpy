@@ -98,3 +98,17 @@ translate russian strings:
     old "Fuckin check it out man. Crazy shit"
     new "Зацени это. Сумасшедшая дичь"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v8/scene46.rpy:109
+translate russian v8_ending_31be7c9c:
+
+    # u "I need to check my phone."
+    u "Мне нужно проверить телефон."
+
+# game/v8/scene46.rpy:111
+translate russian v8_ending_f975cffd_1:
+
+    # u "(What the...? Is this about the upcoming fight?)"
+    u "(Что за...? Это о предстоящем поединке?)"
+

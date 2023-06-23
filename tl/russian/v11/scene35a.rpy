@@ -349,3 +349,11 @@ translate russian v11_chloe_hotel_room_amber_call_dface589:
     # imre "GET THE FUCK OFF ME!"
     imre "ОТВАЛИ ОТ МЕНЯ!"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v11/scene35a.rpy:187
+translate russian v11_chloe_hotel_room_amber_call_4e4da660:
+
+    # cl "\"Such a beautiful couple\", that guy was so sweet to us. He thought he had a sale though, now I feel bad..."
+    cl "\"Такая красивая пара\", этот парень был так мил с нами. Он думал, что у него будет продажа, хотя теперь я чувствую себя неловко..."
+

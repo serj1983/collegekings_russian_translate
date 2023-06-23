@@ -1120,3 +1120,11 @@ translate russian v11_carriage_ride_fb5a1a09:
 
     # u "She hasn't announced it yet but Lindsey is going to run for President."
     u "Она ещё не объявила об этом, но Линдси собирается баллотироваться в президенты."
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v11/scene40.rpy:704
+translate russian v11_carriage_ride_2ccdbe33:
+
+    # cl "Fuck off, Nora. All you do is stir shit, and then act like you don't fucking enjoy the drama you're causing! Guess what? I'm not the one that picked this fight."
+    cl "Отвали, Нора. Всё, что ты делаешь, это разбрасываешь дерьмо на вентилятор, а потом ведёшь себя так, будто тебе, блядь, не нравится драма, которые ты устраиваешь! Знаешь, что? Не я, это начинала."
+

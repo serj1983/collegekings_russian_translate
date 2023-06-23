@@ -197,3 +197,11 @@ translate russian strings:
     old "Continue"
     new "Продолжить"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v11/scene41.rpy:262
+translate russian v11_chloe_bathroom_855d7042:
+
+    # cl "I'm just gonna try to get some sleep"
+    cl "Я просто попытаюсь немного поспать."
+

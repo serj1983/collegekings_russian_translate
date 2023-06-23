@@ -124,3 +124,11 @@ translate russian strings:
     old "See you!"
     new "До скорого!"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v9/scene05.rpy:64
+translate russian v9_dream_wakeup_11900a1d:
+
+    # u "(I should talk to Riley.)"
+    u "(Я должен поговорить с Райли.)"
+

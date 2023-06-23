@@ -170,3 +170,71 @@ translate russian strings:
     old ":P"
     new ":P"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v8/scene45.rpy:41
+translate russian tue_night_in_room_747f298b:
+
+    # u "I should really check my phone."
+    u "Мне нужно проверить телефон."
+
+# game/v8/scene45.rpy:43
+translate russian tue_night_in_room_2bccb375:
+
+    # u "(Let's just see what Chloe's up to.)"
+    u "(Посмотрим, что задумала Хлоя.)"
+
+# game/v8/scene45.rpy:64
+translate russian tue_night_in_room_747f298b_1:
+
+    # u "I should really check my phone."
+    u "Мне нужно проверить телефон."
+
+# game/v8/scene45.rpy:66
+translate russian tue_night_in_room_6a557c5a:
+
+    # u "(Well I'll be damned... This could actually be more fun than I ever thought it could be.)"
+    u "(Будь я проклят... Это может быть веселее, чем я когда-либо думал.)"
+
+# game/v8/scene45.rpy:79
+translate russian tue_night_in_room_f1893ba1_1:
+
+    # u "(Things are getting pretty interesting, lately.)"
+    u "(В последнее время всё становится довольно интересным.)"
+
+# game/v8/scene45.rpy:89
+translate russian tue_night_in_room_d4509484_1:
+
+    # u "(Especially tonight...)"
+    u "(Особенно сегодня...)"
+
+# game/v8/scene45.rpy:94
+translate russian tue_night_in_room_7b27e54e:
+
+    # u "(Grayson's texting me already? Haha...)"
+    u "(Грейсон уже пишет мне? Хаха...)"
+
+# game/v8/scene45.rpy:109
+translate russian tue_night_in_room_31be7c9c:
+
+    # u "I need to check my phone."
+    u "Мне нужно проверить телефон."
+
+# game/v8/scene45.rpy:111
+translate russian tue_night_in_room_2bccb375_1:
+
+    # u "(Let's just see what Chloe's up to.)"
+    u "(Посмотрим, что задумала Хлоя.)"
+
+# game/v8/scene45.rpy:132
+translate russian tue_night_in_room_31be7c9c_1:
+
+    # u "I need to check my phone."
+    u "Мне нужно проверить телефон."
+
+# game/v8/scene45.rpy:134
+translate russian tue_night_in_room_6a557c5a_1:
+
+    # u "(Well I'll be damned... This could actually be more fun than I ever thought it could be.)"
+    u "(Будь я проклят... Это может быть веселее, чем я когда-либо думал.)"
+

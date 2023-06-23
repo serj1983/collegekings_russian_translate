@@ -299,3 +299,11 @@ translate russian strings:
 
     old "Hey, I saw you were having breakfast with Lindsey, can you come to the cafe down the road when you're done? I have something to talk to you about in private."
     new "Эй, я видела, что ты завтракал с Линдси, не мог бы ты зайти в кафе вниз по дороге, когда закончишь? Мне нужно с тобой кое о чем поговорить наедине."
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v12/scene36.rpy:325
+translate russian v12_lindsey_lobby_3faef724:
+
+    # u "(I should probably reply.)"
+    u "(Я, наверное, должен ответить.)"
+

@@ -19326,3 +19326,419 @@ translate russian strings:
     old "Let's get out of here"
     new "Давай выбираться отсюда"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v7/v7.rpy:1385
+translate russian conyourdorm_2f4dfe6c:
+
+    # u "(I need to respond to some of these messages.)"
+    u "(Я должен ответить на некоторые из этих сообщений.)"
+
+# game/v7/v7.rpy:1390
+translate russian conyourdorm_dddb2912:
+
+    # u "(I should check out what Emily posted on Kiwii.)"
+    u "(Я должен проверить, что Эмили написала на Kiwii.)"
+
+# game/v7/v7.rpy:1395
+translate russian conyourdorm_8dbcdbb7:
+
+    # u "(I should answer Penelope.)"
+    u "(Я должен ответить Пенелопе.)"
+
+# game/v7/v7.rpy:1400
+translate russian conyourdorm_c3668ef2:
+
+    # u "(I should respond to Lauren.)"
+    u "(Я должен ответить Лорен.)"
+
+# game/v7/v7.rpy:1628
+translate russian continueee_6764f4fd:
+
+    # u "(I should respond to Riley.)"
+    u "(Я должен ответить Райли.)"
+
+# game/v7/v7.rpy:1632
+translate russian continueee_a4b59a4d:
+
+    # u "(It's a nice day for a walk. It'll do me good.)"
+    u "(Хороший день для прогулки. Это пойдёт мне на пользу.)"
+
+# game/v7/v7.rpy:1635
+translate russian continueee_ea726239_1:
+
+    # u "(But I should probably stop by Lauren's dorm first and see if we can talk things out... She's still mad at me and it really sucks.)"
+    u "(Но, наверное, сначала мне стоит зайти к Лорен в общежитие и посмотреть, сможем ли мы всё обсудить... Она всё ещё злится на меня, и это действительно паршиво.)"
+
+# game/v7/v7.rpy:2580
+translate russian thisbewalk_3faef724:
+
+    # u "(I should probably reply.)"
+    u "(Я должен ответить.)"
+
+# game/v7/v7.rpy:2583
+translate russian thisbewalk_5368266c:
+
+    # u "(Time to finish my history assignment...)"
+    u "(Пора закончить задание по истории...)"
+
+# game/v7/v7.rpy:2587
+translate russian thisbewalk_2ee799f5:
+
+    # u "(Gotta put on my swim trunks and pick up Lauren.)"
+    u "(Надо надеть плавки и забрать Лорен.)"
+
+# game/v7/v7.rpy:2591
+translate russian thisbewalk_12ff5a98:
+
+    # u "(Ugh... I still gotta finish my history assignment before tomorrow.)"
+    u "(Хмм... Мне ещё нужно закончить задание по истории до завтра.)"
+
+# game/v7/v7.rpy:5441
+translate russian after_pledges_e4c62f8e:
+
+    # u "(I should text Emily that I lost track of time.)"
+    u "(Я должен написать Эмили, что потерял счёт времени.)"
+
+# game/v7/v7.rpy:5443
+translate russian after_pledges_0b5272d7:
+
+    # u "(I guess she's asleep.)"
+    u "(Думаю, она спит.)"
+
+# game/v7/v7.rpy:5449
+translate russian after_pledges_cbfd6200:
+
+    # u "(Nah, I've had enough of her.)"
+    u "(Нет, с меня хватит.)"
+
+# game/v7/v7.rpy:5457
+translate russian after_pledges_d6af4e20:
+
+    # u "(Today was so packed... Can't wait to just fall asleep.)"
+    u "(Сегодняшний день был таким насыщенным... Не могу дождаться, когда просто засну.)"
+
+# game/v7/v7.rpy:8906
+translate russian rileytext_d647e9cd:
+
+    # u "(I should check my messages.)"
+    u "(Мне нужно проверить сообщения.)"
+
+# game/v7/v7.rpy:8909
+translate russian rileytext_fdddc7e4:
+
+    # u "(Guess I'm not going to sleep yet.)"
+    u "(Думаю, я пока не собираюсь спать.)"
+
+# game/v7/v7.rpy:9255
+translate russian signs_with_autumn_9daaa724:
+
+    # u "(I should probably check my messages.)"
+    u "(Наверное, мне стоит проверить свои сообщения.)"
+
+# game/v7/v7.rpy:9257
+translate russian signs_with_autumn_38f45bc6:
+
+    # u "(Alright, let's get going to Autumn's.)"
+    u "(Ладно, пора к Отем.)"
+
+# game/v7/v7.rpy:9259
+translate russian signs_with_autumn_5af79d99:
+
+    # u "(I should probably get going right away.)"
+    u "(Наверное, мне пора идти.)"
+
+# game/v7/v7.rpy:9272
+translate russian signs_with_autumn_0bcd053e:
+
+    # aut "Hey. Thanks for coming to help. Come on in."
+    aut "Привет. Спасибо, что пришёл помочь. Заходи."
+
+# game/v7/v7.rpy:9282
+translate russian signs_with_autumn_065e36c4:
+
+    # aut "Markers and Paint right here. So pick your fancy."
+    aut "Маркеры и краски прямо здесь. Так что бери, что понравится."
+
+# game/v7/v7.rpy:9287
+translate russian signs_with_autumn_ee01f9b9:
+
+    # u "Thanks."
+    u "Спасибо."
+
+# game/v7/v7.rpy:9297
+translate russian signs_with_autumn_81acd23d:
+
+    # aut "Need help?"
+    aut "Нужна помощь?"
+
+# game/v7/v7.rpy:9302
+translate russian signs_with_autumn_e48ca99a:
+
+    # u "Haha yeah, maybe just struggling for some inspo."
+    u "Хаха, да, возможно, просто пытаюсь найти вдохновение."
+
+# game/v7/v7.rpy:9307
+translate russian signs_with_autumn_118b373f:
+
+    # u "Future is Female. That's dope."
+    u "Будущее - Женщина. Это круто."
+
+# game/v7/v7.rpy:9312
+translate russian signs_with_autumn_3970a544:
+
+    # aut "I appreciate the witty stuff, but I like to be direct. Feels like it gets right to the point. The more we fight, the more progress we will make."
+    aut "Я ценю остроумные вещи, но мне нравится быть прямым. Чувствуется, что это попадает прямо в точку. Чем больше мы будем бороться, тем большего прогресса мы добьемся."
+
+# game/v7/v7.rpy:9317
+translate russian signs_with_autumn_4d55bfe6:
+
+    # u "Yeah, I feel you. Think I'm onto something."
+    u "Да, я понимаю тебя. Думаю, так и есть."
+
+# game/v7/v7.rpy:9322
+translate russian signs_with_autumn_4c8ca5d1:
+
+    # aut "Let me hear it."
+    aut "Дай мне это услышать."
+
+# game/v7/v7.rpy:9330
+translate russian signs_with_autumn_495b367f:
+
+    # u "Girls just want to have FUNdamental rights."
+    u "Девушки хотят иметь ФундАмеНтальные права."
+
+# game/v7/v7.rpy:9335
+translate russian signs_with_autumn_4b75db8b:
+
+    # u "You know Fun! Fundamental!"
+    u "Знаешь, Веселье! Фундаментально!"
+
+# game/v7/v7.rpy:9340
+translate russian signs_with_autumn_4f37397b:
+
+    # aut "Ohhhhh hahaha! That's a take on that Cyndi Lauper song."
+    aut "Ох хахаха! Это песня Синди Лопер."
+
+# game/v7/v7.rpy:9345
+translate russian signs_with_autumn_6f5ed0ca:
+
+    # u "Exactly!"
+    u "Именно!"
+
+# game/v7/v7.rpy:9350
+translate russian signs_with_autumn_efb28382:
+
+    # aut "Clever, very clever! Love it."
+    aut "Умно, очень умно! Люблю это."
+
+# game/v7/v7.rpy:9355
+translate russian signs_with_autumn_ee01f9b9_1:
+
+    # u "Thanks."
+    u "Спасибо."
+
+# game/v7/v7.rpy:9360
+translate russian signs_with_autumn_c7ec9440:
+
+    # u "Men against misogyny."
+    u "Мужчины против женоненавистничества."
+
+# game/v7/v7.rpy:9365
+translate russian signs_with_autumn_ab92875d:
+
+    # aut "I like that! It's direct and it also has a nice ring to it. It's amazing how misogynistic most guys are in college these days. Refreshing to know you stand with women."
+    aut "Мне это нравится! Прямолинейно и с приятным звоном. Удивительно, насколько женоненавистническим является большинство парней в колледже в наши дни. Освежает осознание того, что ты на стороне женщин."
+
+# game/v7/v7.rpy:9370
+translate russian signs_with_autumn_aaf4df33:
+
+    # u "Yeah. It's an issue for sure."
+    u "Да. Это точно проблема.."
+
+# game/v7/v7.rpy:9375
+translate russian signs_with_autumn_7d18ea0f:
+
+    # aut "Really glad you're doing this. What motivated you?"
+    aut "Очень рада, что ты это делаешь. Что тебя мотивировало?"
+
+# game/v7/v7.rpy:9380
+translate russian signs_with_autumn_19df5b30:
+
+    # u "Like I said, I really think women deserve equal rights. I just really feel for them. It's not fair."
+    u "Как я уже говорил, я действительно считаю, что женщины заслуживают равных прав. Я просто очень сочувствую им. Это несправедливо."
+
+# game/v7/v7.rpy:9385
+translate russian signs_with_autumn_9916be1d:
+
+    # aut "Your empathy is admirable."
+    aut "Твоё сочувствие достойно восхищения."
+
+# game/v7/v7.rpy:9390
+translate russian signs_with_autumn_017eb25d:
+
+    # u "My mom taught me everything I know."
+    u "Моя мама научила меня всему, что я знаю."
+
+# game/v7/v7.rpy:9395
+translate russian signs_with_autumn_2ba12a40:
+
+    # aut "Sounds like she is a perspicacious woman."
+    aut "Похоже, она проницательная женщина."
+
+# game/v7/v7.rpy:9400
+translate russian signs_with_autumn_bb87a1e6:
+
+    # u "She is. Smart and strong for sure."
+    u "Она такая. Умная и сильная, это точно."
+
+# game/v7/v7.rpy:9405
+translate russian signs_with_autumn_57925813:
+
+    # aut "That's kind of you."
+    aut "Это очень мило с твоей стороны."
+
+# game/v7/v7.rpy:9410
+translate russian signs_with_autumn_1e012e22:
+
+    # u "But yeah, that's why I do it. Stand up for those who deserve it."
+    u "Но да, вот почему я это делаю. Заступаться за тех, кто этого заслуживает."
+
+# game/v7/v7.rpy:9415
+translate russian signs_with_autumn_7b962360:
+
+    # aut "You're definitely headstrong. Good to see a guy with that kind of mentality."
+    aut "Ты определенно на голову выше всех. Приятно видеть парня с таким менталитетом."
+
+# game/v7/v7.rpy:9420
+translate russian signs_with_autumn_a574f55c:
+
+    # u "Yeah, I get what you mean."
+    u "Да, я понимаю, о чём ты."
+
+# game/v7/v7.rpy:9425
+translate russian signs_with_autumn_49b29297:
+
+    # aut "This movement definitely needs more men. Actually, I take that back. Haha. More men just need to realize their given privileges and stop being in denial."
+    aut "Этому движению определённо нужно больше мужчин. Вообще-то, я беру свои слова обратно. Хаха. Больше мужчин просто должны осознать свои привилегии и перестать их отрицать."
+
+# game/v7/v7.rpy:9430
+translate russian signs_with_autumn_d73dab84:
+
+    # u "Yeah, well one step at a time. But we can't blame these guys, they're just uneducated."
+    u "Да, но по одному шагу за раз. Но мы не можем винить этих ребят, они просто необразованы."
+
+# game/v7/v7.rpy:9435
+translate russian signs_with_autumn_60dbb130:
+
+    # aut "I mean we are in university to learn aren't we?"
+    aut "Мы ведь учимся в колледже, не так ли?"
+
+# game/v7/v7.rpy:9440
+translate russian signs_with_autumn_7b649166:
+
+    # u "Haha yeah but you know how guys are."
+    u "Хаха, да, но ты же знаешь, какими бывают парни."
+
+# game/v7/v7.rpy:9445
+translate russian signs_with_autumn_b64c284a:
+
+    # aut "Educate me."
+    aut "Просвети меня."
+
+# game/v7/v7.rpy:9450
+translate russian signs_with_autumn_cc978aaf:
+
+    # u "Haha what?"
+    u "Хаха что?"
+
+# game/v7/v7.rpy:9455
+translate russian signs_with_autumn_095e8e51:
+
+    # aut "I'm serious! I'd really like to learn more about the male mind."
+    aut "Я серьёзно! Мне бы очень хотелось узнать больше о мужском разуме."
+
+# game/v7/v7.rpy:9460
+translate russian signs_with_autumn_6da9e06a:
+
+    # u "Well for one, all guys really think about is girls."
+    u "Во-первых, парни думают только о девушках."
+
+# game/v7/v7.rpy:9465
+translate russian signs_with_autumn_e7a07e6b:
+
+    # aut "Haha."
+    aut "Хаха."
+
+# game/v7/v7.rpy:9470
+translate russian signs_with_autumn_b58a88f7:
+
+    # u "I mean sex. That is the core to a man's mind."
+    u "Я имею в виду секс. Это основа мужского разума."
+
+# game/v7/v7.rpy:9475
+translate russian signs_with_autumn_32f2d5d9:
+
+    # aut "Mm."
+    aut "Мм."
+
+# game/v7/v7.rpy:9480
+translate russian signs_with_autumn_b59c3e1f:
+
+    # u "What about girls? How come you guys aren't so sex hungry all the time?"
+    u "А что насчёт девушек? Почему вы, парни, не жаждете секса всё время?"
+
+# game/v7/v7.rpy:9490
+translate russian signs_with_autumn_d51532ce:
+
+    # aut "How's this?"
+    aut "Как это?"
+
+# game/v7/v7.rpy:9495
+translate russian signs_with_autumn_a1a9b68d:
+
+    # u "Looks great!"
+    u "Выглядит великолепно!"
+
+# game/v7/v7.rpy:9505
+translate russian signs_with_autumn_b39e40bc:
+
+    # u "How's mine?"
+    u "Как у меня?"
+
+# game/v7/v7.rpy:9510
+translate russian signs_with_autumn_bc29dfa3:
+
+    # aut "Fantastic. Can't wait for the protest tomorrow! It's going to be great."
+    aut "Фантастика. Не могу дождаться завтрашнего протеста! Это будет здорово."
+
+# game/v7/v7.rpy:9515
+translate russian signs_with_autumn_b7381e88:
+
+    # u "Yeah, can't wait!"
+    u "Да, не могу дождаться!"
+
+# game/v7/v7.rpy:9520
+translate russian signs_with_autumn_98b65c80:
+
+    # aut "Meet you there tomorrow?"
+    aut "Встретимся там завтра?"
+
+# game/v7/v7.rpy:9525
+translate russian signs_with_autumn_505a3f68:
+
+    # u "Yeah."
+    u "Да."
+
+# game/v7/v7.rpy:9535
+translate russian signs_with_autumn_8b4407a1:
+
+    # aut "Okay well I'll walk you out then. Thanks for coming by."
+    aut "Хорошо, тогда я провожу тебя. Спасибо, что зашёл."
+
+# game/v7/v7.rpy:9540
+translate russian signs_with_autumn_87147a15:
+
+    # u "My pleasure."
+    u "С удовольствием."
+

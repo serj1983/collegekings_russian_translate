@@ -4079,3 +4079,29 @@ translate russian strings:
     # game/v5/v5.rpy:3722
     old "Yeah, I'm interested"
     new "Да, мне интересно"
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v5/v5.rpy:682
+translate russian newchloec_fa9e2e90:
+
+    # u "(I should probably reply to some of them.)"
+    u "(На некоторые, наверное, стоит ответить.)"
+
+# game/v5/v5.rpy:684
+translate russian newchloec_8820f8c7:
+
+    # u "(Time to get ready.)"
+    u "(Пора собираться.)"
+
+# game/v5/v5.rpy:690
+translate russian newchloec_6b7f28be:
+
+    # u "(Maybe it's Lauren and she wants to talk about what happened? I should definitely check.)"
+    u "(Может, это Лорен и она хочет поговорить о том, что произошло? Я обязательно должен проверить.)"
+
+translate russian strings:
+
+    # game/v5/v5.rpy:1127
+    old "The trolley problem involves hypothetical people and/or animals being run over by a train and can be a lot to handle. The following scene might make you feel uncomfortable or uneasy. Do you wish to skip over the trolley problem scene?"
+    new "Проблема вагонетки связана с гипотетическими людьми и/или животными, которых переезжает поезд, и может быть очень сложной. Следующая сцена может вызвать у вас чувство неловкости или беспокойства. Хотите ли вы пропустить сцену с проблемой вагонетки?"
+

@@ -258,3 +258,41 @@ translate russian strings:
     old "I would but it's getting late and I haven't even started Mr. Lee's project"
     new "Я бы сделал это, но уже поздно, а я даже не начал проект мистера Ли"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v8/Scene19.rpy:115
+translate russian sun_eve_room_e6825ef5:
+
+    # u "I should reply to Emily"
+    u "Я должен ответить Эмили"
+
+# game/v8/Scene19.rpy:123
+translate russian sun_eve_room_c478a397:
+
+    # u "(I think I'll get an early night)"
+    u "(Я думаю, мне нужно пораньше лечь спать.)"
+
+# game/v8/Scene19.rpy:129
+translate russian sun_eve_room_c478a397_1:
+
+    # u "(I think I'll get an early night)"
+    u "(Я думаю, мне нужно пораньше лечь спать.)"
+
+# game/v8/Scene19.rpy:185
+translate russian sun_eve_room_e6825ef5_1:
+
+    # u "I should reply to Emily"
+    u "Я должен ответить Эмили"
+
+# game/v8/Scene19.rpy:193
+translate russian sun_eve_room_c478a397_2:
+
+    # u "(I think I'll get an early night)"
+    u "(Я думаю, мне нужно пораньше лечь спать.)"
+
+# game/v8/Scene19.rpy:199
+translate russian sun_eve_room_c478a397_3:
+
+    # u "(I think I'll get an early night)"
+    u "(Я думаю, мне нужно пораньше лечь спать.)"
+

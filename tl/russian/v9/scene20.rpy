@@ -55,3 +55,23 @@ translate russian strings:
     new "Я готов!"
     old "Let's go!!"
     new "Вперёд!!"
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v9/scene20.rpy:32
+translate russian v9_room_fri_aft_f7a7e5c0:
+
+    # u "(I should reply to that post on Kiwii.)"
+    u "(Я должен проверить Kiwii.)"
+
+# game/v9/scene20.rpy:45
+translate russian v9_room_fri_aft_ba2fedec_1:
+
+    # u "(This is so boring.)"
+    u "(Это так скучно.)"
+
+# game/v9/scene20.rpy:61
+translate russian v9_room_fri_aft_f7a7e5c0_1:
+
+    # u "(I should reply to that post on Kiwii.)"
+    u "(Я должен проверить Kiwii.)"
+

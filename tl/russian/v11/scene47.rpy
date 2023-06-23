@@ -105,3 +105,77 @@ translate russian strings:
     new "Я НЕ ХОТЕЛА ПОСЫЛАТЬ ЭТО!"
     old "Haha, don't worry about it."
     new "Ха-ха, не беспокойся об этом."
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v11/scene47.rpy:43
+translate russian v11_walking_back_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v11/scene47.rpy:48
+translate russian v11_walking_back_97b4ecf2:
+
+    # u "(Well... That was unexpected.)"
+    u "(Ну... Это было неожиданно.)"
+
+# game/v11/scene47.rpy:63
+translate russian v11_walking_back_1da9fd43:
+
+    # u "Hey man, look... Um. I know it's been a while since we last talked, but I just wanted to apologize for everything."
+    u "Эй, чувак, слушай... Я знаю, что прошло много времени с нашего последнего разговора, но я просто хотел извиниться за все."
+
+# game/v11/scene47.rpy:68
+translate russian v11_walking_back_c558181c:
+
+    # u "I know we didn't exactly get off on the right foot since I was like, assuming things about you and that was really wrong of me. I shouldn't have gone about things the way that I did."
+    u "Я знаю, что мы начали не с лучшей стороны, потому что я предполагал о тебе всякое, и это было очень неправильно с моей стороны. Я не должен был поступать так, как поступил."
+
+# game/v11/scene47.rpy:74
+translate russian v11_walking_back_f005d9bc:
+
+    # u "You know... Since we last spoke I thought maybe, just maybe, I wasn't getting the \"bigger picture\"."
+    u "Знаешь... После нашего последнего разговора я подумал, что, может быть, я не понимаю \"общей картины\"."
+
+# game/v11/scene47.rpy:79
+translate russian v11_walking_back_c4b01a7f:
+
+    # u "But the truth is, after speaking with MY friends, I know damn well I'm not a bad person like you try to make me out to be. You're just a stuck up asshole that doesn't know how to mind his own business."
+    u "Но правда в том, что после разговора со МОИМИ друзьями я прекрасно знаю, что я не такой плохой человек, каким ты пытаешься меня выставить. Ты просто заносчивый засранец, который не знает, как не лезть не в своё дело."
+
+# game/v11/scene47.rpy:84
+translate russian v11_walking_back_55119281:
+
+    # charli "Haha, [name]... I couldn't care less what you think about me, good or bad. And frankly, it doesn't matter what the girls think either, because they're too blinded by your bullshit to see the truth."
+    charli "Хаха, [name]... Меня не волнует, что ты думаешь обо мне, хорошее или плохое. И, честно говоря, неважно, что думают девушки, потому что они слишком ослеплены твоим дерьмом, чтобы увидеть правду."
+
+# game/v11/scene47.rpy:89
+translate russian v11_walking_back_81b20669:
+
+    # charli "You may think you're some kind of womanizer or player or whatever you consider to be manly in your small, delusional mind."
+    charli "Ты можешь считать себя бабником, игроком или кем-то еще, кого ты считаешь мужественным в своем маленьком, бредовом сознании."
+
+# game/v11/scene47.rpy:94
+translate russian v11_walking_back_4fcd9e15:
+
+    # charli "Let me be very clear, you're a sad, disloyal dirtbag, desperate for female attention, so desperate that you don't care who you're hurting in the process."
+    charli "Позволь мне быть предельно ясным: ты грустный, неверный подонок, отчаянно нуждающийся в женском внимании, настолько отчаянно, что тебя не волнует, кому ты причинишь боль."
+
+# game/v11/scene47.rpy:99
+translate russian v11_walking_back_4e01f988:
+
+    # charli "And your friends might not see that yet, but soon they will, I'll make sure of that."
+    charli "И твои друзья, возможно, еще этого не видят, но скоро увидят, я позабочусь об этом."
+
+# game/v11/scene47.rpy:104
+translate russian v11_walking_back_f4e83f60:
+
+    # u "*Scoffs* Wow, you really are a giant piece of-"
+    u "Вау, ты действительно гигантский кусок-"
+
+# game/v11/scene47.rpy:109
+translate russian v11_walking_back_c9d5fb3a:
+
+    # no "AHHHH!!!!"
+    no "ААААА!!!!"
+

@@ -60,3 +60,23 @@ translate russian fight_tutorialLabel_bf9a21c1_1:
     # tut "Since Tom has his guard up and could probably block both a jab and a hook, try to kick him by pressing {b}[r!u]{/b} in the upcoming screen."
     tut "Поскольку Том защищен и, вероятно, может блокировать как джеб, так и хук, попробуйте ударить его ногой, нажав {b}[r!u]{/b} на текущем экране."
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+translate russian strings:
+
+    # game/old_fight/old_fight_labels.rpy:47
+    old "Which button should be hook / block face?"
+    new "Какая кнопка должна быть хуком / блоком лица?"
+
+    # game/old_fight/old_fight_labels.rpy:52
+    old "Which button should be jab / block head"
+    new "Какая кнопка должна быть для джеба / блока головы"
+
+    # game/old_fight/old_fight_labels.rpy:57
+    old "Which button should be kick / block leg?"
+    new "Какая кнопка должна быть пинка / блокирующей ногой?"
+
+    # game/old_fight/old_fight_labels.rpy:63
+    old "Which button should be body hook / low guard?"
+    new "Какой кнопкой должен быть боди-хук / низкая защита?"
+

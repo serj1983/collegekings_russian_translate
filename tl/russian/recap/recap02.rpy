@@ -1036,7 +1036,7 @@ translate russian strings:
 
     # game/recap/recap02.rpy:1245
     old "Ask to be girlfriend"
-    new "Попросись в подружки"
+    new "Попроси быть твоей девушкой"
 
     # game/recap/recap02.rpy:1245
 #    old "Don't ask"

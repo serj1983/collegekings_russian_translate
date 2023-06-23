@@ -575,3 +575,383 @@ translate russian strings:
     old "I wonder how this happened..."
     new "Интересно, как это произошло..."
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v11/scene9a.rpy:211
+translate russian v11_wolves_seb_prank_93851fe5:
+
+    # u "(I should reply on Kiwii)"
+    u "(Я должен ответить на Kiwii)"
+
+# game/v11/scene9a.rpy:216
+translate russian v11_wolves_seb_prank_f7470a56:
+
+    # u "You took his clothes off?!"
+    u "Ты снял с него одежду?!"
+
+# game/v11/scene9a.rpy:221
+translate russian v11_wolves_seb_prank_a45093cc:
+
+    # imre "*Laughs* No, he must sleep naked."
+    imre "*Смеётся* Нет, он должен спать голым."
+
+# game/v11/scene9a.rpy:226
+translate russian v11_wolves_seb_prank_c3f8f1e9:
+
+    # guyd "I honestly kinda feel bad."
+    guyd "Честно говоря, мне как-то не по себе."
+
+# game/v11/scene9a.rpy:234
+translate russian v11_wolves_seb_prank_b5e75679:
+
+    # u "Sure, I'll join you."
+    u "Конечно, я с вами."
+
+# game/v11/scene9a.rpy:239
+translate russian v11_wolves_seb_prank_141bef9d:
+
+    # imre "Nice... wake me up when it's time?"
+    imre "Отлично... разбудишь меня, когда придет время?"
+
+# game/v11/scene9a.rpy:244
+translate russian v11_wolves_seb_prank_718954cb:
+
+    # u "Nope. This was your idea. You wake me up when it's time!"
+    u "Нет. Это вообще-то твоя идея. Ты разбудишь меня, когда придет время!"
+
+# game/v11/scene9a.rpy:254
+translate russian v11_wolves_seb_prank_5547a29d:
+
+    # imre "*Whisper* It's time man!"
+    imre "*Шепот* Пора!"
+
+# game/v11/scene9a.rpy:262
+translate russian v11_wolves_seb_prank_46fea46b:
+
+    # u "*Sleepy* Just two more minutes."
+    u "*Сонный* Еще две минуты."
+
+# game/v11/scene9a.rpy:267
+translate russian v11_wolves_seb_prank_9be59f1e:
+
+    # imre "*Whisper* Bro c'mon!"
+    imre "*Шёпотом* Бро, давай!"
+
+# game/v11/scene9a.rpy:272
+translate russian v11_wolves_seb_prank_cef9f757:
+
+    # u "Ugh okay."
+    u "Ладно."
+
+# game/v11/scene9a.rpy:292
+translate russian v11_wolves_seb_prank_31adea95:
+
+    # imre "*Whisper* Alright, let's go."
+    imre "*Шепот* Хорошо, пойдем."
+
+# game/v11/scene9a.rpy:302
+translate russian v11_wolves_seb_prank_885bff6d:
+
+    # guyd "*Whisper* How is he still sleeping?"
+    guyd "*Шепот* Как он все еще спит?"
+
+# game/v11/scene9a.rpy:307
+translate russian v11_wolves_seb_prank_673fbe72:
+
+    # imre "Told you he was a deep sleeper. See? We don't even have to whisper."
+    imre "Я же говорил тебе, что он крепко спит. Видишь? Нам даже не нужно шептаться."
+
+# game/v11/scene9a.rpy:312
+translate russian v11_wolves_seb_prank_1a4f8b09:
+
+    # u "Are we planning on staying out here all night?"
+    u "Мы планируем остаться здесь на всю ночь?"
+
+# game/v11/scene9a.rpy:317
+translate russian v11_wolves_seb_prank_09a368fc:
+
+    # imre "Hell no, dude! This is my one chance to get a good night's sleep."
+    imre "Чёрт возьми, чувак! Это мой единственный шанс хорошо выспаться."
+
+# game/v11/scene9a.rpy:322
+translate russian v11_wolves_seb_prank_c1a88f60:
+
+    # guyd "Hey watch out for that hole!"
+    guyd "Эй, осторожнее с этой дырой!"
+
+# game/v11/scene9a.rpy:327
+translate russian v11_wolves_seb_prank_31ce3bba:
+
+    # imre "I don't see a-"
+    imre "Я не вижу..."
+
+# game/v11/scene9a.rpy:332
+translate russian v11_wolves_seb_prank_62ccd0cf:
+
+    # u "*Whisper* Oh shit!"
+    u "*Шёпотом* Вот дерьмо!"
+
+# game/v11/scene9a.rpy:337
+translate russian v11_wolves_seb_prank_624a8b41:
+
+    # se "Mmmm..."
+    se "Мммм..."
+
+# game/v11/scene9a.rpy:342
+translate russian v11_wolves_seb_prank_1c6e05db:
+
+    # guyd "*Whisper* Is he waking up?"
+    guyd "*Шёпотом* Он просыпается?"
+
+# game/v11/scene9a.rpy:347
+translate russian v11_wolves_seb_prank_7b1c1392:
+
+    # u "..."
+    u "..."
+
+# game/v11/scene9a.rpy:352
+translate russian v11_wolves_seb_prank_9f8d5c57:
+
+    # imre "..."
+    imre "..."
+
+# game/v11/scene9a.rpy:357
+translate russian v11_wolves_seb_prank_53dc50c7:
+
+    # guyd "..."
+    guyd "..."
+
+# game/v11/scene9a.rpy:362
+translate russian v11_wolves_seb_prank_84afc3e6:
+
+    # imre "I think we're good."
+    imre "Я думаю, всё в порядке."
+
+# game/v11/scene9a.rpy:367
+translate russian v11_wolves_seb_prank_b05547a5:
+
+    # u "Fuck, that was too close."
+    u "Чёрт, это было слишком близко."
+
+# game/v11/scene9a.rpy:372
+translate russian v11_wolves_seb_prank_725fcded:
+
+    # guyd "That's where you wanted to put him right?"
+    guyd "Вы ведь именно туда хотели его переместить?"
+
+# game/v11/scene9a.rpy:377
+translate russian v11_wolves_seb_prank_d7d48815:
+
+    # imre "That's it."
+    imre "Вот и всё."
+
+# game/v11/scene9a.rpy:382
+translate russian v11_wolves_seb_prank_4cdee5e7:
+
+    # u "We're just gonna lay him on the ground?"
+    u "Мы просто положим его на землю?"
+
+# game/v11/scene9a.rpy:387
+translate russian v11_wolves_seb_prank_a083c2c0:
+
+    # imre "Yep."
+    imre "Ага."
+
+# game/v11/scene9a.rpy:392
+translate russian v11_wolves_seb_prank_9d35ea04:
+
+    # u "We're gonna be fucked when he wakes up."
+    u "Мы окажемся в полной заднице, когда он проснется."
+
+# game/v11/scene9a.rpy:407
+translate russian v11_wolves_seb_prank_3957b994:
+
+    # u "Now what? We just leave him?"
+    u "И что? Просто оставим его?"
+
+# game/v11/scene9a.rpy:412
+translate russian v11_wolves_seb_prank_4091d3de:
+
+    # imre "Yep! This is pretty major for Perry's first prank."
+    imre "Ага! Для первой выходки Перри это довольно серьезно."
+
+# game/v11/scene9a.rpy:417
+translate russian v11_wolves_seb_prank_f7396445:
+
+    # u "This is your first prank?"
+    u "Это твой первый розыгрыш?"
+
+# game/v11/scene9a.rpy:422
+translate russian v11_wolves_seb_prank_4b5d30d4:
+
+    # guyd "Sure is."
+    guyd "Конечно."
+
+# game/v11/scene9a.rpy:437
+translate russian v11_wolves_seb_prank_9a754fb9:
+
+    # imre "And now it's time for some peace and quiet."
+    imre "А теперь настало время тишины и покоя."
+
+# game/v11/scene9a.rpy:447
+translate russian v11_wolves_seb_prank_e215f5fb:
+
+    # u "(This is either gonna be hilarious or a complete shit show.)"
+    u "(Это будет либо уморительно, либо полное дерьмовое шоу.)"
+
+# game/v11/scene9a.rpy:478
+translate russian v11_wolves_seb_prank_58e32ad6:
+
+    # u "So how'd our prank go?"
+    u "Ну и как прошел наш розыгрыш?"
+
+# game/v11/scene9a.rpy:483
+translate russian v11_wolves_seb_prank_ef83d6e8:
+
+    # imre "It was amazing, the picture on Kiwii is going viral."
+    imre "Это было потрясающе, фотография на Kiwii стала вирусной."
+
+# game/v11/scene9a.rpy:488
+translate russian v11_wolves_seb_prank_7d46a507_1:
+
+    # u "What picture?"
+    u "Какая фотография?"
+
+# game/v11/scene9a.rpy:493
+translate russian v11_wolves_seb_prank_5a639ff5:
+
+    # imre "Check Kiwii."
+    imre "Проверь Kiwii."
+
+# game/v11/scene9a.rpy:507
+translate russian v11_wolves_seb_prank_93851fe5_1:
+
+    # u "(I should reply on Kiwii)"
+    u "(Я должен ответить на Kiwii)"
+
+# game/v11/scene9a.rpy:512
+translate russian v11_wolves_seb_prank_915ceca1:
+
+    # u "I'm confused... Why is he naked?"
+    u "Я в замешательстве... Почему он голый?"
+
+# game/v11/scene9a.rpy:517
+translate russian v11_wolves_seb_prank_904cd5b3:
+
+    # imre "*Laughs* He must sleep naked."
+    imre "*Смеётся* Он должен спать голым."
+
+# game/v11/scene9a.rpy:522
+translate russian v11_wolves_seb_prank_c3f8f1e9_1:
+
+    # guyd "I honestly kinda feel bad."
+    guyd "Честно говоря, мне даже как-то не по себе."
+
+# game/v11/scene9a.rpy:527
+translate russian v11_wolves_seb_prank_83195575:
+
+    # u "Where is he now?"
+    u "Где он сейчас?"
+
+# game/v11/scene9a.rpy:542
+translate russian v11_wolves_seb_prank_c801c12f:
+
+    # se "*Laughs*"
+    se "*Смеётся*"
+
+# game/v11/scene9a.rpy:547
+translate russian v11_wolves_seb_prank_93ff3184:
+
+    # imre "*Laughs*"
+    imre "*Смеётся*"
+
+# game/v11/scene9a.rpy:552
+translate russian v11_wolves_seb_prank_fcc18885:
+
+    # u "*Laughs*"
+    u "*Смеётся*"
+
+# game/v11/scene9a.rpy:557
+translate russian v11_wolves_seb_prank_789ebd34:
+
+    # guyd "You're not mad?"
+    guyd "Ты не сердишься?"
+
+# game/v11/scene9a.rpy:562
+translate russian v11_wolves_seb_prank_b3b32c97:
+
+    # se "Mad? Why would I be mad? If anything, I'm fired up. You better watch your backs, boys. *Chuckles*"
+    se "Чего? С чего бы мне злиться? Если уж на то пошло, я разгорячен. Вам лучше быть осторожнее, парни. *Хихикает*"
+
+# game/v11/scene9a.rpy:567
+translate russian v11_wolves_seb_prank_e1b097c2:
+
+    # guyd "What about the picture though?"
+    guyd "А как же фотография?"
+
+# game/v11/scene9a.rpy:572
+translate russian v11_wolves_seb_prank_d0731807:
+
+    # se "What picture?"
+    se "Какая фотография?"
+
+# game/v11/scene9a.rpy:577
+translate russian v11_wolves_seb_prank_54a00e0e:
+
+    # imre "*Laughs* Check Kiwii."
+    imre "*Смеётся* Проверь Kiwii."
+
+# game/v11/scene9a.rpy:587
+translate russian v11_wolves_seb_prank_9d2639a8:
+
+    # se "Bro, who took this?"
+    se "Бро, кто это сделал?"
+
+# game/v11/scene9a.rpy:592
+translate russian v11_wolves_seb_prank_17a4e04e:
+
+    # u "*Laughs* Wasn't us! We did the drop off, not the set up."
+    u "*Смеётся* Это были не мы! Мы высаживали, а не устанавливали."
+
+# game/v11/scene9a.rpy:597
+translate russian v11_wolves_seb_prank_1eb3ae52:
+
+    # se "Says @CalebTheApeBoy posted it. That's the new Ape pledge. Oh, it's on now."
+    se "Говорит, что @CalebTheApeBoy опубликовал это. Это новое обещание Приматов. О, оно уже в силе."
+
+# game/v11/scene9a.rpy:602
+translate russian v11_wolves_seb_prank_e6c20d2d:
+
+    # u "Planning some frat versus frat revenge?"
+    u "Планируешь месть братства против братства?"
+
+# game/v11/scene9a.rpy:607
+translate russian v11_wolves_seb_prank_55176f9a:
+
+    # se "I am now."
+    se "Я сейчас."
+
+# game/v11/scene9a.rpy:612
+translate russian v11_wolves_seb_prank_5dd3b196:
+
+    # u "Too bad we can't help... Imre and I are going to Europe."
+    u "Жаль, что мы не можем помочь... Мы с Имре собираемся в Европу."
+
+# game/v11/scene9a.rpy:617
+translate russian v11_wolves_seb_prank_33a814b8:
+
+    # se "Oh don't worry, I got this. Perry will help me too. I'll have it all set up by the time you get back."
+    se "Не волнуйся, я справлюсь. Перри тоже мне поможет. Я всё подготовлю к тому времени, как ты вернешься."
+
+# game/v11/scene9a.rpy:622
+translate russian v11_wolves_seb_prank_44deb6c5:
+
+    # imre "Speaking of Europe... We should get going."
+    imre "Кстати, о Европе... Нам пора идти."
+
+# game/v11/scene9a.rpy:627
+translate russian v11_wolves_seb_prank_2552b235:
+
+    # u "*Laughs* Alright."
+    u "*Смеется* Хорошо."
+

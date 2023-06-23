@@ -981,3 +981,719 @@ translate russian strings:
     new "Я все равно не могу не спать, у меня еще куча дел на вечер."
     old "LET'S FUCKING GOOOOO! OMW NOW!"
     new "ПОЕХАЛИ, БЛЯДЬ! СЕЙЧАС!"
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v11/scene5.rpy:46
+translate russian v11_nightclub_with_josh_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v11/scene5.rpy:50
+translate russian v11_nightclub_with_josh_d3bd95b2:
+
+    # u "(I'm going home and straight to bed.)"
+    u "(Я иду домой и сразу ложусь спать.)"
+
+# game/v11/scene5.rpy:65
+translate russian v11_nightclub_with_josh_3056fc37:
+
+    # u "(This is gonna be a fun ass night.)"
+    u "(Это будет веселая ночь.)"
+
+# game/v11/scene5.rpy:83
+translate russian v11_nightclub_with_josh_d50ad6b9:
+
+    # jo "There he is. Ready to get fucked up?"
+    jo "Вот он. Готов к тому, чтобы облажаться?"
+
+# game/v11/scene5.rpy:88
+translate russian v11_nightclub_with_josh_4ffa278e:
+
+    # u "Sure am!"
+    u "Конечно!"
+
+# game/v11/scene5.rpy:93
+translate russian v11_nightclub_with_josh_21d91334:
+
+    # jo "Alright! Let's go inside Mr. John Smith."
+    jo "Хорошо! Давай зайдем внутрь, мистер Джон Смит."
+
+# game/v11/scene5.rpy:98
+translate russian v11_nightclub_with_josh_17536a65:
+
+    # u "Wait what?"
+    u "Подожди, что?"
+
+# game/v11/scene5.rpy:103
+translate russian v11_nightclub_with_josh_f03c7814:
+
+    # jo "Yeah, that's the name I put on your ID. Cool right?"
+    jo "Да, это имя я записал в твоём удостоверении личности. Круто, правда?"
+
+# game/v11/scene5.rpy:112
+translate russian v11_nightclub_with_josh_cf19227a:
+
+    # u "Hell yeah! Hi, I'm John Smith. My stock dividends have treated me well, and I'm here to have a good time."
+    u "Черт возьми, да! Привет, я Джон Смит. Мои дивиденды по акциям высоки, и я здесь, чтобы хорошо провести время."
+
+# game/v11/scene5.rpy:118
+translate russian v11_nightclub_with_josh_8ff483f6:
+
+    # u "That's the most basic name ever. Should've just used my real name."
+    u "Это самое простое имя на свете. Надо было просто использовать мое настоящее имя."
+
+# game/v11/scene5.rpy:123
+translate russian v11_nightclub_with_josh_b9a5eb07:
+
+    # jo "Pfft, no dude. You're supposed to enjoy this, just have fun with it."
+    jo "Пфф, нет, чувак. Ты должен наслаждаться, просто получать от этого удовольствие."
+
+# game/v11/scene5.rpy:128
+translate russian v11_nightclub_with_josh_177646a9:
+
+    # u "Fine. Hi, I'm John Smith. My stock dividends have treated me well, and I'm here to have a good time."
+    u "Черт возьми, да! Привет, я Джон Смит. Мои дивиденды по акциям высоки, и я здесь, чтобы хорошо провести время."
+
+# game/v11/scene5.rpy:136
+translate russian v11_nightclub_with_josh_885f6f41:
+
+    # jo "That was good, but watch this. Hey ladies, the name's Bruce Wayne. Anyone tryna have a good time tonight?"
+    jo "Это было хорошо, но посмотрите на это. Эй, дамы, меня зовут Брюс Уэйн. Кто-нибудь хочет хорошо провести время сегодня вечером?"
+
+# game/v11/scene5.rpy:141
+translate russian v11_nightclub_with_josh_d6f41812:
+
+    # u "Did you say Bruce Wayne?"
+    u "Ты сказал Брюс Уэйн?"
+
+# game/v11/scene5.rpy:146
+translate russian v11_nightclub_with_josh_8482795b:
+
+    # jo "Sure did."
+    jo "Конечно."
+
+# game/v11/scene5.rpy:151
+translate russian v11_nightclub_with_josh_8beae537:
+
+    # u "Bro... that's Batman. No way you get away with that. *Chuckles*"
+    u "Бро... это Бэтмен. Тебе это с рук не сойдет. *Хихикает*"
+
+# game/v11/scene5.rpy:156
+translate russian v11_nightclub_with_josh_48eb760e:
+
+    # jo "Of course I will, We pretty much look alike... Let's do this."
+    jo "Конечно, мы очень похожи... Давай сделаем это."
+
+# game/v11/scene5.rpy:170
+translate russian v11_nightclub_with_josh_4765870e:
+
+    # u "While I still remember, I didn't see your name on the list of people going to Europe. Are you not coming?"
+    u "Пока я еще помню, я не видел твоего имени в списке тех, кто едет в Европу. Ты не летишь?"
+
+# game/v11/scene5.rpy:175
+translate russian v11_nightclub_with_josh_7c57f70c:
+
+    # jo "Are you?"
+    jo "А ты?"
+
+# game/v11/scene5.rpy:180
+translate russian v11_nightclub_with_josh_618d1268:
+
+    # u "Of course, all the girls are going so why not? *Chuckles*"
+    u "Конечно, все девушки собираются, так почему бы и нет? *Хихикает*"
+
+# game/v11/scene5.rpy:185
+translate russian v11_nightclub_with_josh_d1260b59:
+
+    # jo "*All* of the girls? Do I need to do anything to go?"
+    jo "*Все* девушки? Что мне нужно сделать, чтобы полететь?"
+
+# game/v11/scene5.rpy:190
+translate russian v11_nightclub_with_josh_30b899d7:
+
+    # u "Just talk to Ms. Rose or Mr. Lee tomorrow and get on the list. But do it early because we leave Saturday morning."
+    u "Поговори завтра с мисс Роуз или мистером Ли и они внесут тебя в список. Но сделай это раньше, потому что мы уезжаем в субботу утром."
+
+# game/v11/scene5.rpy:195
+translate russian v11_nightclub_with_josh_1a68becf:
+
+    # jo "If I'm not too fucked up after tonight, I'll do it first thing tomorrow. Now c'mon."
+    jo "Если я не слишком облажаюсь после сегодняшнего вечера, я это сделаю завтра первым делом. А теперь пошли."
+
+# game/v11/scene5.rpy:201
+translate russian v11_nightclub_with_josh_474915f5:
+
+    # u "(Nah.)"
+    u "(Неа.)"
+
+# game/v11/scene5.rpy:206
+translate russian v11_nightclub_with_josh_ccb360b0:
+
+    # sec "Hold up. IDs please."
+    sec "Приостановитесь. Документы, пожалуйста."
+
+# game/v11/scene5.rpy:216
+translate russian v11_nightclub_with_josh_1c8ccd8b:
+
+    # sec "Alright, looks good to me. Enjoy yourselves."
+    sec "Хорошо, по-моему, выглядит неплохо. Наслаждайтесь."
+
+# game/v11/scene5.rpy:221
+translate russian v11_nightclub_with_josh_418d0459:
+
+    # jo "Thanks."
+    jo "Спасибо."
+
+# game/v11/scene5.rpy:231
+translate russian v11_nightclub_with_josh_d00241fc:
+
+    # u "*Whisper* How did that just happen?"
+    u "*Шёпотом* Что, только что, произошло?"
+
+# game/v11/scene5.rpy:236
+translate russian v11_nightclub_with_josh_c2a21cd3:
+
+    # jo "I told you it'd work, now let's get drunk!"
+    jo "Я же говорил тебе, что это сработает, а теперь давай напьемся!"
+
+# game/v11/scene5.rpy:241
+translate russian v11_nightclub_with_josh_b203a284:
+
+    # bartender "What can I get you?"
+    bartender "Что я могу вам предложить?"
+
+# game/v11/scene5.rpy:246
+translate russian v11_nightclub_with_josh_edf5dc6b:
+
+    # jo "Three shots of Henny."
+    jo "Три шота Хенни."
+
+# game/v11/scene5.rpy:251
+translate russian v11_nightclub_with_josh_2e5511a4:
+
+    # bartender "And for you?"
+    bartender "Вам?"
+
+# game/v11/scene5.rpy:260
+translate russian v11_nightclub_with_josh_d17761c5:
+
+    # u "I'll take the same."
+    u "Я возьму то же самое."
+
+# game/v11/scene5.rpy:271
+translate russian v11_nightclub_with_josh_51531525:
+
+    # u "Three shots of Vodka for me."
+    u "Три рюмки водки для меня."
+
+# game/v11/scene5.rpy:281
+translate russian v11_nightclub_with_josh_feaeaf02:
+
+    # jo "Nice choice!"
+    jo "Отличный выбор!"
+
+# game/v11/scene5.rpy:286
+translate russian v11_nightclub_with_josh_ca2d1401:
+
+    # jo "Alright let's see, who's going home with me tonight?"
+    jo "Так, посмотрим, кто пойдет со мной сегодня домой?"
+
+# game/v11/scene5.rpy:291
+translate russian v11_nightclub_with_josh_7fbcedd3:
+
+    # u "That's how we're starting the night off? *Chuckles*"
+    u "Так вот как мы начинаем ночь? *Хихикает*"
+
+# game/v11/scene5.rpy:296
+translate russian v11_nightclub_with_josh_23541ae2:
+
+    # jo "That's how I start every night, and you should too. Look at all these fine ass chicks."
+    jo "Так я начинаю каждую ночь, и ты тоже должен. Посмотри на всех этих прекрасных цыпочек."
+
+# game/v11/scene5.rpy:311
+translate russian v11_nightclub_with_josh_9fef3755:
+
+    # u "If you say so."
+    u "Как скажешь."
+
+# game/v11/scene5.rpy:316
+translate russian v11_nightclub_with_josh_78139180:
+
+    # foxy "Hey handsome, don't think I've seen you around here."
+    foxy "Привет, красавчик, не думаю, что видела тебя здесь."
+
+# game/v11/scene5.rpy:321
+translate russian v11_nightclub_with_josh_e48ae2e9:
+
+    # jo "I don't come here often, bro."
+    jo "Я не часто здесь бываю, бро."
+
+# game/v11/scene5.rpy:326
+translate russian v11_nightclub_with_josh_36d8e828:
+
+    # foxy "Oh please, save the bro stuff for your friend over there. I'm a queen, call me Foxy. Are you drunk yet?"
+    foxy "О, пожалуйста, прибереги братанские штучки для своего друга. Я королева, зови меня Фокси. Ты уже напился?"
+
+# game/v11/scene5.rpy:331
+translate russian v11_nightclub_with_josh_d4cd8ddd:
+
+    # jo "Definitely not."
+    jo "Точно нет."
+
+# game/v11/scene5.rpy:336
+translate russian v11_nightclub_with_josh_d63effcc:
+
+    # foxy "Find me when you are."
+    foxy "Найди меня, когда будешь готов."
+
+# game/v11/scene5.rpy:341
+translate russian v11_nightclub_with_josh_bc396f07:
+
+    # jo "Definitely won't."
+    jo "Определенно нет."
+
+# game/v11/scene5.rpy:346
+translate russian v11_nightclub_with_josh_1d77b107:
+
+    # u "Trying to get drunk for your new girlfriend? *Chuckles*"
+    u "Пытаешься напиться для своей новой подружки? *Хихикает*"
+
+# game/v11/scene5.rpy:351
+translate russian v11_nightclub_with_josh_98a5dc73:
+
+    # jo "Getting drunk to forget that happened. Look man, those girls over there keep looking at us."
+    jo "Напиваюсь, чтобы забыть, что произошло. Слушай, чувак, вон те девушки всё время смотрят на нас."
+
+# game/v11/scene5.rpy:356
+translate russian v11_nightclub_with_josh_aa3d59f9:
+
+    # jo "Let's talk to them."
+    jo "Давай поговорим с ними."
+
+# game/v11/scene5.rpy:366
+translate russian v11_nightclub_with_josh_9388b30c:
+
+    # ericka "We were wondering when you two would come say hi to us! What're your names?"
+    ericka "Мы все думали, когда же вы подойдёте поздороваться с нами! Как вас зовут?"
+
+# game/v11/scene5.rpy:371
+translate russian v11_nightclub_with_josh_85145d9a:
+
+    # u "Uhm, John."
+    u "Мм, Джон."
+
+# game/v11/scene5.rpy:376
+translate russian v11_nightclub_with_josh_e7e984c6:
+
+    # ericka "Nice to meet \"Uhm John\". *Chuckles* And you?"
+    ericka "Приятно познакомиться \"Мм Джон\". *Хихикает* А ты?"
+
+# game/v11/scene5.rpy:381
+translate russian v11_nightclub_with_josh_688ca1c0:
+
+    # jo "Bruce."
+    jo "Брюс"
+
+# game/v11/scene5.rpy:386
+translate russian v11_nightclub_with_josh_403c2cb1:
+
+    # ericka "My name's Ericka, this is Candy, and this is Jane."
+    ericka "Меня зовут Эрика, это Кэнди, а это Джейн."
+
+# game/v11/scene5.rpy:391
+translate russian v11_nightclub_with_josh_8ade2492:
+
+    # u "Nice to meet you guys."
+    u "Приятно познакомиться с вами."
+
+# game/v11/scene5.rpy:396
+translate russian v11_nightclub_with_josh_5d9fb9b2:
+
+    # jane "We get that a lot. *Chuckles*"
+    jane "Мы часто это слышим. *Хихикает*"
+
+# game/v11/scene5.rpy:401
+translate russian v11_nightclub_with_josh_011d9d15:
+
+    # candy "Oh my god... I came here to drink. Unless one of these guys is gonna buy me a drink, I don't see why we're talking to them."
+    candy "О боже... Я пришла сюда выпить. Если никто из этих парней не собирается купить мне выпивку, зачем тогда мы вообще с ними разговариваем."
+
+# game/v11/scene5.rpy:406
+translate russian v11_nightclub_with_josh_1613d66b:
+
+    # u "I'll get you a drink."
+    u "Я принесу тебе выпить."
+
+# game/v11/scene5.rpy:411
+translate russian v11_nightclub_with_josh_a959843d:
+
+    # candy "Finally, a gentleman."
+    candy "Вот это джентльмен."
+
+# game/v11/scene5.rpy:421
+translate russian v11_nightclub_with_josh_85db9a2c:
+
+    # jo "Good luck."
+    jo "Удачи."
+
+# game/v11/scene5.rpy:431
+translate russian v11_nightclub_with_josh_91b3cc4e:
+
+    # candy "Excuse me?"
+    candy "Прошу прощения?"
+
+# game/v11/scene5.rpy:436
+translate russian v11_nightclub_with_josh_79e8022a:
+
+    # bartender "Yes ma'am, what can I get you?"
+    bartender "Да, мэм, что я могу вам предложить?"
+
+# game/v11/scene5.rpy:448
+translate russian v11_nightclub_with_josh_6b7337c2:
+
+    # u "Whatever you want."
+    u "Что ты хочешь?"
+
+# game/v11/scene5.rpy:453
+translate russian v11_nightclub_with_josh_ff756762:
+
+    # candy "Surprise me."
+    candy "Удиви меня."
+
+# game/v11/scene5.rpy:459
+translate russian v11_nightclub_with_josh_97d9ad07:
+
+    # u "Something cheap."
+    u "Что-нибудь дешёвое."
+
+# game/v11/scene5.rpy:464
+translate russian v11_nightclub_with_josh_b97feaea:
+
+    # candy "I'll just have a beer."
+    candy "Я выпью пива."
+
+# game/v11/scene5.rpy:469
+translate russian v11_nightclub_with_josh_adeb6f3b:
+
+    # u "You seem down, wanna talk about it?"
+    u "Кажется, ты расстроена, не хочешь рассказать?"
+
+# game/v11/scene5.rpy:474
+translate russian v11_nightclub_with_josh_3c2f4bb1:
+
+    # candy "*Sighs* You mean there's a guy in this world that actually cares to hear what I have to say?"
+    candy "*Вздох* Ты скажешь, что в этом мире есть парень, которому интересно услышать, что я хочу рассказать?"
+
+# game/v11/scene5.rpy:481
+translate russian v11_nightclub_with_josh_93df189e:
+
+    # u "Not really what I came out to do, but I'm here now."
+    u "Не то, ради чего я пришел, но могу попробовать."
+
+# game/v11/scene5.rpy:486
+translate russian v11_nightclub_with_josh_a9df04cc:
+
+    # candy "Yeah, no one would actually choose to listen to my crappy life..."
+    candy "Да, никто бы не захотел слушать о моей дерьмовой жизни..."
+
+# game/v11/scene5.rpy:494
+translate russian v11_nightclub_with_josh_c455f652:
+
+    # u "Yeah, I'm always down for a good conversation."
+    u "Да, я всегда готов к хорошему разговору."
+
+# game/v11/scene5.rpy:499
+translate russian v11_nightclub_with_josh_5140ca09:
+
+    # candy "That's sweet."
+    candy "Это мило."
+
+# game/v11/scene5.rpy:504
+translate russian v11_nightclub_with_josh_ec38f1f7:
+
+    # candy "My boyfriend never listens to me and I swear he's fucking psycho. He's always trying to know where I am and shit. Like, I'm not your property. You know what I mean?"
+    candy "Мой парень никогда не слушает меня, и я клянусь, он чертовски психованный. Он всегда пытается узнать, где я и все такое. Типа, я не твоя собственность. Понимаешь, о чем я?"
+
+# game/v11/scene5.rpy:509
+translate russian v11_nightclub_with_josh_101730ee:
+
+    # u "Yeah, you definitely deserve a drink. Sounds like a stalker to me. *Chuckles*"
+    u "Да, ты заслуживаешь выпивки. По-моему, это похоже на преследование. *Хихикает*"
+
+# game/v11/scene5.rpy:514
+translate russian v11_nightclub_with_josh_a39bc388:
+
+    # candy "Well, I mean, I don't know. Anyways, you have someone you're talking to?"
+    candy "Ну, я не знаю. Короче, у тебя есть кто-то, с кем ты разговариваешь?"
+
+# game/v11/scene5.rpy:521
+translate russian v11_nightclub_with_josh_effe1b59:
+
+    # u "Yeah I do."
+    u "Да."
+
+# game/v11/scene5.rpy:526
+translate russian v11_nightclub_with_josh_78561ab2:
+
+    # candy "Why are you here instead of with her?"
+    candy "Почему ты здесь, а не с ней?"
+
+# game/v11/scene5.rpy:534
+translate russian v11_nightclub_with_josh_eec80413:
+
+    # u "No I don't."
+    u "Я не знаю."
+
+# game/v11/scene5.rpy:539
+translate russian v11_nightclub_with_josh_18f866df:
+
+    # candy "I guess that's good news."
+    candy "Думаю, это хорошая новость."
+
+# game/v11/scene5.rpy:544
+translate russian v11_nightclub_with_josh_b488c469:
+
+    # u "Why is that good news?"
+    u "Почему это хорошая новость?"
+
+# game/v11/scene5.rpy:549
+translate russian v11_nightclub_with_josh_06cde338:
+
+    # candy "Cause that means I don't have to feel bad for talking to you. What made you come out tonight, single guy?"
+    candy "Потому что это значит, что мне не придется переживать из-за того, что я с тобой разговариваю. Что заставило тебя прийти сегодня вечером, одинокий парень?"
+
+# game/v11/scene5.rpy:554
+translate russian v11_nightclub_with_josh_0ac5c7dc:
+
+    # u "Tonight I'm just chilling with my friend. He thought getting fucked up would be a good idea, but I'm not even sure where he ran off to."
+    u "Сегодня я просто отдыхаю со своим другом. Он решил, что нажраться - это хорошая идея, но я даже не уверен, куда он убежал."
+
+# game/v11/scene5.rpy:559
+translate russian v11_nightclub_with_josh_65c10226:
+
+    # candy "Sounds like your friend is smart. I'm sorry, what'd you say your name was again?"
+    candy "Похоже, ваш друг умен. Простите, как вы сказали, как вас зовут?"
+
+# game/v11/scene5.rpy:564
+translate russian v11_nightclub_with_josh_5f929666:
+
+    # u "It's [name]."
+    u "Я [name]."
+
+# game/v11/scene5.rpy:569
+translate russian v11_nightclub_with_josh_876f6e0b:
+
+    # candy "I thought you said it was John or something..."
+    candy "Я думала, ты сказал, что Джон или что-то вроде того..."
+
+# game/v11/scene5.rpy:574
+translate russian v11_nightclub_with_josh_33145c8b:
+
+    # u "Oh uhm..."
+    u "О..."
+
+# game/v11/scene5.rpy:579
+translate russian v11_nightclub_with_josh_032f7aac:
+
+    # candy "No worries. Candy isn't my real name either, but it's what I like to go by when I wanna go out and have fun."
+    candy "Не беспокойтесь. Кэнди - это не мое настоящее имя, но мне нравится так называться, когда я хочу погулять и повеселиться."
+
+# game/v11/scene5.rpy:584
+translate russian v11_nightclub_with_josh_a4485a78:
+
+    # u "That's smart, actually. Probably makes it harder for the creeps at the bar to stalk you on Kiwii."
+    u "Это умно. Вероятно, это усложнит задачу подонкам в баре выследить тебя по Kiwii."
+
+# game/v11/scene5.rpy:593
+translate russian v11_nightclub_with_josh_d4aadeea:
+
+    # candy "Yeah so, look - you're a really sweet guy and I'd love getting to hang out with you more, but I'm sure my boyfriend is looking for me. Maybe I'll see you another time."
+    candy "Да, слушай, ты очень милый парень, и я бы с удовольствием пообщалась с тобой побольше, но я уверена, что мой парень ищет меня. Может, увидимся в другой раз."
+
+# game/v11/scene5.rpy:598
+translate russian v11_nightclub_with_josh_17889107:
+
+    # u "Hopefully."
+    u "Надеюсь."
+
+# game/v11/scene5.rpy:613
+translate russian v11_nightclub_with_josh_e19fa027:
+
+    # u "(Where's Josh?)"
+    u "(Где Джош?)"
+
+# game/v11/scene5.rpy:618
+translate russian v11_nightclub_with_josh_0dcf87cb:
+
+    # bartender "Your buddy left with those two girls."
+    bartender "Твой приятель ушел с теми двумя девушками."
+
+# game/v11/scene5.rpy:623
+translate russian v11_nightclub_with_josh_499d4fee:
+
+    # u "Should've known..."
+    u "Должен был догадаться..."
+
+# game/v11/scene5.rpy:628
+translate russian v11_nightclub_with_josh_4a46b3fa:
+
+    # u "(I should just go home and sleep.)"
+    u "(Мне нужно просто пойти домой и поспать.)"
+
+# game/v11/scene5.rpy:638
+translate russian v11_nightclub_with_josh_229b0f41:
+
+    # candy "Yeah, so, you seem like a really caring guy..."
+    candy "Да, похоже, ты действительно заботливый парень..."
+
+# game/v11/scene5.rpy:643
+translate russian v11_nightclub_with_josh_5622e56b:
+
+    # candy "Wanna head back to my place?"
+    candy "Хочешь пойти ко мне?"
+
+# game/v11/scene5.rpy:650
+translate russian v11_nightclub_with_josh_c3b494dc:
+
+    # u "I'm sorry, I'd love to, but I wouldn't want to get in between you and your man."
+    u "Прости, я бы с удовольствием, но я не хочу встревать между тобой и твоим мужчиной."
+
+# game/v11/scene5.rpy:655
+translate russian v11_nightclub_with_josh_8c35b887:
+
+    # candy "Too bad I'm not single huh? See you around."
+    candy "Жаль, что я не одинока, да? Увидимся."
+
+# game/v11/scene5.rpy:670
+translate russian v11_nightclub_with_josh_e19fa027_1:
+
+    # u "(Where's Josh?)"
+    u "(Где Джош?)"
+
+# game/v11/scene5.rpy:675
+translate russian v11_nightclub_with_josh_0dcf87cb_1:
+
+    # bartender "Your buddy left with those two girls."
+    bartender "Твой приятель ушел с теми двумя девушками."
+
+# game/v11/scene5.rpy:680
+translate russian v11_nightclub_with_josh_499d4fee_1:
+
+    # u "Should've known..."
+    u "Должен был догадаться..."
+
+# game/v11/scene5.rpy:685
+translate russian v11_nightclub_with_josh_4a46b3fa_1:
+
+    # u "(I should just go home and sleep.)"
+    u "(Мне нужно просто пойти домой и поспать.)"
+
+# game/v11/scene5.rpy:693
+translate russian v11_nightclub_with_josh_c30fba07:
+
+    # u "That sounds nice."
+    u "Звучит неплохо."
+
+# game/v11/scene5.rpy:704
+translate russian v11_nightclub_with_josh_c797de6a:
+
+    # dennis "WHO THE FUCK IS THIS?"
+    dennis "КТО ЭТО, БЛЯДЬ, ТАКОЙ?"
+
+# game/v11/scene5.rpy:709
+translate russian v11_nightclub_with_josh_101f93a8:
+
+    # candy "Dennis, uhm... he's my friend."
+    candy "Деннис... он мой друг."
+
+# game/v11/scene5.rpy:714
+translate russian v11_nightclub_with_josh_b1a14b6d:
+
+    # dennis "Holding hands with a friend?"
+    dennis "Ты держишься за руку с другом?"
+
+# game/v11/scene5.rpy:721
+translate russian v11_nightclub_with_josh_c63099b3:
+
+    # u "Yo, chill dude! Who even are you?"
+    u "Эй, остынь, чувак! Кто ты вообще такой?"
+
+# game/v11/scene5.rpy:726
+translate russian v11_nightclub_with_josh_5131d8c6:
+
+    # dennis "THE FUCK?"
+    dennis "КАКОГО ХРЕНА?"
+
+# game/v11/scene5.rpy:737
+translate russian v11_nightclub_with_josh_2264de03:
+
+    # u "(I should've never come out tonight.)"
+    u "(Мне не следовало выходить сегодня вечером.)"
+
+# game/v11/scene5.rpy:742
+translate russian v11_nightclub_with_josh_194b1722:
+
+    # foxy "Oh poor baby, are you okay? Let me help you."
+    foxy "О, бедный малыш, ты в порядке? Позволь мне помочь тебе."
+
+# game/v11/scene5.rpy:747
+translate russian v11_nightclub_with_josh_854a0eb9:
+
+    # foxy "Do you need a ride home, honey?"
+    foxy "Тебя подвезти домой, милый?"
+
+# game/v11/scene5.rpy:752
+translate russian v11_nightclub_with_josh_f4b764fd:
+
+    # u "I'll be fine, thanks."
+    u "Все будет в порядке, спасибо."
+
+# game/v11/scene5.rpy:757
+translate russian v11_nightclub_with_josh_93e831b4:
+
+    # foxy "Come back and see me sometime."
+    foxy "Приходите ко мне как-нибудь."
+
+# game/v11/scene5.rpy:762
+translate russian v11_nightclub_with_josh_3b87b243:
+
+    # u "(What the actual fuck?)"
+    u "(Какого хрена?)"
+
+# game/v11/scene5.rpy:773
+translate russian v11_nightclub_with_josh_fc7acabe:
+
+    # u "She's my cousin, dude."
+    u "Она моя кузина, чувак."
+
+# game/v11/scene5.rpy:782
+translate russian v11_nightclub_with_josh_1fafa231:
+
+    # candy "Oh my god. *Laughs*"
+    candy "Боже мой. *Смеется*"
+
+# game/v11/scene5.rpy:787
+translate russian v11_nightclub_with_josh_67987604:
+
+    # dennis "Oh... uh... I've been blowing up your phone and I even drove by your place!"
+    dennis "О... эм... Я разрывал твой телефон и даже проезжал мимо твоего дома!"
+
+# game/v11/scene5.rpy:792
+translate russian v11_nightclub_with_josh_5b89768e:
+
+    # candy "Obviously I've been with my cousin. I'll call you tomorrow."
+    candy "Очевидно, я была со своим двоюродным братом. Я позвоню тебе завтра."
+
+# game/v11/scene5.rpy:797
+translate russian v11_nightclub_with_josh_104440d0:
+
+    # u "See ya."
+    u "Увидимся."
+
+# game/v11/scene5.rpy:807
+translate russian v11_nightclub_with_josh_0b1dc78e:
+
+    # candy "*Laughs* Nice save."
+    candy "*Смеется* Хороший сейв."
+

@@ -222,3 +222,41 @@ translate russian test_frat_selection_0fc7cf7e:
     # u "I had to decide who to pursue."
     u "Мне нужно было решить, кого преследовать."
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/recap/recap01.rpy:20
+translate russian recap_start_544b7160:
+
+    # "I still remember my first day at San Vallejo College."
+    "Я до сих пор помню свой первый день в колледже Сан-Вальехо."
+
+# game/recap/recap01.rpy:25
+translate russian recap_start_f819199c:
+
+    # "Young and naive, I had no idea how my life was about to change."
+    "Молодой и наивный, я понятия не имел, как изменится моя жизнь."
+
+# game/recap/recap01.rpy:30
+translate russian recap_start_d02b745d:
+
+    # "All the girls..."
+    "Все эти девушки..."
+
+# game/recap/recap01.rpy:35
+translate russian recap_start_011e1edd:
+
+    # "the parties... "
+    "вечеринки... "
+
+# game/recap/recap01.rpy:40
+translate russian recap_start_d392fea5:
+
+    # "the fights... "
+    "поединки... "
+
+# game/recap/recap01.rpy:49
+translate russian recap_start_de5f87ed:
+
+    # "All of the sudden, I could be whoever I wanted to be..."
+    "Внезапно я смог стать тем, кем хотел быть..."
+

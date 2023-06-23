@@ -131,3 +131,41 @@ translate russian strings:
     new "Правда? Спасибо xx"
     old "On my way"
     new "В пути"
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v10/scene10.rpy:64
+translate russian v10_sun_morn_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v10/scene10.rpy:93
+translate russian v10_sun_morn_f9e9813d:
+
+    # u "(I should reply to Lindsey.)"
+    u "(Я должен ответить Линдси.)"
+
+# game/v10/scene10.rpy:98
+translate russian v10_sun_morn_02d99096:
+
+    # u "(Let's make this day better than yesterday)"
+    u "(Пускай этот день будет лучше, чем вчерашний)"
+
+# game/v10/scene10.rpy:163
+translate russian v10_sun_morn_88d710ce_1:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v10/scene10.rpy:192
+translate russian v10_sun_morn_f9e9813d_1:
+
+    # u "(I should reply to Lindsey.)"
+    u "(Я должен ответить Линдси.)"
+
+# game/v10/scene10.rpy:197
+translate russian v10_sun_morn_02d99096_1:
+
+    # u "(Let's make this day better than yesterday)"
+    u "(Пускай этот день будет лучше, чем вчерашний)"
+

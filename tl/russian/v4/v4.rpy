@@ -3303,3 +3303,323 @@ translate russian strings:
     # game/v4/v4.rpy:2418
     old "Sorry, I really can't"
     new "Извини, я не могу"
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v4/v4.rpy:1033
+translate russian dv_dd_af61a800:
+
+    # u "(I should message Chloe about meeting up later.)"
+    u "(Я должен написать Хлое о встрече.)"
+
+# game/v4/v4.rpy:1038
+translate russian dv_dd_8bd166bb:
+
+    # u "(Shit, I just remembered that I still need a book for Ms. Rose's class...)"
+    u "(Чёрт, я только что вспомнил, что мне всё ещё нужна книга для класса Мисс Роуз...)"
+
+# game/v4/v4.rpy:1040
+translate russian dv_dd_d72cab90:
+
+    # u "(The library should have it.)"
+    u "(Она должна быть в библиотеке.)"
+
+# game/v4/v4.rpy:1054
+translate russian dv_dd_99651266:
+
+    # u "(\"Economics Now\"... where are you?)"
+    u "(«Экономика сегодня»... где же ты?)"
+
+# game/v4/v4.rpy:1056
+translate russian dv_dd_9823f80c:
+
+    # u "(There it is. I guess I'll sit down and get start on it.)"
+    u "(Нашёл. Пожалуй, сяду и начну заниматься.)"
+
+# game/v4/v4.rpy:1061
+translate russian dv_dd_49a45306:
+
+    # u "(Oh that's Lauren's sister Autumn...)"
+    u "(О, это сестра Лорен Отем...)"
+
+# game/v4/v4.rpy:1066
+translate russian dv_dd_505428d0:
+
+    # u "(Hopefully Lauren didn't tell her about what happened...)"
+    u "(Надеюсь, Лорен не рассказала ей о случившемся...)"
+
+# game/v4/v4.rpy:1071
+translate russian dv_dd_42ce5b24:
+
+    # u "Uhm... hey Autumn."
+    u "Хм... привет, Отем."
+
+# game/v4/v4.rpy:1081
+translate russian dv_dd_73d4bab3:
+
+    # aut "Please leave me alone..."
+    aut "Пожалуйста, оставь меня в покое..."
+
+# game/v4/v4.rpy:1088
+translate russian dv_dd_a9677e88:
+
+    # u "I'm sorry and I can see why Lauren would be upset."
+    u "Мне очень жаль, и я понимаю, почему Лорен расстроилась."
+
+# game/v4/v4.rpy:1090
+translate russian dv_dd_59daf5a4:
+
+    # u "But... I can't change what happened, I was just trying to be honest."
+    u "Но... Я не могу изменить то, что произошло, я просто пытался быть честным."
+
+# game/v4/v4.rpy:1092
+translate russian dv_dd_8bc25f99:
+
+    # u "You have to believe me. I care about Lauren, I'd never do anything to hurt her."
+    u "Ты должна мне поверить. Я забочусь о Лорен, я никогда не сделаю ей ничего плохого."
+
+# game/v4/v4.rpy:1100
+translate russian dv_dd_3c911d4c:
+
+    # aut "Hm... I know you guys weren't serious or anything yet."
+    aut "Хм... я знаю, что у вас, ребята, еще не было всё серьезно или типо того."
+
+# game/v4/v4.rpy:1102
+translate russian dv_dd_93e43444:
+
+    # aut "But... you really hurt Lauren."
+    aut "Но... ты очень обидел Лорен."
+
+# game/v4/v4.rpy:1107
+translate russian dv_dd_a7167818:
+
+    # u "I know and I'm really sorry. It won't happen again, I promise."
+    u "Я знаю, и мне очень жаль. Это больше не повторится, я обещаю."
+
+# game/v4/v4.rpy:1112
+translate russian dv_dd_7aae18fa:
+
+    # aut "I believe you. At least you were honest about it and I don't think many guys would be."
+    aut "Я тебе верю. По крайней мере, ты был честен в этом, а я не думаю, что многие парни так смогли."
+
+# game/v4/v4.rpy:1114
+translate russian dv_dd_a3e3618e:
+
+    # aut "I'll talk to Lauren about it."
+    aut "Я поговорю об этом с Лорен."
+
+# game/v4/v4.rpy:1119
+translate russian dv_dd_d11ab6e4:
+
+    # u "Thank you. Does that mean I can keep sitting here?"
+    u "Спасибо. Значит ли это, что я могу продолжать сидеть здесь?"
+
+# game/v4/v4.rpy:1124
+translate russian dv_dd_337ce757:
+
+    # aut "Yeah, I guess."
+    aut "Да, думаю."
+
+# game/v4/v4.rpy:1133
+translate russian dv_dd_e865d20c:
+
+    # au "Right. Well actions speak louder than words, [name]."
+    au "Ага. Действия говорят громче слов, [name]."
+
+# game/v4/v4.rpy:1135
+translate russian dv_dd_fd78a9c5:
+
+    # au "Now please leave me alone."
+    au "А теперь, пожалуйста, оставь меня в покое."
+
+# game/v4/v4.rpy:1140
+translate russian dv_dd_3a538381:
+
+    # u "Fine. I'll sit somewhere else."
+    u "Ладно. Сяду где-нибудь еще."
+
+# game/v4/v4.rpy:1153
+translate russian dv_dd_505428d0_1:
+
+    # u "(Hopefully Lauren didn't tell her about what happened...)"
+    u "(Надеюсь, Лорен не рассказала ей о случившемся...)"
+
+# game/v4/v4.rpy:1158
+translate russian dv_dd_42ce5b24_1:
+
+    # u "Uhm... hey Autumn."
+    u "Хм... привет, Отем."
+
+# game/v4/v4.rpy:1167
+translate russian dv_dd_a33f90ea:
+
+    # aut "Go away, creep."
+    aut "Убирайся, подонок."
+
+# game/v4/v4.rpy:1174
+translate russian dv_dd_42928bfa:
+
+    # u "I'm sorry and I understand why Lauren is upset."
+    u "Мне очень жаль, и я понимаю, почему Лорен расстроилась."
+
+# game/v4/v4.rpy:1176
+translate russian dv_dd_82ef0373:
+
+    # u "I just got carried away in the moment... I never meant to make her uncomfortable."
+    u "Я просто увлёкся в тот момент... Я никогда не хотел ставить ее в неловкое положение."
+
+# game/v4/v4.rpy:1178
+translate russian dv_dd_8bc25f99_1:
+
+    # u "You have to believe me. I care about Lauren, I'd never do anything to hurt her."
+    u "Ты должна мне поверить. Я забочусь о Лорен, я никогда не сделаю ей ничего плохого."
+
+# game/v4/v4.rpy:1188
+translate russian dv_dd_3e6b49b9:
+
+    # aut "[name]... I don't know."
+    aut "[name]... Я не знаю."
+
+# game/v4/v4.rpy:1190
+translate russian dv_dd_683cd2be:
+
+    # aut "What you did was really messed up... you should have stopped when she told you to."
+    aut "То, что ты сделал, это слишком... ты должен был остановиться, когда она сказала тебе."
+
+# game/v4/v4.rpy:1195
+translate russian dv_dd_0c87bd9b:
+
+    # u "I know and I'm really sorry. I'll never do anything like that again, I promise."
+    u "Я знаю, и мне очень жаль. Это больше не повторится, я обещаю."
+
+# game/v4/v4.rpy:1200
+translate russian dv_dd_e0e1e82f:
+
+    # aut "Hmmm... I mean I can understand that stuff like this can happen. It's just..."
+    aut "Хммм... Я понимаю, что такое может случиться. Это просто..."
+
+# game/v4/v4.rpy:1202
+translate russian dv_dd_d4c69cbb:
+
+    # aut "You know what? I'll talk to Lauren about it."
+    aut "Знаешь что? Я поговорю об этом с Лорен."
+
+# game/v4/v4.rpy:1207
+translate russian dv_dd_d11ab6e4_1:
+
+    # u "Thank you. Does that mean I can keep sitting here?"
+    u "Спасибо. Значит ли это, что я могу продолжать сидеть здесь?"
+
+# game/v4/v4.rpy:1212
+translate russian dv_dd_2ca338bb:
+
+    # aut "Yeah, alright."
+    aut "Да, хорошо."
+
+# game/v4/v4.rpy:1222
+translate russian dv_dd_2dae989f:
+
+    # aut "Right. Well actions speak louder than words, [name]."
+    aut "Ага. Действия говорят громче слов, [name]."
+
+# game/v4/v4.rpy:1224
+translate russian dv_dd_ca1a06a6:
+
+    # aut "Now please leave me alone."
+    aut "А теперь, пожалуйста, оставь меня в покое."
+
+# game/v4/v4.rpy:1229
+translate russian dv_dd_3a538381_1:
+
+    # u "Fine. I'll sit somewhere else."
+    u "Ладно. Сяду где-нибудь еще."
+
+# game/v4/v4.rpy:1243
+translate russian dv_dd_42ce5b24_2:
+
+    # u "Uhm... hey Autumn."
+    u "Хм... привет, Отем."
+
+# game/v4/v4.rpy:1253
+translate russian dv_dd_833ebfe4:
+
+    # aut "Hey, [name]. Haven't seen you in a while."
+    aut "Привет, [name]. Давно тебя не видела."
+
+# game/v4/v4.rpy:1258
+translate russian dv_dd_c0366a58:
+
+    # u "You mean since you rescued me from Cameron?"
+    u "Ты имеешь в виду с тех пор, как спасла меня от Кэмерона?."
+
+# game/v4/v4.rpy:1263
+translate russian dv_dd_991b0d48:
+
+    # aut "Well, I wasn't gonna put it like that."
+    aut "Ну, я не собиралась так выражаться."
+
+# game/v4/v4.rpy:1268
+translate russian dv_dd_56eac2c1:
+
+    # u "Haha it's okay, I'm still grateful. Do you mind if I sit down?"
+    u "Хаха, всё в порядке, я всё еще благодарен. Не возражаешь, если я присяду?"
+
+# game/v4/v4.rpy:1273
+translate russian dv_dd_69f80e4d:
+
+    # aut "Not at all."
+    aut "Конечно, нет."
+
+# game/v4/v4.rpy:1282
+translate russian dv_dd_42ce5b24_3:
+
+    # u "Uhm... hey Autumn."
+    u "Хм... привет, Отем."
+
+# game/v4/v4.rpy:1292
+translate russian dv_dd_7d3309ee:
+
+    # aut "Hey, [name]. I heard you went on a date with my sister last night."
+    aut "Привет, [name]. Я слышала, что вчера вечером ты ходил на свидание с моей сестрой."
+
+# game/v4/v4.rpy:1294
+translate russian dv_dd_9f497fcc:
+
+    # aut "How was it?"
+    aut "И как прошло?"
+
+# game/v4/v4.rpy:1299
+translate russian dv_dd_93fbfeff:
+
+    # u "Yeah, it was good. We had a lot of fun."
+    u "Да, это было здорово. Мы отлично провели время."
+
+# game/v4/v4.rpy:1301
+translate russian dv_dd_92b0d7cb:
+
+    # u "Do you mind if I sit down?"
+    u "Не возражаешь, если я присяду?"
+
+# game/v4/v4.rpy:1306
+translate russian dv_dd_69f80e4d_1:
+
+    # aut "Not at all."
+    aut "Конечно, нет."
+
+# game/v4/v4.rpy:2179
+translate russian continueab_e80c8a11:
+
+    # u "(I should probably reply to my messages.)"
+    u "(Вероятно, мне следует ответить на мои сообщения.)"
+
+# game/v4/v4.rpy:2182
+translate russian continueab_e11dc486:
+
+    # u "(Fucking hell, I forgot how persistent Josh could be...)"
+    u "(Чёрт возьми, я и забыл, каким настойчивым может быть Джош...)"
+
+# game/v4/v4.rpy:2186
+translate russian continueab_fc1c9a82:
+
+    # u "(Okay, I need to make sure that I don't forget about meeting Chloe.)"
+    u "(Ладно, надо бы не забыть о встрече с Хлоей.)"
+

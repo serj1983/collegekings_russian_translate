@@ -5433,3 +5433,95 @@ translate russian v1_phoneCheck1_27ecbc47:
 
     # u "(I should reply to Lauren.)"
     u "(Я должен ответить Лорен.)"
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v1/v1.rpy:1478
+translate russian phonef_27ecbc47:
+
+    # u "(I should reply to Lauren.)"
+    u "(Я должен ответить Лорен.)"
+
+# game/v1/v1.rpy:1483
+translate russian phonef_56d07b96:
+
+    # imre "Did you ask?"
+    imre "Ты спрашивал?"
+
+# game/v1/v1.rpy:1485
+translate russian phonef_53bc7277:
+
+    # u "Oops I forgot."
+    u "Ой, я забыл."
+
+# game/v1/v1.rpy:1492
+translate russian phonef_f4c6b87b:
+
+    # u "(I should reply to Julia as well, by the way.)"
+    u "(Кстати, я должен ответить и Джулии.)"
+
+# game/v1/v1.rpy:1497
+translate russian phonef_724c271c:
+
+    # u "Okay man, I did it."
+    u "Ладно, чел, я это сделал."
+
+# game/v1/v1.rpy:1502
+translate russian phonef_10eaa655:
+
+    # imre "Awesome! Get ready for a wild night, my man."
+    imre "Потрясающе! Готовься к бурной ночи, дружище."
+
+# game/v1/v1.rpy:3025
+translate russian backtophone_d39e8c73:
+
+    # u "(I should really check who texted me.)"
+    u "(Я реально должен проверить, кто мне написал.)"
+
+# game/v1/v1.rpy:3032
+translate russian backtophone_d30c9f28:
+
+    # u "Actually dude, I can't make tonight. I'm going to the Apes' rush party with my friend."
+    u "Вообще, чувак, я занят вечером. Я иду на вечеринку к Приматам с моим другом."
+
+# game/v1/v1.rpy:3037
+translate russian backtophone_bc926aec:
+
+    # imre "Man, fuck the Apes! What do you want there anyways?!"
+    imre "Братан, нахуй Приматов! И вообще, что тебе там нужно?!"
+
+# game/v1/v1.rpy:3042
+translate russian backtophone_64306eee:
+
+    # u "Look, I know you don't like them, but I told my friend I'd go with him."
+    u "Слушай, я знаю, что они тебе не нравятся, но я уже пообещал своему другу, что пойду с ним."
+
+# game/v1/v1.rpy:3047
+translate russian backtophone_3727240f:
+
+    # imre "Whatever dude, do what the fuck you want. I'm outta here."
+    imre "Делай, что хочешь. Я ухожу отсюда."
+
+# game/v1/v1.rpy:3052
+translate russian backtophone_419f236c:
+
+    # u "(Great... now I've fucked up two friendships today.)"
+    u "(Замечательно... теперь я проебал уже двух друзей сегодня.)"
+
+# game/v1/v1.rpy:4131
+translate russian be_bd_90886648:
+
+    # cl "One time a guy stole my underwear and somehow the Dean found out about it."
+    cl "Однажды парень украл мои трусики, и каким-то образом декан узнал об этом."
+
+# game/v1/v1.rpy:4139
+translate russian be_bd_362c375c:
+
+    # cl "Both of us then had to come to his office, so that the guy could apologize and give me my panties back right in front of the Dean."
+    cl "Затем нам обоим пришлось прийти в его кабинет, чтобы парень извинился и вернул мне трусики прямо перед деканом."
+
+# game/v1/v1.rpy:4160
+translate russian be_bd_a880f70a:
+
+    # u "Hahaha, sounds like the Dean was into you."
+    u "Хахаха, похоже, что ты понравилась декану."
+

@@ -649,3 +649,59 @@ translate russian strings:
     new "Встретимся там :)"
     old "Okay, I'll be there soon."
     new "Хорошо, я скоро буду."
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v12/scene14.rpy:595
+translate russian v12_chloe_cafe_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v12/scene14.rpy:600
+translate russian v12_chloe_cafe_dd8163f7:
+
+    # u "(This isn't that far.)"
+    u "(Это не так далеко.)"
+
+# game/v12/scene14.rpy:605
+translate russian v12_chloe_cafe_c8c111d2:
+
+    # u "Well, looks like I'm meeting Riley for our Mr. Lee hunt."
+    u "Что ж, похоже, я встречаюсь с Райли для нашей охоты на мистера Ли."
+
+# game/v12/scene14.rpy:610
+translate russian v12_chloe_cafe_14ebeeb5:
+
+    # cl "A Mr. Lee... hunt? What is that?"
+    cl "Мистер Ли... охота? Что это?"
+
+# game/v12/scene14.rpy:615
+translate russian v12_chloe_cafe_2cb03bb3:
+
+    # u "Some little treasure hunt he has us doing for him while we're in Europe."
+    u "Какой-то поиск сокровищ, который он поручил нам сделать для него, пока мы находимся в Европе."
+
+# game/v12/scene14.rpy:620
+translate russian v12_chloe_cafe_80c64b26:
+
+    # cl "*Laughs*"
+    cl "*Смеётся*"
+
+# game/v12/scene14.rpy:625
+translate russian v12_chloe_cafe_ef2f1671:
+
+    # u "What?"
+    u "Что?"
+
+# game/v12/scene14.rpy:630
+translate russian v12_chloe_cafe_30f2a16b:
+
+    # cl "Nothing, nothing... Enjoy. I'll catch you later."
+    cl "Ничего, ничего... Наслаждайся. Я догоню тебя позже."
+
+# game/v12/scene14.rpy:635
+translate russian v12_chloe_cafe_b302c71a:
+
+    # u "Alright, catch you later."
+    u "Ладно, увидимся позже."
+

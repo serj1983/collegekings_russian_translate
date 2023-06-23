@@ -330,3 +330,17 @@ translate russian strings:
     new "Привет, хочешь потусоваться? У меня есть немного свободного времени между учебными занятиями."
     old "Sure, on my way"
     new "Конечно, уже иду"
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v10/scene23.rpy:292
+translate russian v10_aft_walk_home_27ecbc47:
+
+    # u "(I should reply to Lauren.)"
+    u "(Я должен ответить Лорен.)"
+
+# game/v10/scene23.rpy:297
+translate russian v10_aft_walk_home_aeb4c1c4:
+
+    # u "(Guess I'm not going home.)"
+    u "(Похоже, я не пойду домой.)"
+

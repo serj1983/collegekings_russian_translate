@@ -168,3 +168,17 @@ translate russian strings:
     old "Man, I'd really love to but..."
     new "Я бы очень хотел, но..."
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v9/scene32.rpy:169
+translate russian v9_sat_skip_gym_d172984c:
+
+    # u "(I should reply to Riley.)"
+    u "(Я должен ответить Райли.)"
+
+translate russian strings:
+
+    # game/v9/scene32.rpy:160
+    old "Duh, that's why I'm asking ;)"
+    new "Вот поэтому я и спрашиваю ;)"
+

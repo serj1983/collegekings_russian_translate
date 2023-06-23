@@ -965,3 +965,15 @@ translate russian strings:
     old "Don't get her flowers"
     new "Не дари ей цветов"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+translate russian strings:
+
+    # game/v12/scene32.rpy:781
+    old "Thanks for the invite! It was really nice to meet you..."
+    new "Спасибо за приглашение! Было приятно с вами познакомиться..."
+
+    # game/v12/scene32.rpy:781
+    old "Had an amazing time today... Thank you, gorgeous!"
+    new "Сегодня я замечательно провёл время... Спасибо тебе, красавица!"
+

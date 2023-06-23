@@ -182,3 +182,155 @@ translate russian strings:
     old "Hold on, I'll be right over"
     new "Подожди, я сейчас приду."
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v8/scene27.rpy:23
+translate russian mon_eve_room_josh_747f298b:
+
+    # u "I should really check my phone."
+    u "Мне нужно проверить телефон."
+
+# game/v8/scene27.rpy:33
+translate russian mon_eve_room_josh_4e68a090:
+
+    # u "(Fuck, I have a bad feeling about this.)"
+    u "(Чёрт, у меня плохое предчувствие.)"
+
+# game/v8/scene27.rpy:43
+translate russian mon_eve_room_josh_81469270:
+
+    # u "(Ahh there's Josh.)"
+    u "(А вот и Джош.)"
+
+# game/v8/scene27.rpy:48
+translate russian mon_eve_room_josh_2f101193:
+
+    # jo "Hey, bro! You ready for this?"
+    jo "Эй, бро! Ты готов к делу?"
+
+# game/v8/scene27.rpy:53
+translate russian mon_eve_room_josh_68ec9d52:
+
+    # u "I guess so. Let's go."
+    u "Думаю, да. Пошли."
+
+# game/v8/scene27.rpy:58
+translate russian mon_eve_room_josh_3273f15b:
+
+    # jo "This is gonna be so dope! 1000 bucks! I can do so much with that kind of money, haha."
+    jo "Это будет так круто! 1000 баксов! Я могу сделать так много с этими деньгами, хаха."
+
+# game/v8/scene27.rpy:63
+translate russian mon_eve_room_josh_48b292c7:
+
+    # u "Yeah, I'm sure you can."
+    u "Да, не сомневаюсь."
+
+# game/v8/scene27.rpy:68
+translate russian mon_eve_room_josh_c20954a6:
+
+    # jo "You don't seem too stoked, man. Something wrong?"
+    jo "Ты не выглядишь слишком радостным, чувак. Что-то не так?"
+
+# game/v8/scene27.rpy:73
+translate russian mon_eve_room_josh_f1b11659:
+
+    # u "Not really. I just feel like we shouldn't be doing this, is all."
+    u "Не совсем. Я просто чувствую, что мы не должны этого делать, вот и всё."
+
+# game/v8/scene27.rpy:78
+translate russian mon_eve_room_josh_8909d919:
+
+    # jo "Hahaha! You worry too much, bro. Relax! We got this."
+    jo "Хахаха! Ты слишком много волнуешься, бро. Расслабься! Мы справимся."
+
+# game/v8/scene27.rpy:96
+translate russian mon_eve_room_josh_747f298b_1:
+
+    # u "I should really check my phone."
+    u "Мне нужно проверить телефон."
+
+# game/v8/scene27.rpy:101
+translate russian mon_eve_room_josh_df5f1e3a:
+
+    # u "(Shit, I hope Josh is alright)"
+    u "(Дерьмо, надеюсь, с Джошем всё нормально.)"
+
+# game/v8/scene27.rpy:117
+translate russian mon_eve_room_josh_e77881ab_1:
+
+    # u "(Let's see who this is.)"
+    u "(Посмотрим, кто это.)"
+
+# game/v8/scene27.rpy:126
+translate russian mon_eve_room_josh_747f298b_2:
+
+    # u "I should really check my phone."
+    u "Мне нужно проверить телефон."
+
+# game/v8/scene27.rpy:136
+translate russian mon_eve_room_josh_4e68a090_1:
+
+    # u "(Fuck, I have a bad feeling about this.)"
+    u "(Чёрт, у меня плохое предчувствие.)"
+
+# game/v8/scene27.rpy:146
+translate russian mon_eve_room_josh_81469270_1:
+
+    # u "(Ahh there's Josh.)"
+    u "(А вот и Джош.)"
+
+# game/v8/scene27.rpy:151
+translate russian mon_eve_room_josh_2f101193_1:
+
+    # jo "Hey, bro! You ready for this?"
+    jo "Эй, бро! Ты готов к делу?"
+
+# game/v8/scene27.rpy:156
+translate russian mon_eve_room_josh_68ec9d52_1:
+
+    # u "I guess so. Let's go."
+    u "Думаю, да. Пошли."
+
+# game/v8/scene27.rpy:161
+translate russian mon_eve_room_josh_3273f15b_1:
+
+    # jo "This is gonna be so dope! 1000 bucks! I can do so much with that kind of money, haha."
+    jo "Это будет так круто! 1000 баксов! Я могу сделать так много с этими деньгами, хаха."
+
+# game/v8/scene27.rpy:166
+translate russian mon_eve_room_josh_48b292c7_1:
+
+    # u "Yeah, I'm sure you can."
+    u "Да, не сомневаюсь."
+
+# game/v8/scene27.rpy:171
+translate russian mon_eve_room_josh_c20954a6_1:
+
+    # jo "You don't seem too stoked, man. Something wrong?"
+    jo "Ты не выглядишь слишком радостным, чувак. Что-то не так?"
+
+# game/v8/scene27.rpy:176
+translate russian mon_eve_room_josh_f1b11659_1:
+
+    # u "Not really. I just feel like we shouldn't be doing this, is all."
+    u "Не совсем. Я просто чувствую, что мы не должны этого делать, вот и всё."
+
+# game/v8/scene27.rpy:181
+translate russian mon_eve_room_josh_8909d919_1:
+
+    # jo "Hahaha! You worry too much, bro. Relax! We got this."
+    jo "Хахаха! Ты слишком много волнуешься, бро. Расслабься! Мы справимся."
+
+# game/v8/scene27.rpy:199
+translate russian mon_eve_room_josh_747f298b_3:
+
+    # u "I should really check my phone."
+    u "Мне нужно проверить телефон."
+
+# game/v8/scene27.rpy:204
+translate russian mon_eve_room_josh_df5f1e3a_1:
+
+    # u "(Shit, I hope Josh is alright)"
+    u "(Дерьмо, надеюсь, с Джошем всё нормально.)"
+
