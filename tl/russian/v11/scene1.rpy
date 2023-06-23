@@ -1433,3 +1433,17 @@ translate russian v11_case_verdict_abc39474:
 
     # u "Thank you, Mr. Lee."
     u "Спасибо вам, мистер Ли."
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v11/scene1.rpy:1095
+translate russian v11_case_verdict_4cbf4776:
+
+    # lee "Alongside that, you will be volunteering with a university research company."
+    lee "Наряду с этим вы будете работать волонтером в университетской исследовательской компании."
+
+# game/v11/scene1.rpy:1096
+translate russian v11_case_verdict_d064b1b4:
+
+    # lee "They're in great need of computer-inclined individuals such as yourself for the remainder of your time here at the college. Do you agree?"
+    lee "Они очень нуждаются в таких компьютерных специалистах, как вы, до конца вашего пребывания в колледже. Вы согласны?"
+

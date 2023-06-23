@@ -34,3 +34,29 @@ translate russian strings:
     old "Ok try to stay calm. I'll be right over."
     new "Хорошо, постарайся сохранять спокойствие. Я сейчас приеду."
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v8/scene14.rpy:32
+translate russian mc_wolves_sun_morn_a23d379a:
+
+    # u "(I should reply to her.)"
+    u "(Я должен ей ответить.)"
+
+# game/v8/scene14.rpy:34
+translate russian mc_wolves_sun_morn_094c556b:
+
+    # u "(That sounded serious. What got her all upset so sudden?)"
+    u "(Это прозвучало серьёзно. Что её так внезапно взбудоражило?)"
+
+# game/v8/scene14.rpy:62
+translate russian mc_apes_sun_morn_a23d379a:
+
+    # u "(I should reply to her.)"
+    u "(Я должен ей ответить.)"
+
+# game/v8/scene14.rpy:64
+translate russian mc_apes_sun_morn_094c556b:
+
+    # u "(That sounded serious. What got her all upset so sudden?)"
+    u "(Это прозвучало серьёзно. Что её так внезапно взбудоражило?)"
+

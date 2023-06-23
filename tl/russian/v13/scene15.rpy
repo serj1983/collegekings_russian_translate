@@ -173,3 +173,83 @@ translate russian strings:
     old "Imre needs me"
     new "Я нужен Имре"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v13/scene15.rpy:125
+translate russian v13s15_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v13/scene15.rpy:131
+translate russian v13s15_4a00991e:
+
+    # u "(A night with the baby.)"
+    u "(Ночь с малышом.)"
+
+# game/v13/scene15.rpy:137
+translate russian v13s15_7dc570e6:
+
+    # cl "Hmm? [name]?"
+    cl "Хм? [name]?"
+
+# game/v13/scene15.rpy:142
+translate russian v13s15_4ee42ef3:
+
+    # cl "Where are you going?"
+    cl "Куда ты идешь?"
+
+# game/v13/scene15.rpy:150
+translate russian v13s15_4af027e3:
+
+    # u "Oh, um... My stomach is feeling really empty, so I'm gonna go try to find something to snack on..."
+    u "О, эм... Мой желудок чувствует себя очень пустым, так что я пойду найду что перекусить..."
+
+# game/v13/scene15.rpy:155
+translate russian v13s15_acce47fa:
+
+    # cl "But... It's the middle of the night... I don't know if-"
+    cl "Но... Сейчас середина ночи... Я не знаю..."
+
+# game/v13/scene15.rpy:160
+translate russian v13s15_b95179e8:
+
+    # u "No worries, I saw a vending machine earlier."
+    u "Не беспокойтесь, я уже видел торговый автомат."
+
+# game/v13/scene15.rpy:165
+translate russian v13s15_5821713f:
+
+    # cl "Oh, I- Okay..."
+    cl "О... Ладно..."
+
+# game/v13/scene15.rpy:171
+translate russian v13s15_2368dc17:
+
+    # u "Oh, um... Imre needs me for something, so I'm gonna go see what's up."
+    u "О, эм... Я нужен Имре для чего-то, так что я пойду посмотрю, в чем дело."
+
+# game/v13/scene15.rpy:176
+translate russian v13s15_e7caa1cd:
+
+    # cl "Don't be long, okay?"
+    cl "Не задерживайся, хорошо?"
+
+# game/v13/scene15.rpy:181
+translate russian v13s15_4b8d879c:
+
+    # u "I'll try not to, but who knows with Imre."
+    u "Постараюсь, но кто знает этого Имре."
+
+# game/v13/scene15.rpy:186
+translate russian v13s15_14700b49:
+
+    # cl "*Sighs* Okay."
+    cl "*Вздох* Хорошо."
+
+# game/v13/scene15.rpy:191
+translate russian v13s15_359d3734:
+
+    # u "(What she doesn't know won't hurt her.)"
+    u "(То, чего она не знает, не причинит ей вреда.)"
+

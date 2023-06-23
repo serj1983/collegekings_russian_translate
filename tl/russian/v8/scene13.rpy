@@ -672,3 +672,17 @@ translate russian strings:
     old "Press it"
     new "Надавить"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v8/scene13.rpy:62
+translate russian after_apes_ceremony_3faef724:
+
+    # u "(I should probably reply.)"
+    u "(Я, наверное, должен ответить.)"
+
+# game/v8/scene13.rpy:64
+translate russian after_apes_ceremony_07f76765:
+
+    # u "(Gotta get going.)"
+    u "(Надо идти.)"
+

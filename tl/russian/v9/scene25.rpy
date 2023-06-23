@@ -98,3 +98,59 @@ translate russian strings:
     old "Sure!"
     new "Конечно!"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v9/scene25.rpy:36
+translate russian v9_room_fri_eve_8e7cf5c5:
+
+    # u "(I should text Lauren.)"
+    u "(Я должен написать Лорен.)"
+
+# game/v9/scene25.rpy:43
+translate russian v9_room_fri_eve_4830ad53:
+
+    # "*Knock* *knock*"
+    "*Тук* *тук*"
+
+# game/v9/scene25.rpy:45
+translate russian v9_room_fri_eve_477524e5:
+
+    # u "Come in!"
+    u "Входите!"
+
+# game/v9/scene25.rpy:53
+translate russian v9_room_fri_eve_303d2d04_1:
+
+    # u "(I wonder how much Mr. Lee expects us to remember from everyone else's Viking scenes. I was too busy looking at the costumes to pay attention.)"
+    u "(Интересно, как много мистер Ли ожидает, что мы запомним из сцен Викингов остальных? Я был слишком занят разглядыванием костюмов, чтобы обращать на них внимание.)"
+
+# game/v9/scene25.rpy:60
+translate russian v9_room_fri_eve_5ef4f2a2_1:
+
+    # u "(I'm so bored.)"
+    u "(Мне так скучно.)"
+
+# game/v9/scene25.rpy:66
+translate russian v9_room_fri_eve_e5648356_1:
+
+    # u "(Wonder how Lauren's doing with the Deers charity.)"
+    u "(Интересно, как Лорен справляется с благотворительностью Ланей.)"
+
+# game/v9/scene25.rpy:78
+translate russian v9_room_fri_eve_8e7cf5c5_1:
+
+    # u "(I should text Lauren.)"
+    u "(Я должен написать Лорен.)"
+
+# game/v9/scene25.rpy:85
+translate russian v9_room_fri_eve_4830ad53_1:
+
+    # "*Knock* *knock*"
+    "*Тук* *тук*"
+
+# game/v9/scene25.rpy:87
+translate russian v9_room_fri_eve_477524e5_1:
+
+    # u "Come in!"
+    u "Входите!"
+

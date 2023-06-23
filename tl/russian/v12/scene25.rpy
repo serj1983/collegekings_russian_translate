@@ -587,3 +587,17 @@ translate russian v12_jc_chloe_b68d058c:
     # ju "Chloe is the we one got the volleyball at the shopping for, right?"
     ju "Это Хлоя получила волейбольный мяч в магазине, верно?"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v12/scene25.rpy:188
+translate russian v12_jc_chloe_7d80394e:
+
+    # u "I guess Chloe, her and I have gotten a lot closer."
+    u "Думаю, Хлоя, мы с ней стали намного ближе. Мы даже вместе тестировали роскошный автомобиль."
+
+# game/v12/scene25.rpy:191
+translate russian v12_jc_chloe_c044c49a:
+
+    # u "We even test drove a luxury car together."
+    u "Думаю, Хлоя, мы с ней стали намного ближе. Мы даже вместе тестировали роскошный автомобиль."
+

@@ -265,3 +265,179 @@ translate russian strings:
     old "Go to sleep"
     new "Ложится спать"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v13/scene15a.rpy:107
+translate russian v13s15a_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v13/scene15a.rpy:113
+translate russian v13s15a_b57b8cc5:
+
+    # u "Something just came up, I gotta dip. Later."
+    u "Только что кое-что всплыло, мне нужно идти. Буду позже."
+
+# game/v13/scene15a.rpy:118
+translate russian v13s15a_7d625c45:
+
+    # ri "Wait! [name]!"
+    ri "Подожди! [name]!"
+
+# game/v13/scene15a.rpy:123
+translate russian v13s15a_6bcd435f:
+
+    # u "Yeah?"
+    u "Да?"
+
+# game/v13/scene15a.rpy:131
+translate russian v13s15a_2b242ec7:
+
+    # ri "I know this is gonna be... blunt..."
+    ri "Я знаю, это будет... прямо..."
+
+# game/v13/scene15a.rpy:136
+translate russian v13s15a_723268bc:
+
+    # ri "But, I was hoping I could pay you back tonight..."
+    ri "Но я надеялась, что смогу отплатить тебе сегодня..."
+
+# game/v13/scene15a.rpy:141
+translate russian v13s15a_f1c6d628:
+
+    # u "How so?"
+    u "Как это?"
+
+# game/v13/scene15a.rpy:146
+translate russian v13s15a_472ed21b:
+
+    # ri "I was hoping you'd come over here..."
+    ri "Я надеялась, что ты придешь сюда..."
+
+# game/v13/scene15a.rpy:151
+translate russian v13s15a_e68428ab:
+
+    # ri "Find out."
+    ri "Выяснить."
+
+# game/v13/scene15a.rpy:156
+translate russian v13s15a_fdbce207:
+
+    # u "Oh..."
+    u "Ох..."
+
+# game/v13/scene15a.rpy:161
+translate russian v13s15a_2cdd2982:
+
+    # ri "So, gonna let me make it up to you?"
+    ri "Так что, позволишь мне загладить свою вину перед тобой?"
+
+# game/v13/scene15a.rpy:169
+translate russian v13s15a_ecfd30d1:
+
+    # u "Is that even a question?"
+    u "Это вообщем вопрос?"
+
+# game/v13/scene15a.rpy:196
+translate russian v13s15a_26660f1f:
+
+    # u "Very flattering, Riley. I mean... Very... Very flattering..."
+    u "Очень лестно, Райли. Я имею в виду... Очень... Очень лестно..."
+
+# game/v13/scene15a.rpy:201
+translate russian v13s15a_bdbe7816:
+
+    # u "But, I really do need to run... And as I said before, no need to pay me back. All is forgiven."
+    u "Но мне правда нужно бежать... И, как я уже говорил, не нужно мне платить. Все прощено."
+
+# game/v13/scene15a.rpy:206
+translate russian v13s15a_cbb9584e:
+
+    # ri "Alrighty, then... I'll stop feeling guilty."
+    ri "Хорошо, тогда... Я перестану чувствовать себя виноватой."
+
+# game/v13/scene15a.rpy:211
+translate russian v13s15a_eb0d8669:
+
+    # u "Good, have a good night, Riley."
+    u "Хорошо, спокойной ночи, Райли."
+
+# game/v13/scene15a.rpy:216
+translate russian v13s15a_257750e9:
+
+    # ri "You too."
+    ri "Тебе тоже."
+
+# game/v13/scene15a.rpy:231
+translate russian v13s15a_9a8bf7c0:
+
+    # ri "[name]?"
+    ri "[name]?"
+
+# game/v13/scene15a.rpy:236
+translate russian v13s15a_6bcd435f_1:
+
+    # u "Yeah?"
+    u "Да?"
+
+# game/v13/scene15a.rpy:241
+translate russian v13s15a_0d726634:
+
+    # ri "I know this is gonna be blunt, but I was hoping I could pay you back tonight."
+    ri "Я знаю, что это будет прямолинейно, но я надеялась, что смогу отплатить тебе сегодня."
+
+# game/v13/scene15a.rpy:246
+translate russian v13s15a_f1c6d628_1:
+
+    # u "How so?"
+    u "Как это?"
+
+# game/v13/scene15a.rpy:254
+translate russian v13s15a_d946312b:
+
+    # ri "I was hoping you'd come over here and fuck me."
+    ri "Я надеялась, что ты придешь сюда и трахнешь меня."
+
+# game/v13/scene15a.rpy:259
+translate russian v13s15a_fdbce207_1:
+
+    # u "Oh..."
+    u "Ох..."
+
+# game/v13/scene15a.rpy:264
+translate russian v13s15a_2cdd2982_1:
+
+    # ri "So, gonna let me make it up to you?"
+    ri "Так ты позволишь мне загладить свою вину?"
+
+# game/v13/scene15a.rpy:271
+translate russian v13s15a_ecfd30d1_1:
+
+    # u "Is that even a question?"
+    u "Это вообще вопрос?"
+
+# game/v13/scene15a.rpy:296
+translate russian v13s15a_875d3dd4:
+
+    # u "Very flattering, I mean very very flattering. But as I said before, no need to pay me back. All is forgiven and I don't want you doing that as a payback."
+    u "Очень лестно, я имею в виду, очень очень лестно. Но, как я уже говорил, не нужно платить мне взаимностью. Всё прощено, и я не хочу, чтобы ты делала это в качестве расплаты."
+
+# game/v13/scene15a.rpy:301
+translate russian v13s15a_66636536:
+
+    # ri "Alrighty, I'll stop feeling guilty."
+    ri "Хорошо, тогда я перестану чувствовать себя виноватой."
+
+# game/v13/scene15a.rpy:306
+translate russian v13s15a_eb0d8669_1:
+
+    # u "Good, have a good night, Riley."
+    u "Хорошо, спокойной ночи, Райли."
+
+# game/v13/scene15a.rpy:311
+translate russian v13s15a_257750e9_1:
+
+    # ri "You too."
+    ri "Тебе тоже."
+

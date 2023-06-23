@@ -334,3 +334,41 @@ translate russian strings:
     old "I think so, actually. You and Cameron really helped"
     new "Думаю, да. Ты и Кэмероном действительно помогли"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v9/scene02.rpy:257
+translate russian v9_start_apes_a539245b:
+
+    # u "(I should talk to Ryan.)"
+    u "(Я должен поговорить с Райном.)"
+
+# game/v9/scene02.rpy:261
+translate russian v9_start_apes_cfe1d3a5:
+
+    # u "(Freshman Brawl... sounds intense.)"
+    u "(Бои с первокурсниками... звучит сильно.)"
+
+# game/v9/scene02.rpy:264
+translate russian v9_start_apes_2c4978a8:
+
+    # u "(I think I got this.)"
+    u "(Кажется, я понял.)"
+
+# game/v9/scene02.rpy:267
+translate russian v9_start_apes_95db1cff:
+
+    # u "(I'm gonna get my ass kicked. I need to train hard the next few days.)"
+    u "(Мне надерут задницу. Мне нужно усердно тренироваться в следующие несколько дней.)"
+
+# game/v9/scene02.rpy:269
+translate russian v9_start_apes_dd898dd5:
+
+    # u "(Why is it so soon though? This Saturday?!)"
+    u "(Почему так неожиданно? В эту субботу?!)"
+
+# game/v9/scene02.rpy:270
+translate russian v9_start_apes_1cc97670:
+
+    # u "*Sigh* (I gotta sleep.)"
+    u "*Вздох* (Мне нужно поспать.)"
+

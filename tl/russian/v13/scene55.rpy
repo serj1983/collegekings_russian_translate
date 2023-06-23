@@ -221,3 +221,23 @@ translate russian strings:
     old "Sure man."
     new "Конечно, мужик."
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v13/scene55.rpy:186
+translate russian v13s55_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v13/scene55.rpy:188
+translate russian v13s55_fe547025:
+
+    # u "(Poor guy...)"
+    u "(Бедный парень...)"
+
+# game/v13/scene55.rpy:198
+translate russian v13s55_b293219d:
+
+    # u "After you. *Chuckles*"
+    u "После тебя. *Хихикает*"
+

@@ -585,3 +585,15 @@ translate russian strings:
     old "It's not your best look"
     new "Не самый лучший твой образ"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+translate russian strings:
+
+    # game/v12/scene27a.rpy:383
+    old "Holy shit... You make it way too easy, Ryan!"
+    new "Вот дерьмо... Ты все слишком упрощаешь, Райн!"
+
+    # game/v12/scene27a.rpy:384
+    old "Haha, yes! That's what you get, moron..."
+    new "Хаха, да! Вот что ты получаешь, придурок..."
+

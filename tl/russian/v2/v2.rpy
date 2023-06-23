@@ -4326,3 +4326,329 @@ translate russian strings:
     old "You look beautiful"
     new "Ты прекрасно выглядишь"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v2/v2.rpy:182
+translate russian bjj_bd_b672f3b0:
+
+    # u "(Damn, my phone's blowing up. I should probably check my messages.)"
+    u "(Чёрт, мой телефон взрывается. Наверное, мне стоит проверить сообщения.)"
+
+# game/v2/v2.rpy:186
+translate russian bjj_bd_82b726ed:
+
+    # u "(Well, time to head to the cafe to meet Lauren.)"
+    u "(Ну, пора идти в кафе, чтобы встретиться с Лорен.)"
+
+# game/v2/v2.rpy:189
+translate russian bjj_bd_b7c5def3:
+
+    # u "(There's too much on my mind to be dealing with Lauren right now.)"
+    u "(Слишком много всего, чтобы сейчас ещё и с Лорен разбираться.)"
+
+# game/v2/v2.rpy:191
+translate russian bjj_bd_1ee1e1aa:
+
+    # u "(Maybe taking a walk will relax me.)"
+    u "(Может быть, прогулка поможет мне расслабиться.)"
+
+# game/v2/v2.rpy:1044
+translate russian v1_tom_walk_away_44158285:
+
+    # u "(Fuck, I feel like shit...)"
+    u "(Чёрт, чувствую себя дерьмово...)"
+
+# game/v2/v2.rpy:1047
+translate russian v1_tom_walk_away_39872a73:
+
+    # u "(Holy shit, I just knocked someone out...)"
+    u "(Срань господня, я только что кого-то вырубил...)"
+
+# game/v2/v2.rpy:1050
+translate russian v1_tom_walk_away_2b65b4ac:
+
+    # u "(What a douchebag...)"
+    u "(Ну и придурок...)"
+
+# game/v2/v2.rpy:1052
+translate russian v1_tom_walk_away_3782e809:
+
+    # u "(Also, what am I gonna do about Lauren? I can't avoid her forever.)"
+    u "(Так, что мне делать с Лорен? Я не могу избегать ее вечно.)"
+
+# game/v2/v2.rpy:2332
+translate russian bo_bd_d647e9cd:
+
+    # u "(I should check my messages.)"
+    u "(Я должен проверить свои сообщения.)"
+
+# game/v2/v2.rpy:2338
+translate russian bo_bd_dfbd0821:
+
+    # pe "Uhm... excuse me."
+    pe "Эхм... прошу прощения."
+
+# game/v2/v2.rpy:2340
+translate russian bo_bd_029469d6:
+
+    # pe "I- I know you-"
+    pe "Я- я тебя знаю-"
+
+# game/v2/v2.rpy:2345
+translate russian bo_bd_3c4681a3:
+
+    # u "Let me guess, you saw me get punched in the face at a party."
+    u "Дай угадаю, ты видела, как меня ударили по лицу на вечеринке."
+
+# game/v2/v2.rpy:2350
+translate russian bo_bd_d9f61a43:
+
+    # pe "Uhm, no, but that would explain your swollen eye."
+    pe "Эм, нет, но это объясняет опухший глаз."
+
+# game/v2/v2.rpy:2352
+translate russian bo_bd_ebff5a89:
+
+    # pe "You're in my History 101 class."
+    pe "Ты в моём классе по Истории 101."
+
+# game/v2/v2.rpy:2357
+translate russian bo_bd_9e6d33de:
+
+    # u "With Mr. Lee?"
+    u "С Мистером Ли?"
+
+# game/v2/v2.rpy:2362
+translate russian bo_bd_3afc33fc:
+
+    # pe "Yes. What other History 101 class is there?"
+    pe "Да. Какой ещё есть класс Истории 101?"
+
+# game/v2/v2.rpy:2367
+translate russian bo_bd_01a6d297:
+
+    # u "Fair point. So... what's up? How can I help you?"
+    u "Справедливо. Так... в чём дело? Чем я могу тебе помочь?"
+
+# game/v2/v2.rpy:2372
+translate russian bo_bd_0e69188c:
+
+    # pe "Oh, well I saw you and I thought to myself \"Hey, I know this person and I should talk to him.\""
+    pe "Ну, я увидела тебя и подумала про себя: «Эй, Я знаю этого человека и должна с ним поговорить.»"
+
+# game/v2/v2.rpy:2376
+translate russian bo_bd_8046f99c:
+
+    # u "Uhm, okay so-"
+    u "Эм, окей, то есть-"
+
+# game/v2/v2.rpy:2381
+translate russian bo_bd_8b6bda4f:
+
+    # pe "And then I thought \"But what if I'm disturbing him?\" So I decided not to say anything."
+    pe "А потом я подумала: «Но что, если я ему мешаю?» Поэтому я решила ничего не говорить."
+
+# game/v2/v2.rpy:2386
+translate russian bo_bd_c40fb6f1:
+
+    # u "Well you're not-"
+    u "Ну, ты не-"
+
+# game/v2/v2.rpy:2391
+translate russian bo_bd_19c16b65:
+
+    # pe "But then I was like \"Penelope, you need to start talking to people at some point\" and then I approached you."
+    pe "Но потом я такая: «Пенелопа, тебе нужно начать разговаривать с людьми» и потом я подошла к тебе."
+
+# game/v2/v2.rpy:2396
+translate russian bo_bd_0fb938bb:
+
+    # u "Okay... I'm [name] and-"
+    u "Окей... Меня зовут [name] и-"
+
+# game/v2/v2.rpy:2401
+translate russian bo_bd_b60f3409:
+
+    # pe "Oh god, is it weird? Did I make it weird?"
+    pe "О боже, стало неловко? Я всё испортила?"
+
+# game/v2/v2.rpy:2403
+translate russian bo_bd_6483ea79:
+
+    # pe "I should leave, this was a bad idea. Good bye."
+    pe "Я долна уйти, это была плохая идея. Пока."
+
+# game/v2/v2.rpy:2413
+translate russian bo_bd_7a104825:
+
+    # u "Wait."
+    u "Постой."
+
+# game/v2/v2.rpy:2418
+translate russian bo_bd_2ebbb426:
+
+    # u "There's no need to be nervous."
+    u "Незачем так нервничать."
+
+# game/v2/v2.rpy:2420
+translate russian bo_bd_9721d31c:
+
+    # u "So your name is Penelope right?"
+    u "Тебя ведь зовут Пенелопа, верно?"
+
+# game/v2/v2.rpy:2425
+translate russian bo_bd_0e8d6143:
+
+    # pe "Yes."
+    pe "Да."
+
+# game/v2/v2.rpy:2430
+translate russian bo_bd_1b522938:
+
+    # u "So, what did you mean by \"you need to start talking to people at some point\"? Are you a freshman?"
+    u "Так что ты имела ввиду под «тебе нужно начать разговаривать с людьми»? Ты первокурсница?"
+
+# game/v2/v2.rpy:2435
+translate russian bo_bd_1b0771d1:
+
+    # pe "No, I'm a junior, but I just transferred to San Vallejo 'cause I got kicked out of my old college."
+    pe "Нет, я на втором, но только что перевелась в Сан-Вальехо, потому что меня исключили из моего старого колледжа."
+
+# game/v2/v2.rpy:2437
+translate russian bo_bd_022d738f:
+
+    # pe "And my dad paid a lot of money so I could go to my old college and now he's super mad and he said I'll have to get a job 'cause he's gonna cut my money off."
+    pe "И мой отец заплатил много денег, чтобы я могла пойти в свой старый колледж, а теперь он очень зол и сказал, что мне придется найти работу, потому что он не собирается давать мне денег."
+
+# game/v2/v2.rpy:2439
+translate russian bo_bd_5f653432:
+
+    # pe "And then I called my mom and said \"Mom, help! Dad is going crazy!\" But my mom was like \"You need to talk to him yourself.\""
+    pe "И потом я позвонила матери и сказала: «Мам, помоги! Папа спятил!» Но мама такая: «Ты должна сама с ним поговорить.»"
+
+# game/v2/v2.rpy:2441
+translate russian bo_bd_8e02afde:
+
+    # pe "I mean they don't really talk to each other since the divorce and it's like-"
+    pe "То есть, они особо не разговаривают друг с другом после развода, и это-"
+
+# game/v2/v2.rpy:2446
+translate russian bo_bd_2bec789e:
+
+    # u "Okay, calm down. You-"
+    u "Ладно, спокойно. Ты-"
+
+# game/v2/v2.rpy:2451
+translate russian bo_bd_f726c180:
+
+    # pe "Oh god, am I oversharing again? I am, aren't I?"
+    pe "О боже, опять я взболтнула лишнее? Да?"
+
+# game/v2/v2.rpy:2456
+translate russian bo_bd_2725f76b:
+
+    # u "It's all good. It's just... Why did you get kicked out of your old college?"
+    u "Всё хорошо. Просто... Почему тебя выгнали из твоего старого колледжа?"
+
+# game/v2/v2.rpy:2461
+translate russian bo_bd_f708ba5e:
+
+    # pe "Oh, I don't wanna say."
+    pe "О, я не хочу говорить."
+
+# game/v2/v2.rpy:2466
+translate russian bo_bd_76217dd0:
+
+    # u "Really? That's where you draw the line of not sharing?"
+    u "Серьёзно? Вот твоя граница откровенности?"
+
+# game/v2/v2.rpy:2471
+translate russian bo_bd_fa4f4ffe:
+
+    # pe "Sorry but... it's bad, really bad."
+    pe "Прости, но... это плохо, очень плохо."
+
+# game/v2/v2.rpy:2476
+translate russian bo_bd_5d206a5d:
+
+    # u "Come on, you can tell me."
+    u "Ну же, ты можешь мне сказать."
+
+# game/v2/v2.rpy:2481
+translate russian bo_bd_d1679705:
+
+    # pe "I'm really sorry, but I can't tell you. Please stop pressing me about it."
+    pe "Мне очень жаль, но я не могу тебе сказать. Пожалуйста, перестань давить на меня по этому поводу."
+
+# game/v2/v2.rpy:2486
+translate russian bo_bd_ae3c79d1:
+
+    # u "Ugh... alright."
+    u "Угх... ладно."
+
+# game/v2/v2.rpy:2507
+translate russian bo_bd_6ec17477:
+
+    # u "(Fuck, I totally forgot about Aubrey. I guess it's time to make a decision.)"
+    u "(Блядь, я совсем забыл об Обри. Думаю, пришло время принять решение.)"
+
+# game/v2/v2.rpy:2512
+translate russian bo_bd_234dd80d:
+
+    # u "(Aubrey's waiting for me, I need to let her know whether I'm coming or not.)"
+    u "(Обри ждёт меня, мне нужно дать ей знать, приду я или нет.)"
+
+# game/v2/v2.rpy:2515
+translate russian bo_bd_c2bcf1de:
+
+    # u "Penelope, I'm really sorry, but I have to go and meet my friend. It was nice seeing you."
+    u "Пенелопа, мне очень жаль, но я должен встретиться со своим другом. Было приятно повидаться с тобой."
+
+# game/v2/v2.rpy:2520
+translate russian bo_bd_febb5ee0:
+
+    # pe "Oh, I understand. I guess I'll see you around."
+    pe "О, я понимаю. Думаю, мы ещё увидимся."
+
+# game/v2/v2.rpy:2525
+translate russian bo_bd_6b7e7881:
+
+    # u "Yeah, definitely. See you later."
+    u "Да, определенно. Увидимся позже."
+
+# game/v2/v2.rpy:2532
+translate russian bo_bd_0f9922ed:
+
+    # u "Sorry, I just had to reply to someone."
+    u "Извини, мне нужно было кое-кому ответить."
+
+# game/v2/v2.rpy:2534
+translate russian bo_bd_5738152c:
+
+    # u "Hey, do you also need a costume for Mr. Lee's class?"
+    u "Слушай, тебе же тоже нужен костюм для занятий Мистера Ли?"
+
+# game/v2/v2.rpy:2539
+translate russian bo_bd_5810be51:
+
+    # pe "Yeah, I was just on my way to buy one."
+    pe "Да, я как раз шла в магазин, чтобы купить один."
+
+# game/v2/v2.rpy:2544
+translate russian bo_bd_b546e27b:
+
+    # u "Wanna go together? I need one as well."
+    u "Хочешь пойдём вместе? Мне тоже нужен костюм."
+
+# game/v2/v2.rpy:2549
+translate russian bo_bd_e6e8c76c:
+
+    # pe "I'd love that!"
+    pe "С удовольствием!"
+
+translate russian strings:
+
+    # game/v2/v2.rpy:278
+    old "Would you like to play the fighting tutorial?"
+    new "Хотите сыграть в обучающий бой?"
+

@@ -11826,3 +11826,785 @@ translate russian strings:
     old "At least we got to talk"
     new "Хотя бы поговорили"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v6/v6.rpy:334
+translate russian imreconc_8786d02f:
+
+    # u "(Time to text Amber.)"
+    u "(Время написать Эмбер.)"
+
+# game/v6/v6.rpy:336
+translate russian imreconc_77a2c777:
+
+    # u "(Amber is so fucking hot, I hope she sends more pictures like that in the future.)"
+    u "(Эмбер чертовски горяча, я надеюсь, что в будущем она пришлет еще больше таких фотографий.)"
+
+# game/v6/v6.rpy:338
+translate russian imreconc_6c075c02:
+
+    # u "(Although I feel like I could've just received this in the park.)"
+    u "(Хотя мне кажется, что я мог бы просто получить это в парке.)"
+
+# game/v6/v6.rpy:340
+translate russian imreconc_5aa288ad:
+
+    # u "(I should probably go back to my dorm and check on Imre now.)"
+    u "(Наверное, мне стоит вернуться в общежитие и проверить, как там Имре.)"
+
+# game/v6/v6.rpy:356
+translate russian imrecond_e4edb176:
+
+    # u "(I should reply to Chloe.)"
+    u "(Я должен ответить Хлое.)"
+
+# game/v6/v6.rpy:360
+translate russian imrecond_4fe7b5ae:
+
+    # u "(Time to go swimming with the hottest girl in school...)"
+    u "(Пора поплавать с самой горячей девчонкой в школе...)"
+
+# game/v6/v6.rpy:370
+translate russian imrecond_6c012194:
+
+    # u "Hey, Chloe."
+    u "Привет, Хлоя."
+
+# game/v6/v6.rpy:375
+translate russian imrecond_e2b7805d:
+
+    # cl "Heyyy!"
+    cl "Хеееей!"
+
+# game/v6/v6.rpy:395
+translate russian imrecond_d98f16ab:
+
+    # u "So... swimming, huh?"
+    u "Так... плаваем, да?"
+
+# game/v6/v6.rpy:400
+translate russian imrecond_004fc5ac:
+
+    # cl "What, you don't wanna see me in a bikini?"
+    cl "А что, не хочешь увидеть меня в купальнике?"
+
+# game/v6/v6.rpy:405
+translate russian imrecond_7bddcf18:
+
+    # u "That's definitely not it, haha."
+    u "Дело не в этом, ха-ха."
+
+# game/v6/v6.rpy:407
+translate russian imrecond_54cb1756:
+
+    # u "Uhm, thinking about it, I did kinda forget to bring swimming trunks."
+    u "Эхм, я вроде как забыл взять плавки."
+
+# game/v6/v6.rpy:412
+translate russian imrecond_4a0e1ae6:
+
+    # cl "Well then you'll have to swim in your boxers."
+    cl "Ну, тогда тебе придется плавать в трусах."
+
+# game/v6/v6.rpy:414
+translate russian imrecond_651788d9:
+
+    # cl "You're not leaving here without getting into the water with me."
+    cl "Ты не уйдешь отсюда, не войдя со мной в воду."
+
+# game/v6/v6.rpy:419
+translate russian imrecond_9c87faa1:
+
+    # u "I guess I don't have a choice."
+    u "Полагаю, у меня нет выбора."
+
+# game/v6/v6.rpy:424
+translate russian imrecond_a1aa5e4a:
+
+    # u "What are you looking at?"
+    u "На что ты смотришь?"
+
+# game/v6/v6.rpy:429
+translate russian imrecond_cee49c18:
+
+    # cl "*Chuckles* Hey, you stare at me all the time."
+    cl "*Смеется* Эй, ты пялишься на меня все время."
+
+# game/v6/v6.rpy:431
+translate russian imrecond_f8f3a056:
+
+    # cl "I'm just trying to get us even."
+    cl "Я просто пытаюсь свести с тобой счёты."
+
+# game/v6/v6.rpy:436
+translate russian imrecond_3933dc40:
+
+    # u "Stare at you? You wish."
+    u "Пялюсь на тебя? Мечтай."
+
+# game/v6/v6.rpy:441
+translate russian imrecond_9a4cf874:
+
+    # cl "So, you're jumping in first, right?"
+    cl "Итак, ты прыгнешь первым, да?"
+
+# game/v6/v6.rpy:446
+translate russian imrecond_f87f4afc:
+
+    # u "Hey, you're gonna-"
+    u "Эй, ты собираешься-"
+
+# game/v6/v6.rpy:453
+translate russian imrecond_94c537b9:
+
+    # cl "*High pitched scream*"
+    cl "*Высокий пронзительный крик*"
+
+# game/v6/v6.rpy:458
+translate russian imrecond_241078e4:
+
+    # cl "*Laughingly* Wow. I can't believe you did that."
+    cl "*Смеясь* Ого. Не могу поверить, что ты это сделал."
+
+# game/v6/v6.rpy:463
+translate russian imrecond_e18a9965:
+
+    # u "Well if I'm going down, you're going down with me."
+    u "Что ж, если я иду ко дну, то ты вместе со мной."
+
+# game/v6/v6.rpy:468
+translate russian imrecond_19600c83:
+
+    # cl "That's fair."
+    cl "Справедливо."
+
+# game/v6/v6.rpy:479
+translate russian imrecond_6ccbac6e:
+
+    # "*Splash*"
+    "*Всплеск*"
+
+# game/v6/v6.rpy:484
+translate russian imrecond_927802d5:
+
+    # u "Ey!"
+    u "Эй!"
+
+# game/v6/v6.rpy:489
+translate russian imrecond_80c64b26:
+
+    # cl "*Laughs*"
+    cl "*Смеется*"
+
+# game/v6/v6.rpy:494
+translate russian imrecond_201a45ea:
+
+    # u "I'll get you for that!"
+    u "Я тебя за это достану!"
+
+# game/v6/v6.rpy:499
+translate russian imrecond_31c866e8:
+
+    # cl "*Laughs* You're too fast for me!"
+    cl "*Смеется* Ты слишком быстр для меня!"
+
+# game/v6/v6.rpy:513
+translate russian imrecond_d974d116:
+
+    # "*Phone rings*"
+    "*Звонит телефон*"
+
+# game/v6/v6.rpy:526
+translate russian imrecond_e673c31f:
+
+    # u "Just let it ring..."
+    u "Пусть просто звонит..."
+
+# game/v6/v6.rpy:531
+translate russian imrecond_bcbc9842:
+
+    # cl "What if it's important?"
+    cl "Что, если это важно?"
+
+# game/v6/v6.rpy:536
+translate russian imrecond_3bb7e37d:
+
+    # u "*Sighs* Alright."
+    u "*Вздыхает* Ладно."
+
+# game/v6/v6.rpy:541
+translate russian imrecond_a4813c2b:
+
+    # cl "I'll be right back."
+    cl "Я сейчас вернусь."
+
+# game/v6/v6.rpy:549
+translate russian imrecond_9df728fd:
+
+    # u "You should probably get that, huh?"
+    u "Тебе, наверное, стоит ответить, да?"
+
+# game/v6/v6.rpy:554
+translate russian imrecond_3a024c28:
+
+    # cl "Yeah... I'll be right back."
+    cl "Да... Я сейчас вернусь."
+
+# game/v6/v6.rpy:977
+translate russian continuebb_e80c8a11:
+
+    # u "(I should probably reply to my messages.)"
+    u "(Я, наверное, должен ответить на свои сообщения.)"
+
+# game/v6/v6.rpy:1026
+translate russian continuebb_e80c8a11_1:
+
+    # u "(I should probably reply to my messages.)"
+    u "(Я, наверное, должен ответить на свои сообщения.)"
+
+# game/v6/v6.rpy:1028
+translate russian continuebb_77a2c777:
+
+    # u "(Amber is so fucking hot, I hope she sends more pictures like that in the future.)"
+    u "(Эмбер чертовски горяча, я надеюсь, что в будущем она пришлет еще больше таких фотографий.)"
+
+# game/v6/v6.rpy:3684
+translate russian gf_b_d647e9cd:
+
+    # u "(I should check my messages.)"
+    u "(Я должен проверить свои сообщения.)"
+
+# game/v6/v6.rpy:3688
+translate russian gf_b_463c5ccb:
+
+    # u "(I'll just go get changed and then it's straight to Aubrey's.)"
+    u "(Я только переоденусь, а потом сразу к Обри.)"
+
+# game/v6/v6.rpy:3691
+translate russian gf_b_8e7e0d9e:
+
+    # u "(Damn, I'm in demand today.)"
+    u "(Чёрт, я сегодня востребован.)"
+
+# game/v6/v6.rpy:3714
+translate russian gf_b_251e62a8:
+
+    # u "(Shit, it's already 10:30? Wonder what Aubrey's messaging about.)"
+    u "(Дерьмо, уже 10:30? Интересно, что пишет Обри?)"
+
+# game/v6/v6.rpy:3722
+translate russian gf_b_0b5740d2:
+
+    # u "(I should probably reply to Aubrey.)"
+    u "(Наверное, мне следует ответить Обри.)"
+
+# game/v6/v6.rpy:3725
+translate russian gf_b_299f3124:
+
+    # u "(I guess I'm going to Aubrey's)"
+    u "(Похоже, я иду к Обри)"
+
+# game/v6/v6.rpy:3728
+translate russian gf_b_8e7e0d9e_1:
+
+    # u "(Damn, I'm in demand today.)"
+    u "(Черт, я сегодня востребован.)"
+
+# game/v6/v6.rpy:3741
+translate russian gf_b_4f1997c1:
+
+    # "*Knock knock knock*"
+    "*Тук-тук-тук*"
+
+# game/v6/v6.rpy:3747
+translate russian gf_b_e4cf31be:
+
+    # au "Heyy."
+    au "Хей."
+
+# game/v6/v6.rpy:3752
+translate russian gf_b_66eeae3d:
+
+    # u "You look good."
+    u "Ты хорошо выглядишь."
+
+# game/v6/v6.rpy:3757
+translate russian gf_b_c3ce9318:
+
+    # au "Oh do I?"
+    au "О, неужели?"
+
+# game/v6/v6.rpy:3762
+translate russian gf_b_40eaa1be:
+
+    # u "Hey, how come you wanted me to sneak in last time, but not this time?"
+    u "Эй, а почему в прошлый раз ты хотела, чтобы я прокрался, а в этот нет?"
+
+# game/v6/v6.rpy:3767
+translate russian gf_b_901627c0:
+
+    # au "None of the girls are home. We got the whole place to ourselves."
+    au "Никого из девочек нет дома. Это место в нашем полном распоряжении."
+
+# game/v6/v6.rpy:3769
+translate russian gf_b_2aefe6db:
+
+    # au "So are you gonna come in or what?"
+    au "Так ты собираешься войти или как?"
+
+# game/v6/v6.rpy:3779
+translate russian gf_b_53ca9dd2:
+
+    # au "You want a beer?"
+    au "Хочешь пива?"
+
+# game/v6/v6.rpy:3784
+translate russian gf_b_49556a9c:
+
+    # u "Sure, thanks."
+    u "Конечно, спасибо."
+
+# game/v6/v6.rpy:3788
+translate russian gf_b_498ae130:
+
+    # au "Cheers?"
+    au "Твоё здоровье?"
+
+# game/v6/v6.rpy:3794
+translate russian gf_b_a947744d:
+
+    # u "Cheers."
+    u "Твоё здоровье."
+
+# game/v6/v6.rpy:3804
+translate russian gf_b_b34fb962:
+
+    # u "I like your outfit."
+    u "Мне нравится твой прикид."
+
+# game/v6/v6.rpy:3809
+translate russian gf_b_8f291c51:
+
+    # au "*Chuckles* Good thing I didn't just put the first thing I found on."
+    au "*Хихикает* Хорошо, что я не просто надела первое, что попалось под руку."
+
+# game/v6/v6.rpy:3814
+translate russian gf_b_85f42dd7:
+
+    # u "If you did, it was a lucky find, haha."
+    u "Если так, то это была счастливая находка, ха-ха."
+
+# game/v6/v6.rpy:3820
+translate russian gf_b_0a693ac9:
+
+    # au "So, who have you been seducing lately? Certainly not Chloe. *laughs*"
+    au "Итак, кого ты соблазнял в последнее время? Конечно, не Хлою. *смеется*"
+
+# game/v6/v6.rpy:3825
+translate russian gf_b_4f8179f9:
+
+    # u "Wow, thanks for that."
+    u "Ух ты, спасибо за это."
+
+# game/v6/v6.rpy:3828
+translate russian gf_b_166e5575:
+
+    # au "So, how are things with Chloe?"
+    au "Итак, как дела с Хлоей?"
+
+# game/v6/v6.rpy:3833
+translate russian gf_b_47125ca8:
+
+    # u "Oh come on, don't act like you don't know more about that than me. You guys are best friends."
+    u "Да ладно, не делай вид, будто ты знаешь об этом не больше меня. Вы, ребята, лучшие друзья."
+
+# game/v6/v6.rpy:3838
+translate russian gf_b_a27550e0:
+
+    # au "Okay, how are things with other girls then? Who have you been seducing lately?"
+    au "Ладно, а как тогда обстоят дела с другими девушками? Кого ты соблазнял в последнее время?"
+
+# game/v6/v6.rpy:3848
+translate russian gf_b_0073a849:
+
+    # u "You know, a few different girls."
+    u "Ну, знаешь, нескольких разных девушек."
+
+# game/v6/v6.rpy:3851
+translate russian gf_b_6fe20a0c:
+
+    # u "It's kinda crazy how you're so cool with it."
+    u "Просто безумие, как ты так спокойно к этому относишься."
+
+# game/v6/v6.rpy:3861
+translate russian gf_b_afc4fcaa:
+
+    # au "It's actually kinda hot."
+    au "Вообще-то это довольно горячо."
+
+# game/v6/v6.rpy:3867
+translate russian gf_b_87172167:
+
+    # au "Am I one of them?"
+    au "Я одна из них?"
+
+# game/v6/v6.rpy:3877
+translate russian gf_b_cbb85076:
+
+    # u "I think you know."
+    u "Думаю, ты знаешь."
+
+# game/v6/v6.rpy:3887
+translate russian gf_b_9c19a7b5:
+
+    # au "I think I do."
+    au "Думаю, знаю."
+
+# game/v6/v6.rpy:3893
+translate russian gf_b_c300baab:
+
+    # u "Uhm, Aubrey I think we should just stay friends."
+    u "Эм, Обри, я думаю, мы должны просто остаться друзьями."
+
+# game/v6/v6.rpy:3898
+translate russian gf_b_168620c2:
+
+    # au "Oh..."
+    au "Ох..."
+
+# game/v6/v6.rpy:3900
+translate russian gf_b_6bfe2439:
+
+    # au "Uhm, yeah of course."
+    au "Хм, да, конечно."
+
+# game/v6/v6.rpy:3912
+translate russian gf_b_f2986376:
+
+    # u "No one, really."
+    u "На самом деле никого."
+
+# game/v6/v6.rpy:3923
+translate russian gf_b_47d0af3c:
+
+    # au "Good thing you have me."
+    au "Хорошо, что у тебя есть я."
+
+# game/v6/v6.rpy:3931
+translate russian gf_b_735efb80:
+
+    # au "I don't believe that for one second."
+    au "Я ни на секунду в это не верю."
+
+# game/v6/v6.rpy:3933
+translate russian gf_b_c9cc6a4a:
+
+    # au "I bet you've been seducing them just like you've been trying to seduce me."
+    au "Держу пари, ты соблазнял их так же, как пытался меня."
+
+# game/v6/v6.rpy:3943
+translate russian gf_b_ce9b0ae3:
+
+    # u "You got me."
+    u "Ты меня раскусила."
+
+# game/v6/v6.rpy:3953
+translate russian gf_b_19593042:
+
+    # au "That's what I thought."
+    au "Так я и думала."
+
+# game/v6/v6.rpy:3959
+translate russian gf_b_d3d92957:
+
+    # u "Uhm, Aubrey I'm not trying to seduce you."
+    u "Эхм, Обри, я не пытаюсь тебя соблазнить."
+
+# game/v6/v6.rpy:3964
+translate russian gf_b_df87cc51:
+
+    # au "Uhm okay... sure."
+    au "Эхм, хорошо... конечно."
+
+# game/v6/v6.rpy:3977
+translate russian gf_b_b8cc060d:
+
+    # au "Huh, I guess that's one way to go through college."
+    au "Хм, думаю, это один из способов закончить колледж."
+
+# game/v6/v6.rpy:3982
+translate russian gf_b_9e7c9215:
+
+    # u "Oh come on, it's only my second week."
+    u "Да ладно тебе, это всего лишь вторая неделя."
+
+# game/v6/v6.rpy:3987
+translate russian gf_b_e90a9633:
+
+    # au "I guess that's true."
+    au "Наверное, это так."
+
+# game/v6/v6.rpy:5453
+translate russian wakeupa_1c9e14f6:
+
+    # u "(I should really text Penelope.)"
+    u "(Надо написать Пенелопе.)"
+
+# game/v6/v6.rpy:5458
+translate russian wakeupa_9ea2f78c:
+
+    # " "
+    " "
+
+# game/v6/v6.rpy:5471
+translate russian wakeupa_d974d116:
+
+    # "*Phone rings*"
+    "*Звонит телефон*"
+
+# game/v6/v6.rpy:5484
+translate russian wakeupa_fcfea652:
+
+    # u "Hello?"
+    u "Алло?"
+
+# game/v6/v6.rpy:5489
+translate russian wakeupa_53a8b72d:
+
+    # ri "Hey, I know this is really last minute, but I was wondering if you wanted to go to a poetry slam with me right now?"
+    ri "Привет, мне интересно, не хочешь ли ты пойти со мной на поэтический слэм прямо сейчас?"
+
+# game/v6/v6.rpy:5490
+translate russian wakeupa_af19f7a0:
+
+    # ri "I know it's short notice, but one of my friends bailed on me and now I have an extra ticket."
+    ri "Я знаю, что это внезапно, но один из моих друзей меня кинул, и теперь у меня лишний билет."
+
+# game/v6/v6.rpy:5495
+translate russian wakeupa_895e7e99:
+
+    # u "Uhh sure, I'll go with you."
+    u "Э-э, конечно, я пойду с тобой."
+
+# game/v6/v6.rpy:5500
+translate russian wakeupa_8eb59800:
+
+    # ri "Really? Great! Meet me at the theater room in 10 minutes."
+    ri "Серьезно? Отлично! Встретимся в театральном зале через 10 минут."
+
+# game/v6/v6.rpy:5505
+translate russian wakeupa_bd6be078:
+
+    # u "Cool, will do."
+    u "Окей, приду."
+
+# game/v6/v6.rpy:5515
+translate russian wakeupa_8686e81c:
+
+    # u "Hey."
+    u "Эй."
+
+# game/v6/v6.rpy:5520
+translate russian wakeupa_cd0cab36:
+
+    # ri "Hi, thanks for coming. I know it's last minute, but I think it's gonna be really cool."
+    ri "Привет, спасибо, что пришел. Думаю, будет круто."
+
+# game/v6/v6.rpy:5528
+translate russian wakeupa_23998ed2:
+
+    # ri "Oh, it's starting!"
+    ri "О, начинается!"
+
+# game/v6/v6.rpy:5533
+translate russian wakeupa_90ecd6d0:
+
+    # host "Welcome everyone, familiar faces and new faces."
+    host "Приветствую всех, вижу знакомые и новые лица."
+
+# game/v6/v6.rpy:5534
+translate russian wakeupa_d4218446:
+
+    # host "Thank you for joining us for the annual poetry slam. Today we are here to make noise, make our voices heard, make our opinions known and make a difference!"
+    host "Спасибо, что присоединились к нам на ежегодном поэтическом слэме. Сегодня мы здесь для того, чтобы пошуметь, заставить наши голоса быть услышанными, чтобы наши мнения стали известны и имели значение!"
+
+# game/v6/v6.rpy:5539
+translate russian wakeupa_06289722:
+
+    # "*Crowd applauds*"
+    "*Толпа аплодирует*"
+
+# game/v6/v6.rpy:5544
+translate russian wakeupa_87a5797b:
+
+    # host "Today, we will hear from many talented and amazing people. So without further ado, let's bring out our first poet, Lisa."
+    host "Сегодня мы услышим многих талантливых и удивительных людей. Итак, без лишних слов, давайте представим нашего первого поэта, Лизу."
+
+# game/v6/v6.rpy:5549
+translate russian wakeupa_06289722_1:
+
+    # "*Crowd applauds*"
+    "*Толпа аплодирует*"
+
+# game/v6/v6.rpy:5554
+translate russian wakeupa_40cb2de7:
+
+    # poet1 "It's been one year since I've recovered from my eating disorder,"
+    poet1 "Прошел год с тех пор, как я выздоровела от расстройства пищевого поведения,"
+
+# game/v6/v6.rpy:5555
+translate russian wakeupa_b01fcbb2:
+
+    # poet1 "One year of not counting the calories, crying as the food slithered down my throat."
+    poet1 "Год без подсчета калорий и слез при скользящей по горлу еде."
+
+# game/v6/v6.rpy:5556
+translate russian wakeupa_f99774b1:
+
+    # poet1 "One year without the fainting spells and wasted meals down the toilet."
+    poet1 "Год без обмороков и выбрасываний еды в туалет."
+
+# game/v6/v6.rpy:5557
+translate russian wakeupa_aea62cbf:
+
+    # poet1 "One year without being afraid of dinner invitations and hiding in cold sweats under sheets."
+    poet1 "Год без боязни приглашений на ужин и холодного пота лежа под простынями."
+
+# game/v6/v6.rpy:5562
+translate russian wakeupa_6819469f:
+
+    # poet1 "It's the first year I don't find peace in the stomach pains."
+    poet1 "Это первый год, когда я не нахожу покоя в болях в животе."
+
+# game/v6/v6.rpy:5563
+translate russian wakeupa_a4764be1:
+
+    # poet1 "It's the first year where I don't wake up to step on the scale."
+    poet1 "Это первый год, когда я не просыпаюсь, чтобы встать на весы."
+
+# game/v6/v6.rpy:5564
+translate russian wakeupa_303b7da3:
+
+    # poet1 "It's the first year I don't find happiness in the emptiness."
+    poet1 "Это первый год, когда я не нахожу счастья в пустоте."
+
+# game/v6/v6.rpy:5565
+translate russian wakeupa_c195c6c2:
+
+    # poet1 "It's the first year I can eat a meal knowing it's not going to come back up."
+    poet1 "Это первый год, когда я могу съесть еду, зная, что она не вернется."
+
+# game/v6/v6.rpy:5570
+translate russian wakeupa_f9371384:
+
+    # poet1 "It's really hard to not feel like this eating disorder isn't who I've become when it feels like my only accomplishment."
+    poet1 "Очень трудно не чувствовать, что расстройство пищевого поведения - не то, кем я стала, когда это мое единственное достижение."
+
+# game/v6/v6.rpy:5571
+translate russian wakeupa_79b56814:
+
+    # poet1 "When I dropped 30 pounds in a month my friends told me I looked incredible."
+    poet1 "Когда я сбросила 30 фунтов за месяц, друзья сказали мне, что я выгляжу потрясающе."
+
+# game/v6/v6.rpy:5572
+translate russian wakeupa_f8358c91:
+
+    # poet1 "My father said: Honey, I'm so proud of you."
+    poet1 "Отец сказал: Дорогая, я так горжусь тобой."
+
+# game/v6/v6.rpy:5573
+translate russian wakeupa_835382fc:
+
+    # poet1 "My mother said: I've never been so happy for you."
+    poet1 "Мама сказала: Я никогда не была так счастлива за тебя."
+
+# game/v6/v6.rpy:5578
+translate russian wakeupa_6a3bf4ab:
+
+    # poet1 "It's kind of hard to feel that this eating disorder isn't me when people only praised me for my illness."
+    poet1 "Трудно чувствовать, что расстройство пищевого поведения - это не я, когда люди только хвалили меня за мою болезнь."
+
+# game/v6/v6.rpy:5579
+translate russian wakeupa_6bea0f06:
+
+    # poet1 "And it's those same people who blindly support me in this journey to find myself, but ignored all the times I spent too long in the bathroom."
+    poet1 "И это те же самые люди, которые слепо поддерживают меня в этом путешествии, чтобы найти себя, но игнорируют все случаи, когда я слишком долго сидела в ванной."
+
+# game/v6/v6.rpy:5580
+translate russian wakeupa_68c04f9d:
+
+    # poet1 "The infinite times I brushed my teeth, the sobs over the toilet seat."
+    poet1 "Бесконечное число чистки зубов, рыданий над сиденьем унитаза."
+
+# game/v6/v6.rpy:5581
+translate russian wakeupa_a0b826fa:
+
+    # poet1 "It's kind of hard not to fall back into this black hole of starvation when it feels like it's the only thing that made me feel important."
+    poet1 "Трудно не упасть обратно в эту черную дыру голода, когда кажется, что это единственное, что заставляло меня чувствовать себя важной."
+
+# game/v6/v6.rpy:5582
+translate russian wakeupa_66a9c641:
+
+    # poet1 "But hey, at least I can step in front of the mirror and look at myself and say: Well, at least I'm not dying."
+    poet1 "Но, по крайней мере, я могу встать перед зеркалом, посмотреть на себя и сказать: Хотя бы я не умираю."
+
+# game/v6/v6.rpy:5587
+translate russian wakeupa_06289722_2:
+
+    # "*Crowd applauds*"
+    "*Толпа аплодирует*"
+
+# game/v6/v6.rpy:5596
+translate russian wakeupa_64ba75d9:
+
+    # u "That was incredible."
+    u "Это было невероятно."
+
+# game/v6/v6.rpy:5601
+translate russian wakeupa_fef57761:
+
+    # ri "I know it's so amazing what stories people have to tell."
+    ri "Я знаю, удивительно, какие истории люди рассказывают."
+
+# game/v6/v6.rpy:5606
+translate russian wakeupa_d9a045ef:
+
+    # u "Yeah, absolutely."
+    u "Да, точно."
+
+# game/v6/v6.rpy:5611
+translate russian wakeupa_bfbac3fa:
+
+    # ri "Honestly, she's so brave. My heart goes out to her."
+    ri "Честно, она такая храбрая. Мое сердце с ней."
+
+# game/v6/v6.rpy:5620
+translate russian wakeupa_2569ef60:
+
+    # u "God can she talk about something else than puking, she's not the first person to struggle with a diet."
+    u "Боже, она может говорить о чем-то еще, кроме рвоты, она не первый человек на диете."
+
+# game/v6/v6.rpy:5625
+translate russian wakeupa_7f3a61f4:
+
+    # ri "What the hell, [name]???"
+    ri "Какого черта, [name]???"
+
+# game/v6/v6.rpy:5627
+translate russian wakeupa_ad76f4ea:
+
+    # ri "She's so brave for putting herself out there. I can't believe you'd say something like that."
+    ri "Она такая смелая, раз решилась на это. Не могу поверить, что ты говоришь такое."
+
+# game/v6/v6.rpy:5632
+translate russian wakeupa_8b940739:
+
+    # u "Right..."
+    u "Ага..."
+
+translate russian strings:
+
+    # game/v6/v6.rpy:6221
+    old "Choose your bowling name:"
+    new "Выберите имя для боулинга:"
+

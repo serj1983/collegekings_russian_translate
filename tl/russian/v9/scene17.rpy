@@ -92,3 +92,53 @@ translate russian strings:
     old "Ok :) See you soon!"
     new "Ok :) Увидимся тогда!"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v9/scene17.rpy:54
+translate russian v9_room_fri_morn_8e7cf5c5:
+
+    # u "(I should text Lauren.)"
+    u "(Я должен написать Лорен.)"
+
+# game/v9/scene17.rpy:56
+translate russian v9_room_fri_morn_23ba1da1:
+
+    # u "(I better get ready and head over there. Hope it's not too much work.)"
+    u "(Мне лучше собраться и отправиться туда. Надеюсь, там не слишком много работы.)"
+
+# game/v9/scene17.rpy:64
+translate russian v9_room_fri_morn_5cdddfcb:
+
+    # gr "Wake up, [name], Apes aren't lazy assholes. Get up. Go be productive. Oh, and I'd avoid the toilet. Cameron backed it up again."
+    gr "Подъём, [name], Приматы не ленивые засранцы. Вставай. Иди и будь продуктивным. О, и я бы избегал туалета. Кэмерон снова занял его."
+
+# game/v9/scene17.rpy:69
+translate russian v9_room_fri_morn_19541c97:
+
+    # u "*Drowsy* Uhh, yeah ok. I'm up, and ewww."
+    u "*Сонный* Да, хорошо. Я встаю, и ууу."
+
+# game/v9/scene17.rpy:74
+translate russian v9_room_fri_morn_68aafa48:
+
+    # gr "Good."
+    gr "Хорошо."
+
+# game/v9/scene17.rpy:79
+translate russian v9_room_fri_morn_347d66bc:
+
+    # u "(Is this guy my fucking dad? Jesus.)"
+    u "(Этот парень - мой грёбаный отец? Господи.)"
+
+# game/v9/scene17.rpy:93
+translate russian v9_room_fri_morn_8e7cf5c5_1:
+
+    # u "(I should text Lauren.)"
+    u "(Я должен написать Лорен.)"
+
+# game/v9/scene17.rpy:95
+translate russian v9_room_fri_morn_23ba1da1_1:
+
+    # u "(I better get ready and head over there. Hope it's not too much work.)"
+    u "(Мне лучше собраться и отправиться туда. Надеюсь, там не слишком много работы.)"
+

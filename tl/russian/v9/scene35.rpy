@@ -251,3 +251,53 @@ translate russian strings:
     # game/v9/scene35.rpy:36
     old "God, I miss that cock."
     new "Боже, я скучаю по этому члену."
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v9/scene35.rpy:94
+translate russian v9_room_sat_aft_e4edb176:
+
+    # u "(I should reply to Chloe.)"
+    u "(Я должен ответить Хлое.)"
+
+# game/v9/scene35.rpy:99
+translate russian v9_room_sat_aft_d9070b6c:
+
+    # u "(Just a quick nap.)"
+    u "(Просто быстрый сон.)"
+
+# game/v9/scene35.rpy:106
+translate russian v9_room_sat_aft_27207bcf:
+
+    # u "Ugh!"
+    u "Ух!"
+
+# game/v9/scene35.rpy:119
+translate russian v9_room_sat_aft_392403a7_1:
+
+    # u "(How much longer do I have?)"
+    u "(Сколько мне ещё осталось?"
+
+# game/v9/scene35.rpy:127
+translate russian v9_room_sat_aft_b8487e8d_1:
+
+    # u "(I wonder who this is.)"
+    u "(Интересно, кто это?)"
+
+# game/v9/scene35.rpy:196
+translate russian v9_room_sat_aft_e4edb176_1:
+
+    # u "(I should reply to Chloe.)"
+    u "(Я должен ответить Хлое.)"
+
+# game/v9/scene35.rpy:201
+translate russian v9_room_sat_aft_d9070b6c_1:
+
+    # u "(Just a quick nap.)"
+    u "(Просто быстрый сон.)"
+
+# game/v9/scene35.rpy:208
+translate russian v9_room_sat_aft_27207bcf_1:
+
+    # u "Ugh!"
+    u "Ух!"
+

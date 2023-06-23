@@ -204,3 +204,71 @@ translate russian v13s18_4945864e:
 
     # u "(Well... She looked... happy? *Chuckles*)"
     u "(Ну... Она выглядела... счастливой? *Хихикает*)"
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v13/scene18.rpy:167
+translate russian v13s18_2a87eeb0:
+
+    # u "(I should text Nora.)"
+    u "(Я должен написать Норе.)"
+
+# game/v13/scene18.rpy:178
+translate russian v13s18_0d8613de:
+
+    # u "*Sighs* (Nah, nevermind. I'll just let this play out on its own...)"
+    u "*Вздох* (Не, неважно. Просто позволю этому развиваться самому по себе...)"
+
+# game/v13/scene18.rpy:183
+translate russian v13s18_25720b28:
+
+    # luuk "I worked hard on this masterpiece, so you better enjoy it... *Laughs*"
+    luuk "Я много работал над этим шедевром, так что вам лучше насладиться им... *смеется*"
+
+# game/v13/scene18.rpy:188
+translate russian v13s18_3cc348ce:
+
+    # u "*Chuckles* I'm sure I will. Thanks."
+    u "*Хихикает* Уверен, что так и будет. Спасибо."
+
+# game/v13/scene18.rpy:193
+translate russian v13s18_94ec04aa:
+
+    # luuk "Of course! So, you and Riley are getting ready to do your little \"Charli stunt\", huh?"
+    luuk "Конечно! Итак, вы с Райли готовитесь сделать свой маленький \"трюк с Чарли\", да?"
+
+# game/v13/scene18.rpy:198
+translate russian v13s18_da5d8d28:
+
+    # u "*Shocked* How the fuck do you know that?"
+    u "*Шокировано* Откуда, чёрт возьми, ты это знаешь?"
+
+# game/v13/scene18.rpy:203
+translate russian v13s18_4b3a0e33:
+
+    # luuk "I didn't, but I do now. *Laughs*"
+    luuk "Я этого не знал, но теперь знаю. *Смеется*"
+
+# game/v13/scene18.rpy:208
+translate russian v13s18_185eb072:
+
+    # u "That's low man, real low."
+    u "Это низко, парень, очень низко."
+
+# game/v13/scene18.rpy:213
+translate russian v13s18_47652b21:
+
+    # luuk "It's part of my profession. Tell me how it goes later?"
+    luuk "Это часть моей профессии. Расскажешь мне, как всё пройдет позже?"
+
+# game/v13/scene18.rpy:218
+translate russian v13s18_9120c329:
+
+    # u "Haha, sure."
+    u "Хаха, конечно."
+
+translate russian strings:
+
+    # game/v13/scene18.rpy:160
+    old "What was that about, you guys all good now or something?"
+    new "Что это было, ребята, у вас теперь всё хорошо?"
+

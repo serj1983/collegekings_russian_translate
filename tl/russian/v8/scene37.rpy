@@ -170,3 +170,59 @@ translate russian strings:
     old "*yuck*"
     new "*Фу*"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v8/scene37.rpy:39
+translate russian v8_tues_evening_6b32f074:
+
+    # u "I should reply to Lauren."
+    u "Я должен ответить Лорен."
+
+# game/v8/scene37.rpy:61
+translate russian v8_tues_evening_b2a97980:
+
+    # u "I should reply to Riley."
+    u "Я должен ответить Райли."
+
+# game/v8/scene37.rpy:63
+translate russian v8_tues_evening_0d29d3a6:
+
+    # u "(I guess this is just not my day for studying. Great job, [name]!)"
+    u "(Наверное, сегодня просто не мой день для учёбы. Отличная работа, [name]!)"
+
+# game/v8/scene37.rpy:68
+translate russian v8_tues_evening_03be943f:
+
+    # u "(If only something interesting would happen...)"
+    u "(Если только случится что-то интересное...)"
+
+# game/v8/scene37.rpy:76
+translate russian v8_tues_evening_565c0af2_1:
+
+    # u "(I must be imagining things... Or maybe I should just text someone?)"
+    u "(Наверное, я что-то себе напридумывал... Или, может, мне стоит просто написать кому-нибудь?)"
+
+# game/v8/scene37.rpy:103
+translate russian v8_tues_evening_6b32f074_1:
+
+    # u "I should reply to Lauren."
+    u "Я должен ответить Лорен."
+
+# game/v8/scene37.rpy:125
+translate russian v8_tues_evening_95d895aa:
+
+    # u "I should reply to my phone."
+    u "Я должен глянуть телефон."
+
+# game/v8/scene37.rpy:127
+translate russian v8_tues_evening_0d29d3a6_1:
+
+    # u "(I guess this is just not my day for studying. Great job, [name]!)"
+    u "(Наверное, сегодня просто не мой день для учёбы. Отличная работа, [name]!)"
+
+# game/v8/scene37.rpy:132
+translate russian v8_tues_evening_03be943f_1:
+
+    # u "(If only something interesting would happen...)"
+    u "(Если только случится что-то интересное...)"
+

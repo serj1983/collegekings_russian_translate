@@ -104,3 +104,17 @@ translate russian strings:
     old "<3"
     new "<3"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v9/scene21.rpy:89
+translate russian v9_room_w_chris_e0c455bf:
+
+    # u "(I should text Julia.)"
+    u "(Я должен написать Джулии.)"
+
+# game/v9/scene21.rpy:91
+translate russian v9_room_w_chris_838b2976:
+
+    # u "(I should probably head over to Ms. Roses.)"
+    u "(Я, наверное, пойду к мисс Роуз.)"
+

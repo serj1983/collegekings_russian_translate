@@ -885,3 +885,11 @@ translate russian strings:
     old "Give up"
     new "Сдаться"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v11/scene2.rpy:349
+translate russian v11_nora_chloe_hallway_7a91b8cb:
+
+    # u "(I need to get home and pack.)"
+    u "(Мне нужно вернуться домой и собрать вещи.)"
+

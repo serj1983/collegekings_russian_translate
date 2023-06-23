@@ -145,3 +145,53 @@ translate russian v13s9_PhoneContinuePenelope_add3664e:
     # ry "Hell yeah!"
     ry "Да, черт возьми!"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v13/scene10.rpy:137
+translate russian v13s10_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v13/scene10.rpy:143
+translate russian v13s10_3e442535_1:
+
+    # u "Who's buzzing me?"
+    u "Кто мне звонит?"
+
+# game/v13/scene10.rpy:153
+translate russian v13s10_88d710ce_1:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v13/scene10.rpy:160
+translate russian v13s10_001e15b3:
+
+    # u "(What else have I got to do?)"
+    u "(Что ещё мне нужно сделать?)"
+
+# game/v13/scene10.rpy:166
+translate russian v13s10_4d3e415f:
+
+    # u "Hey, Ryan!"
+    u "Эй, Райн!"
+
+# game/v13/scene10.rpy:171
+translate russian v13s10_b88d72fb:
+
+    # ry "Yeah?"
+    ry "Да?"
+
+# game/v13/scene10.rpy:176
+translate russian v13s10_48347840:
+
+    # u "I may not be able to stay forever, but I'm coming with you."
+    u "Возможно, я не смогу остаться здесь навсегда, но я пойду с тобой."
+
+# game/v13/scene10.rpy:181
+translate russian v13s10_add3664e:
+
+    # ry "Hell yeah!"
+    ry "Да, чёрт возьми!"
+

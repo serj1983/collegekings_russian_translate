@@ -1045,3 +1045,139 @@ translate russian strings:
 
     old "LOADING WILL LOSE UNSAVED PROGRESS.\nARE YOU SURE YOU WANT TO DO THIS?"
     new "Загрузка приведет к потере несохраненного прогресса. Вы уверены, что хотите это сделать?"
+# TODO: Translation updated at 2023-04-12 16:47
+
+translate russian strings:
+
+    # renpy/common/00action_other.rpy:703
+    old "Open [text] directory."
+    new "Открыть [text] папку."
+
+    # renpy/common/00preferences.rpy:507
+    old "audio when minimized"
+    new "звук при минимизации"
+
+    # renpy/common/00preferences.rpy:527
+    old "main volume"
+    new "основной звук"
+
+    # renpy/common/00preferences.rpy:531
+    old "mute main"
+    new "отключить основной звук"
+
+# TODO: Translation updated at 2023-06-21 15:57
+
+translate russian strings:
+
+    # renpy/common/00accessibility.rpy:215
+    old "Voice Volume"
+    new "Уровень Громкости"
+
+    # renpy/common/00director.rpy:1745
+    old "Click to toggle attribute, right click to toggle negative attribute."
+    new "Щёлкните, чтобы переключить атрибут, щелкните правой кнопкой мыши, чтобы переключить отрицательный атрибут."
+
+    # renpy/common/00director.rpy:1768
+    old "Click to set transform, right click to add to transform list."
+    new "Щелкните, чтобы установить преобразование, щелкните правой кнопкой мыши, чтобы добавить в список преобразований."
+
+    # renpy/common/00director.rpy:1789
+    old "Click to set, right click to add to behind list."
+    new "Щелкните, чтобы установить, щелкните правой кнопкой мыши, чтобы добавить в список позади."
+
+    # renpy/common/00gui.rpy:456
+    old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "Это сохранение было создано на другом устройстве. Злонамеренно созданные файлы сохранения могут нанести вред вашему компьютеру. Доверяете ли вы создателю этого сохранения и тем, кто мог изменить файл?"
+
+    # renpy/common/00gui.rpy:457
+    old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "Доверяете ли вы устройству, на базе которого было создано сохранение? Вы должны выбрать Да, только если вы являетесь единственным пользователем устройства."
+
+    # renpy/common/00preferences.rpy:528
+    old "audio when unfocused"
+    new "звук при расфокусировке"
+
+    # renpy/common/00preferences.rpy:537
+    old "web cache preload"
+    new "предварительная загрузка веб-кэша"
+
+    # renpy/common/00preferences.rpy:552
+    old "voice after game menu"
+    new "голос после игрового меню"
+
+    # renpy/common/00speechbubble.rpy:344
+    old "Speech Bubble Editor"
+    new "Редактор Речевых Пузырей"
+
+    # renpy/common/00speechbubble.rpy:349
+    old "(hide)"
+    new "(скрыть)"
+
+    # renpy/common/00sync.rpy:70
+    old "Sync downloaded."
+    new "Синхронизация загружена."
+
+    # renpy/common/00sync.rpy:190
+    old "Could not connect to the Ren'Py Sync server."
+    new "Не удалось подключиться к серверу синхронизации Ren'Py."
+
+    # renpy/common/00sync.rpy:192
+    old "The Ren'Py Sync server timed out."
+    new "Время ожидания сервера синхронизации Ren'Py истекло."
+
+    # renpy/common/00sync.rpy:194
+    old "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new "При подключении к серверу Ren'Py Sync произошла неизвестная ошибка."
+
+    # renpy/common/00sync.rpy:267
+    old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new "На сервере синхронизации Ren'Py нет копии этой синхронизации. Возможно, идентификатор синхронизации неверен или время его действия истекло."
+
+    # renpy/common/00sync.rpy:412
+    old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new "Пожалуйста, введите сгенерированный вами идентификатор синхронизации.\nНикогда не вводите идентификатор синхронизации, который создали не вы сами."
+
+    # renpy/common/00sync.rpy:431
+    old "The sync ID is not in the correct format."
+    new "Идентификатор синхронизации указан в неправильном формате."
+
+    # renpy/common/00sync.rpy:451
+    old "The sync could not be decrypted."
+    new "Синхронизацию не удалось расшифровать."
+
+    # renpy/common/00sync.rpy:474
+    old "The sync belongs to a different game."
+    new "Синхронизация относится к другой игре."
+
+    # renpy/common/00sync.rpy:479
+    old "The sync contains a file with an invalid name."
+    new "Синхронизация содержит файл с недопустимым именем."
+
+    # renpy/common/00sync.rpy:532
+    old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new "Это загрузит ваши сохранения на {a=https://sync.renpy.org}сервер синхронизации Ren'Py{/a}.\nПродолжить?"
+
+    # renpy/common/00sync.rpy:561
+    old "Enter Sync ID"
+    new "Введите идентификатор синхронизации (Enter Sync ID)"
+
+    # renpy/common/00sync.rpy:572
+    old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new "Это позволит связаться с {a=https://sync.renpy.org}сервером синхронизации Ren'Py{/a}."
+
+    # renpy/common/00sync.rpy:599
+    old "Sync Success"
+    new "Успешная синхронизация"
+
+    # renpy/common/00sync.rpy:602
+    old "The Sync ID is:"
+    new "Идентификатор синхронизации (Sync ID):"
+
+    # renpy/common/00sync.rpy:608
+    old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "Вы можете использовать этот идентификатор для загрузки вашего сохранения на другое устройство.\Срок действия этой синхронизации истечёт через час.\Текущая синхронизация поддерживается с помощью {a=https://www.renpy.org/sponsors.html}Спонсоры Ren'Py{/a}."
+
+    # renpy/common/00sync.rpy:634
+    old "Sync Error"
+    new "Ошибка синхронизации"
+

@@ -172,3 +172,23 @@ translate russian strings:
     old "Hey, how you been?"
     new "Привет, как дела?"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v8/scene34.rpy:102
+translate russian v8_tues_noon_8861c6b3:
+
+    # u "(I should talk to Chloe.)"
+    u "(Мне нужно поговорить с Хлоей.)"
+
+# game/v8/scene34.rpy:106
+translate russian v8_tues_noon_da3ee415:
+
+    # u "(Guess I'm meeting Chloe.)"
+    u "(Похоже, я встречаюсь с Хлоей.)"
+
+# game/v8/scene34.rpy:110
+translate russian v8_tues_noon_29659097_2:
+
+    # u "(I should check in with Julia.)"
+    u "(Я должен поговорить с Джулией.)"
+

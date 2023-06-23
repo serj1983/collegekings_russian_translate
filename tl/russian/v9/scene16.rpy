@@ -969,3 +969,41 @@ translate russian strings:
     # game/v9/scene16.rpy:442
     old "Be macho"
     new "Будь мачо"
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v9/scene16.rpy:37
+translate russian v9_room_thur_night_87b40466:
+
+    # u "(I should reply to Emily.)"
+    u "(Я должен ответить Эмили.)"
+
+# game/v9/scene16.rpy:53
+translate russian v9_room_thur_night_32f88741_1:
+
+    # u "(Whew, glad to be alone... finally)"
+    u "(Рад, что остался один... наконец-то.)"
+
+# game/v9/scene16.rpy:61
+translate russian v9_room_thur_night_235cf27b_1:
+
+    # u "(Ugh, now what.)"
+    u "(И что теперь?)"
+
+# game/v9/scene16.rpy:77
+translate russian v9_room_thur_night_87b40466_1:
+
+    # u "(I should reply to Emily.)"
+    u "(Я должен ответить Эмили.)"
+
+# game/v9/scene16.rpy:877
+translate russian v9_thur_night_aft_em_w_f9e9813d:
+
+    # u "(I should reply to Lindsey.)"
+    u "(Я должен ответить Линдси.)"
+
+# game/v9/scene16.rpy:963
+translate russian v9_thur_night_aft_em_a_f9e9813d:
+
+    # u "(I should reply to Lindsey.)"
+    u "(Я должен ответить Линдси.)"
+

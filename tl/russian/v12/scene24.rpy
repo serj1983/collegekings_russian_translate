@@ -87,3 +87,11 @@ translate russian strings:
     new "Хорошо, я знаю, что уже поздно, так что спокойной ночи, красавчик ;)"
     old "Goodnight ;)"
     new "Спокойной ночи ;)"
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v12/scene24.rpy:59
+translate russian v12_simplr_convo_581b2cbc:
+
+    # u "(I should check Simplr.)"
+    u "(Я должен проверить Simplr.)"
+

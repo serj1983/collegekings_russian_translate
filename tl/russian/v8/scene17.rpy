@@ -518,3 +518,11 @@ translate russian strings:
     old "Focus on moving the boxes"
     new "Сосредоточиться на перемещении коробок"
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v8/scene17.rpy:25
+translate russian msrose_moving_26a5b4a3:
+
+    # u "(I should talk to Penelope.)"
+    u "(Я должен поговорить с Пенелопой.)"
+

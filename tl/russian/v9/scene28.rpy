@@ -309,3 +309,17 @@ translate russian v9_call_w_lindsey_4326837d:
 
     # li "This fight could be major for you. Think you'll come out on top?"
     li "Этот бой может стать для тебя главным. Думаешь, ты выйдешь победителем?"
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v9/scene28.rpy:88
+translate russian v9_call_w_lindsey_f4c98495:
+
+    # u "So are you calling all the fighters tonight or just me?"
+    u ""
+
+# game/v9/scene28.rpy:215
+translate russian v9_call_w_lindsey_f4c98495_1:
+
+    # u "So are you calling all the fighters tonight or just me?"
+    u "Так ты вызываешь сегодня всех бойцов или только меня?"
+

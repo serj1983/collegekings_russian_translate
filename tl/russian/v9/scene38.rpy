@@ -86,3 +86,23 @@ translate russian strings:
     old "Aww, I wish I could, but I gotta get ready for the brawl"
     new "Оу, я бы хотел, но мне нужно готовиться к поединкам."
 
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v9/scene38.rpy:47
+translate russian v9_walk_li_txt_f9e9813d:
+
+    # u "(I should reply to Lindsey.)"
+    u "(Я должен ответить Линдси.)"
+
+# game/v9/scene38.rpy:53
+translate russian v9_walk_li_txt_744c4169:
+
+    # u "(I suppose I should head to see Lindsey.)"
+    u "(Полагаю, мне стоит отправиться к Линдси.)"
+
+# game/v9/scene38.rpy:60
+translate russian v9_walk_li_txt_538b62a3:
+
+    # u "(Shit.)"
+    u "(Дерьмо.)"
+

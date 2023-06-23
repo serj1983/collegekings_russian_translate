@@ -3647,3 +3647,557 @@ translate russian strings:
     # game/v3/v3.rpy:3187
     old "Don't tell her"
     new "Не говорить ей"
+# TODO: Translation updated at 2023-06-21 15:57
+
+# game/v3/v3.rpy:1397
+translate russian cx_ad_58d01580:
+
+    # u "(I should probably check my phone.)"
+    u "(Наверное, мне стоит проверить свой телефон.)"
+
+# game/v3/v3.rpy:1399
+translate russian cx_ad_54591f14:
+
+    # u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
+    u "Прости, Имре, кое-что случилось. Тебе придётся возвращаться одному, мне надо идти."
+
+# game/v3/v3.rpy:1404
+translate russian cx_ad_7efdfdd7:
+
+    # imre "A booty call this early in the day? Respect, my man."
+    imre "Перепихон в такую рань? Моё уважение."
+
+# game/v3/v3.rpy:1409
+translate russian cx_ad_8321eaa9:
+
+    # u "Imre, not everything is about sex, haha. I'll see you later."
+    u "Имре, не всё сводится к сексу, ха-ха. Увидимся позже."
+
+# game/v3/v3.rpy:1414
+translate russian cx_ad_ecfbdaa5:
+
+    # imre "I'll see you, player."
+    imre "Увидимся, хищник."
+
+# game/v3/v3.rpy:1421
+translate russian cx_ad_30ce2936:
+
+    # u "(Okay, let's see. Which one's her room?)"
+    u "(Так, ладно. Где её комната?)"
+
+# game/v3/v3.rpy:1425
+translate russian cx_ad_86e8b466:
+
+    # u "(Oh no, the only open window is on the second floor.)"
+    u "(О нет, единственное открытое окно находится на втором этаже.)"
+
+# game/v3/v3.rpy:1427
+translate russian cx_ad_db8b6560:
+
+    # u "(Yeah, why would she want to mention that anyway...)"
+    u "(Да, зачем это упоминать...)"
+
+# game/v3/v3.rpy:1460
+translate russian cx_ad_106dda54:
+
+    # au "Did anyone see you?"
+    au "Тебя кто-нибудь видел?"
+
+# game/v3/v3.rpy:1465
+translate russian cx_ad_3b497a54:
+
+    # u "I don't think so."
+    u "Я так не думаю."
+
+# game/v3/v3.rpy:1467
+translate russian cx_ad_aea0aa63:
+
+    # u "You know, you could've really mentioned that your room is on the second floor."
+    u "Знаешь, ты могла бы упомянуть, что твоя комната находится на втором этаже."
+
+# game/v3/v3.rpy:1472
+translate russian cx_ad_2cd894bf:
+
+    # au "Look, when you peeked on me and lied about it, I felt like you broke my trust."
+    au "Слушай, ты подглядывал за мной и соврал об этом, я чувствовала, что недоверяю тебе."
+
+# game/v3/v3.rpy:1477
+translate russian cx_ad_dd3ef603:
+
+    # au "But, I haven't told anyone about it."
+    au "Но я никому об этом не сказала."
+
+# game/v3/v3.rpy:1479
+translate russian cx_ad_0d9828c0:
+
+    # au "Instead, I've watched a bunch of sitcoms and found a way for us to move past this."
+    au "Вместо этого я посмотрела кучу ситкомов и нашла способ, как нам забыть об этом."
+
+# game/v3/v3.rpy:1484
+translate russian cx_ad_2b215749:
+
+    # u "Yeah, anything. I'm just really sorry it happened. I shouldn't have-"
+    u "Да, что угодно. Мне очень жаль, что так получилось. Мне не следовало этого делать-"
+
+# game/v3/v3.rpy:1489
+translate russian cx_ad_aadbe3cf:
+
+    # au "We need to get even."
+    au "Нам нужно поквитаться."
+
+# game/v3/v3.rpy:1494
+translate russian cx_ad_0e9e5ef3:
+
+    # u "Get even?"
+    u "Поквитаться?"
+
+# game/v3/v3.rpy:1499
+translate russian cx_ad_e91f4cda:
+
+    # au "Yeah, level the playing field. Make it fair."
+    au "Да, выровнять наши положения. Сделать всё по-честному."
+
+# game/v3/v3.rpy:1504
+translate russian cx_ad_94ab7d51:
+
+    # u "Like... you get to peek on me changing?"
+    u "То есть... позволить тебе подглядывать за тем, как я переодеваюсь?"
+
+# game/v3/v3.rpy:1509
+translate russian cx_ad_9784a35e:
+
+    # au "Or..."
+    au "Или..."
+
+# game/v3/v3.rpy:1510
+translate russian cx_ad_70642a53:
+
+    # au "You could just take your clothes off right now."
+    au "Ты можешь просто снять одежду прямо сейчас."
+
+# game/v3/v3.rpy:1515
+translate russian cx_ad_bda4caba:
+
+    # u "Are you serious?"
+    u "Ты серьезно?"
+
+# game/v3/v3.rpy:1520
+translate russian cx_ad_5354bd03:
+
+    # au "You said you'd do anything to make it right."
+    au "Ты сказал, что сделаешь что угодно, чтобы всё исправить."
+
+# game/v3/v3.rpy:1590
+translate russian talkedout_58d01580:
+
+    # u "(I should probably check my phone.)"
+    u "(Наверное, мне стоит проверить свой телефон.)"
+
+# game/v3/v3.rpy:1592
+translate russian talkedout_54591f14:
+
+    # u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
+    u "Прости, Имре, кое-что случилось. Тебе придётся возвращаться одному, мне надо идти."
+
+# game/v3/v3.rpy:1597
+translate russian talkedout_7efdfdd7:
+
+    # imre "A booty call this early in the day? Respect, my man."
+    imre "Перепихон в такую рань? Моё уважение."
+
+# game/v3/v3.rpy:1602
+translate russian talkedout_8321eaa9:
+
+    # u "Imre, not everything is about sex, haha. I'll see you later."
+    u "Имре, не всё сводится к сексу, ха-ха. Увидимся позже."
+
+# game/v3/v3.rpy:1607
+translate russian talkedout_ecfbdaa5:
+
+    # imre "I'll see you, player."
+    imre "Увидимся, хищник."
+
+# game/v3/v3.rpy:1614
+translate russian talkedout_30ce2936:
+
+    # u "(Okay, let's see. Which one's her room?)"
+    u "(Так, ладно. Где её комната?)"
+
+# game/v3/v3.rpy:1618
+translate russian talkedout_86e8b466:
+
+    # u "(Oh no, the only open window is on the second floor.)"
+    u "(О нет, единственное открытое окно находится на втором этаже.)"
+
+# game/v3/v3.rpy:1620
+translate russian talkedout_db8b6560:
+
+    # u "(Yeah, why would she want to mention that anyway...)"
+    u "(Да, зачем это упоминать...)"
+
+# game/v3/v3.rpy:1653
+translate russian talkedout_55a95405:
+
+    # au "[name], you made it!"
+    au "[name], ты пришёл!"
+
+# game/v3/v3.rpy:1658
+translate russian talkedout_fae61de3:
+
+    # u "Hey, so what do you need my help for?"
+    u "Привет, так зачем тебе моя помощь?"
+
+# game/v3/v3.rpy:1663
+translate russian talkedout_507bc9b2:
+
+    # au "I'm really bored... you wanna do something?"
+    au "Мне очень скучно... хочешь чем-нибудь заняться?"
+
+# game/v3/v3.rpy:1668
+translate russian talkedout_aac28a13:
+
+    # u "What? I came here as fast as I could 'cause you're bored??"
+    u "Что? Я приехал сюда так быстро, как только мог, потому что тебе скучно??"
+
+# game/v3/v3.rpy:1673
+translate russian talkedout_053f533f:
+
+    # au "Oh, like it's so bad spending time with me."
+    au "Ой, как будто это так плохо проводить время со мной."
+
+# game/v3/v3.rpy:1678
+translate russian talkedout_53fbe7cb:
+
+    # u "That's not what I-"
+    u "Это не то, что я-"
+
+# game/v3/v3.rpy:1680
+translate russian talkedout_62cd1dd8:
+
+    # u "Doesn't matter, what do you wanna do?"
+    u "Ладно, что ты хочешь делать?"
+
+# game/v3/v3.rpy:1685
+translate russian talkedout_4418ebec:
+
+    # au "Let's play truth or dare."
+    au "Давай в правду или действие."
+
+# game/v3/v3.rpy:1690
+translate russian talkedout_f2d6081b:
+
+    # u "Alright, you start."
+    u "Окей, ты начинаешь."
+
+# game/v3/v3.rpy:1695
+translate russian talkedout_7c3708ec:
+
+    # au "Uhm... Truth."
+    au "Эмм... Правда."
+
+# game/v3/v3.rpy:1700
+translate russian talkedout_955adae1:
+
+    # u "Have you ever kissed a girl?"
+    u "Ты когда-нибудь целовала девушку?"
+
+# game/v3/v3.rpy:1705
+translate russian talkedout_c150af54:
+
+    # au "Once, Chloe. But it was just a quick mouth on mouth, no tongue."
+    au "Один раз, Хлою. Но это был просто чмок в губы, без языка."
+
+# game/v3/v3.rpy:1707
+translate russian talkedout_a3e8b422:
+
+    # au "Your turn."
+    au "Твой черёд."
+
+# game/v3/v3.rpy:1716
+translate russian talkedout_487f178d:
+
+    # u "Truth."
+    u "Правда."
+
+# game/v3/v3.rpy:1721
+translate russian talkedout_98bccd23:
+
+    # au "How many girls have you slept with?"
+    au "Со сколькими девушками ты переспал?"
+
+# game/v3/v3.rpy:1726
+translate russian talkedout_83418a0c:
+
+    # u "Two, both ex-girlfriends."
+    u "С двумя, обе бывшие девушки."
+
+# game/v3/v3.rpy:1731
+translate russian talkedout_ab000558:
+
+    # au "One of them's Emily, right?"
+    au "Одна из них - Эмили, верно?"
+
+# game/v3/v3.rpy:1733
+translate russian talkedout_445cb3eb:
+
+    # au "Nora told me about her, she seems nice."
+    au "Нора рассказывала мне о ней, она кажется милой."
+
+# game/v3/v3.rpy:1738
+translate russian talkedout_1994958c:
+
+    # u "Yeah, right... It's your turn."
+    u "Ага... Теперь твоя очередь."
+
+# game/v3/v3.rpy:1743
+translate russian talkedout_aec10110:
+
+    # au "Give me a dare."
+    au "Дай мне действие."
+
+# game/v3/v3.rpy:1748
+translate russian talkedout_10a29175:
+
+    # u "Touch both your elbows in front of your chest."
+    u "Сомкни локти впереди груди."
+
+# game/v3/v3.rpy:1756
+translate russian talkedout_fcca8881:
+
+    # au "Like this?"
+    au "Вот так?"
+
+# game/v3/v3.rpy:1846
+translate russian v3_nsfwSkipLabel1_58d01580:
+
+    # u "(I should probably check my phone.)"
+    u "(Наверное, мне стоит проверить свой телефон.)"
+
+# game/v3/v3.rpy:1848
+translate russian v3_nsfwSkipLabel1_54591f14:
+
+    # u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
+    u "Прости, Имре, кое-что случилось. Тебе придётся возвращаться одному, мне надо идти."
+
+# game/v3/v3.rpy:1853
+translate russian v3_nsfwSkipLabel1_7efdfdd7:
+
+    # imre "A booty call this early in the day? Respect, my man."
+    imre "Перепихон в такую рань? Моё уважение."
+
+# game/v3/v3.rpy:1858
+translate russian v3_nsfwSkipLabel1_8321eaa9:
+
+    # u "Imre, not everything is about sex, haha. I'll see you later."
+    u "Имре, не всё сводится к сексу, ха-ха. Увидимся позже."
+
+# game/v3/v3.rpy:1863
+translate russian v3_nsfwSkipLabel1_ecfbdaa5:
+
+    # imre "I'll see you, player."
+    imre "Увидимся, хищник."
+
+# game/v3/v3.rpy:1870
+translate russian v3_nsfwSkipLabel1_30ce2936:
+
+    # u "(Okay, let's see. Which one's her room?)"
+    u "(Так, ладно. Где её комната?)"
+
+# game/v3/v3.rpy:1874
+translate russian v3_nsfwSkipLabel1_86e8b466:
+
+    # u "(Oh no, the only open window is on the second floor.)"
+    u "(О нет, единственное открытое окно находится на втором этаже.)"
+
+# game/v3/v3.rpy:1876
+translate russian v3_nsfwSkipLabel1_db8b6560:
+
+    # u "(Yeah, why would she want to mention that anyway...)"
+    u "(Да, зачем это упоминать...)"
+
+# game/v3/v3.rpy:1909
+translate russian v3_nsfwSkipLabel1_2e912185:
+
+    # au "[name], you made it."
+    au "[name], ты пришёл."
+
+# game/v3/v3.rpy:1914
+translate russian v3_nsfwSkipLabel1_5a66d6a7:
+
+    # u "Yeah, I did. So, how can I make it up to you?"
+    u "Ага, вот и я. Итак, как я могу загладить свою вину перед тобой?"
+
+# game/v3/v3.rpy:1919
+translate russian v3_nsfwSkipLabel1_507bc9b2:
+
+    # au "I'm really bored... you wanna do something?"
+    au "Мне очень скучно... хочешь чем-нибудь заняться?"
+
+# game/v3/v3.rpy:1924
+translate russian v3_nsfwSkipLabel1_0258c042:
+
+    # u "Sure, what do you wanna do?"
+    u "Конечно, что ты хочешь сделать?"
+
+# game/v3/v3.rpy:1929
+translate russian v3_nsfwSkipLabel1_4418ebec:
+
+    # au "Let's play truth or dare."
+    au "Давай в правду или действие."
+
+# game/v3/v3.rpy:1934
+translate russian v3_nsfwSkipLabel1_eac718ac:
+
+    # u "Okay, you start."
+    u "Окей, ты начинаешь."
+
+# game/v3/v3.rpy:1939
+translate russian v3_nsfwSkipLabel1_7c3708ec:
+
+    # au "Uhm... Truth."
+    au "Эмм... Правда."
+
+# game/v3/v3.rpy:1944
+translate russian v3_nsfwSkipLabel1_955adae1:
+
+    # u "Have you ever kissed a girl?"
+    u "Ты когда-нибудь целовала девушку?"
+
+# game/v3/v3.rpy:1949
+translate russian v3_nsfwSkipLabel1_c150af54:
+
+    # au "Once, Chloe. But it was just a quick mouth on mouth, no tongue."
+    au "Один раз, Хлою. Но это был просто чмок в губы, без языка."
+
+# game/v3/v3.rpy:1951
+translate russian v3_nsfwSkipLabel1_a3e8b422:
+
+    # au "Your turn."
+    au "Твой черёд."
+
+# game/v3/v3.rpy:1960
+translate russian v3_nsfwSkipLabel1_487f178d:
+
+    # u "Truth."
+    u "Правда."
+
+# game/v3/v3.rpy:1965
+translate russian v3_nsfwSkipLabel1_98bccd23:
+
+    # au "How many girls have you slept with?"
+    au "Со сколькими девушками ты переспал?"
+
+# game/v3/v3.rpy:1970
+translate russian v3_nsfwSkipLabel1_83418a0c:
+
+    # u "Two, both ex-girlfriends."
+    u "С двумя, обе бывшие девушки."
+
+# game/v3/v3.rpy:1975
+translate russian v3_nsfwSkipLabel1_ab000558:
+
+    # au "One of them's Emily, right?"
+    au "Одна из них - Эмили, верно?"
+
+# game/v3/v3.rpy:1977
+translate russian v3_nsfwSkipLabel1_445cb3eb:
+
+    # au "Nora told me about her, she seems nice."
+    au "Нора рассказывала мне о ней, она кажется милой."
+
+# game/v3/v3.rpy:1982
+translate russian v3_nsfwSkipLabel1_1994958c:
+
+    # u "Yeah, right... It's your turn."
+    u "Ага... Теперь твоя очередь."
+
+# game/v3/v3.rpy:1987
+translate russian v3_nsfwSkipLabel1_aec10110:
+
+    # au "Give me a dare."
+    au "Дай мне действие."
+
+# game/v3/v3.rpy:1992
+translate russian v3_nsfwSkipLabel1_10a29175:
+
+    # u "Touch both your elbows in front of your chest."
+    u "Сомкни локти впереди груди."
+
+# game/v3/v3.rpy:1997
+translate russian v3_nsfwSkipLabel1_fcca8881:
+
+    # au "Like this?"
+    au "Вот так?"
+
+# game/v3/v3.rpy:2002
+translate russian v3_nsfwSkipLabel1_fc79c0ea_1:
+
+    # au "Oh, I see. Very funny."
+    au "А, понятно. Очень смешно."
+
+# game/v3/v3.rpy:2007
+translate russian v3_nsfwSkipLabel1_0e63a56c_1:
+
+    # u "Haha, I thought you did great."
+    u "Хаха, ты отлично справилась."
+
+# game/v3/v3.rpy:2012
+translate russian v3_nsfwSkipLabel1_34a44d49_1:
+
+    # au "Okay, now it's your turn again."
+    au "Ладно, теперь снова твоя очередь."
+
+# game/v3/v3.rpy:2021
+translate russian v3_nsfwSkipLabel1_099d42fd_1:
+
+    # u "Dare me."
+    u "Давай действие."
+
+# game/v3/v3.rpy:2026
+translate russian v3_nsfwSkipLabel1_d50fee28_1:
+
+    # au "Uhm... okay. Take your pants off."
+    au "Хм... ладно. Сними свои штаны."
+
+# game/v3/v3.rpy:2031
+translate russian v3_nsfwSkipLabel1_64f86a80_1:
+
+    # u "What?? I'm not gonna take my pants off."
+    u "Что?? Я не собираюсь снимать штаны."
+
+# game/v3/v3.rpy:2033
+translate russian v3_nsfwSkipLabel1_3bc6d184_1:
+
+    # u "You gotta give me something I can actually do."
+    u "Ты должна дать мне что-то, что я действительно могу сделать."
+
+# game/v3/v3.rpy:2038
+translate russian v3_nsfwSkipLabel1_3c58d281_1:
+
+    # au "I did! It's totally doable."
+    au "Я дала! Это вполне выполнимо."
+
+# game/v3/v3.rpy:2043
+translate russian v3_nsfwSkipLabel1_4c7c9292_1:
+
+    # u "I can't just-"
+    u "Я не могу просто-"
+
+# game/v3/v3.rpy:2048
+translate russian v3_nsfwSkipLabel1_be7bafd9_1:
+
+    # au "Yeah, you can. See?"
+    au "Можешь. Видишь?"
+
+# game/v3/v3.rpy:2066
+translate russian v3_nsfwSkipLabel1_f4ea2660_1:
+
+    # u "Did you just?"
+    u "Ты серьёзно только что?"
+
+# game/v3/v3.rpy:2071
+translate russian v3_nsfwSkipLabel1_85eeb4bf_1:
+
+    # au "Yeah..."
+    au "Да..."
+
