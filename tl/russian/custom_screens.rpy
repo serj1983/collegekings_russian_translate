@@ -29,3 +29,5 @@ translate russian strings:
     new "ПОЗДРАВЛЯЕМ! ВЫ ВЫУЧИЛИ НОВЫЙ БОЕВОЙ ПРИЕМ: {{b}}{}{{/b}}."
     old "WHAT'S NEW:"
     new "ЧТО НОВОГО:"
+    old "Display"
+    new "Экран"

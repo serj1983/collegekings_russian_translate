@@ -398,3 +398,15 @@ translate russian strings:
     old "• I came inside Samantha."
     new "• Я кончил в Саманту."
 
+# TODO: Translation updated at 2024-02-20 16:06
+
+translate russian strings:
+
+    # game/phone/tracker_screens.rpy:73
+    old "• I had sex with Lindsey during her massage."
+    new "• Я занимался сексом с Линдси во время массажа."
+
+    # game/phone/tracker_screens.rpy:75
+    old "• I had sex with Ms. Rose in Europe."
+    new "• У меня был секс с мисс Роуз в Европе."
+

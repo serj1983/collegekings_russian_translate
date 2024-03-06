@@ -260,3 +260,191 @@ translate russian recap_start_de5f87ed:
     # "All of the sudden, I could be whoever I wanted to be..."
     "Внезапно я смог стать тем, кем хотел быть..."
 
+# TODO: Translation updated at 2024-02-20 16:06
+
+# game/recap/recap01.rpy:61
+translate russian recap_start_15325989:
+
+    # u "In those early days, my dorm mate was Imre."
+    u "С первых дней моим соседом по общежитию был Имре."
+
+# game/recap/recap01.rpy:66
+translate russian recap_start_964ed496:
+
+    # u "He's an absolute sex hound, always trying to get laid..."
+    u "Он охотник за сексом, всегда пытается с кем-нибудь переспать..."
+
+# game/recap/recap01.rpy:71
+translate russian recap_start_7b177169:
+
+    # u "and obsessed with joining a frat called the Wolves."
+    u "и одержим идеей вступить в братство Волков."
+
+# game/recap/recap01.rpy:78
+translate russian recap_start_e36a66bc:
+
+    # u "And I made friends with Ryan"
+    u "И я подружился с Райном."
+
+# game/recap/recap01.rpy:83
+translate russian recap_start_602d8c8f:
+
+    # u "He's not as confident as Imre, but he's a solid wingman and a loyal friend."
+    u "Он не так уверен в себе, как Имре, но он надежный помощник и верный друг."
+
+# game/recap/recap01.rpy:90
+translate russian recap_start_118ffe31:
+
+    # u "And there were the girls of course."
+    u "И, конечно же, девушки."
+
+# game/recap/recap01.rpy:95
+translate russian recap_start_35b2e5e6:
+
+    # u "Lauren..."
+    u "Лорен..."
+
+# game/recap/recap01.rpy:100
+translate russian recap_start_5297b918:
+
+    # u "and Riley to start with."
+    u "и Райли в начале."
+
+# game/recap/recap01.rpy:105
+translate russian recap_start_34071af0:
+
+    # u "But that was soon going to change into lots more girls entering my life..."
+    u "Но вскоре это поменялось, и в мою жизнь вошли еще много девушек..."
+
+# game/recap/recap01.rpy:110
+translate russian recap_start_3b34470e:
+
+    # u "with so many choices about who I wanted to pursue a relationship with or just stay friends."
+    u "У меня было так много вариантов, с кем я хотел продолжить отношения или просто оставаться друзьями."
+
+# game/recap/recap01.rpy:115
+translate russian recap_start_9d52cd73:
+
+    # u "That kinda leads me to the first huge decision I had to make that was going to shape my whole future."
+    u "Это как бы подводит меня к первому серьезному решению, которое я должен был принять и которое определило всё моё будущее."
+
+# game/recap/recap01.rpy:120
+translate russian recap_start_c3d63b2b:
+
+    # u "Which frat did I want to join? The Wolves or the Apes?"
+    u "К какому братству я хотел присоединиться? К Волкам или Приматам?"
+
+# game/recap/recap01.rpy:127
+translate russian recap_start_c1e0ee19:
+
+    # u "Joining either frat would mean hooking up with the hottest girls..."
+    u "Вступление в одно из братств означает общение с самыми сексуальными девушками..."
+
+# game/recap/recap01.rpy:142
+translate russian recap_start_f76ee3f5:
+
+    # u "going to awesome parties..."
+    u "посещать потрясающие вечеринки..."
+
+# game/recap/recap01.rpy:147
+translate russian recap_start_5305e8c3:
+
+    # u "and competing in fight tournaments."
+    u "и участвовать в бойцовских турнирах."
+
+# game/recap/recap01.rpy:157
+translate russian recap_start_7ef2a2ab:
+
+    # u "But both frats have a very different vibe."
+    u "Но в обоих братствах царит совершенно разная атмосфера."
+
+# game/recap/recap01.rpy:162
+translate russian recap_start_2bdbf6f1:
+
+    # u "Imre wanted me to join the Wolves."
+    u "Имре хотел, чтобы я присоединился к Волкам."
+
+# game/recap/recap01.rpy:167
+translate russian recap_start_666ae7dc:
+
+    # u "Ryan wanted me to join the Apes"
+    u "Райн хотел, чтобы я присоединился к Приматам."
+
+# game/recap/recap01.rpy:185
+translate russian recap_start_b05b176a:
+
+    # u "After making my choice..."
+    u "Сделав свой выбор..."
+
+# game/recap/recap01.rpy:190
+translate russian recap_start_f8396888:
+
+    # u "I passed my initiation by showing my loyaly to the frat and my new brothers..."
+    u "Я прошёл посвящение, показав свою преданность братству и своим новым братьям..."
+
+# game/recap/recap01.rpy:202
+translate russian recap_start_214224ac:
+
+    # u "and moved into the frat house."
+    u "и перебрался в братство."
+
+# game/recap/recap01.rpy:209
+translate russian recap_start_b05b176a_1:
+
+    # u "After making my choice..."
+    u "Сделав свой выбор..."
+
+# game/recap/recap01.rpy:213
+translate russian recap_start_f8396888_1:
+
+    # u "I passed my initiation by showing my loyaly to the frat and my new brothers..."
+    u "Я прошёл посвящение, показав свою преданность братству и своим новым братьям..."
+
+# game/recap/recap01.rpy:225
+translate russian recap_start_214224ac_1:
+
+    # u "and moved into the frat house."
+    u "и перебрался в братство."
+
+# game/recap/recap01.rpy:233
+translate russian recap_start_113b5edb:
+
+    # u "Back to the girls."
+    u "Возвращаясь к девушкам."
+
+# game/recap/recap01.rpy:248
+translate russian recap_start_2a81a40e:
+
+    # u "I could pursue multiple girls at the same time..."
+    u "Я мог бы добиться нескольких девушек одновременно..."
+
+# game/recap/recap01.rpy:258
+translate russian recap_start_4340bb3f:
+
+    # u "but this became quite tricky as going for one girl..."
+    u "но это стало довольно сложным делом, так встречаясь с одной..."
+
+# game/recap/recap01.rpy:268
+translate russian recap_start_a0724e31:
+
+    # u "sometimes meant I couldn't go for another because..."
+    u "иногда означало, что я не могу встречаться с другими, потому что..."
+
+# game/recap/recap01.rpy:278
+translate russian recap_start_1ec44789:
+
+    # u "they were best friends..."
+    u "они были моими лучшими друзьями..."
+
+# game/recap/recap01.rpy:283
+translate russian recap_start_eb382f0a:
+
+    # u "or worse... sisters."
+    u "или еще хуже... сестёр."
+
+# game/recap/recap01.rpy:288
+translate russian recap_start_0fc7cf7e:
+
+    # u "I had to decide who to pursue."
+    u "Мне нужно было решить, с кем."
+

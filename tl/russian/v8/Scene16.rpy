@@ -94,3 +94,11 @@ translate russian strings:
     old "Did you buy me anything?"
     new "Ты мне что-нибудь купила?"
 
+# TODO: Translation updated at 2024-02-20 16:06
+
+translate russian strings:
+
+    # game/v8/Scene16.rpy:49
+    old "You will have to find out sometimes :)"
+    new "Тебе придется это выяснять :)"
+

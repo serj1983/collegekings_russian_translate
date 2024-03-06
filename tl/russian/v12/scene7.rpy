@@ -6104,3 +6104,17 @@ translate russian strings:
     old "You're the best actor here"
     new "Ты лучший актёр"
 
+# TODO: Translation updated at 2024-02-20 16:06
+
+# game/v12/scene7.rpy:1101
+translate russian v12s7_chloe1_d24e0b9c:
+
+    # u "Being poor is nothing more than a stepping stone to being rich, because no one chooses to be poor. That's why I donate half of all my fight proceeds to those in need."
+    u "Бедность - не более чем ступень к богатству, потому что никто не хочет быть бедным. Поэтому я жертвую половину всех своих доходов от поединков тем, кто в них нуждается."
+
+# game/v12/scene7.rpy:1809
+translate russian v12s7_lauren1_f469bb4e:
+
+    # u "*Laughs* Wait, your character is a killer on the run but you're saying you're not the killer? I don't know if I can believe that."
+    u "*Смеётся* Подожди, твой персонаж - убийца в бегах, но ты утверждаешь, что ты не убийца? Не знаю, я не могу в это поверить."
+

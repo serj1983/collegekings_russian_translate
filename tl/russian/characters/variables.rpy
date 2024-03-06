@@ -142,3 +142,15 @@ translate russian strings:
     old "Wolf"
     new "Волк"
 
+# TODO: Translation updated at 2024-02-20 16:06
+
+translate russian strings:
+
+    # game/characters/variables.rpy:22
+    old "Faris"
+    new "Фарис"
+
+    # game/characters/variables.rpy:49
+    old "SVC Housing Officer"
+    new "Сотрудник по жилищным вопросам SVC"
+
